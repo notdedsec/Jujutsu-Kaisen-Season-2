@@ -45,6 +45,9 @@ subs {
             }
         }
 
+        includeExtraData(false)
+        includeProjectGarbage(false)
+
         out(get("out_merge"))
     }
 
