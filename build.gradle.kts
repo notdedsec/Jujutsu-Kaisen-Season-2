@@ -124,6 +124,7 @@ subs {
             from(torrent.item())
             username(get("nyaauser"))
             password(get("nyaapass"))
+            torrentName(get("torrentname"))
             category(NyaaCategories.ANIME_ENGLISH)
             information(get("gitrepo"))
             torrentDescription(getFile("description.vm"))
