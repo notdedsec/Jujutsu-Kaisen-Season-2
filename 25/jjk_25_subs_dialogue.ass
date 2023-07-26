@@ -288,7 +288,7 @@ Dialogue: 0,0:17:36.45,0:17:41.03,Default,Geto,0,0,0,,are all being strengthened
 Dialogue: 0,0:17:41.03,0:17:46.66,Default,Geto,0,0,0,,Without the aid of his power, we could \Nhardly maintain security or clean up after missions.
 Dialogue: 0,0:17:46.66,0:17:51.63,Default,Geto,0,0,0,,In the worst-case scenario, \NMaster Tengen{*Tengen-sama} could even become a threat to mankind.
 Dialogue: 0,0:17:51.63,0:17:53.68,Default,Geto,0,0,0,,That's why, every five hundred years,
-Dialogue: 0,0:17:53.68,0:17:58.43,Default,Geto,0,0,0,,he finds the Star Plasma Vessel{\fscx180}—{\fscx}someone \Nwho is compatible with him{\fscx180}—{\fscx}and merges with them,
+Dialogue: 0,0:17:53.68,0:17:58.43,Default,Geto,0,0,0,,he finds the Star Plasma Vessel{\fscx180}—{\fscx}someone \Nwho is compatible with him{\fscx180}—{\fscx}and assimilates them,
 Dialogue: 0,0:17:58.43,0:18:00.51,Default,Geto,0,0,0,,overwriting his body's information.
 Dialogue: 0,0:18:00.98,0:18:07.03,Default,Geto,0,0,0,,By renewing his body, he resets his technique\N back to the start to avoid evolution.
 Dialogue: 0,0:18:07.28,0:18:08.48,Default,Gojo,0,0,0,,I get it.
@@ -301,15 +301,15 @@ Dialogue: 0,0:18:28.96,0:18:31.13,Default,Yaga,0,0,0,,One is the Curse User Grou
 Dialogue: 0,0:18:31.35,0:18:35.64,Default,Yaga,0,0,0,,which seeks to upend jujutsu society\N by having {*}Master Tengen{*Tengen-sama} lose all reason.
 Dialogue: 0,0:18:36.72,0:18:40.10,Default,Yaga,0,0,0,,The other is the Star Religious Group\N that worships {*}Master Tengen{*Tengen-sama},
 Dialogue: 0,0:18:40.10,0:18:42.86,Default,Yaga,0,0,0,,known as the Time Vessel Association.
-Dialogue: 0,0:18:43.65,0:18:48.32,Default,Yaga,0,0,0,,{*}Master Tengen{*Tengen-sama} will merge with the Star Plasma Vessel\N during the full moon in two days.
+Dialogue: 0,0:18:43.65,0:18:48.32,Default,Yaga,0,0,0,,{*}Master Tengen{*Tengen-sama} will assimilate the Star Plasma Vessel\N during the full moon in two days.
 Dialogue: 0,0:18:48.32,0:18:53.00,Default,Yaga,0,0,0,,You are to protect the girl until then\N and ensure that she reaches {*}Master Tengen{*Tengen-sama}!
 Dialogue: 0,0:18:53.32,0:18:57.12,Default,Yaga,0,0,0,,If you mess this up, the effects will ripple throughout even normal society!
 Dialogue: 0,0:18:57.12,0:18:58.57,Default,Yaga,0,0,0,,Don't forget that!
 Dialogue: 0,0:18:59.33,0:19:00.82,Default,Gojo,0,0,0,,Real talk, though.
 Dialogue: 0,0:19:00.82,0:19:03.83,Default,Gojo,0,0,0,,I kinda get why Curse User Group Q is after her,
 Dialogue: 0,0:19:03.83,0:19:07.00,Default,Gojo,0,0,0,,but why would this \NStar Religious Group wanna kill the brat?
-Dialogue: 0,0:19:07.75,0:19:10.87,Default,Geto,0,0,0,,What they worship is the pure form of {*}Master Tengen{*Tengen-sama}.
-Dialogue: 0,0:19:11.38,0:19:16.76,Default,Geto,0,0,0,,Allowing the Star Plasma Vessel{\fscx180}—{\fscx}in their minds,\N an impurity{\fscx180}—{\fscx}to merge with him is unacceptable to them.
+Dialogue: 0,0:19:07.71,0:19:10.87,Default,Geto,0,0,0,,What they worship is the pure form of {*}Master Tengen{*Tengen-sama}.
+Dialogue: 0,0:19:11.34,0:19:16.76,Default,Geto,0,0,0,,Allowing the Star Plasma Vessel{\fscx180}—{\fscx}in their minds,\N an impurity{\fscx180}—{\fscx}to blend into him is simply unacceptable.
 Dialogue: 0,0:19:17.30,0:19:20.18,Default,Geto,0,0,0,,The Star Religious Group \Nis an organization of non-sorcerers.
 Dialogue: 0,0:19:20.18,0:19:22.56,Default,Geto,0,0,0,,I don't think we need to worry about them.
 Dialogue: 0,0:19:22.56,0:19:24.88,Default,Geto,0,0,0,,The ones to be wary of are Q.
