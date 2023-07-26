@@ -172,7 +172,7 @@ Dialogue: 0,0:10:15.44,0:10:16.16,Default,Utahime,0,0,0,,Go!
 Dialogue: 0,0:10:21.60,0:10:22.69,Default,Utahime,0,0,0,,It worked!
 Dialogue: 0,0:10:23.14,0:10:25.02,Default,Utahime,0,0,0,,Wait, wha{\fscx180}—{\fscx}
 Dialogue: 0,0:10:43.28,0:10:49.06,Default,Gojo,0,0,0,,I'm here to save your ass, Utahime.
-Comment: 0,0:10:49.05,0:10:49.09,Default,chptr,0,0,0,,{OP}
+Comment: 0,0:10:49.05,0:10:49.09,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:12:18.97,0:12:19.01,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:12:19.86,0:12:21.30,Default,Gojo,0,0,0,,You cryin'?
 Dialogue: 0,0:12:21.30,0:12:23.24,Default,Utahime,0,0,0,,I'm not crying!
@@ -240,15 +240,15 @@ Dialogue: 0,0:15:26.78,0:15:32.95,Default,Gojo,0,0,0,,Assigning responsibilities
 Dialogue: 0,0:15:42.51,0:15:46.26,Default,Gojo,0,0,0,,Get off your high horse and\N quit spouting that feel-good bullshit.
 Dialogue: 0,0:15:47.26,0:15:48.39,Default,Gojo,0,0,0,,Blegh.
 Dialogue: 0,0:15:48.39,0:15:49.80,Default,Shoko,0,0,0,,I'm outta here.
-Dialogue: 0,0:15:49.80,0:15:49.84,Default,Shoko,0,0,0,,{=1}{\bord3.6\fscx100\fscy100\shad1.8\1a&H00&\3a&H00&\4a&HA5&\pos(1007,1020)}I'm outta here.
-Dialogue: 0,0:15:49.84,0:15:49.88,Default,Shoko,0,0,0,,{=1}{\bord3.66\fscx101.66\fscy101.66\shad1.83\1a&H00&\3a&H00&\4a&HA5&\pos(1041.44,984.09)}I'm outta here.
-Dialogue: 0,0:15:49.88,0:15:49.92,Default,Shoko,0,0,0,,{=1}{\bord3.71\fscx102.94\fscy102.94\shad1.85\1a&H00&\3a&H00&\4a&HA5&\pos(1059.56,945.01)}I'm outta here.
-Dialogue: 0,0:15:49.92,0:15:49.97,Default,Shoko,0,0,0,,{=1}{\bord3.68\fscx102.13\fscy102.13\shad1.84\1a&H00&\3a&H00&\4a&HA5&\pos(1073.36,923.23)}I'm outta here.
-Dialogue: 0,0:15:49.97,0:15:50.01,Default,Shoko,0,0,0,,{=1}{\bord3.57\fscx99.13\fscy99.13\shad1.78\1a&H00&\3a&H00&\4a&HA5&\pos(1090.88,892.22)}I'm outta here.
-Dialogue: 0,0:15:50.01,0:15:50.05,Default,Shoko,0,0,0,,{=1}{\bord3.8\fscx105.42\fscy105.42\shad1.9\1a&H00&\3a&H00&\4a&HA5&\pos(1136,880.07)}I'm outta here.
-Dialogue: 0,0:15:50.05,0:15:50.09,Default,Shoko,0,0,0,,{=1}{\bord3.72\fscx103.42\fscy103.42\shad1.86\1a&H00&\3a&H00&\4a&HA5&\pos(1207.67,860.06)}I'm outta here.
-Dialogue: 0,0:15:50.09,0:15:50.13,Default,Shoko,0,0,0,,{=1}{\bord3.34\fscx92.77\fscy92.77\shad1.67\1a&H00&\3a&H00&\4a&HA5&\pos(1354.82,832.41)}I'm outta here.
-Dialogue: 0,0:15:50.13,0:15:50.22,Default,Shoko,0,0,0,,{=1}{\bord3.12\fscx86.55\fscy86.55\shad1.56\1a&H00&\3a&H00&\4a&HA5&\pos(1504.99,797.84)\clip(m 1546.67 728.67 l 1547.33 812 1199.33 801.33 1213.33 729.33)}I'm outta here.
+Dialogue: 0,0:15:49.80,0:15:49.84,Default,Shoko,0,0,0,,{\pos(1007,1020)}I'm outta here.
+Dialogue: 0,0:15:49.84,0:15:49.88,Default,Shoko,0,0,0,,{\pos(1041.44,984.09)\fscx101.66\fscy101.66\bord3.66\shad1.83}I'm outta here.
+Dialogue: 0,0:15:49.88,0:15:49.92,Default,Shoko,0,0,0,,{\pos(1059.56,945.01)\fscx102.94\fscy102.94\bord3.71\shad1.85}I'm outta here.
+Dialogue: 0,0:15:49.92,0:15:49.97,Default,Shoko,0,0,0,,{\pos(1073.36,923.23)\fscx102.13\fscy102.13\bord3.68\shad1.84}I'm outta here.
+Dialogue: 0,0:15:49.97,0:15:50.01,Default,Shoko,0,0,0,,{\pos(1090.88,892.22)\fscx99.13\fscy99.13\bord3.57\shad1.78}I'm outta here.
+Dialogue: 0,0:15:50.01,0:15:50.05,Default,Shoko,0,0,0,,{\pos(1136,880.07)\fscx105.42\fscy105.42\bord3.8\shad1.9}I'm outta here.
+Dialogue: 0,0:15:50.05,0:15:50.09,Default,Shoko,0,0,0,,{\pos(1207.67,860.06)\fscx103.42\fscy103.42\bord3.72\shad1.86}I'm outta here.
+Dialogue: 0,0:15:50.09,0:15:50.13,Default,Shoko,0,0,0,,{\pos(1354.82,832.41)\fscx92.77\fscy92.77\bord3.34\shad1.67}I'm outta here.
+Dialogue: 0,0:15:50.13,0:15:50.22,Default,Shoko,0,0,0,,{\pos(1504.99,797.84)\fscx86.55\fscy86.55\bord3.12\shad1.56\clip(m 1546.67 728.67 l 1547.33 812 1199.33 801.33 1213.33 729.33)}I'm outta here.
 Dialogue: 0,0:15:50.72,0:15:53.47,Default,Geto,0,0,0,,Why don't we take this outside, Satoru?
 Dialogue: 0,0:15:53.89,0:15:55.60,Default,Gojo,0,0,0,,You feeling lonely?
 Dialogue: 0,0:15:55.60,0:15:56.88,Default,Gojo,0,0,0,,Go by yourself.
@@ -309,7 +309,7 @@ Dialogue: 0,0:18:59.33,0:19:00.82,Default,Gojo,0,0,0,,Real talk, though.
 Dialogue: 0,0:19:00.82,0:19:03.83,Default,Gojo,0,0,0,,I kinda get why Curse User Group Q is after her,
 Dialogue: 0,0:19:03.83,0:19:07.00,Default,Gojo,0,0,0,,but why would this \NStar Religious Group wanna kill the brat?
 Dialogue: 0,0:19:07.75,0:19:10.87,Default,Geto,0,0,0,,What they worship is the pure form of {*}Master Tengen{*Tengen-sama}.
-Dialogue: 0,0:19:11.38,0:19:16.76,Default,Geto,0,0,0,,Allowing the Star Plasma Vessel{\fscx180}{\fscx180}—{\fscx}{\fscx}in their minds,\N an impurity{\fscx180}{\fscx180}—{\fscx}{\fscx}to merge with him is unacceptable to them.
+Dialogue: 0,0:19:11.38,0:19:16.76,Default,Geto,0,0,0,,Allowing the Star Plasma Vessel{\fscx180}—{\fscx}in their minds,\N an impurity{\fscx180}—{\fscx}to merge with him is unacceptable to them.
 Dialogue: 0,0:19:17.30,0:19:20.18,Default,Geto,0,0,0,,The Star Religious Group \Nis an organization of non-sorcerers.
 Dialogue: 0,0:19:20.18,0:19:22.56,Default,Geto,0,0,0,,I don't think we need to worry about them.
 Dialogue: 0,0:19:22.56,0:19:24.88,Default,Geto,0,0,0,,The ones to be wary of are Q.
@@ -367,15 +367,12 @@ Dialogue: 0,0:21:55.75,0:21:57.80,Default,Toji,0,0,0,,It's not Zenin anymore.
 Dialogue: 0,0:21:57.80,0:21:59.88,Default,Toji,0,0,0,,I took my wife's name.
 Dialogue: 0,0:21:59.88,0:22:01.76,Default,Toji,0,0,0,,I go by Fushiguro now.
 Dialogue: 0,0:22:02.55,0:22:05.85,Default,Toji,0,0,0,,Alright, count me in.
-Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{ED}
+Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:40.02,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.57,0:23:44.02,Default,Gojo,0,0,0,,{\an8}You know how sometimes these\N random words get stuck in your head?
 Dialogue: 0,0:23:44.02,0:23:45.64,Default,Geto,0,0,0,,{\an8}Like, Privatization of Reclaimed Lands Act?
 Dialogue: 0,0:23:45.64,0:23:47.49,Default,Gojo,0,0,0,,{\an8}Exactly! Or like, Corporate Governance!
 Dialogue: 0,0:23:47.49,0:23:49.94,Default,Shoko,0,0,0,,{\an8}Please look forward to the next episode,\NHidden Inventory Part 2!
-Dialogue: 0,0:23:49.94,0:23:51.08,Default,Gojo,0,0,0,,{\an8}You tell us one, too, Shoko.
+Dialogue: 0,0:23:49.94,0:23:51.08,Default,Gojo,0,0,0,,{\an8}You tell us one too, Shoko.
 Dialogue: 0,0:23:51.08,0:23:52.75,Default,Shoko,0,0,0,,{\an8}Clippity-Cloppity Carnival.
 Dialogue: 0,0:23:52.75,0:23:54.12,Default,Shoko,0,0,0,,{\an8}Whoa!
-
-[Aegisub Extradata]
-Data: 1,a-mo,e{"uuid"#3A"11be91b0-9c5f-4f34-bba8-caf36d8eb03b"#2C"originalText"#3A"I'm outta here."}
