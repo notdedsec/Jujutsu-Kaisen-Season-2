@@ -16,13 +16,14 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jjk_26.mkv
-Video File: jjk_26.mkv
+Audio File: jjk_26_premux.mkv
+Video File: jjk_26_premux.mkv
+Keyframes File: jjk_26_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 366
-Active Line: 384
-Video Position: 31887
+Video Zoom Percent: 0.750000
+Scroll Position: 64
+Active Line: 76
+Video Position: 8095
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,402 +34,387 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:28.92,0:00:30.25,Default,Kokun,0,0,0,,Please!
-Dialogue: 0,0:00:30.25,0:00:31.84,Default,Kokun,0,0,0,,Please listen to me!
-Dialogue: 0,0:00:31.84,0:00:33.55,Default,Kokun,0,0,0,,I was wrong!
-Dialogue: 0,0:00:33.55,0:00:34.55,Default,Kokun,0,0,0,,I'm sorry!
-Dialogue: 0,0:00:34.55,0:00:35.75,Default,Kokun,0,0,0,,I'm really sorry!
-Dialogue: 0,0:00:36.14,0:00:37.55,Default,Curse,0,0,0,,Let's kiss!
-Dialogue: 0,0:00:37.55,0:00:37.93,Default,Kokun,0,0,0,,Huh?!
-Dialogue: 0,0:00:37.93,0:00:40.97,Default,Curse,0,0,0,,Let's kiss!
-Dialogue: 0,0:00:41.52,0:00:43.48,Default,Kokun,0,0,0,,I'll pull out of this job!
-Dialogue: 0,0:00:43.48,0:00:45.14,Default,Kokun,0,0,0,,I'll quit being a curse user, too!
-Dialogue: 0,0:00:45.14,0:00:46.45,Default,Curse,0,0,0,,Let's kiss!
-Dialogue: 0,0:00:46.81,0:00:48.90,Default,Curse,0,0,0,,C'mon, kiss!
-Dialogue: 0,0:00:48.90,0:00:51.11,Default,Kokun,0,0,0,,Of course I'll quit Q, too!
-Dialogue: 0,0:00:51.11,0:00:54.11,Default,Kokun,0,0,0,,I know! I'll go back to the countryside and farm rice!
-Dialogue: 0,0:00:56.07,0:00:57.53,Default,Kokun,0,0,0,,I know you can hear me!
-Dialogue: 0,0:00:58.32,0:01:01.08,Default,Geto,0,0,0,,Like a curse user could cut it as a farmer.
-Dialogue: 0,0:01:01.08,0:01:02.75,Default,Kokun,0,0,0,,You {\i1}can{\i0} hear me!
-Dialogue: 0,0:01:02.75,0:01:05.33,Default,Kokun,0,0,0,,Damn student acting all condescending!
-Dialogue: 0,0:01:05.08,0:01:08.83,Default,Curse,0,0,0,,{\an8}Lick, lick.
-Dialogue: 0,0:01:05.33,0:01:07.67,Default,Kokun,0,0,0,,But Bayer{**-san} is here, too!
-Dialogue: 0,0:01:07.67,0:01:10.00,Default,Kokun,0,0,0,,He's Q's strongest combatant!
-Dialogue: 0,0:01:10.84,0:01:12.80,Default,Kokun,0,0,0,,He'll take care of you and these things!
-Dialogue: 0,0:01:12.80,0:01:13.80,Default,Geto,0,0,0,,Hey.
-Dialogue: 0,0:01:14.42,0:01:16.30,Default,Geto,0,0,0,,Is this your "Bayer"?
-Dialogue: 0,0:01:16.51,0:01:17.30,Default,Kokun,0,0,0,,Huh?
-Dialogue: 0,0:01:20.97,0:01:22.97,Default,Kokun,0,0,0,,That's him.
-Dialogue: 0,0:01:33.15,0:01:35.78,Default,Announcer,0,0,0,,{\i1\an8}And all the boats are off at once.
-Dialogue: 0,0:01:35.78,0:01:39.03,Default,Announcer,0,0,0,,{\i1\an8}From the inside, we have Numbers 1, 2, 4, 5, 3, and 6 starting the race.
-Dialogue: 0,0:01:39.03,0:01:41.78,Default,Announcer,0,0,0,,{\i1\an8}They're off with a beautiful straight shot.
-Dialogue: 0,0:01:42.74,0:01:46.29,Default,Kong,0,0,0,,And just what are you doing after suddenly disappearing on me?
-Dialogue: 0,0:01:49.00,0:01:51.09,Default,Toji,0,0,0,,Getting more money.
-Dialogue: 0,0:01:51.75,0:01:54.67,Default,Kong,0,0,0,,I've never seen you win once.
-Dialogue: 0,0:01:55.01,0:01:56.67,Default,Kong,0,0,0,,What about your job?
-Dialogue: 0,0:01:57.38,0:01:59.09,Default,Toji,0,0,0,,Oh, give it a rest.
-Dialogue: 0,0:01:59.09,0:02:01.72,Default,Toji,0,0,0,,You're talking like I'm unemployed.
-Dialogue: 0,0:02:03.51,0:02:05.01,Default,Kong,0,0,0,,Because you are.
-Dialogue: 0,0:02:05.40,0:02:10.40,Default,Kong,0,0,0,,As a mediator, it's my duty to report how the job's going to the client.
-Dialogue: 0,0:02:10.40,0:02:12.77,Default,Toji,0,0,0,,I'm up against the Gojo clan's kid.
-Dialogue: 0,0:02:12.77,0:02:16.19,Default,Toji,0,0,0,,I wouldn't be able to do anything if I just popped up in front of him.
-Dialogue: 0,0:02:16.53,0:02:19.66,Default,Toji,0,0,0,,I have to wear him down using some idiots first.
-Dialogue: 0,0:02:20.01,0:02:21.74,Default,Toji,0,0,0,,You go do your own damn job.
-Dialogue: 0,0:02:21.74,0:02:23.53,Default,Kong,0,0,0,,Already did, dumbass.
-Dialogue: 0,0:02:23.53,0:02:27.55,Default,Kong,0,0,0,,What were you thinking, letting go of the entire deposit?
-Dialogue: 0,0:02:28.25,0:02:30.33,Default,Toji,0,0,0,,I told you, wearing him down.
-Dialogue: 0,0:02:30.33,0:02:33.04,Default,Toji,0,0,0,,Don't you worry. All that money will come back to me.
-Dialogue: 0,0:02:33.04,0:02:35.00,Default,Toji,0,0,0,,Just like with this race.
-Dialogue: 0,0:02:36.84,0:02:39.09,Default,Announcer,0,0,0,,{\i1\an8}Number 6, Hateno, crosses the line first!
-Dialogue: 0,0:02:39.09,0:02:41.30,Default,Announcer,0,0,0,,{\i1\an8}Number 1, Doguchi, finishes next!
-Dialogue: 0,0:02:41.30,0:02:43.47,Default,Announcer,0,0,0,,{\i1\an8}Following them in third is Number 2, Matsuda.
-Dialogue: 0,0:02:43.47,0:02:45.26,Default,Announcer,0,0,0,,{\i1\an8}In fourth is Number 4, Nakaoka.
-Dialogue: 0,0:02:44.01,0:02:45.10,Default,Toji,0,0,0,,Tsk.
-Dialogue: 0,0:02:45.26,0:02:47.10,Default,Announcer,0,0,0,,{\i1\an8}In fifth is Number 3, Tanaka.
-Dialogue: 0,0:02:45.26,0:02:48.52,Default,Kong,0,0,0,,You're not cut out for making easy money.
-Dialogue: 0,0:02:47.10,0:02:49.31,Default,Announcer,0,0,0,,{\i1\an8}In sixth is Number 5, Okazaki, finishing last!
-Dialogue: 0,0:02:49.31,0:02:53.73,Default,Announcer,0,0,0,,{\i1\an8}Number 6, Hateno, has given us an amazing comeback to watch in his first race!
-Dialogue: 0,0:02:49.48,0:02:52.52,Default,Kong,0,0,0,,I'm counting on you, Sorcerer Killer.
-Dialogue: 0,0:02:53.73,0:02:55.23,Default,Announcer,0,0,0,,{\i1\an8}That was our third race of the day.
-Dialogue: 0,0:02:53.81,0:02:55.23,Default,Kong,0,0,0,,Oh, right.
-Dialogue: 0,0:02:55.90,0:02:57.36,Default,Kong,0,0,0,,How's Megumi doing?
-Dialogue: 0,0:03:09.21,0:03:10.37,Default,Toji,0,0,0,,Who's that?
+Dialogue: 0,0:00:28.93,0:00:30.26,Default,Kokun,0,0,0,,Please!
+Dialogue: 0,0:00:30.26,0:00:31.84,Default,Kokun,0,0,0,,Just hear me out!
+Dialogue: 0,0:00:31.84,0:00:33.56,Default,Kokun,0,0,0,,I was wrong!
+Dialogue: 0,0:00:33.56,0:00:35.77,Default,Kokun,0,0,0,,I'm sorry! I really am!
+Dialogue: 0,0:00:36.14,0:00:37.56,Cursed,Curse,0,0,0,,Let's kiss!
+Dialogue: 0,0:00:37.93,0:00:40.98,Cursed,Curse,0,0,0,,Let's kiss!
+Dialogue: 0,0:00:41.56,0:00:43.57,Default,Kokun,0,0,0,,I'll pull out of this job!
+Dialogue: 0,0:00:43.57,0:00:45.28,Default,Kokun,0,0,0,,I'll even quit being a curse user!
+Dialogue: 0,0:00:45.28,0:00:46.44,Cursed,Curse,0,0,0,,Let's kiss!
+Dialogue: 0,0:00:46.90,0:00:48.90,Cursed,Curse,0,0,0,,C'mon, kiss!
+Dialogue: 0,0:00:48.90,0:00:51.11,Default,Kokun,0,0,0,,I'll quit Q, too!
+Dialogue: 0,0:00:51.11,0:00:54.12,Default,Kokun,0,0,0,,Yeah, I'll go back to the countryside and farm rice! {no enemies arc}
+Dialogue: 0,0:00:56.20,0:00:57.54,Default,Kokun,0,0,0,,I know you can hear me!
+Dialogue: 0,0:00:58.41,0:01:01.21,Default,Geto,0,0,0,,As if a curse user could cut it as a farmer.
+Dialogue: 0,0:01:01.21,0:01:02.75,Default,Kokun,0,0,0,,You {\i1}did{\i0} hear me!
+Dialogue: 0,0:01:02.75,0:01:07.67,Cursed,Curse,0,0,0,,{\an8}Lick, lick.
+Dialogue: 0,0:01:07.67,0:01:08.80,Cursed,Curse,0,0,0,,{\an8}Lick.
+Dialogue: 0,0:01:02.75,0:01:05.55,Default,Kokun,0,0,0,,How dare you look down on us.
+Dialogue: 0,0:01:05.55,0:01:07.67,Default,Kokun,0,0,0,,We have Bayer{**-san} with us this time!
+Dialogue: 0,0:01:07.67,0:01:09.88,Default,Kokun,0,0,0,,He's the strongest Q combatant!
+Dialogue: 0,0:01:10.84,0:01:12.89,Default,Kokun,0,0,0,,He'll take care of you and these{\fscx180}—{\fscx}
+Dialogue: 0,0:01:12.89,0:01:16.31,Default,Geto,0,0,0,,Tell me, is this the Bayer you're talking about?
+Dialogue: 0,0:01:21.10,0:01:23.31,Default,Kokun,0,0,0,,Yeah... that's him.
+Dialogue: 0,0:01:33.28,0:01:35.78,Default,Announcer,0,0,0,,{\an8}All the boats are lining up.
+Dialogue: 0,0:01:35.78,0:01:39.04,Default,Announcer,0,0,0,,{\an8}Starting from the inside,\N we have Numbers 1, 2, 4, 5, 3, and 6.
+Dialogue: 0,0:01:39.04,0:01:41.79,Default,Announcer,0,0,0,,{\an8}They're off with a beautiful straight shot.
+Dialogue: 0,0:01:42.79,0:01:46.29,Default,Kong,0,0,0,,And just what are you doing here\N after disappearing on me all of a sudden?
+Dialogue: 0,0:01:49.17,0:01:51.13,Default,Toji,0,0,0,,Making money.
+Dialogue: 0,0:01:51.76,0:01:54.68,Default,Kong,0,0,0,,I've never seen you win before.
+Dialogue: 0,0:01:55.14,0:01:56.64,Default,Kong,0,0,0,,What about work?
+Dialogue: 0,0:01:57.56,0:01:59.22,Default,Toji,0,0,0,,Oh, give it a rest.
+Dialogue: 0,0:01:59.22,0:02:01.73,Default,Toji,0,0,0,,You're talking like I'm jobless.
+Dialogue: 0,0:02:03.60,0:02:05.02,Default,Kong,0,0,0,,Because you are.
+Dialogue: 0,0:02:05.52,0:02:10.40,Default,Kong,0,0,0,,As a mediator, it's my duty to report how the job's going to the client.
+Dialogue: 0,0:02:10.40,0:02:12.90,Default,Toji,0,0,0,,I'm up against the Gojo clan's kid.
+Dialogue: 0,0:02:12.90,0:02:16.20,Default,Toji,0,0,0,,Just popping up in front of him is not gonna cut it.
+Dialogue: 0,0:02:16.66,0:02:19.66,Default,Toji,0,0,0,,So I'm using those idiots to wear him down first.
+Dialogue: 0,0:02:20.08,0:02:21.87,Default,Toji,0,0,0,,You do your own damn job.
+Dialogue: 0,0:02:21.87,0:02:23.67,Default,Kong,0,0,0,,Already did, dumbass.
+Dialogue: 0,0:02:23.67,0:02:27.54,Default,Kong,0,0,0,,What were you thinking,\N letting go of the entire deposit?
+Dialogue: 0,0:02:28.25,0:02:30.42,Default,Toji,0,0,0,,I just told you, it's to wear him down.
+Dialogue: 0,0:02:30.42,0:02:33.22,Default,Toji,0,0,0,,Don't you worry. I'll win it all back.
+Dialogue: 0,0:02:33.22,0:02:35.01,Default,Toji,0,0,0,,Just like this race.
+Dialogue: 0,0:02:36.84,0:02:39.22,Default,Announcer,0,0,0,,{\an8}Number 6, Hateno, crosses the line first!
+Dialogue: 0,0:02:39.22,0:02:41.31,Default,Announcer,0,0,0,,{\an8}Number 1, Doguchi, finishes next!
+Dialogue: 0,0:02:41.31,0:02:43.48,Default,Announcer,0,0,0,,{\an8}Following them in third is Number 2, Matsuda.
+Dialogue: 0,0:02:43.48,0:02:45.27,Default,Announcer,0,0,0,,{\an8}In fourth is Number 4, Nakaoka.
+Dialogue: 0,0:02:45.27,0:02:47.11,Default,Announcer,0,0,0,,{\an8}In fifth is Number 3, Tanaka.
+Dialogue: 0,0:02:47.11,0:02:49.32,Default,Announcer,0,0,0,,{\an8}In sixth is Number 5, Okazaki, finishing last!
+Dialogue: 0,0:02:49.32,0:02:53.74,Default,Announcer,0,0,0,,{\an8}Number 6, Hateno, has given us an\N amazing comeback in his very first race!
+Dialogue: 0,0:02:53.74,0:02:55.24,Default,Announcer,0,0,0,,{\an8}That was our third race of the day.
+Dialogue: 0,0:02:44.19,0:02:45.27,Default,Toji,0,0,0,,Tch!
+Dialogue: 0,0:02:45.27,0:02:48.52,Default,Kong,0,0,0,,You're not cut out for making easy money.
+Dialogue: 0,0:02:49.65,0:02:52.74,Default,Kong,0,0,0,,I'm counting on you, Sorcerer Killer.
+Dialogue: 0,0:02:54.15,0:02:55.24,Default,Kong,0,0,0,,Oh, right.
+Dialogue: 0,0:02:55.99,0:02:57.53,Default,Kong,0,0,0,,How's Megumi doing?
+Dialogue: 0,0:03:09.25,0:03:10.96,Default,Toji,0,0,0,,Who's that again?
 Comment: 0,0:03:13.97,0:03:14.01,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:04:44.01,0:04:44.06,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:04:44.88,0:04:46.93,Default,Gojo,0,0,0,,Should we get her to a doctor?
-Dialogue: 0,0:04:47.24,0:04:51.39,Default,Geto,0,0,0,,I wish I could use reverse cursed energy like Shoko.
-Dialogue: 0,0:04:51.39,0:04:52.89,Default,Gojo,0,0,0,,Yeah, that's impossible.
-Dialogue: 0,0:04:52.89,0:04:55.64,Default,Gojo,0,0,0,,I can't understand a word she says about it.
-Dialogue: 0,0:04:55.92,0:04:58.19,Default,Shoko,0,0,0,,You go "fwoo," then "hyoi."
-Dialogue: 0,0:04:58.19,0:05:01.23,Default,Shoko,0,0,0,,Fwoo, hyoi. Get it?
-Dialogue: 0,0:05:01.23,0:05:02.94,Default,Shoko,0,0,0,,You've got no sense for this.
-Dialogue: 0,0:05:07.74,0:05:08.95,Default,Gojo,0,0,0,,You're awake.
-Dialogue: 0,0:05:18.00,0:05:19.04,Default,Riko,0,0,0,,You scum!
-Dialogue: 0,0:05:19.04,0:05:22.30,Default,Riko,0,0,0,,If you want to kill me, you'll be the one to die first!
-Dialogue: 0,0:05:24.76,0:05:26.72,Default,Geto,0,0,0,,Riko{**-chan}, calm down.
-Dialogue: 0,0:05:26.72,0:05:30.24,Default,Geto,0,0,0,,We're not with the group that attacked you.
-Dialogue: 0,0:05:30.24,0:05:31.47,Default,Riko,0,0,0,,Liar!
-Dialogue: 0,0:05:31.47,0:05:32.89,Default,Riko,0,0,0,,You have the face of a liar!
-Dialogue: 0,0:05:32.89,0:05:34.60,Default,Riko,0,0,0,,Your bangs are weird, too!
-Dialogue: 0,0:05:42.36,0:05:45.74,Default,Riko,0,0,0,,This is disrespectful!
-Dialogue: 0,0:05:44.19,0:05:45.74,Default,Kuroi,0,0,0,,P-Please stop it!
-Dialogue: 0,0:05:45.74,0:05:46.95,Default,Riko,0,0,0,,Kuroi!
-Dialogue: 0,0:05:49.11,0:05:52.28,Default,Kuroi,0,0,0,,Young lady, these men are our allies.
-Dialogue: 0,0:05:53.16,0:05:56.37,Default,Riko,0,0,0,,Kuroi, what are you riding on?
-Dialogue: 0,0:05:56.75,0:05:59.50,Default,Kuroi,0,0,0,,This is thanks to Bangs Guy's technique.
-Dialogue: 0,0:05:59.50,0:06:01.75,Default,Geto,0,0,0,,Could you please not call me that?
-Dialogue: 0,0:06:02.80,0:06:04.55,Default,Geto,0,0,0,,It's Curse Manipulation.
-Dialogue: 0,0:06:04.55,0:06:08.01,Default,Geto,0,0,0,,As the name suggests, I can absorb and manipulate cursed spirits.
-Dialogue: 0,0:06:08.34,0:06:11.26,Default,Gojo,0,0,0,,This brat is more aggressive than I expected.
-Dialogue: 0,0:06:11.26,0:06:13.76,Default,Gojo,0,0,0,,I was trying to figure out how to be considerate,
-Dialogue: 0,0:06:13.76,0:06:16.35,Default,Gojo,0,0,0,,thinking she'd be more sentimental about the assimilation thing.
-Dialogue: 0,0:06:16.73,0:06:17.68,Default,Riko,0,0,0,,Hmph!
-Dialogue: 0,0:06:17.68,0:06:20.48,Default,Riko,0,0,0,,A commoner's way of thinking!
-Dialogue: 0,0:06:20.48,0:06:21.31,Default,Gojo,0,0,0,,Huh?!
-Dialogue: 0,0:06:21.31,0:06:22.10,Default,Riko,0,0,0,,Listen up!
-Dialogue: 0,0:06:24.44,0:06:28.82,Default,Riko,0,0,0,,{*}Master Tengen{*Tengen-sama} is me, and I am {*}Master Tengen{*Tengen-sama}!
-Dialogue: 0,0:06:28.82,0:06:32.62,Default,Riko,0,0,0,,Some might mistake assimilation for death, as you do,
-Dialogue: 0,0:06:32.62,0:06:35.28,Default,Riko,0,0,0,,but there's a big difference!
-Dialogue: 0,0:06:35.54,0:06:38.58,Default,Riko,0,0,0,,I might become {*}Master Tengen{*Tengen-sama} through the assimilation,
-Dialogue: 0,0:06:38.58,0:06:41.16,Default,Riko,0,0,0,,but {*}Master Tengen{*Tengen-sama} will also become me!
-Dialogue: 0,0:06:41.44,0:06:43.54,Default,Riko,0,0,0,,My will! My heart!
-Dialogue: 0,0:06:43.54,0:06:45.90,Default,Riko,0,0,0,,My soul will continue to live on after the assimilation!
-Dialogue: 0,0:06:45.90,0:06:47.05,Default,Geto,0,0,0,,You changed your home screen?
-Dialogue: 0,0:06:47.05,0:06:48.34,Default,Gojo,0,0,0,,To Inoue Waka.
-Dialogue: 0,0:06:48.34,0:06:49.51,Default,Riko,0,0,0,,Listen to me!
-Dialogue: 0,0:06:50.01,0:06:53.14,Default,Gojo,0,0,0,,I bet you don't have many friends if you talk like that.
-Dialogue: 0,0:06:53.14,0:06:55.14,Default,Geto,0,0,0,,We won't have to feel bad sending you off.
-Dialogue: 0,0:06:55.14,0:06:57.39,Default,Riko,0,0,0,,I talk normally at school!
-Dialogue: 0,0:07:00.06,0:07:00.94,Default,Riko,0,0,0,,School!
-Dialogue: 0,0:07:00.94,0:07:02.40,Default,Riko,0,0,0,,Kuroi, what time is it?!
-Dialogue: 0,0:07:02.40,0:07:05.52,Default,Kuroi,0,0,0,,It's not yet noon. But I think going to school—
-Dialogue: 0,0:07:05.52,0:07:06.36,Default,Riko,0,0,0,,Be quiet!
-Dialogue: 0,0:07:06.36,0:07:08.15,Default,Riko,0,0,0,,I said I'm going, and I'm going!
-Dialogue: 0,0:07:10.36,0:07:11.61,Default,Gojo,0,0,0,,Huh?!
-Dialogue: 0,0:07:12.43,0:07:15.50,Default,Gojo,0,0,0,,Surely it'd be safer to head back to Jujutsu Tech at once!
-Dialogue: 0,0:07:15.83,0:07:20.58,Default,Yaga,0,0,0,,{\i1}As much as I want to do that, this is an order from {*}Master Tengen{*Tengen-sama}.
-Dialogue: 0,0:07:20.91,0:07:24.42,Default,Yaga,0,0,0,,{\i1}He said to fulfill all of Amanai Riko's demands.
-Dialogue: 0,0:07:25.84,0:07:26.96,Default,Gojo,0,0,0,,Tsk.
-Dialogue: 0,0:07:30.47,0:07:32.63,Default,Gojo,0,0,0,,Lax upbringing at its finest.
-Dialogue: 0,0:07:33.16,0:07:34.85,Default,Geto,0,0,0,,Don't be like that, Satoru.
-Dialogue: 0,0:07:34.85,0:07:36.18,Default,Geto,0,0,0,,Despite what she may say,
-Dialogue: 0,0:07:36.18,0:07:38.47,Default,Geto,0,0,0,,after the assimilation, she'll spend her whole life as {*}Master Tengen{*Tengen-sama}
-Dialogue: 0,0:07:38.47,0:07:40.98,Default,Geto,0,0,0,,in the deepest floor of Jujutsu Tech, as the foundation of all barriers.
-Dialogue: 0,0:07:41.52,0:07:46.57,Default,Geto,0,0,0,,She won't be able to see her friends, family, or anyone precious to her ever again.
-Dialogue: 0,0:07:47.69,0:07:49.07,Default,Classmate,0,0,0,,Riko!
-Dialogue: 0,0:07:50.40,0:07:51.92,Default,Classmate,0,0,0,,Our next class is in a different room.
-Dialogue: 0,0:07:51.92,0:07:52.48,Default,Riko,0,0,0,,Okay!
-Dialogue: 0,0:07:52.86,0:07:54.32,Default,Geto,0,0,0,,Let her do what she wants.
-Dialogue: 0,0:07:55.03,0:07:57.79,Default,Geto,0,0,0,,That's part of our mission.
-Dialogue: 0,0:08:00.67,0:08:03.29,Default,Kuroi,0,0,0,,Riko-sama has no family.
-Dialogue: 0,0:08:03.29,0:08:05.27,Default,Kuroi,0,0,0,,They were in an accident when she was little.
-Dialogue: 0,0:08:05.27,0:08:08.09,Default,Kuroi,0,0,0,,I've taken care of her ever since then.
-Dialogue: 0,0:08:08.75,0:08:12.14,Default,Kuroi,0,0,0,,So I want her to at least have what time she can with her friends.
-Dialogue: 0,0:08:13.26,0:08:15.80,Default,Geto,0,0,0,,So you're her family, then.
-Dialogue: 0,0:08:18.39,0:08:19.30,Default,Kuroi,0,0,0,,Yes.
-Dialogue: 0,0:08:22.60,0:08:23.81,Default,Gojo,0,0,0,,Suguru.
-Dialogue: 0,0:08:23.81,0:08:25.73,Default,Gojo,0,0,0,,How're the cursed spirits you sent to watch over her?
-Dialogue: 0,0:08:26.90,0:08:30.78,Default,Geto,0,0,0,,I just wish I could share my senses with them like Mei{**-san} does.
-Dialogue: 0,0:08:30.78,0:08:33.65,Default,Geto,0,0,0,,Even so, they'll let us know as soon as anything unusual happens.
-Dialogue: 0,0:08:34.74,0:08:35.91,Default,Geto,0,0,0,,Satoru.
-Dialogue: 0,0:08:35.91,0:08:37.87,Default,Geto,0,0,0,,Hurry to Riko{**-chan}'s side.
-Dialogue: 0,0:08:37.87,0:08:38.78,Default,Gojo,0,0,0,,Huh?
-Dialogue: 0,0:08:40.40,0:08:42.32,Default,Geto,0,0,0,,Two have been exorcised.
-Dialogue: 0,0:08:42.82,0:08:45.12,Default,Announcer,0,0,0,,{\i1\an8}Who will be the ace of the next generation?
-Dialogue: 0,0:08:45.12,0:08:47.79,Default,Announcer,0,0,0,,{\i1\an8}This will be an important match to help us find out.
-Dialogue: 0,0:08:48.38,0:08:51.34,Default,Announcer,0,0,0,,{\i1\an8}Number 6's final position is finally starting to solidify.
-Dialogue: 0,0:08:51.34,0:08:54.88,Default,Announcer,0,0,0,,{\i1\an8}Now, the fifth race, the one all eyes are focused on, is about to begin.
+Dialogue: 0,0:04:44.97,0:04:46.93,Default,Gojo,0,0,0,,Should we get her to a doctor?
+Dialogue: 0,0:04:47.31,0:04:51.40,Default,Geto,0,0,0,,If only we could use \Nreverse cursed techniques like Shoko.
+Dialogue: 0,0:04:51.40,0:04:53.02,Default,Gojo,0,0,0,,Yeah, right. As if.
+Dialogue: 0,0:04:53.02,0:04:55.65,Default,Gojo,0,0,0,,I can't understand a word she says about it.
+Dialogue: 0,0:04:55.98,0:04:58.36,Default,Shoko,0,0,0,,You just go fwoosh and then fwish.
+Dialogue: 0,0:04:58.36,0:05:00.95,Default,Shoko,0,0,0,,Fwoosh and fwish. Don't get it?
+Dialogue: 0,0:05:01.41,0:05:02.95,Default,Shoko,0,0,0,,Skill issue.
+Dialogue: 0,0:05:05.45,0:05:06.24,Default,,0,0,0,,Oh.
+Dialogue: 0,0:05:07.87,0:05:08.96,Default,Gojo,0,0,0,,She's awake.
+Dialogue: 0,0:05:14.09,0:05:16.00,Default,,0,0,0,,Hands off!
+Dialogue: 0,0:05:18.13,0:05:19.05,Default,Riko,0,0,0,,You lowly scum!
+Dialogue: 0,0:05:19.05,0:05:22.30,Default,Riko,0,0,0,,If you wish to kill Me, \Nyou shall be the one to die first!
+Dialogue: 0,0:05:24.89,0:05:26.89,Default,Geto,0,0,0,,Riko{**-chan}, calm down.
+Dialogue: 0,0:05:26.89,0:05:30.23,Default,Geto,0,0,0,,We're not with the group that attacked you.
+Dialogue: 0,0:05:30.60,0:05:31.48,Default,Riko,0,0,0,,Liar!
+Dialogue: 0,0:05:31.48,0:05:32.94,Default,Riko,0,0,0,,You have the face of a liar!
+Dialogue: 0,0:05:32.94,0:05:34.61,Default,Riko,0,0,0,,Your bangs are weird, too!
+Dialogue: 0,0:05:37.61,0:05:41.20,Default,,0,0,0,,{\t(200,3500,\fscx128\fscy128\bord4)}No!
+Dialogue: 0,0:05:42.66,0:05:45.87,Default,Riko,0,0,0,,Such disrespect!
+Dialogue: 0,0:05:44.24,0:05:45.87,Alt,Kuroi,0,0,0,,P-Please stop!
+Dialogue: 0,0:05:45.87,0:05:47.33,Default,Riko,0,0,0,,Kuroi!
+Dialogue: 0,0:05:47.41,0:05:48.37,Default,,0,0,0,,Ow!
+Dialogue: 0,0:05:49.33,0:05:52.29,Default,Kuroi,0,0,0,,Young lady, these men are on our side.
+Dialogue: 0,0:05:53.29,0:05:56.38,Default,Riko,0,0,0,,Kuroi, what are you riding on?
+Dialogue: 0,0:05:56.75,0:05:59.51,Default,Kuroi,0,0,0,,This is thanks to Bangs Guy's technique.
+Dialogue: 0,0:05:59.51,0:06:01.76,Default,Geto,0,0,0,,Could you please not call me that?
+Dialogue: 0,0:06:02.88,0:06:04.72,Default,Geto,0,0,0,,It's called Curse Manipulation.
+Dialogue: 0,0:06:04.72,0:06:08.01,Default,Geto,0,0,0,,As the name suggests, \NI can manipulate the curses I've consumed.
+Dialogue: 0,0:06:08.39,0:06:11.27,Default,Gojo,0,0,0,,This brat's got more spunk than I thought.
+Dialogue: 0,0:06:11.27,0:06:13.94,Default,Gojo,0,0,0,,Here I was trying to figure out\N how to be considerate,
+Dialogue: 0,0:06:13.94,0:06:16.36,Default,Gojo,0,0,0,,thinking she'd be sad about the assimilation thing.
+Dialogue: 0,0:06:17.90,0:06:20.61,Default,Riko,0,0,0,,Now that's a commoner's way of thinking!
+Dialogue: 0,0:06:20.61,0:06:21.32,Default,Gojo,0,0,0,,Huh?!
+Dialogue: 0,0:06:21.32,0:06:22.11,Default,Riko,0,0,0,,Listen up!
+Dialogue: 0,0:06:24.45,0:06:28.83,Default,Riko,0,0,0,,{*}Master Tengen{*Tengen-sama} is Me, and I am {*}Master Tengen{*Tengen-sama}!
+Dialogue: 0,0:06:28.83,0:06:35.29,Default,Riko,0,0,0,,People like you might mistake the assimilation for death,\N but you couldn't be far from the truth!
+Dialogue: 0,0:06:35.29,0:06:41.17,Default,Riko,0,0,0,,I might become {*}Master Tengen{*Tengen-sama} through assimilation,\N but {*}Master Tengen{*Tengen-sama} will also become Me!
+Dialogue: 0,0:06:41.17,0:06:45.89,Default,Riko,0,0,0,,My will! My heart! My soul will continue to live on!
+Dialogue: 0,0:06:45.89,0:06:47.14,Default,Geto,0,0,0,,Changed your wallpaper?
+Dialogue: 0,0:06:47.14,0:06:48.35,Default,Gojo,0,0,0,,It's Inoue Waka.
+Dialogue: 0,0:06:48.35,0:06:49.51,Default,Riko,0,0,0,,Listen to me!
+Dialogue: 0,0:06:49.89,0:06:52.89,Default,Gojo,0,0,0,,I bet you don't have many friends if you talk like that.
+Dialogue: 0,0:06:52.89,0:06:55.14,Default,Geto,0,0,0,,We won't have to feel bad sending you off.
+Dialogue: 0,0:06:55.14,0:06:57.40,Default,Riko,0,0,0,,I talk normally at school!
+Dialogue: 0,0:07:00.19,0:07:01.03,Default,Riko,0,0,0,,School!
+Dialogue: 0,0:07:01.03,0:07:02.40,Default,Riko,0,0,0,,Kuroi, what time is it?!
+Dialogue: 0,0:07:02.40,0:07:05.61,Default,Kuroi,0,0,0,,It's not yet noon. But I think going to school{\fscx180}—{\fscx}
+Dialogue: 0,0:07:05.61,0:07:06.36,Default,Riko,0,0,0,,Be quiet!
+Dialogue: 0,0:07:06.36,0:07:08.16,Default,Riko,0,0,0,,I said I'm going, and I'm going!
+Dialogue: 0,0:07:10.49,0:07:11.62,Default,Gojo,0,0,0,,What?!
+Dialogue: 0,0:07:12.54,0:07:15.50,Default,Gojo,0,0,0,,Surely it'd be safer to head back to Jujutsu Tech at once!
+Dialogue: 0,0:07:16.00,0:07:20.59,Default,Yaga,0,0,0,,As much as I want to do that,\N this is an order from {*}Master Tengen{*Tengen-sama}.
+Dialogue: 0,0:07:21.05,0:07:24.42,Default,Yaga,0,0,0,,He wants us to fulfill all of Amanai Riko's demands.
+Dialogue: 0,0:07:26.01,0:07:26.97,Default,Gojo,0,0,0,,Tch.
+Dialogue: 0,0:07:30.56,0:07:32.97,Default,Gojo,0,0,0,,They're spoiling her too much.
+Dialogue: 0,0:07:32.97,0:07:34.89,Default,Geto,0,0,0,,Don't be like that, Satoru.
+Dialogue: 0,0:07:34.89,0:07:38.48,Default,Geto,0,0,0,,Despite what she said,\N after assimilating with {*}Master Tengen{*Tengen-sama},
+Dialogue: 0,0:07:38.48,0:07:41.57,Default,Geto,0,0,0,,she'll become the foundation of all barriers\N at the base of Jujutsu Tech.
+Dialogue: 0,0:07:41.57,0:07:46.61,Default,Geto,0,0,0,,She won't be able to see her friends, family, or anyone precious to her ever again.
+Dialogue: 0,0:07:47.70,0:07:48.99,Default,Classmate,0,0,0,,Riko!
+Dialogue: 0,0:07:50.49,0:07:51.91,Default,Classmate,0,0,0,,Let's go to the next class.
+Dialogue: 0,0:07:51.91,0:07:52.49,Default,Riko,0,0,0,,Okay!
+Dialogue: 0,0:07:53.04,0:07:54.79,Default,Geto,0,0,0,,Let her do what she wants.
+Dialogue: 0,0:07:55.08,0:07:57.79,Default,Geto,0,0,0,,That's part of our mission.
+Dialogue: 0,0:08:00.67,0:08:03.30,Default,Kuroi,0,0,0,,{*}Lady Riko{*Riko-sama} has no family.
+Dialogue: 0,0:08:03.30,0:08:05.34,Default,Kuroi,0,0,0,,They met with an accident when she was little.
+Dialogue: 0,0:08:05.34,0:08:08.09,Default,Kuroi,0,0,0,,I've taken care of her ever since then.
+Dialogue: 0,0:08:08.84,0:08:12.14,Default,Kuroi,0,0,0,,So at least let her have \Nwhat time she can with her friends.
+Dialogue: 0,0:08:13.31,0:08:15.81,Default,Geto,0,0,0,,That makes you her family, then.
+Dialogue: 0,0:08:18.48,0:08:19.31,Default,Kuroi,0,0,0,,Right.
+Dialogue: 0,0:08:22.52,0:08:25.74,Default,Gojo,0,0,0,,Suguru, how're the cursed spirits \Nyou sent for surveillance?
+Dialogue: 0,0:08:25.74,0:08:27.03,Default,,0,0,0,,Right.
+Dialogue: 0,0:08:27.03,0:08:30.78,Default,Geto,0,0,0,,It would've been nice if I could \Nshare my senses with them like Mei{**-san} does,
+Dialogue: 0,0:08:30.78,0:08:33.83,Default,Geto,0,0,0,,but I'll know as soon as anything unusual...
+Dialogue: 0,0:08:34.87,0:08:36.00,Default,Geto,0,0,0,,Satoru.
+Dialogue: 0,0:08:36.00,0:08:37.87,Default,Geto,0,0,0,,We need to get to Riko{**-chan}, now.
+Dialogue: 0,0:08:37.87,0:08:38.87,Default,Gojo,0,0,0,,Huh?
+Dialogue: 0,0:08:40.42,0:08:42.00,Default,Geto,0,0,0,,Two have been exorcised.
+Dialogue: 0,0:08:42.92,0:08:45.13,Default,Announcer,0,0,0,,{\an8}Who will be the ace of the next generation?
+Dialogue: 0,0:08:45.13,0:08:47.88,Default,Announcer,0,0,0,,{\an8}This match will surely help us answer that question.
+Dialogue: 0,0:08:48.51,0:08:51.34,Default,Announcer,0,0,0,,{\an8}All six boats are finally in position.
+Dialogue: 0,0:08:51.34,0:08:54.97,Default,Announcer,0,0,0,,{\an8}Now, the much-anticipated fifth race is about to begin.
 Comment: 0,0:09:11.95,0:09:11.99,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:09:17.57,0:09:18.99,Default,Gojo,0,0,0,,Where's Amanai?!
-Dialogue: 0,0:09:18.99,0:09:21.03,Default,Kuroi,0,0,0,,She has music this period,
-Dialogue: 0,0:09:21.03,0:09:23.12,Default,Kuroi,0,0,0,,so either the music room or the chapel.
-Dialogue: 0,0:09:23.12,0:09:24.75,Default,Gojo,0,0,0,,Chapel?!
-Dialogue: 0,0:09:24.75,0:09:27.17,Default,Kuroi,0,0,0,,It changes depending on what the music teacher wants.
-Dialogue: 0,0:09:27.17,0:09:29.04,Default,Kuroi,0,0,0,,Also, this is a missionary school.
-Dialogue: 0,0:09:29.38,0:09:30.96,Default,Geto,0,0,0,,Satoru, you take the chapel.
-Dialogue: 0,0:09:30.96,0:09:32.59,Default,Geto,0,0,0,,Kuroi{**-san}, take the music room.
-Dialogue: 0,0:09:32.59,0:09:34.46,Default,Geto,0,0,0,,I'll take the two unknowns.
-Dialogue: 0,0:09:34.46,0:09:36.00,Default,Kuroi,0,0,0,,Roger that.
-Dialogue: 0,0:09:36.47,0:09:37.93,Default,Riko,0,0,0,,I told you not to follow me!
-Dialogue: 0,0:09:37.93,0:09:40.47,Default,Riko,0,0,0,,What if my friends see you?!
-Dialogue: 0,0:09:40.47,0:09:42.10,Default,Kuroi,0,0,0,,I'm sorry.
-Dialogue: 0,0:09:42.10,0:09:44.93,Default,Kuroi,0,0,0,,I even told her to text us when she was on the move.
-Dialogue: 0,0:09:44.93,0:09:49.02,Default,Gojo,0,0,0,,This is why I told that brat to stay within eyeshot so we could protect her!
-Dialogue: 0,0:09:52.02,0:09:53.15,Default,Announcer,0,0,0,,{\i1\an8}And they're off.
-Dialogue: 0,0:09:53.15,0:09:55.61,Default,Announcer,0,0,0,,{\i1\an8}Numbers 1 and 2 make a good start, favoring the inside.
-Dialogue: 0,0:09:55.61,0:09:57.70,Default,Announcer,0,0,0,,{\i1\an8}Number 3 trails a bit behind.
-Dialogue: 0,0:09:56.19,0:09:57.78,Default,Touji,0,0,0,,What?
-Dialogue: 0,0:09:57.70,0:10:01.07,Default,Announcer,0,0,0,,{\i1\an8}Taking the lead at the first mark of the first lap is Number 2, Yamazaki.
-Dialogue: 0,0:09:58.07,0:10:00.24,Default,Touji,0,0,0,,They didn't go back to Jujutsu Tech?
-Dialogue: 0,0:10:00.24,0:10:01.78,Default,Touji,0,0,0,,Lucky me.
-Dialogue: 0,0:10:01.07,0:10:02.51,Default,Announcer,0,0,0,,{\i1\an8}Behind him is Number 1, Masaki.
-Dialogue: 0,0:10:02.51,0:10:04.70,Default,Announcer,0,0,0,,{\i1\an8}They're followed by Number 3, Kawano.
-Dialogue: 0,0:10:02.76,0:10:06.83,Default,Toji,0,0,0,,Now the ones drawn to the bounty will be reasonable fools instead of just fools.
-Dialogue: 0,0:10:04.70,0:10:09.50,Default,Announcer,0,0,0,,{\i1\an8}Then comes Number 4, Nomiya, Number 5, Mifune, and in last is Number 6, Funegi.
-Dialogue: 0,0:10:06.83,0:10:08.17,Default,Kong,0,0,0,,{\i1}Are you sure?
-Dialogue: 0,0:10:08.17,0:10:09.50,Default,Toji,0,0,0,,About what?
-Dialogue: 0,0:10:09.83,0:10:14.36,Default,Kong,0,0,0,,{\i1}The bounty is the thirty-million deposit that the Star Religious Group paid you.
-Dialogue: 0,0:10:14.76,0:10:17.88,Default,Kong,0,0,0,,{\i1}If they kill the Star Plasma Vessel, the deposit is gone,
-Dialogue: 0,0:10:17.88,0:10:20.64,Default,Kong,0,0,0,,{\i1}and worst-case, you might not get the full reward, either.
-Dialogue: 0,0:10:20.64,0:10:23.35,Default,Kong,0,0,0,,{\i1}They might start saying they could have posted
-Dialogue: 0,0:10:23.35,0:10:25.85,Default,Kong,0,0,0,,{\i1}a bounty from the start instead of hiring you.
-Dialogue: 0,0:10:25.85,0:10:28.83,Default,Toji,0,0,0,,Gojo Satoru is with the girl.
-Dialogue: 0,0:10:28.83,0:10:31.19,Default,Toji,0,0,0,,He's the first in several centuries to possess both
-Dialogue: 0,0:10:31.19,0:10:33.27,Default,Toji,0,0,0,,the Six Eyes and the Limitless technique.
-Dialogue: 0,0:10:33.27,0:10:37.44,Default,Toji,0,0,0,,No one can kill the Star Plasma Vessel as long as he's nearby.
-Dialogue: 0,0:10:37.44,0:10:38.96,Default,Kong,0,0,0,,{\i1}Not even you?
-Dialogue: 0,0:10:47.75,0:10:49.89,Default,Announcer,0,0,0,,{\i1\an8}Number 3, Kawano, is making a rushing comeback!
-Dialogue: 0,0:10:49.89,0:10:51.75,Default,Announcer,0,0,0,,{\i1\an8}He's pulled into first place!
-Dialogue: 0,0:10:51.75,0:10:54.36,Default,Toji,0,0,0,,Who knows?
-Dialogue: 0,0:10:54.59,0:10:57.13,Default,Announcer,0,0,0,,{\i1\an8}He's managed to take the lead twice now.
-Dialogue: 0,0:10:55.92,0:11:00.55,Default,Toji,0,0,0,,For now, we'll leave the bounty up for another 47 hours,
-Dialogue: 0,0:10:57.13,0:11:00.55,Default,Announcer,0,0,0,,{\i1\an8}This race has been filled with ups and downs.
-Dialogue: 0,0:11:00.55,0:11:02.64,Default,Announcer,0,0,0,,{\i1\an8}Can Number 3, Kawano, defend his position at the top?
-Dialogue: 0,0:11:00.88,0:11:05.31,Default,Toji,0,0,0,,and let the fools wear down Gojo and the sorcerers with him.
-Dialogue: 0,0:11:02.64,0:11:04.81,Default,Announcer,0,0,0,,{\i1\an8}The race is now entering its third lap.
-Dialogue: 0,0:11:13.81,0:11:14.90,Default,Oldman,0,0,0,,Hey!
-Dialogue: 0,0:11:15.27,0:11:16.57,Default,Oldman,0,0,0,,Hold it right there!
-Dialogue: 0,0:11:22.91,0:11:24.54,Default,Toji,0,0,0,,Nah, never mind.
-Dialogue: 0,0:11:27.79,0:11:30.08,Default,Toji,0,0,0,,They won't be able to kill the Star Plasma Vessel, of course,
-Dialogue: 0,0:11:30.08,0:11:31.58,Default,Toji,0,0,0,,so they're working for free.
-Dialogue: 0,0:11:32.08,0:11:35.00,Default,Kong,0,0,0,,{\i1}It's a good thing you put that time limit on it.
-Dialogue: 0,0:11:35.00,0:11:37.80,Default,Kong,0,0,0,,{\i1}The curse users are quickly flocking to them.
-Dialogue: 0,0:11:37.80,0:11:39.76,Default,Toji,0,0,0,,That's not the only reason.
-Dialogue: 0,0:11:39.76,0:11:40.38,Default,Kong,0,0,0,,{\i1}Eh?
-Dialogue: 0,0:11:41.72,0:11:43.05,Default,Toji,0,0,0,,Just talking to myself.
-Dialogue: 0,0:11:43.05,0:11:44.26,Default,Announcer,0,0,0,,{\i1\an8}What?!
-Dialogue: 0,0:11:45.05,0:11:48.73,Default,Announcer,0,0,0,,{\i1\an8}Number 3, Kawano, just lost his balance, and Number 2, Yamazaki, is passing him!
-Dialogue: 0,0:11:48.97,0:11:50.93,Default,Announcer,0,0,0,,{\i1\an8}Number 3 has drifted far to the outside,
-Dialogue: 0,0:11:49.02,0:11:50.93,Default,Toji,0,0,0,,I'll head out soon enough.
-Dialogue: 0,0:11:50.93,0:11:53.15,Default,Toji,0,0,0,,Looks like things are developing faster than I expected.
-Dialogue: 0,0:11:50.93,0:11:53.31,Default,Announcer,0,0,0,,{\i1\an8}but he's righted his boat and is chasing after them!
-Dialogue: 0,0:11:53.31,0:11:55.31,Default,Announcer,0,0,0,,{\i1\an8}But there is now a considerable gap between them!
-Dialogue: 0,0:11:53.65,0:11:56.61,Default,Toji,0,0,0,,Make sure you get that thirty million back for me.
-Dialogue: 0,0:11:56.61,0:11:58.82,Default,Announcer,0,0,0,,{\i1\an8}Number 2, Yamazaki, crosses the goal first!
-Dialogue: 0,0:11:58.82,0:12:00.53,Default,Announcer,0,0,0,,{\i1\an8}Number 5, Mifune, crosses next.
-Dialogue: 0,0:11:59.19,0:12:00.53,Default,Kong,0,0,0,,{\i1}Don't be ridiculous.
-Dialogue: 0,0:12:00.53,0:12:03.07,Default,Kong,0,0,0,,{\i1}This wasn't your average anonymous message board.
-Dialogue: 0,0:12:00.53,0:12:03.07,Default,Announcer,0,0,0,,{\i1\an8}Number 1, Masaki, crosses next, followed by Number 3, Kawano.
-Dialogue: 0,0:12:03.07,0:12:05.75,Default,Announcer,0,0,0,,{\i1\an8}Following them is Number 4, Nomiya, and last is Number 6, Funegi.
-Dialogue: 0,0:12:03.07,0:12:05.75,Default,Kong,0,0,0,,{\i1}There are posting fees, handling fees, and—
-Dialogue: 0,0:12:04.11,0:12:05.75,Default,Toji,0,0,0,,Signal's dropping.
-Dialogue: 0,0:12:06.07,0:12:07.20,Default,Kong,0,0,0,,Hey!
-Dialogue: 0,0:12:08.49,0:12:10.16,Default,Kong,0,0,0,,That bastard.
-Dialogue: 0,0:12:20.16,0:12:22.39,Default,Geto,0,0,0,,{\i1}Are the unknowns remnants of Q?
-Dialogue: 0,0:12:22.75,0:12:26.30,Default,Geto,0,0,0,,{\i1}This will be a little troublesome if they've been sent by the Star Religious Group.
-Dialogue: 0,0:12:28.94,0:12:31.43,Default,Elder,0,0,0,,That uniform...
-Dialogue: 0,0:12:36.52,0:12:39.98,Default,Geto,0,0,0,,{\i1}As soon as he saw the Jujutsu Tech uniform, he anticipated a fight against
-Dialogue: 0,0:12:39.98,0:12:42.57,Default,Geto,0,0,0,,{\i1}multiple opponents and set shikigami in front of and behind him.
-Dialogue: 0,0:12:42.57,0:12:44.03,Default,Geto,0,0,0,,{\i1}He's experienced.
-Dialogue: 0,0:12:45.66,0:12:47.32,Default,Elder,0,0,0,,{\i1}No catalyst?!
-Dialogue: 0,0:12:47.32,0:12:49.74,Default,Elder,0,0,0,,{\i1}Their cursed energy is different from the sorcerer's, too.
-Dialogue: 0,0:12:49.74,0:12:51.08,Default,Elder,0,0,0,,{\i1}It couldn't be...
-Dialogue: 0,0:12:51.08,0:12:52.83,Default,Elder,0,0,0,,Curse Manipulation?!
-Dialogue: 0,0:12:53.19,0:12:54.41,Default,Geto,0,0,0,,Correct.
-Dialogue: 0,0:12:54.41,0:12:57.21,Default,Geto,0,0,0,,Living a long life has its perks, I see.
-Dialogue: 0,0:12:57.21,0:13:00.38,Default,Elder,0,0,0,,Nah, it's not worth living too long, you know.
-Dialogue: 0,0:13:00.38,0:13:03.67,Default,Elder,0,0,0,,It costs money just to stay alive.
-Dialogue: 0,0:13:03.67,0:13:06.43,Default,Elder,0,0,0,,{\i1}His cursed technique is stronger than mine.
-Dialogue: 0,0:13:06.43,0:13:09.89,Default,Elder,0,0,0,,{\i1}However, he thinks like a typical shikigami user.
-Dialogue: 0,0:13:09.89,0:13:12.18,Default,Elder,0,0,0,,{\i1}Add his youth on top of that,
-Dialogue: 0,0:13:12.18,0:13:15.64,Default,Elder,0,0,0,,{\i1}and I can tell exactly what he's thinking.
-Dialogue: 0,0:13:15.64,0:13:17.40,Default,Elder,0,0,0,,{\i1}I knew it.
-Dialogue: 0,0:13:17.40,0:13:20.19,Default,Elder,0,0,0,,{\i1}Types like him never step forward themselves.
-Dialogue: 0,0:13:20.44,0:13:23.07,Default,Elder,0,0,0,,{\i1}Close combat is his weakness!
-Dialogue: 0,0:13:23.07,0:13:28.62,Default,Elder,0,0,0,,{\i1}Plus, he thinks a shikigami user like me would never get close to him.
-Dialogue: 0,0:13:28.62,0:13:32.20,Default,Elder,0,0,0,,{\i1}He's someone who hates close combat, and he isn't wary of it.
-Dialogue: 0,0:13:32.20,0:13:35.08,Default,Elder,0,0,0,,{\i1}No one is easier to kill.
-Dialogue: 0,0:13:35.41,0:13:38.54,Default,Geto,0,0,0,,Looks like you're thinking up lots of plans,
-Dialogue: 0,0:13:38.79,0:13:40.13,Default,Geto,0,0,0,,but there's no point.
+Dialogue: 0,0:09:17.62,0:09:19.12,Default,Gojo,0,0,0,,Where's Amanai?!
+Dialogue: 0,0:09:19.12,0:09:23.13,Default,Kuroi,0,0,0,,It's time for her music class,\N so either the music room or the chapel.
+Dialogue: 0,0:09:23.42,0:09:24.79,Default,Gojo,0,0,0,,Chapel?!
+Dialogue: 0,0:09:24.79,0:09:27.30,Default,Kuroi,0,0,0,,It depends on what the music teacher wants.
+Dialogue: 0,0:09:27.30,0:09:29.05,Default,Kuroi,0,0,0,,Also, this is a missionary school.
+Dialogue: 0,0:09:29.47,0:09:31.05,Default,Geto,0,0,0,,Satoru, you take the chapel.
+Dialogue: 0,0:09:31.05,0:09:32.72,Default,Geto,0,0,0,,Kuroi{**-san} will take the music room.
+Dialogue: 0,0:09:32.72,0:09:34.64,Default,Geto,0,0,0,,I'll deal with the two unknowns.
+Dialogue: 0,0:09:34.64,0:09:36.01,Default,Kuroi,0,0,0,,Understood.
+Dialogue: 0,0:09:36.47,0:09:38.06,Default,Riko,0,0,0,,I told you not to follow me!
+Dialogue: 0,0:09:38.06,0:09:40.48,Default,Riko,0,0,0,,What if my friends see you?!
+Dialogue: 0,0:09:40.48,0:09:42.23,Default,Kuroi,0,0,0,,I'm sorry.
+Dialogue: 0,0:09:42.23,0:09:44.98,Default,Kuroi,0,0,0,,I even told her to text us when she was on the move.
+Dialogue: 0,0:09:44.98,0:09:49.03,Default,Gojo,0,0,0,,{\i1}This{\i0} is why I told that brat to stay\N within eyeshot so we could protect her!
+Dialogue: 0,0:09:52.28,0:09:53.24,Default,Announcer,0,0,0,,{\an8}And they're off.
+Dialogue: 0,0:09:53.24,0:09:55.53,Default,Announcer,0,0,0,,{\an8}Numbers 1 and 2 make a good start, favoring the inside.
+Dialogue: 0,0:09:55.53,0:09:57.79,Default,Announcer,0,0,0,,{\an8}Number 3 trails a bit behind.
+Dialogue: 0,0:09:57.79,0:10:01.08,Default,Announcer,0,0,0,,{\an8}Taking the lead at the first mark of the first lap\N is Number 2, Yamazaki.
+Dialogue: 0,0:10:01.08,0:10:02.50,Default,Announcer,0,0,0,,{\an8}Behind him is Number 1, Masaki.
+Dialogue: 0,0:10:02.50,0:10:04.71,Default,Announcer,0,0,0,,{\an8}They're followed by Number 3, Kawano.
+Dialogue: 0,0:10:04.71,0:10:09.51,Default,Announcer,0,0,0,,{\an8}Then comes Number 4, Nomiya, Number 5, Mifune,\N and in the last place is Number 6, Funegi.
+Dialogue: 0,0:09:56.33,0:09:58.12,Default,Touji,0,0,0,,Oh, really?
+Dialogue: 0,0:09:58.12,0:10:00.29,Default,Touji,0,0,0,,They didn't go back to Jujutsu Tech?
+Dialogue: 0,0:10:00.29,0:10:01.79,Default,Touji,0,0,0,,Lucky me.
+Dialogue: 0,0:10:02.79,0:10:07.05,Default,Toji,0,0,0,,Now the ones drawn to the bounty\N will be reasonable idiots instead of just idiots.
+Dialogue: 0,0:10:07.05,0:10:08.30,Default,Kong,0,0,0,,Are you sure?
+Dialogue: 0,0:10:08.30,0:10:09.51,Default,Toji,0,0,0,,About what?
+Dialogue: 0,0:10:09.96,0:10:14.72,Default,Kong,0,0,0,,The bounty is the thirty-million deposit that\N the Star Religious Group pays you.
+Dialogue: 0,0:10:14.72,0:10:17.97,Default,Kong,0,0,0,,If the Star Plasma Vessel is killed, that deposit is gone.
+Dialogue: 0,0:10:17.97,0:10:20.77,Default,Kong,0,0,0,,Worst case, you might not even get the reward.
+Dialogue: 0,0:10:20.77,0:10:25.94,Default,Kong,0,0,0,,They might start saying they could've\N posted a bounty from the start instead of hiring you.
+Dialogue: 0,0:10:25.94,0:10:28.82,Default,Toji,0,0,0,,Gojo Satoru is with the girl.
+Dialogue: 0,0:10:28.82,0:10:33.40,Default,Toji,0,0,0,,He's the first in several centuries to possess both \Nthe Six Eyes and the Limitless technique.
+Dialogue: 0,0:10:33.40,0:10:37.62,Default,Toji,0,0,0,,No one can kill the Star Plasma Vessel\N as long as he's nearby.
+Dialogue: 0,0:10:37.62,0:10:38.95,Default,Kong,0,0,0,,Not even you?
+Dialogue: 0,0:10:47.88,0:10:49.88,Default,Announcer,0,0,0,,{\an8}Number 3, Kawano, is making a rushing comeback!
+Dialogue: 0,0:10:49.88,0:10:51.76,Default,Announcer,0,0,0,,{\an8}He's pulled into first place!
+Dialogue: 0,0:10:51.76,0:10:54.34,Default,Toji,0,0,0,,Who knows?
+Dialogue: 0,0:10:54.72,0:10:57.14,Default,Announcer,0,0,0,,{\an8}He's managed to take the lead twice now.
+Dialogue: 0,0:10:57.14,0:10:59.89,Default,Announcer,0,0,0,,{\an8}This race has been filled with ups and downs.
+Dialogue: 0,0:10:59.89,0:11:02.64,Default,Announcer,0,0,0,,{\an8}Can Number 3, Kawano, defend his position at the top?
+Dialogue: 0,0:11:02.64,0:11:04.81,Default,Announcer,0,0,0,,{\an8}The race is now entering its third lap.
+Dialogue: 0,0:10:56.14,0:11:01.06,Default,Toji,0,0,0,,We'll leave the bounty up for another forty-seven hours,
+Dialogue: 0,0:11:01.06,0:11:05.27,Default,Toji,0,0,0,,and let the idiots wear down Gojo\N and the sorcerers with him.
+Dialogue: 0,0:11:13.95,0:11:14.90,Default,Oldman,0,0,0,,Hey!
+Dialogue: 0,0:11:15.41,0:11:16.66,Default,Oldman,0,0,0,,Hold it right there!
+Dialogue: 0,0:11:23.04,0:11:24.54,Default,Toji,0,0,0,,Nah, it's nothing.
+Dialogue: 0,0:11:27.83,0:11:31.92,Default,Toji,0,0,0,,They can't kill the Star Plasma Vessel anyway,\N so they're working for free.
+Dialogue: 0,0:11:32.34,0:11:34.84,Default,Kong,0,0,0,,Putting a timer on it was a smart move.
+Dialogue: 0,0:11:35.26,0:11:37.47,Default,Kong,0,0,0,,Curse users are flocking to them.
+Dialogue: 0,0:11:37.97,0:11:39.89,Default,Toji,0,0,0,,That wasn't the only reason.
+Dialogue: 0,0:11:39.89,0:11:40.39,Default,Kong,0,0,0,,Eh?
+Dialogue: 0,0:11:41.89,0:11:43.18,Default,Toji,0,0,0,,Just talking to myself.
+Dialogue: 0,0:11:43.18,0:11:44.27,Default,Announcer,0,0,0,,{\an8}Look at that!
+Dialogue: 0,0:11:45.06,0:11:48.73,Default,Announcer,0,0,0,,{\an8}Number 3, Kawano, just lost his balance, and Number 2, Yamazaki, is passing him!
+Dialogue: 0,0:11:49.02,0:11:53.32,Default,Announcer,0,0,0,,{\an8}Number 3 has drifted far to the outside,\N but he's righted his boat and is chasing after them!
+Dialogue: 0,0:11:53.32,0:11:55.32,Default,Announcer,0,0,0,,{\an8}But there is now a considerable gap between them!
+Dialogue: 0,0:11:56.61,0:11:58.82,Default,Announcer,0,0,0,,{\an8}Number 2, Yamazaki, crosses the goal first!
+Dialogue: 0,0:11:58.82,0:12:00.53,Default,Announcer,0,0,0,,{\an8}Number 5, Mifune, crosses next.
+Dialogue: 0,0:12:00.53,0:12:03.08,Default,Announcer,0,0,0,,{\an8}Number 1, Masaki, crosses next, followed by Number 3, Kawano.
+Dialogue: 0,0:12:03.08,0:12:05.75,Default,Announcer,0,0,0,,{\an8}Following them is Number 4, Nomiya, and last is Number 6, Funegi.
+Dialogue: 0,0:11:49.02,0:11:50.94,Default,Toji,0,0,0,,I'll head out soon enough.
+Dialogue: 0,0:11:50.94,0:11:53.32,Default,Toji,0,0,0,,Things are developing faster than I expected.
+Dialogue: 0,0:11:53.78,0:11:56.61,Default,Toji,0,0,0,,Make sure you get that thirty million back for me.
+Dialogue: 0,0:11:59.20,0:12:00.53,Default,Kong,0,0,0,,Don't be ridiculous.
+Dialogue: 0,0:12:00.53,0:12:03.08,Default,Kong,0,0,0,,This wasn't your average anonymous message board.
+Dialogue: 0,0:12:03.08,0:12:05.75,Default,Kong,0,0,0,,There are posting fees, handling fees, and{\fscx180}—{\fscx}
+Dialogue: 0,0:12:04.12,0:12:05.75,Alt,Toji,0,0,0,,Signal's dropping.
+Dialogue: 0,0:12:06.16,0:12:07.21,Default,Kong,0,0,0,,Hey!
+Dialogue: 0,0:12:08.67,0:12:10.17,Default,Kong,0,0,0,,Asshole.
+Dialogue: 0,0:12:20.18,0:12:22.39,Default,Geto,0,0,0,,{\i1}Are the unknowns remnants of Q?
+Dialogue: 0,0:12:22.81,0:12:26.31,Default,Geto,0,0,0,,{\i1}Things could get troublesome if it's hired muscle\N from the Star Religious Group.
+Dialogue: 0,0:12:27.89,0:12:31.27,Default,Elder,0,0,0,,Oh, I know that uniform.
+Dialogue: 0,0:12:36.53,0:12:40.11,Default,Geto,0,0,0,,{\i1}As soon as he saw the uniform,\N he anticipated a fight against multiple opponents
+Dialogue: 0,0:12:40.11,0:12:42.74,Default,Geto,0,0,0,,{\i1} and set cursed beasts in front of and behind him.
+Dialogue: 0,0:12:42.74,0:12:44.12,Default,Geto,0,0,0,,{\i1}He's experienced.
+Dialogue: 0,0:12:45.79,0:12:47.33,Default,Elder,0,0,0,,{\i1}Without a medium?!
+Dialogue: 0,0:12:47.33,0:12:49.87,Default,Elder,0,0,0,,{\i1}Their cursed energy is different from the sorcerer's, too.
+Dialogue: 0,0:12:49.87,0:12:51.08,Default,Elder,0,0,0,,{\i1}It couldn't be...
+Dialogue: 0,0:12:51.08,0:12:52.84,Default,Elder,0,0,0,,Curse Manipulation?!
+Dialogue: 0,0:12:53.25,0:12:54.55,Default,Geto,0,0,0,,Correct.
+Dialogue: 0,0:12:54.55,0:12:57.22,Default,Geto,0,0,0,,Living a long life has its perks, I see.
+Dialogue: 0,0:12:57.22,0:13:00.51,Default,Elder,0,0,0,,Nah, it's not worth living {\i1}too{\i0} long.
+Dialogue: 0,0:13:00.51,0:13:03.68,Default,Elder,0,0,0,,The longer you live, the more it costs.
+Dialogue: 0,0:13:04.01,0:13:09.98,Default,Elder,0,0,0,,{\i1}His cursed technique might be stronger than mine,\N but he thinks like a typical cursed beast user.
+Dialogue: 0,0:13:09.98,0:13:15.53,Default,Elder,0,0,0,,{\i1}Add his youth on top of that,\N and I can tell exactly what he's thinking.
+Dialogue: 0,0:13:15.98,0:13:17.49,Default,Elder,0,0,0,,{\i1}I knew it.
+Dialogue: 0,0:13:17.49,0:13:20.20,Default,Elder,0,0,0,,{\i1}Types like him never step forward themselves.
+Dialogue: 0,0:13:20.57,0:13:23.20,Default,Elder,0,0,0,,{\i1}Close combat is his weakness!
+Dialogue: 0,0:13:23.20,0:13:28.87,Default,Elder,0,0,0,,{\i1}He also seems to think a cursed beast user like me\N would never get close to him.
+Dialogue: 0,0:13:28.87,0:13:32.29,Default,Elder,0,0,0,,{\i1}Hates close combat and isn't wary of it.
+Dialogue: 0,0:13:32.29,0:13:35.09,Default,Elder,0,0,0,,{\i1}This is too easy.
+Dialogue: 0,0:13:35.59,0:13:38.55,Default,Geto,0,0,0,,Looks like you're brainstorming a lot of ideas.
+Dialogue: 0,0:13:38.92,0:13:40.22,Default,Geto,0,0,0,,It's all pointless, though.
 Dialogue: 0,0:13:45.47,0:13:45.97,Default,Elder,0,0,0,,{\i1}What?!
-Dialogue: 0,0:13:45.97,0:13:48.72,Default,Elder,0,0,0,,{\i1}Those first two were to prevent me from anticipating this?!
-Dialogue: 0,0:13:53.52,0:13:56.23,Default,Geto,0,0,0,,Now, that leaves one more.
-Dialogue: 0,0:14:00.23,0:14:01.86,Default,Elder,0,0,0,,You're mine!
-Dialogue: 0,0:14:18.10,0:14:21.59,Default,Elder,0,0,0,,Tasuke? Is that you, Tasuke?
-Dialogue: 0,0:14:22.32,0:14:26.76,Default,Elder,0,0,0,,{\i1}My parents used all their time and money on my well-behaved little brother.
-Dialogue: 0,0:14:26.76,0:14:30.47,Default,Elder,0,0,0,,{\i1}They thought I was creepy because I could see the unseen.
-Dialogue: 0,0:14:31.01,0:14:36.10,Default,Elder,0,0,0,,{\i1}But Tasuke was my one and only friend, who interacted with me without such fear.
-Dialogue: 0,0:14:38.27,0:14:40.44,Default,Elder,0,0,0,,It's been a long time.
-Dialogue: 0,0:14:40.44,0:14:43.32,Default,Elder,0,0,0,,Has it been over 50 years already?
-Dialogue: 0,0:14:43.32,0:14:46.11,Default,Elder,0,0,0,,Since the day you died—
-Dialogue: 0,0:14:46.82,0:14:48.40,Default,Elder,0,0,0,,{\i1}I see now!
-Dialogue: 0,0:14:54.12,0:14:56.04,Default,Elder,0,0,0,,{\i1}My life flashed before my eyes!
-Dialogue: 0,0:14:56.45,0:14:58.71,Default,Elder,0,0,0,,You lured me in!
-Dialogue: 0,0:14:58.71,0:14:59.96,Default,Geto,0,0,0,,Well, yeah.
-Dialogue: 0,0:14:59.96,0:15:03.23,Default,Geto,0,0,0,,You were itching to get in close that whole time, right?
-Dialogue: 0,0:15:03.23,0:15:05.17,Default,Geto,0,0,0,,Those with a set means of victory
-Dialogue: 0,0:15:05.17,0:15:08.21,Default,Geto,0,0,0,,will easily jump on the chance when you give them that opening.
-Dialogue: 0,0:15:09.97,0:15:13.20,Default,Geto,0,0,0,,More importantly, are you with Q?
-Dialogue: 0,0:15:13.20,0:15:14.68,Default,Geto,0,0,0,,Or the Star Religious Group?
-Dialogue: 0,0:15:38.12,0:15:39.33,Default,Gojo,0,0,0,,Amanai!
-Dialogue: 0,0:15:44.92,0:15:47.50,Default,Riko,0,0,0,,Wh-Wh-Wh-Wh-Wha...
-Dialogue: 0,0:15:47.50,0:15:49.09,Default,Girls,0,0,0,,What?!
-Dialogue: 0,0:15:49.09,0:15:50.84,Default,GirlD,0,0,0,,Riko, you have a boyfriend?!
-Dialogue: 0,0:15:50.84,0:15:53.72,Default,Riko,0,0,0,,No! He's a cousin! Just a cousin!
-Dialogue: 0,0:15:53.72,0:15:55.35,Default,GirlC,0,0,0,,You're a smooth operator.
-Dialogue: 0,0:15:55.35,0:15:57.18,Default,Riko,0,0,0,,I told you, he's not!
-Dialogue: 0,0:15:57.18,0:15:59.52,Default,GirlA,0,0,0,,A high schooler?! He's so tall!
-Dialogue: 0,0:15:59.52,0:16:01.02,Default,GirlA,0,0,0,,Hey, mister!
-Dialogue: 0,0:16:01.02,0:16:02.52,Default,GirlF,0,0,0,,Take off your sunglasses!
-Dialogue: 0,0:16:05.23,0:16:07.04,Default,Girls,0,0,0,,Squee! He's so hot!
-Dialogue: 0,0:16:07.04,0:16:08.44,Default,GirlA,0,0,0,,Such long lashes!
-Dialogue: 0,0:16:07.57,0:16:08.44,Default,Gojo,0,0,0,,Hey.
-Dialogue: 0,0:16:08.44,0:16:10.07,Default,GirlB,0,0,0,,Why are your eyes blue?
-Dialogue: 0,0:16:10.07,0:16:12.28,Default,Girl,0,0,0,,Could you pose for me?
-Dialogue: 0,0:16:12.82,0:16:14.74,Default,Riko,0,0,0,,Hey! Quit getting carried away!
-Dialogue: 0,0:16:14.74,0:16:16.95,Default,Teacher,0,0,0,,All right, everyone! Quiet down!
-Dialogue: 0,0:16:16.95,0:16:18.70,Default,Teacher,0,0,0,,This is disgraceful!
-Dialogue: 0,0:16:18.70,0:16:21.08,Default,GirlA,0,0,0,,You know you're curious about him, too, {*}{*Sensei}!
-Dialogue: 0,0:16:21.08,0:16:22.41,Default,GirlB,0,0,0,,Yeah.
-Dialogue: 0,0:16:22.76,0:16:24.21,Default,Teacher,0,0,0,,This is inappropriate.
-Dialogue: 0,0:16:24.21,0:16:26.50,Default,Teacher,0,0,0,,Even if you are a relative, you can't just barge in.
-Dialogue: 0,0:16:26.50,0:16:30.46,Default,Gojo,0,0,0,,Oh, you'll have to forgive me. It was an emergency.
-Dialogue: 0,0:16:32.92,0:16:34.63,Default,Teacher,0,0,0,,Also, here. My phone number.
-Dialogue: 0,0:16:34.63,0:16:36.89,Default,Girls,0,0,0,,Hey! That's against the rules!
-Dialogue: 0,0:16:36.89,0:16:39.69,Default,Teacher,0,0,0,,Shut up! You don't get many chances to meet people as a teacher!
-Dialogue: 0,0:16:39.69,0:16:41.89,Default,GirlA,0,0,0,,The same is true for us, too!
-Dialogue: 0,0:16:41.89,0:16:44.31,Default,GirlB,0,0,0,,I can't believe you're into younger men! I've lost respect for you!
-Dialogue: 0,0:16:44.31,0:16:46.86,Default,Teacher,0,0,0,,What?! You dissin' Hikaru Genji?!
-Dialogue: 0,0:16:46.86,0:16:48.79,Default,Gojo,0,0,0,,What a lively school.
-Dialogue: 0,0:16:48.79,0:16:52.08,Default,Riko,0,0,0,,You idiot! I told you not to show yourself before my friends!
-Dialogue: 0,0:16:52.74,0:16:55.53,Default,Gojo,0,0,0,,Curse users attacked. Figure out the rest.
-Dialogue: 0,0:16:56.95,0:16:58.20,Default,Riko,0,0,0,,I'm floating?!
-Dialogue: 0,0:17:03.57,0:17:05.26,Default,Gojo,0,0,0,,We're heading to Jujutsu Tech now.
-Dialogue: 0,0:17:05.70,0:17:08.03,Default,Gojo,0,0,0,,You don't want you friends to get caught up in this, do you?
-Dialogue: 0,0:17:10.34,0:17:12.34,Default,Bag,0,0,0,,Is that the thirty million?
-Dialogue: 0,0:17:12.34,0:17:14.30,Default,Bag,0,0,0,,The one with her is another sorcerer?
-Dialogue: 0,0:17:14.30,0:17:16.11,Default,Bag,0,0,0,,Her bodyguard, too, I bet.
-Dialogue: 0,0:17:16.44,0:17:17.97,Default,Bag,0,0,0,,What a sweet deal.
-Dialogue: 0,0:17:17.97,0:17:20.81,Default,Bag,0,0,0,,Thirty million for killing a kid who's not even a sorcerer.
-Dialogue: 0,0:17:20.81,0:17:22.60,Default,Bag,0,0,0,,Maybe I'll have eel tonight?
-Dialogue: 0,0:17:22.60,0:17:24.81,Default,Bag,0,0,0,,Food always tastes best after killing someone.
-Dialogue: 0,0:17:24.81,0:17:27.27,Default,Kuroi,0,0,0,,Are you from the Star Religious Group?
-Dialogue: 0,0:17:27.65,0:17:31.92,Default,Kuroi,0,0,0,,The people in Q wore even weirder outfits.
-Dialogue: 0,0:17:32.15,0:17:33.65,Default,Bag,0,0,0,,Are you a rookie?
-Dialogue: 0,0:17:33.65,0:17:35.78,Default,Bag,0,0,0,,If you're killing someone, do it without talking.
-Dialogue: 0,0:17:39.95,0:17:41.12,Default,Bag,0,0,0,,Too slow.
-Dialogue: 0,0:17:54.53,0:17:56.72,Default,Kuroi,0,0,0,,Don't you dare take anything from that girl.
-Dialogue: 0,0:17:57.45,0:17:58.93,Default,Kuroi,0,0,0,,I'll kill you.
-Dialogue: 0,0:18:04.06,0:18:05.23,Default,Geto,0,0,0,,What's this?
-Dialogue: 0,0:18:06.14,0:18:07.81,Default,Geto,0,0,0,,Well, aren't you strong?
-Dialogue: 0,0:18:09.07,0:18:10.23,Default,Geto,0,0,0,,Where's Riko{**-chan}?
-Dialogue: 0,0:18:11.02,0:18:13.61,Default,Kuroi,0,0,0,,She left the school with Gojo-sama.
-Dialogue: 0,0:18:13.61,0:18:16.28,Default,Geto,0,0,0,,Then we should head that way, too.
-Dialogue: 0,0:18:16.28,0:18:18.69,Default,Geto,0,0,0,,This has gotten a bit troublesome.
-Dialogue: 0,0:18:19.95,0:18:22.74,Default,Bag,0,0,0,,So that really was the thirty million earlier.
-Dialogue: 0,0:18:25.75,0:18:27.16,Default,Kuroi,0,0,0,,A shikigami?!
-Dialogue: 0,0:18:27.16,0:18:29.62,Default,Geto,0,0,0,,No, it's not quite the same as a shikigami.
-Dialogue: 0,0:18:30.00,0:18:31.04,Default,Geto,0,0,0,,Satoru.
-Dialogue: 0,0:18:31.42,0:18:34.25,Default,Gojo,0,0,0,,There's a bounty of thirty million on Amanai's head?
-Dialogue: 0,0:18:34.25,0:18:38.22,Default,Geto,0,0,0,,{\i1}Yeah. It was posted on an underground site for curse users.
-Dialogue: 0,0:18:38.22,0:18:40.93,Default,Geto,0,0,0,,{\i1}Apparently, the time limit is 11 AM the day after tomorrow.
-Dialogue: 0,0:18:41.43,0:18:42.93,Default,Gojo,0,0,0,,Now things make sense.
-Dialogue: 0,0:18:43.90,0:18:47.68,Default,Riko,0,0,0,,Two, three, four... They all look the same.
-Dialogue: 0,0:18:47.68,0:18:48.98,Default,Riko,0,0,0,,Are they shikigami?
-Dialogue: 0,0:18:49.33,0:18:53.65,Default,Gojo,0,0,0,,Jeez... And jujutsu sorcerers are short-handed all year round.
-Dialogue: 0,0:18:53.65,0:18:56.67,Default,Gojo,0,0,0,,If you want to change jobs, we'll welcome you, old man.
-Dialogue: 0,0:18:56.67,0:18:59.99,Default,Bag,0,0,0,,Nah, public employment ain't easy work, either.
-Dialogue: 0,0:18:59.99,0:19:02.62,Default,Bag,0,0,0,,Just hand over that brat and we'll be fine.
-Dialogue: 0,0:19:02.62,0:19:04.17,Default,Riko,0,0,0,,There's more! Five of them now!
-Dialogue: 0,0:19:04.17,0:19:07.45,Default,Gojo,0,0,0,,What's so great about this brat?
-Dialogue: 0,0:19:16.46,0:19:18.19,Default,Bag,0,0,0,,What did you just do?
-Dialogue: 0,0:19:18.45,0:19:20.01,Default,Riko,0,0,0,,The shikigami isn't disappearing!
-Dialogue: 0,0:19:20.01,0:19:21.72,Default,Riko,0,0,0,,Which is the real one?!
-Dialogue: 0,0:19:21.72,0:19:22.99,Default,Gojo,0,0,0,,They're not shikigami.
-Dialogue: 0,0:19:22.99,0:19:24.30,Default,Gojo,0,0,0,,They're clones.
-Dialogue: 0,0:19:24.30,0:19:26.56,Default,Gojo,0,0,0,,And each one is the real one.
-Dialogue: 0,0:19:31.23,0:19:32.77,Default,Bag,0,0,0,,The hell is this?!
-Dialogue: 0,0:19:32.77,0:19:33.69,Default,Gojo,0,0,0,,Infinity.
-Dialogue: 0,0:19:33.69,0:19:35.40,Default,Gojo,0,0,0,,It's Achilles and the Tortoise.
-Dialogue: 0,0:19:35.40,0:19:36.23,Default,Bag,0,0,0,,Huh?!
-Dialogue: 0,0:19:36.23,0:19:38.74,Default,Gojo,0,0,0,,It's important to study, you know.
-Dialogue: 0,0:19:40.82,0:19:44.24,Default,Gojo,0,0,0,,Yours is a cloning technique that allows a maximum of five, including the original.
-Dialogue: 0,0:19:44.24,0:19:48.12,Default,Gojo,0,0,0,,And you're always free to decide which of the clones is the main body, right?
-Dialogue: 0,0:19:48.12,0:19:50.33,Default,Gojo,0,0,0,,So if your main body is in danger,
-Dialogue: 0,0:19:50.33,0:19:52.79,Default,Gojo,0,0,0,,you make a safe clone the main body.
-Dialogue: 0,0:19:52.79,0:19:54.75,Default,Gojo,0,0,0,,That's a nice technique you have there.
-Dialogue: 0,0:19:54.75,0:19:57.67,Default,Gojo,0,0,0,,I don't understand why you're so weak.
-Dialogue: 0,0:19:58.63,0:20:02.15,Default,Gojo,0,0,0,,Are you unable to produce a clone for a while after it's destroyed?
-Dialogue: 0,0:20:02.15,0:20:04.64,Default,Bag,0,0,0,,How do you know what my technique is?
-Dialogue: 0,0:20:04.64,0:20:06.22,Default,Gojo,0,0,0,,Unfortunately for you,
-Dialogue: 0,0:20:06.22,0:20:07.97,Default,Gojo,0,0,0,,I have good eyes.
-Dialogue: 0,0:20:08.62,0:20:10.64,Default,Gojo,0,0,0,,You see, my technique
-Dialogue: 0,0:20:10.64,0:20:13.73,Default,Gojo,0,0,0,,is like a convergent series of infinite numbers.
-Dialogue: 0,0:20:13.73,0:20:16.59,Default,Gojo,0,0,0,,Anything that approaches me grows slower and slower,
-Dialogue: 0,0:20:16.59,0:20:19.57,Default,Gojo,0,0,0,,and ultimately, it fails to ever reach me.
-Dialogue: 0,0:20:20.10,0:20:22.61,Default,Gojo,0,0,0,,When I amplify my Limitless technique,
-Dialogue: 0,0:20:22.61,0:20:25.37,Default,Gojo,0,0,0,,I get what you might call a negative natural number.
-Dialogue: 0,0:20:25.37,0:20:28.95,Default,Gojo,0,0,0,,It basically creates a single imaginary apple.
-Dialogue: 0,0:20:29.58,0:20:32.58,Default,Gojo,0,0,0,,Doing so causes everything around to get sucked into that space, like you saw.
-Dialogue: 0,0:20:32.87,0:20:34.58,Default,Gojo,0,0,0,,Though it's surprisingly inconvenient.
-Dialogue: 0,0:20:34.83,0:20:38.75,Default,Gojo,0,0,0,,I can't create too large a reaction near myself,
-Dialogue: 0,0:20:38.75,0:20:41.05,Default,Gojo,0,0,0,,and if I start worrying about the vectors, too,
-Dialogue: 0,0:20:41.05,0:20:44.01,Default,Gojo,0,0,0,,controlling the cursed energy becomes a real pain.
+Dialogue: 0,0:13:45.97,0:13:48.73,Default,Elder,0,0,0,,{\i1}Those first two were just decoys?!
+Dialogue: 0,0:13:53.73,0:13:56.23,Default,Geto,0,0,0,,Now, that leaves one more.
+Dialogue: 0,0:14:00.36,0:14:01.82,Default,Elder,0,0,0,,You're dead!
+Dialogue: 0,0:14:18.17,0:14:21.59,Default,Elder,0,0,0,,Tasuke? Is that you, Tasuke?
+Dialogue: 0,0:14:22.26,0:14:26.80,Default,Elder,0,0,0,,{\fade(120,0)\i1}My parents spent all their time and money\N on my talented little brother.
+Dialogue: 0,0:14:26.80,0:14:30.48,Default,Elder,0,0,0,,{\i1}They thought I was creepy because I could see the unseen.
+Dialogue: 0,0:14:31.18,0:14:36.23,Default,Elder,0,0,0,,{\i1}Tasuke accepted me without such fear.\N He was my one and only friend.
+Dialogue: 0,0:14:38.57,0:14:40.44,Default,Elder,0,0,0,,It's been such a long time!
+Dialogue: 0,0:14:40.44,0:14:43.49,Default,Elder,0,0,0,,We haven't seen each other for over fifty years.
+Dialogue: 0,0:14:43.49,0:14:46.03,Default,Elder,0,0,0,,Tasuke, ever since you died{\fscx180}—{\fscx}
+Dialogue: 0,0:14:46.99,0:14:48.41,Default,Elder,0,0,0,,{\fade(300,0)\i1}I see now!
+Dialogue: 0,0:14:54.12,0:14:56.04,Default,Elder,0,0,0,,{\i1}My life is flashing before my eyes!
+Dialogue: 0,0:14:56.67,0:14:58.71,Default,Elder,0,0,0,,You lured me in!
+Dialogue: 0,0:14:58.96,0:15:00.13,Default,Geto,0,0,0,,You could say that.
+Dialogue: 0,0:15:00.13,0:15:03.22,Default,Geto,0,0,0,,Weren't you just itching to get in close this whole time?
+Dialogue: 0,0:15:03.22,0:15:08.22,Default,Geto,0,0,0,,Those with a set means of victory are easy to manipulate.\N They jump on the first chance they get.
+Dialogue: 0,0:15:10.01,0:15:13.18,Default,Geto,0,0,0,,Putting that aside, are you with Q?
+Dialogue: 0,0:15:13.18,0:15:15.19,Default,Geto,0,0,0,,Or the Star Religious Group?
+Dialogue: 0,0:15:38.21,0:15:39.34,Default,Gojo,0,0,0,,Amanai!
+Dialogue: 0,0:15:45.05,0:15:45.43,Default,Riko,0,0,0,,Wh...
+Dialogue: 0,0:15:45.43,0:15:45.80,Default,Riko,0,0,0,,Wh-Wh...
+Dialogue: 0,0:15:45.80,0:15:46.05,Default,Riko,0,0,0,,Wh-Wha...
+Dialogue: 0,0:15:46.05,0:15:46.26,Default,Riko,0,0,0,,Wh-Wh-Wha...
+Dialogue: 0,0:15:46.26,0:15:46.51,Default,Riko,0,0,0,,Wh-Wh-Wh-Wha...
+Dialogue: 0,0:15:46.51,0:15:46.72,Default,Riko,0,0,0,,Wh-Wh-Wh-Wh-Wha...
+Dialogue: 0,0:15:46.72,0:15:46.89,Default,Riko,0,0,0,,Wh-Wh-Wh-Wh-Wh-Wha...
+Dialogue: 0,0:15:46.89,0:15:47.14,Default,Riko,0,0,0,,Wh-Wh-Wh-Wh-Wh-Wh-Wha...
+Dialogue: 0,0:15:47.14,0:15:47.34,Default,Riko,0,0,0,,Wh-Wh-Wh-Wh-Wh-Wh-Wh-Wha...
+Dialogue: 0,0:15:47.93,0:15:49.10,Default,Girls,0,0,0,,What?!
+Dialogue: 0,0:15:49.10,0:15:51.10,Default,GirlD,0,0,0,,What the heck, Riko? You have a boyfriend?!
+Dialogue: 0,0:15:51.10,0:15:53.98,Default,Riko,0,0,0,,No! He's a cousin! Just a cousin!
+Dialogue: 0,0:15:53.98,0:15:55.44,Default,GirlC,0,0,0,,You're a smooth operator.
+Dialogue: 0,0:15:55.44,0:15:57.27,Default,Riko,0,0,0,,I told you, he's not!
+Dialogue: 0,0:15:57.27,0:15:59.56,Default,GirlA,0,0,0,,Is he in high school?! He's so tall!
+Dialogue: 0,0:15:59.56,0:16:01.07,Default,GirlA,0,0,0,,Hey, mister!
+Dialogue: 0,0:16:01.07,0:16:02.53,Default,GirlF,0,0,0,,Take off your sunglasses!
+Dialogue: 0,0:16:05.36,0:16:07.03,Default,Girls,0,0,0,,Squee! He's so hot!
+Dialogue: 0,0:16:07.03,0:16:08.53,Default,GirlA,0,0,0,,Such long lashes!
+Dialogue: 0,0:16:07.82,0:16:08.53,Alt,Gojo,0,0,0,,Hey.
+Dialogue: 0,0:16:08.53,0:16:10.28,Default,GirlB,0,0,0,,How come your eyes are blue?
+Dialogue: 0,0:16:10.28,0:16:11.95,Default,Girl,0,0,0,,Strike a pose, please!
+Dialogue: 0,0:16:12.95,0:16:14.75,Default,Riko,0,0,0,,Hey! Quit getting carried away!
+Dialogue: 0,0:16:14.75,0:16:16.96,Default,Teacher,0,0,0,,All right, everyone! Quiet down!
+Dialogue: 0,0:16:16.96,0:16:18.54,Default,Teacher,0,0,0,,Where are your manners?
+Dialogue: 0,0:16:18.92,0:16:21.25,Default,GirlA,0,0,0,,We know you're interested in him, too!
+Dialogue: 0,0:16:21.25,0:16:22.42,Default,GirlB,0,0,0,,Yeah!
+Dialogue: 0,0:16:22.84,0:16:24.34,Default,Teacher,0,0,0,,This is inappropriate.
+Dialogue: 0,0:16:24.34,0:16:26.67,Default,Teacher,0,0,0,,You can't just barge in, even if you are a relative.
+Dialogue: 0,0:16:26.67,0:16:29.09,Default,Gojo,0,0,0,,Oh, I'm sorry. It was an emergency.
+Dialogue: 0,0:16:29.09,0:16:30.22,Default,Gojo,0,0,0,,My bad.
+Dialogue: 0,0:16:33.10,0:16:34.81,Default,Teacher,0,0,0,,By the way, here's my number.
+Dialogue: 0,0:16:34.81,0:16:36.98,Default,Girls,0,0,0,,Hey! That's against the rules!
+Dialogue: 0,0:16:36.98,0:16:39.69,Default,Teacher,0,0,0,,Shut up! You don't get many\N chances to meet people as a teacher!
+Dialogue: 0,0:16:39.69,0:16:41.98,Default,GirlA,0,0,0,,It's the same for us!
+Dialogue: 0,0:16:41.98,0:16:44.53,Default,GirlB,0,0,0,,A teacher flirting with a student?\N I've lost all respect for you!
+Dialogue: 0,0:16:44.53,0:16:46.65,Default,Teacher,0,0,0,,What?! You dissin' Hikaru Genji?!
+Dialogue: 0,0:16:47.03,0:16:48.78,Default,Gojo,0,0,0,,What a lively school.
+Dialogue: 0,0:16:48.78,0:16:52.08,Default,Riko,0,0,0,,You buffoon! I told you not to\N show yourself before my friends!
+Dialogue: 0,0:16:52.87,0:16:55.54,Default,Gojo,0,0,0,,Curse users attacked. You can figure out the rest.
+Dialogue: 0,0:16:57.08,0:16:58.16,Default,Riko,0,0,0,,I'm floating?!
+Dialogue: 0,0:17:03.59,0:17:05.26,Default,Gojo,0,0,0,,We're heading to Jujutsu Tech.
+Dialogue: 0,0:17:05.71,0:17:08.22,Default,Gojo,0,0,0,,You don't want your friends to get caught up in this, do you?
+Dialogue: 0,0:17:09.84,0:17:12.47,Default,Bag,0,0,0,,Is that the thirty million?
+Dialogue: 0,0:17:12.47,0:17:16.10,Default,Bag,0,0,0,,Is he after her as well? Could just be her bodyguard.
+Dialogue: 0,0:17:16.52,0:17:18.10,Default,Bag,0,0,0,,What a sweet deal.
+Dialogue: 0,0:17:18.10,0:17:20.98,Default,Bag,0,0,0,,Thirty million for killing a kid who's not even a sorcerer.
+Dialogue: 0,0:17:20.98,0:17:22.77,Default,Bag,0,0,0,,Maybe I'll have eel tonight?
+Dialogue: 0,0:17:22.77,0:17:24.90,Default,Bag,0,0,0,,Food tastes best when it's paid for with blood.
+Dialogue: 0,0:17:24.90,0:17:27.65,Default,Kuroi,0,0,0,,You must be from the Star Religious Group.
+Dialogue: 0,0:17:27.65,0:17:31.91,Default,Kuroi,0,0,0,,The people in Q wore even weirder outfits.
+Dialogue: 0,0:17:32.20,0:17:33.74,Default,Bag,0,0,0,,Are you new to this?
+Dialogue: 0,0:17:33.74,0:17:35.79,Default,Bag,0,0,0,,If you're gonna assassinate someone, do it quietly.
+Dialogue: 0,0:17:39.96,0:17:40.96,Default,Bag,0,0,0,,Too slow.
+Dialogue: 0,0:17:54.60,0:17:58.93,Default,Kuroi,0,0,0,,If you so much as lay a finger on her, I'll kill you.
+Dialogue: 0,0:18:04.19,0:18:05.23,Default,Geto,0,0,0,,Oh, my.
+Dialogue: 0,0:18:06.23,0:18:07.94,Default,Geto,0,0,0,,Aren't you strong?
+Dialogue: 0,0:18:09.11,0:18:10.20,Default,Geto,0,0,0,,Where's Riko{**-chan}?
+Dialogue: 0,0:18:11.11,0:18:13.78,Default,Kuroi,0,0,0,,She left the school with {*}Master Gojo{*Gojo-sama}.
+Dialogue: 0,0:18:13.78,0:18:16.45,Default,Geto,0,0,0,,Then we should follow them.
+Dialogue: 0,0:18:16.45,0:18:18.66,Default,Geto,0,0,0,,This has gotten a bit troublesome.
+Dialogue: 0,0:18:19.95,0:18:22.75,Default,Bag,0,0,0,,So that really was the thirty million.
+Dialogue: 0,0:18:25.75,0:18:27.34,Default,Kuroi,0,0,0,,Was that a cursed beast?!
+Dialogue: 0,0:18:27.34,0:18:29.63,Default,Geto,0,0,0,,No, it's a bit different from those.
+Dialogue: 0,0:18:30.22,0:18:31.26,Default,Geto,0,0,0,,Satoru.
+Dialogue: 0,0:18:31.26,0:18:34.26,Default,Gojo,0,0,0,,There's a bounty of thirty million on Amanai's head?
+Dialogue: 0,0:18:34.26,0:18:35.39,Default,Geto,0,0,0,,Yeah.
+Dialogue: 0,0:18:35.39,0:18:38.31,Default,Geto,0,0,0,,It was posted on an underground website for curse users.
+Dialogue: 0,0:18:38.31,0:18:41.52,Default,Geto,0,0,0,,Apparently, there's a time limit until 11 AM\N the day after tomorrow.
+Dialogue: 0,0:18:41.52,0:18:42.98,Default,Gojo,0,0,0,,Now it makes sense.
+Dialogue: 0,0:18:43.69,0:18:45.98,Default,Riko,0,0,0,,Two, three, four...
+Dialogue: 0,0:18:45.98,0:18:47.82,Default,Riko,0,0,0,,They all look the same.
+Dialogue: 0,0:18:47.82,0:18:48.98,Default,Riko,0,0,0,,Are they cursed beasts?
+Dialogue: 0,0:18:49.44,0:18:50.57,Default,Gojo,0,0,0,,Would ya look at that...
+Dialogue: 0,0:18:50.57,0:18:53.74,Default,Gojo,0,0,0,,And here us sorcerers are short-handed all year round.
+Dialogue: 0,0:18:53.74,0:18:56.66,Default,Gojo,0,0,0,,You're welcome if you wanna change jobs, old man.
+Dialogue: 0,0:18:56.66,0:19:00.08,Default,Bag,0,0,0,,Nah, being a recruiter\N doesn't sound like easy work, either.
+Dialogue: 0,0:19:00.08,0:19:02.71,Default,Bag,0,0,0,,Just hand over the brat and we'll be fine.
+Dialogue: 0,0:19:02.71,0:19:04.17,Default,Riko,0,0,0,,There's more! Five of them now!
+Dialogue: 0,0:19:04.17,0:19:07.54,Default,Gojo,0,0,0,,What's so great about this brat?
+Dialogue: 0,0:19:16.76,0:19:18.18,Default,Bag,0,0,0,,What did you just do?
+Dialogue: 0,0:19:18.56,0:19:20.01,Default,Riko,0,0,0,,The cursed beast isn't disappearing!
+Dialogue: 0,0:19:20.01,0:19:21.89,Default,Riko,0,0,0,,Which is the real one?!
+Dialogue: 0,0:19:21.89,0:19:24.31,Default,Gojo,0,0,0,,They're not cursed beasts. They're clones.
+Dialogue: 0,0:19:24.69,0:19:26.23,Default,Gojo,0,0,0,,And they're {\i1}all{\i0} real.
+Dialogue: 0,0:19:31.48,0:19:32.78,Default,Bag,0,0,0,,The hell is this?!
+Dialogue: 0,0:19:32.78,0:19:33.86,Default,Gojo,0,0,0,,Infinity.
+Dialogue: 0,0:19:33.86,0:19:35.61,Default,Gojo,0,0,0,,You know, like Achilles and the Tortoise.
+Dialogue: 0,0:19:35.61,0:19:36.24,Default,Bag,0,0,0,,Huh?!
+Dialogue: 0,0:19:36.24,0:19:38.78,Default,Gojo,0,0,0,,Should've paid more attention in school.
+Dialogue: 0,0:19:40.91,0:19:44.29,Default,Gojo,0,0,0,,Your technique lets you create up to five clones,\N where one of them is the original.
+Dialogue: 0,0:19:44.29,0:19:48.50,Default,Gojo,0,0,0,,You can switch the original with\N any of the clones whenever you want, right?
+Dialogue: 0,0:19:48.50,0:19:52.80,Default,Gojo,0,0,0,,If your main body is in danger,\N you just switch it to a safe clone instead.
+Dialogue: 0,0:19:52.80,0:19:54.76,Default,Gojo,0,0,0,,That's a nice technique you've got.
+Dialogue: 0,0:19:54.76,0:19:57.68,Default,Gojo,0,0,0,,I don't understand why you're so weak.
+Dialogue: 0,0:19:58.80,0:20:02.14,Default,Gojo,0,0,0,,You can't produce a clone for a while after it's destroyed?
+Dialogue: 0,0:20:02.14,0:20:04.64,Default,Bag,0,0,0,,How do you know my technique?
+Dialogue: 0,0:20:04.64,0:20:08.02,Default,Gojo,0,0,0,,Unfortunately for you, I've got good eyes.
+Dialogue: 0,0:20:08.61,0:20:13.82,Default,Gojo,0,0,0,,You see, my technique is like \Nthe convergence of an infinite series. {really tempted to slip in "convergence of Infinity" somewhere}
+Dialogue: 0,0:20:13.82,0:20:19.57,Default,Gojo,0,0,0,,Anything that approaches me continues to slow down\N until it can never reach me.
+Dialogue: 0,0:20:20.20,0:20:22.79,Default,Gojo,0,0,0,,Amplifying that results in Limitless.
+Dialogue: 0,0:20:22.79,0:20:25.62,Default,Gojo,0,0,0,,Think of it as negative natural numbers.
+Dialogue: 0,0:20:25.62,0:20:29.58,Default,Gojo,0,0,0,,It can create impossible situations like having -1 apples.
+Dialogue: 0,0:20:29.58,0:20:32.92,Default,Gojo,0,0,0,,Doing so creates a vacuum reaction, like you just saw.
+Dialogue: 0,0:20:32.92,0:20:34.92,Default,Gojo,0,0,0,,It's surprisingly inconvenient, though!
+Dialogue: 0,0:20:34.92,0:20:38.93,Default,Gojo,0,0,0,,I can't create too large a reaction near myself.
+Dialogue: 0,0:20:38.93,0:20:44.02,Default,Gojo,0,0,0,,If I start worrying about the vectors too,\N controlling cursed energy becomes a {\i1}real{\i0} pain.
 Dialogue: 0,0:20:44.47,0:20:46.98,Default,Gojo,0,0,0,,Basically, it's super exhausting.
-Dialogue: 0,0:20:50.22,0:20:54.23,Default,Gojo,0,0,0,,But that's all just the proper operation of the technique.
-Dialogue: 0,0:20:56.02,0:20:57.90,Default,Gojo,0,0,0,,Protect your head.
-Dialogue: 0,0:21:14.66,0:21:16.96,Default,Gojo,0,0,0,,This next one is the divergence of infinity.
-Dialogue: 0,0:21:19.25,0:21:21.06,Default,Gojo,0,0,0,,My reverse cursed technique,
-Dialogue: 0,0:21:22.67,0:21:23.55,Default,Gojo,0,0,0,,Red!
-Dialogue: 0,0:21:38.86,0:21:40.36,Default,Gojo,0,0,0,,I failed!
-Dialogue: 0,0:21:50.28,0:21:53.24,Default,Gojo,0,0,0,,I really thought I could do it that time.
-Dialogue: 0,0:21:54.08,0:21:56.25,Default,Riko,0,0,0,,{\i1}Is this guy for real?
-Dialogue: 0,0:21:59.17,0:22:00.59,Default,Riko,0,0,0,,It's from Kuroi.
-Dialogue: 0,0:22:02.92,0:22:04.42,Default,Riko,0,0,0,,Wh-What do we do?!
-Dialogue: 0,0:22:04.42,0:22:05.51,Default,Riko,0,0,0,,Kuroi has...
+Dialogue: 0,0:20:50.23,0:20:54.23,Default,Gojo,0,0,0,,But all this is just the standard operation of my technique.
+Dialogue: 0,0:20:56.03,0:20:57.90,Default,Gojo,0,0,0,,Protect your head.
+Dialogue: 0,0:21:14.80,0:21:17.59,Default,Gojo,0,0,0,,Next up is the divergence of Infinity.
+Dialogue: 0,0:21:19.34,0:21:21.05,Default,Gojo,0,0,0,,Cursed Technique Reversal:
+Dialogue: 0,0:21:22.76,0:21:23.56,Default,Gojo,0,0,0,,Red!
+Dialogue: 0,0:21:38.86,0:21:40.36,Default,Gojo,0,0,0,,It didn't work!
+Dialogue: 0,0:21:50.37,0:21:53.25,Default,Gojo,0,0,0,,I really thought I had it figured out this time.
+Dialogue: 0,0:21:54.09,0:21:56.25,Default,Riko,0,0,0,,{\i1}Is this guy for real?
+Dialogue: 0,0:21:59.30,0:22:00.59,Default,Riko,0,0,0,,It's from Kuroi.
+Dialogue: 0,0:22:03.09,0:22:04.47,Default,Riko,0,0,0,,Wh-What do we do?!
+Dialogue: 0,0:22:04.47,0:22:05.51,Default,Riko,0,0,0,,Kuroi has...
 Dialogue: 0,0:22:06.18,0:22:07.43,Default,Riko,0,0,0,,Kuroi has been...
 Comment: 0,0:22:09.93,0:22:09.98,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.94,0:23:39.98,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.48,0:23:42.65,Default,Kuroi,0,0,0,,I've always thought the voices of young people should be heard,
-Dialogue: 0,0:23:42.65,0:23:44.74,Default,Kuroi,0,0,0,,so I've voted in every election,
-Dialogue: 0,0:23:44.74,0:23:48.15,Default,Kuroi,0,0,0,,but now I'm debating how long it's actually okay to consider myself a young person.
-Dialogue: 0,0:23:48.15,0:23:49.53,Default,Riko,0,0,0,,{\an8}Next time, "Hidden Inventory 3"!
-Dialogue: 0,0:23:49.53,0:23:50.79,Default,Riko,0,0,0,,{\an8}Be sure to watch!
-Dialogue: 0,0:23:50.79,0:23:52.37,Default,Riko,0,0,0,,{\an8}Exactly how old are you, Kuroi?
-Dialogue: 0,0:23:52.37,0:23:53.12,Default,Kuroi,0,0,0,,{\an8}It's a sekwet!
-Dialogue: 0,0:23:53.12,0:23:54.29,Default,Riko,0,0,0,,{\an8}Oh, how cute!
-
-[Aegisub Project Garbage]
-Keyframes File: jjk_26_keyframes.txt
-[Aegisub Project Garbage]
-Keyframes File: jjk_26_keyframes.txt
+Dialogue: 0,0:23:40.48,0:23:44.86,Default,Kuroi,0,0,0,,{\an8}I've voted in every election because \NI believe the voices of young people should be heard,
+Dialogue: 0,0:23:44.86,0:23:48.16,Default,Kuroi,0,0,0,,{\an8}but now I'm debating how long I can\N even consider myself young.
+Dialogue: 0,0:23:48.16,0:23:50.95,Default,Riko,0,0,0,,{\an8}Be sure to watch the next episode,\N Hidden Inventory Part 3!
+Dialogue: 0,0:23:50.95,0:23:52.37,Default,Riko,0,0,0,,{\an8}How old are you anyway, Kuroi?
+Dialogue: 0,0:23:52.37,0:23:53.12,Default,Kuroi,0,0,0,,{\an8}It's a sekwet! {she's 31. why do i know this.}
+Dialogue: 0,0:23:53.12,0:23:54.29,Default,Riko,0,0,0,,{\an8}Aw, how cute!
