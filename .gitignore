@@ -20,7 +20,9 @@ _comps
 .gradle
 .vspreview
 
+sources
 results
+preprocess*
 JUJUTSUKAISEN*
 
 # Byte-compiled / optimized / DLL files
