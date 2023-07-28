@@ -59,8 +59,8 @@ Dialogue: 0,0:01:17.14,0:01:19.06,ED3,,0,0,0,,{\fs75\blur0.8\an9\pos(1870,40)}Is
 Dialogue: 0,0:01:19.06,0:01:21.10,ED3,,0,0,0,,{\fs85\blur1\an7}My already hazy memories are dying
 Dialogue: 0,0:01:21.10,0:01:22.19,ED3,,0,0,0,,{\fs85\blur1.6\an5\pos(960,475)}My already hazy memories are dying
 Dialogue: 0,0:01:22.19,0:01:24.19,ED3,,0,0,0,,{\fs85\blur2\an5\pos(960,475)}Can't even recall last night
-Dialogue: 0,0:01:24.19,0:01:25.96,ED3,,0,0,0,,{\fs85\blur2\bord2\3c&H000000&}And so the moon is dark tonight
-Dialogue: 0,0:01:25.96,0:01:26.86,ED3,,0,0,0,,{\fs85\blur2\bord2\3c&H000000&}Distorts the light
+Dialogue: 0,0:01:24.19,0:01:25.94,ED3,,0,0,0,,{\fs85\blur2\bord2\3c&H000000&}And so the moon is dark tonight
+Dialogue: 0,0:01:25.94,0:01:26.86,ED3,,0,0,0,,{\fs85\blur2\bord2\3c&H000000&}Distorts the light
 Dialogue: 0,0:01:26.86,0:01:29.40,ED3,,0,0,0,,{\fs85\blur2\bord2\3c&H000000&}Where are we going tomorrow?
 Dialogue: 1,0:00:00.36,0:00:05.36,ED3,,0,0,0,,{\fs80\blur100\t(0,500,\blur0.6)\c&HFFFFFF&}Before the good in me crumbles away entirely
 Dialogue: 1,0:00:05.36,0:00:07.90,ED3,,0,0,0,,{\fs80\blur0.6}Before the good in me crumbles away entirely
@@ -86,6 +86,6 @@ Dialogue: 1,0:01:10.51,0:01:12.05,ED3,,0,0,0,,{\fs85\blur0.6\c&HFFFFFF&}Head fee
 Dialogue: 1,0:01:12.05,0:01:13.26,ED3,,0,0,0,,{\fs85\blur0.6\c&HFFFFFF&}Can't get outta bed today
 Dialogue: 1,0:01:13.26,0:01:13.68,ED3,,0,0,0,,{\fs85\blur0.6\c&HFFFFFF&\pos(78,49)}Can't get outta bed today
 Dialogue: 1,0:01:13.68,0:01:17.14,ED3,,0,0,0,,{\fs85\blur0.6\c&HFFFFFF&}Lemme sleep and sleep 'till the next day
-Dialogue: 1,0:01:24.19,0:01:25.96,ED3,,0,0,0,,{\fs85\blur0.6\c&HFFFFFF&}And so the moon is dark tonight
-Dialogue: 1,0:01:25.96,0:01:26.86,ED3,,0,0,0,,{\fs85\blur0.6\c&HFFFFFF&}Distorts the light
+Dialogue: 1,0:01:24.19,0:01:25.94,ED3,,0,0,0,,{\fs85\blur0.6\c&HFFFFFF&}And so the moon is dark tonight
+Dialogue: 1,0:01:25.94,0:01:26.86,ED3,,0,0,0,,{\fs85\blur0.6\c&HFFFFFF&}Distorts the light
 Dialogue: 1,0:01:26.86,0:01:29.40,ED3,,0,0,0,,{\fs85\blur0.6\c&HFFFFFF&}Where are we going tomorrow?
