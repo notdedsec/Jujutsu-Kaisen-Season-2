@@ -4,7 +4,7 @@ from typing import List, Tuple
 from vsscale import SSIM
 from vskernels import BicubicDidee
 from vsrgtools import lehmer_diff_merge
-from vstools import depth, replace_ranges, core
+from vstools import initialize_clip, replace_ranges, core
 from vardautomation import FileInfo, VPath, Preset, PresetType, PresetEAC3, PresetAAC
 
 
@@ -33,6 +33,7 @@ class Source:
         trims = (24, None) if 'DSNP' in str(src) else (None, None)
         preset = [PresetWEB, PresetEAC3] if 'DSNP' in str(src) or 'AMZN' in str(src) else [PresetWEB, PresetAAC]
         SRC = FileInfo(src, trims, preset=preset)
+        SRC.clip_cut = initialize_clip(SRC.clip_cut)
         return SRC
 
 
@@ -42,7 +43,7 @@ class Source:
         AZ = self.get_source('*AMZN*.mkv')
         DP = self.get_source('*DSNP*.mkv')
 
-        cr, bb, dp = [depth(src.clip_cut, 16) for src in [CR, BB, DP]]
+        cr, bb, dp = [src.clip_cut for src in [CR, BB, DP]]
         bb = SSIM(sigmoid=True, kernel=BicubicDidee()).scale(bb, 1920, 1080)
 
         src_a = lehmer_diff_merge(cr, dp)
