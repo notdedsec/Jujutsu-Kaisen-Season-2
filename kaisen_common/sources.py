@@ -21,6 +21,7 @@ PresetWEB = Preset(
 class Source:
 
     ROOT = VPath(os.path.dirname(__file__)).parent
+    FILE = None
 
 
     def __init__(self, episode: int):
@@ -32,8 +33,10 @@ class Source:
         src = next(self.sources.glob(pattern))
         trims = (24, None) if 'DSNP' in str(src) else (None, None)
         preset = [PresetWEB, PresetEAC3] if 'DSNP' in str(src) or 'AMZN' in str(src) else [PresetWEB, PresetAAC]
+
         SRC = FileInfo(src, trims, preset=preset)
         SRC.clip_cut = initialize_clip(SRC.clip_cut)
+
         return SRC
 
 
@@ -51,11 +54,31 @@ class Source:
         merge = replace_ranges(src_a, src_b, complex_ranges)
 
         AZ.clip = AZ.clip_cut = merge
-        return AZ
+        self.FILE = AZ
+
+        return self.FILE
+
+
+    def replace(self, replacement: str, repl_start: int, main_start: int, duration: int):
+        assert self.FILE
+        main_clip = self.FILE.clip_cut
+
+        repl_file = FileInfo(self.ROOT / replacement)
+        repl_clip = initialize_clip(repl_file.clip_cut)
+        repl_clip = repl_clip.std.AssumeFPS(fpsnum=24000, fpsden=1001)
+
+        repl_end = repl_start + duration
+        main_end = main_start + duration
+
+        replaced = main_clip[:main_start] + repl_clip[repl_start:repl_end] + main_clip[main_end:]
+        self.FILE.clip = self.FILE.clip_cut = replaced
+
+        return self.FILE
 
 
     def get_encode(self):
         enc = self.sources.parent / f'jjk_{self.episode}_premux.mkv'
         ENC = FileInfo(enc, preset=[PresetWEB, PresetEAC3])        
+
         return ENC
 
