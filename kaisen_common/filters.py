@@ -31,7 +31,7 @@ class Filter:
         NO_DENOISE_RANGES: List[Tuple[int, int]] = [],
         STRONG_DEBAND_RANGES: List[Tuple[int, int]] = [],
         DIMMED_SCENES: Dict[Tuple[int, int], float] = {},
-
+        NUKE_FRAMES: List[int] = [],
     ):
 
         self.SRC = SRC
@@ -40,6 +40,7 @@ class Filter:
         self.NO_DENOISE_RANGES = NO_DENOISE_RANGES
         self.STRONG_DEBAND_RANGES = STRONG_DEBAND_RANGES
         self.DIMMED_SCENES = DIMMED_SCENES
+        self.NUKE_FRAMES = NUKE_FRAMES
 
 
     def process(self, ED3: Optional[int] = None) -> VideoNode:
@@ -74,7 +75,12 @@ class Filter:
         rescale = replace_ranges(restored, src_y, self.NO_RESCALE_RANGES)
         rescale = join(rescale, src)
 
-        undimmed = rescale
+        unghosted = rescale
+        for frame in self.NUKE_FRAMES:
+            unghosted = unghosted.std.DeleteFrames(frame)
+            unghosted = unghosted.std.DuplicateFrames(frame)
+
+        undimmed = unghosted
         for ranges, strength in self.DIMMED_SCENES.items():
             tweak = Tweak(undimmed, sat=strength, cont=strength)
             undimmed = replace_ranges(undimmed, tweak, ranges)
