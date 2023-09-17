@@ -1,6 +1,6 @@
 #!C:/KaizokuEncoderV2/python
 
-from typing import List, Dict, Tuple, Optional
+from typing import Any, List, Dict, Tuple, Optional
 from vardautomation import FileInfo
 from vapoursynth import VideoNode
 
@@ -17,6 +17,8 @@ from adptvgrnMod import adptvgrnMod
 from debandshit import dumb3kdb
 from adjust import Tweak
 
+from kaisen_common.utils import letterbox_fix
+
 
 class Filter:
 
@@ -32,6 +34,7 @@ class Filter:
         STRONG_DEBAND_RANGES: List[Tuple[int, int]] = [],
         DIMMED_SCENES: Dict[Tuple[int, int], float] = {},
         NUKE_FRAMES: List[int] = [],
+        LETTERBOX_RANGES: Dict[Tuple[int, int], Dict[str, Any]] = {}
     ):
 
         self.SRC = SRC
@@ -41,6 +44,7 @@ class Filter:
         self.STRONG_DEBAND_RANGES = STRONG_DEBAND_RANGES
         self.DIMMED_SCENES = DIMMED_SCENES
         self.NUKE_FRAMES = NUKE_FRAMES
+        self.LETTERBOX_RANGES = LETTERBOX_RANGES
 
 
     def process(self, ED3: Optional[int] = None) -> VideoNode:
@@ -98,6 +102,10 @@ class Filter:
 
         grain = adptvgrnMod(deband, strength=0.24, luma_scaling=8, sharp=64, grain_chroma=False, static=True)
         final = depth(grain, 10).std.Limiter(16 << 2, [235 << 2, 240 << 2], [0, 1, 2])
+
+        for ranges, params in self.LETTERBOX_RANGES.items():
+            params['ranges'] = ranges
+            final = letterbox_fix(final, src, **params)
 
         set_output(src)
         # set_output(upscaled)
