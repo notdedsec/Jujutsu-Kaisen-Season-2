@@ -67,6 +67,9 @@ class Source:
         repl_clip = initialize_clip(repl_file.clip_cut)
         repl_clip = repl_clip.std.AssumeFPS(fpsnum=24000, fpsden=1001)
 
+        if repl_clip.height > 1080:
+            repl_clip = SSIM(sigmoid=True, kernel=BicubicDidee()).scale(repl_clip, 1920, 1080)
+
         repl_end = repl_start + duration
         main_end = main_start + duration
 
