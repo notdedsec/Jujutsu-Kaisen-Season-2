@@ -11,6 +11,7 @@ ED = 31888
 src = Source(29)
 SRC = src.merge(complex_ranges = [(OP+1136, OP+1611)])
 
+
 flt = Filter(
     SRC,
     NO_AA_RANGES = [(18115, 18234), (18539, 18645), (20161, 20402)],
@@ -24,7 +25,10 @@ flt = Filter(
         (19935, 20029): 1.4,
         (20030, 20160): 1.225,
     },
-    NUKE_FRAMES = [19889, 19902, 19925]
+    NUKE_FRAMES = [19889, 19902, 19925],
+    LETTERBOX_RANGES = {
+        (31049, 31119): dict(height=132, offset=2),
+    }
 )
 
 enc = Encoder(SRC, flt.process(ED3=ED))
