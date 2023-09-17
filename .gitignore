@@ -1,15 +1,20 @@
+*.bat
+*.txt
 *.mkv
 *.mka
 *.mp4
 *.avc
+*.265
+*.lwi
+*.png
+*.jpg
 *.aac
 *.m4a
 *.wav
-*.265
-*.lwi
+*.eac3
 *.index
-*.ffindex
-*.torrent
+*.ffindex*
+*.torrent*
 private.properties
 
 _wip
@@ -19,11 +24,15 @@ _stuff
 _comps
 .gradle
 .vspreview
+*_temp*
 
 sources
 results
 preprocess*
 JUJUTSUKAISEN*
+
+!gradlew.bat
+!*keyframes.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
