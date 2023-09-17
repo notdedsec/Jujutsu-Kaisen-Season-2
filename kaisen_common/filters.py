@@ -91,9 +91,9 @@ class Filter:
 
         denoise_y = MVTools.denoise(get_y(undimmed), thSAD=48, block_size=32, overlap=16, prefilter=Prefilter.MINBLUR2, sad_mode=SADMode.SPATIAL.same_recalc)
         denoise_y = denoise_y.ttmpsm.TTempSmooth(maxr=1, thresh=1, mdiff=0, strength=1)
-        denoise_y = replace_ranges(denoise_y, get_y(undimmed), self.NO_DENOISE_RANGES)
         denoise_c = ccd(undimmed, thr=1, planes=[1, 2], matrix=Matrix.BT709)
         denoise = join(denoise_y, denoise_c)
+        denoise = replace_ranges(denoise, undimmed, self.NO_DENOISE_RANGES)
 
         dumb_deband_normal = dumb3kdb(denoise, radius=16, threshold=24, use_neo=True)
         dumb_deband_strong = dumb3kdb(denoise, radius=16, threshold=42, use_neo=True)
