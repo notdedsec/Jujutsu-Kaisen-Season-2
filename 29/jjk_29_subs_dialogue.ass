@@ -18,11 +18,9 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Audio File: jjk_29_premux.mkv
 Video File: jjk_29_premux.mkv
+Keyframes File: jjk_29_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 363
-Active Line: 376
-Video Position: 34046
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,385 +33,357 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:01:29.99,0:01:30.03,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:01:32.97,0:01:34.82,Default,Shoko,0,0,0,,Here we go.
-Dialogue: 0,0:01:39.68,0:01:41.45,Default,Gojo,0,0,0,,Yeah, it's working.
-Dialogue: 0,0:01:41.45,0:01:44.28,Default,Shoko,0,0,0,,Ugh, what the heck was that?
-Dialogue: 0,0:01:44.28,0:01:46.91,Default,Geto,0,0,0,,Automatic selection of targets for your jujutsu technique?
-Dialogue: 0,0:01:46.91,0:01:47.91,Default,Gojo,0,0,0,,Yup.
-Dialogue: 0,0:01:47.91,0:01:51.05,Default,Gojo,0,0,0,,Though, to be precise, I'm the target for the technique.
-Dialogue: 0,0:01:51.40,0:01:54.63,Default,Gojo,0,0,0,,I've automated what I used to do manually.
-Dialogue: 0,0:01:54.63,0:01:56.42,Default,Gojo,0,0,0,,Now it can discern an object's danger level
-Dialogue: 0,0:01:56.71,0:02:01.30,Default,Gojo,0,0,0,,based on the strength of its cursed energy, its mass, its velocity, and its shape.
-Dialogue: 0,0:02:01.30,0:02:04.49,Default,Gojo,0,0,0,,I'd like to get it to discern poisons, too,
-Dialogue: 0,0:02:04.49,0:02:06.47,Default,Gojo,0,0,0,,but that's still proving difficult.
-Dialogue: 0,0:02:06.47,0:02:09.11,Default,Gojo,0,0,0,,This will allow me to keep my Limitless technique active
-Dialogue: 0,0:02:09.11,0:02:11.61,Default,Gojo,0,0,0,,almost perpetually with minimal resources.
+Dialogue: 0,0:01:32.99,0:01:34.62,Default,Shoko,0,0,0,,Heads up!
+Dialogue: 0,0:01:39.79,0:01:41.46,Default,Gojo,0,0,0,,Yep, it's working.
+Dialogue: 0,0:01:41.46,0:01:44.38,Default,Shoko,0,0,0,,Ugh, what the heck was that?
+Dialogue: 0,0:01:44.38,0:01:46.92,Default,Geto,0,0,0,,Automatic selection of targets for your technique?
+Dialogue: 0,0:01:46.92,0:01:48.00,Default,Gojo,0,0,0,,Yup.
+Dialogue: 0,0:01:48.00,0:01:51.51,Default,Gojo,0,0,0,,Though, to be precise, I'm the target for the technique.
+Dialogue: 0,0:01:51.51,0:01:54.72,Default,Gojo,0,0,0,,I've automated what I used to do manually.
+Dialogue: 0,0:01:54.72,0:01:56.43,Default,Gojo,0,0,0,,In addition to cursed energy,
+Dialogue: 0,0:01:56.43,0:02:01.31,Default,Gojo,0,0,0,,it can discern an object's danger level based on\N its mass, velocity, and shape.
+Dialogue: 0,0:02:01.31,0:02:06.48,Default,Gojo,0,0,0,,It'd be nice if it could detect poisons too,\N but that'll take some time.
+Dialogue: 0,0:02:06.48,0:02:11.61,Default,Gojo,0,0,0,,Now I should be able to keep my Limitless active\N almost perpetually with minimal resources.
 Dialogue: 0,0:02:11.61,0:02:14.57,Default,Shoko,0,0,0,,Having it perpetually active will fry your brain.
-Dialogue: 0,0:02:14.57,0:02:17.01,Default,Gojo,0,0,0,,But I can also keep running the reverse cursed technique
-Dialogue: 0,0:02:17.01,0:02:18.66,Default,Gojo,0,0,0,,with the energy I generate on my own.
-Dialogue: 0,0:02:18.66,0:02:21.20,Default,Gojo,0,0,0,,So I'm constantly giving it a fresh brain to work with.
-Dialogue: 0,0:02:21.97,0:02:24.75,Default,Gojo,0,0,0,,I'd already been working on shortening my hand seals. That's nailed now, too.
-Dialogue: 0,0:02:24.75,0:02:30.00,Default,Gojo,0,0,0,,So I can also activate multiple instances of Blue and Red simultaneously.
-Dialogue: 0,0:02:30.00,0:02:31.42,Default,Gojo,0,0,0,,The only remaining hurdles are
-Dialogue: 0,0:02:31.42,0:02:34.17,Default,Gojo,0,0,0,,Domain Expansion and teleportation over long distances.
-Dialogue: 0,0:02:34.67,0:02:36.83,Default,Gojo,0,0,0,,I should be able to get that down if we set up
-Dialogue: 0,0:02:36.83,0:02:39.67,Default,Gojo,0,0,0,,some courses without any obstacles in Jujutsu Tech.
-Dialogue: 0,0:02:40.09,0:02:42.96,Default,Gojo,0,0,0,,Shoko, could you lend me some lab rats?
-Dialogue: 0,0:02:42.96,0:02:44.23,Default,Shoko,0,0,0,,Uh...
-Dialogue: 0,0:02:44.23,0:02:46.53,Default,Geto,0,0,0,,{\i1}Satoru had become the "strongest."
-Dialogue: 0,0:02:46.53,0:02:49.20,Default,Gojo,0,0,0,,Suguru, have you lost weight?
-Dialogue: 0,0:02:49.20,0:02:50.28,Default,Gojo,0,0,0,,You okay?
-Dialogue: 0,0:02:50.64,0:02:53.64,Default,Geto,0,0,0,,{\i1}He handled all of his missions alone,
-Dialogue: 0,0:02:53.64,0:02:57.27,Default,Geto,0,0,0,,{\i1}and Shoko was never sent out on dangerous missions in the first place,
-Dialogue: 0,0:02:57.71,0:03:01.13,Default,Geto,0,0,0,,{\i1}which naturally meant I was sent on missions alone more often, too.
-Dialogue: 0,0:03:01.53,0:03:03.33,Default,Geto,0,0,0,,It's just heat fatigue.
-Dialogue: 0,0:03:03.33,0:03:04.80,Default,Geto,0,0,0,,I'll be fine.
-Dialogue: 0,0:03:05.55,0:03:07.29,Default,Gojo,0,0,0,,Did you eat too much somen?
-Dialogue: 0,0:03:08.78,0:03:11.23,Default,Geto,0,0,0,,{\i1}Things were busy that summer.
-Dialogue: 0,0:03:16.29,0:03:19.84,Default,Geto,0,0,0,,{\i1}Likely spurred by the frequent disasters of the past year,
-Dialogue: 0,0:03:20.55,0:03:22.93,Default,Geto,0,0,0,,{\i1}cursed spirits were springing up like maggots.
-Dialogue: 0,0:03:24.43,0:03:26.67,Default,Geto,0,0,0,,{\i1}Exorcise, absorb.
-Dialogue: 0,0:03:26.67,0:03:28.05,Default,Geto,0,0,0,,{\i1}Over and over.
-Dialogue: 0,0:03:28.64,0:03:29.54,Default,Geto,0,0,0,,{\i1}Exorcise.
-Dialogue: 0,0:03:29.54,0:03:30.51,Default,Geto,0,0,0,,{\i1}Absorb.
-Dialogue: 0,0:03:31.52,0:03:34.43,Default,Geto,0,0,0,,{\i1}No one else understands what cursed spirits taste like.
-Dialogue: 0,0:03:34.87,0:03:38.27,Default,Geto,0,0,0,,{\i1}It's like swallowing a dirty rag that's been used to clean up shit and vomit.
-Dialogue: 0,0:03:40.98,0:03:42.41,Default,Geto,0,0,0,,{\i1}Who am I doing this for?
-Dialogue: 0,0:03:46.44,0:03:47.59,Default,Geto,0,0,0,,{\i1}Exorcise.
-Dialogue: 0,0:03:47.59,0:03:48.41,Default,Geto,0,0,0,,{\i1}Absorb.
-Dialogue: 0,0:03:49.39,0:03:52.76,Default,Geto,0,0,0,,{\i1}Ever since that day, I've been telling myself,
-Dialogue: 0,0:03:52.76,0:03:55.51,Default,Geto,0,0,0,,{\i1}"What I witnessed isn't uncommon."
-Dialogue: 0,0:03:55.51,0:03:59.44,Default,Geto,0,0,0,,{\i1}"I understood the ugliness of the masses,
-Dialogue: 0,0:03:59.44,0:04:03.84,Default,Geto,0,0,0,,{\i1}"and still chose to be a jujutsu sorcerer to save others."
-Dialogue: 0,0:04:13.29,0:04:14.40,Default,Geto,0,0,0,,{\i1}"Don't waver."
-Dialogue: 0,0:04:14.90,0:04:17.35,Default,Geto,0,0,0,,{\i1}"Fulfill your duty as a strong jujutsu sorcerer."
-Dialogue: 0,0:04:36.91,0:04:38.38,Default,Geto,0,0,0,,Damn monkeys...
-Dialogue: 0,0:04:41.80,0:04:43.08,Default,Haibara,0,0,0,,Geto{**-san}!
-Dialogue: 0,0:04:44.40,0:04:45.76,Default,Geto,0,0,0,,Haibara...
-Dialogue: 0,0:04:46.67,0:04:48.19,Default,Haibara,0,0,0,,Good work out there!
-Dialogue: 0,0:04:48.63,0:04:50.01,Default,Geto,0,0,0,,Want something to drink?
-Dialogue: 0,0:04:50.21,0:04:52.57,Default,Haibara,0,0,0,,Huh? No, I'd feel bad!
-Dialogue: 0,0:04:52.57,0:04:53.55,Default,Haibara,0,0,0,,But I'll take a cola!
-Dialogue: 0,0:04:56.51,0:04:59.65,Default,Haibara,0,0,0,,I'm going pretty far away for my mission tomorrow.
-Dialogue: 0,0:04:59.65,0:05:00.83,Default,Geto,0,0,0,,That so?
-Dialogue: 0,0:05:00.83,0:05:02.27,Default,Geto,0,0,0,,Bring back souvenirs.
-Dialogue: 0,0:05:02.27,0:05:03.48,Default,Haibara,0,0,0,,Of course!
-Dialogue: 0,0:05:03.48,0:05:06.52,Default,Haibara,0,0,0,,Do you prefer sweet stuff or salty stuff?
-Dialogue: 0,0:05:07.30,0:05:11.16,Default,Geto,0,0,0,,Satoru might eat some, too, so... sweet, I guess?
-Dialogue: 0,0:05:11.38,0:05:12.75,Default,Geto,0,0,0,,Got it!
-Dialogue: 0,0:05:16.65,0:05:17.73,Default,Geto,0,0,0,,Haibara...
-Dialogue: 0,0:05:18.20,0:05:21.79,Default,Geto,0,0,0,,Do you think you can keep going as a jujutsu sorcerer? It's not too hard for you?
-Dialogue: 0,0:05:23.28,0:05:24.63,Default,Haibara,0,0,0,,Well...
-Dialogue: 0,0:05:25.73,0:05:29.51,Default,Haibara,0,0,0,,I'm not really one to think about things too deeply,
-Dialogue: 0,0:05:29.83,0:05:34.14,Default,Haibara,0,0,0,,so it feels really good to be able to give my all to something I can actually do.
-Dialogue: 0,0:05:36.07,0:05:37.20,Default,Geto,0,0,0,,I see.
-Dialogue: 0,0:05:38.09,0:05:39.20,Default,Geto,0,0,0,,Yeah, it does.
-Dialogue: 0,0:05:43.73,0:05:45.44,Default,Tsukumo,0,0,0,,Are you Geto{**-kun}?
-Dialogue: 0,0:05:46.31,0:05:49.01,Default,Tsukumo,0,0,0,,What kind of woman is your type?
-Dialogue: 0,0:05:50.52,0:05:52.00,Default,Geto,0,0,0,,Who are you?
-Dialogue: 0,0:05:52.78,0:05:55.18,Default,Haibara,0,0,0,,I like girls who eat a lot!
-Dialogue: 0,0:05:55.18,0:05:56.16,Default,Tsukumo,0,0,0,,Oh?
-Dialogue: 0,0:05:56.16,0:05:57.66,Default,Geto,0,0,0,,Haibara...
-Dialogue: 0,0:05:57.66,0:05:59.59,Default,Haibara,0,0,0,,It's okay.
-Dialogue: 0,0:05:59.59,0:06:01.35,Default,Haibara,0,0,0,,She's not a bad person.
-Dialogue: 0,0:06:01.35,0:06:03.67,Default,Haibara,0,0,0,,I'm a great judge of character!
-Dialogue: 0,0:06:03.88,0:06:06.51,Default,Geto,0,0,0,,You say that while sitting next to me?
-Dialogue: 0,0:06:07.97,0:06:09.07,Default,Haibara,0,0,0,,Yes!
-Dialogue: 0,0:06:10.88,0:06:13.49,Default,Tsukumo,0,0,0,,He was being sarcastic, you know.
-Dialogue: 0,0:06:14.87,0:06:16.05,Default,Haibara,0,0,0,,Excuse me.
-Dialogue: 0,0:06:17.19,0:06:18.65,Default,Tsukumo,0,0,0,,Your underclassman?
-Dialogue: 0,0:06:18.65,0:06:20.78,Default,Tsukumo,0,0,0,,He's cute. I like how frank he is.
-Dialogue: 0,0:06:20.78,0:06:24.09,Default,Geto,0,0,0,,I think he should be more suspicious of people as a sorcerer.
-Dialogue: 0,0:06:24.09,0:06:27.82,Default,Tsukumo,0,0,0,,So, are you not going to answer?
-Dialogue: 0,0:06:28.30,0:06:31.06,Default,Geto,0,0,0,,Please answer my question first.
-Dialogue: 0,0:06:31.06,0:06:32.33,Default,Geto,0,0,0,,Who are you?
-Dialogue: 0,0:06:32.67,0:06:35.44,Default,Tsukumo,0,0,0,,Special-grade sorcerer Yuki Tsukumo.
-Dialogue: 0,0:06:35.44,0:06:37.24,Default,Tsukumo,0,0,0,,That ring any bells?
-Dialogue: 0,0:06:38.03,0:06:39.51,Default,Geto,0,0,0,,You're {\i1}her{\i0}?
-Dialogue: 0,0:06:39.51,0:06:42.08,Default,Tsukumo,0,0,0,,Oh, I like the sound of that! What do they say?
-Dialogue: 0,0:06:43.20,0:06:46.19,Default,Geto,0,0,0,,That you're a special-grade who never accepts any missions,
-Dialogue: 0,0:06:46.19,0:06:49.47,Default,Geto,0,0,0,,and you're a good-for-nothing who's been wandering around abroad.
-Dialogue: 0,0:06:49.47,0:06:52.57,Default,Tsukumo,0,0,0,,I hate Jujutsu Tech.
-Dialogue: 0,0:06:52.57,0:06:53.47,Default,Geto,0,0,0,,{\i1}She's pouting.
-Dialogue: 0,0:06:53.91,0:06:55.12,Default,Tsukumo,0,0,0,,I'm joking.
-Dialogue: 0,0:06:55.12,0:06:59.25,Default,Tsukumo,0,0,0,,Though it's true that I don't get along with Jujutsu Tech's policies.
-Dialogue: 0,0:06:59.25,0:07:02.84,Default,Tsukumo,0,0,0,,What they're doing is just treating symptoms,
-Dialogue: 0,0:07:02.84,0:07:05.36,Default,Tsukumo,0,0,0,,and I want to do something to treat the cause.
-Dialogue: 0,0:07:05.75,0:07:07.57,Default,Geto,0,0,0,,Treat the cause?
-Dialogue: 0,0:07:07.57,0:07:09.87,Default,Tsukumo,0,0,0,,Rather than hunt down cursed spirits,
-Dialogue: 0,0:07:09.87,0:07:13.03,Default,Tsukumo,0,0,0,,I want to create a world where cursed spirits aren't born.
-Dialogue: 0,0:07:15.79,0:07:17.66,Default,Tsukumo,0,0,0,,Care for a little lesson?
-Dialogue: 0,0:07:18.13,0:07:20.65,Default,Tsukumo,0,0,0,,What are cursed spirits to begin with?
-Dialogue: 0,0:07:20.65,0:07:23.48,Default,Geto,0,0,0,,They're creatures that take shape when cursed energy
-Dialogue: 0,0:07:23.48,0:07:26.79,Default,Geto,0,0,0,,leaking from humans builds up like sediment.
-Dialogue: 0,0:07:26.79,0:07:28.65,Default,Tsukumo,0,0,0,,Excellent.
-Dialogue: 0,0:07:28.65,0:07:33.05,Default,Tsukumo,0,0,0,,Now this means there are two ways to create a world where cursed spirits aren't born.
-Dialogue: 0,0:07:33.05,0:07:36.99,Default,Tsukumo,0,0,0,,One: Eliminate cursed energy from mankind.
-Dialogue: 0,0:07:36.99,0:07:41.06,Default,Tsukumo,0,0,0,,Two: Make it possible for all of humanity to control their cursed energy.
-Dialogue: 0,0:07:41.29,0:07:44.82,Default,Tsukumo,0,0,0,,I thought number one had a pretty good chance of working.
-Dialogue: 0,0:07:45.21,0:07:47.05,Default,Tsukumo,0,0,0,,There was a model case for it, too.
-Dialogue: 0,0:07:47.05,0:07:48.51,Default,Geto,0,0,0,,A model case?
-Dialogue: 0,0:07:48.51,0:07:50.78,Default,Tsukumo,0,0,0,,Someone you know well.
-Dialogue: 0,0:07:50.78,0:07:52.40,Default,Tsukumo,0,0,0,,Toji Zenin.
-Dialogue: 0,0:07:53.30,0:07:55.84,Default,Tsukumo,0,0,0,,I've seen plenty of cases where a Heavenly Pact reduced
-Dialogue: 0,0:07:55.84,0:07:58.76,Default,Tsukumo,0,0,0,,a person's cursed energy to the level of your average person,
-Dialogue: 0,0:07:58.76,0:08:00.90,Default,Tsukumo,0,0,0,,but you could search the whole world only to find
-Dialogue: 0,0:08:00.90,0:08:03.55,Default,Tsukumo,0,0,0,,he was the only case in which that cursed energy dropped to zero.
-Dialogue: 0,0:08:04.51,0:08:07.98,Default,Tsukumo,0,0,0,,That wasn't the only intriguing thing about him, either.
-Dialogue: 0,0:08:08.41,0:08:11.66,Default,Tsukumo,0,0,0,,Even though Zenin Toji had zero cursed energy,
-Dialogue: 0,0:08:11.66,0:08:14.08,Default,Tsukumo,0,0,0,,he was able to perceive cursed spirits with his five senses.
-Dialogue: 0,0:08:14.08,0:08:16.43,Default,Tsukumo,0,0,0,,By completely casting aside cursed energy,
-Dialogue: 0,0:08:16.43,0:08:18.29,Default,Tsukumo,0,0,0,,his body drew a hard line
-Dialogue: 0,0:08:18.29,0:08:21.18,Default,Tsukumo,0,0,0,,and actually gave him great resistance to curses.
-Dialogue: 0,0:08:21.41,0:08:23.28,Default,Tsukumo,0,0,0,,He truly was superhuman.
-Dialogue: 0,0:08:23.66,0:08:25.81,Default,Tsukumo,0,0,0,,You shouldn't be ashamed of losing to him.
-Dialogue: 0,0:08:26.74,0:08:30.73,Default,Tsukumo,0,0,0,,I wanted to try studying him, but he turned me down.
-Dialogue: 0,0:08:30.73,0:08:32.69,Default,Tsukumo,0,0,0,,It was a real shame to lose him.
-Dialogue: 0,0:08:33.19,0:08:35.66,Default,Tsukumo,0,0,0,,And there aren't many people with Heavenly Pacts,
-Dialogue: 0,0:08:35.66,0:08:38.35,Default,Tsukumo,0,0,0,,so I'm currently favoring route number two,
-Dialogue: 0,0:08:38.35,0:08:42.04,Default,Tsukumo,0,0,0,,making it possible for all of humanity to control their cursed energy.
-Dialogue: 0,0:08:42.88,0:08:44.04,Default,Tsukumo,0,0,0,,Did you know?
-Dialogue: 0,0:08:44.52,0:08:46.99,Default,Tsukumo,0,0,0,,Cursed spirits aren't born from sorcerers.
-Dialogue: 0,0:08:47.94,0:08:50.85,Default,Tsukumo,0,0,0,,Of course, that excludes cases where the jujutsu sorcerer
-Dialogue: 0,0:08:50.85,0:08:52.64,Default,Tsukumo,0,0,0,,turns themselves into a curse after death.
-Dialogue: 0,0:08:53.25,0:08:57.79,Default,Tsukumo,0,0,0,,Compared to non-sorcerers, jujutsu sorcerers leak extremely little cursed energy.
-Dialogue: 0,0:08:58.14,0:09:00.26,Default,Tsukumo,0,0,0,,There's some variance based on the sorcerer's capacity
-Dialogue: 0,0:09:00.26,0:09:02.56,Default,Tsukumo,0,0,0,,and the amount of cursed energy their technique expends,
-Dialogue: 0,0:09:02.88,0:09:05.16,Default,Tsukumo,0,0,0,,but the main reason is their flow.
-Dialogue: 0,0:09:05.16,0:09:09.52,Default,Tsukumo,0,0,0,,Jujutsu sorcerers circulate cursed energy through their own bodies well.
-Dialogue: 0,0:09:09.52,0:09:11.45,Default,Tsukumo,0,0,0,,To put it in rough, general terms,
-Dialogue: 0,0:09:11.45,0:09:14.05,Default,Tsukumo,0,0,0,,if all of mankind were jujutsu sorcerers,
-Dialogue: 0,0:09:14.05,0:09:15.79,Default,Tsukumo,0,0,0,,curses wouldn't be born.
-Dialogue: 0,0:09:17.00,0:09:21.29,Default,Geto,0,0,0,,Then you could solve it simply by killing all non-sorcerers.
-Dialogue: 0,0:09:23.32,0:09:24.74,Default,Tsukumo,0,0,0,,Geto{**-kun}.
-Dialogue: 0,0:09:25.71,0:09:27.62,Default,Tsukumo,0,0,0,,That's possible.
-Dialogue: 0,0:09:27.62,0:09:29.27,Default,Geto,0,0,0,,Huh? But...
-Dialogue: 0,0:09:30.51,0:09:34.30,Default,Tsukumo,0,0,0,,I mean, that's probably the easiest way to achieve it.
-Dialogue: 0,0:09:34.75,0:09:37.08,Default,Tsukumo,0,0,0,,Just keep culling non-sorcerers and
-Dialogue: 0,0:09:37.08,0:09:40.50,Default,Tsukumo,0,0,0,,force them to adapt into sorcerers as a survival strategy.
-Dialogue: 0,0:09:40.50,0:09:45.55,Default,Tsukumo,0,0,0,,You would be forcing them to evolve using fear and danger,
-Dialogue: 0,0:09:45.55,0:09:48.31,Default,Tsukumo,0,0,0,,the same way birds gained wings.
-Dialogue: 0,0:09:48.31,0:09:52.35,Default,Tsukumo,0,0,0,,But unfortunately, I'm not crazy enough to do that.
-Dialogue: 0,0:09:52.35,0:09:55.57,Default,Tsukumo,0,0,0,,Do you hate non-sorcerers, Geto{**-kun}?
-Dialogue: 0,0:09:59.53,0:10:01.29,Default,Geto,0,0,0,,I don't know.
-Dialogue: 0,0:10:01.29,0:10:05.27,Default,Geto,0,0,0,,I always thought jujutsu sorcery existed to protect non-sorcerers.
-Dialogue: 0,0:10:05.27,0:10:08.06,Default,Geto,0,0,0,,But lately, the value of non-sorcerers
-Dialogue: 0,0:10:08.06,0:10:10.61,Default,Geto,0,0,0,,has been wavering in my mind.
-Dialogue: 0,0:10:11.11,0:10:13.04,Default,Geto,0,0,0,,The admirability of the weak...
-Dialogue: 0,0:10:13.04,0:10:14.96,Default,Geto,0,0,0,,The ugliness of the weak...
-Dialogue: 0,0:10:14.96,0:10:18.47,Default,Geto,0,0,0,,I find myself struggling to discern the difference and accept those things.
-Dialogue: 0,0:10:18.93,0:10:20.80,Default,Geto,0,0,0,,There's a part of me that despises non-sorcerers,
-Dialogue: 0,0:10:20.80,0:10:22.89,Default,Geto,0,0,0,,and a part of me that wants to reject that part.
-Dialogue: 0,0:10:22.89,0:10:25.47,Default,Geto,0,0,0,,My vision for what lies at the end of the marathon game
-Dialogue: 0,0:10:25.47,0:10:27.89,Default,Geto,0,0,0,,of being a jujutsu sorcerer is so vague now
-Dialogue: 0,0:10:28.44,0:10:30.63,Default,Geto,0,0,0,,that I can't tell which represents how I truly feel.
-Dialogue: 0,0:10:31.62,0:10:33.91,Default,Tsukumo,0,0,0,,Neither one is how you truly feel.
-Dialogue: 0,0:10:37.52,0:10:39.65,Default,Tsukumo,0,0,0,,You're not at that stage yet.
-Dialogue: 0,0:10:39.65,0:10:42.15,Default,Tsukumo,0,0,0,,This part of you despising non-sorcerers,
-Dialogue: 0,0:10:42.15,0:10:44.41,Default,Tsukumo,0,0,0,,and this part of you rejecting that,
-Dialogue: 0,0:10:44.63,0:10:47.73,Default,Tsukumo,0,0,0,,are both just possibilities that you're considering.
-Dialogue: 0,0:10:48.16,0:10:50.40,Default,Tsukumo,0,0,0,,It's up to you to choose which part
-Dialogue: 0,0:10:50.40,0:10:53.02,Default,Tsukumo,0,0,0,,becomes your true feelings from here on out.
-Dialogue: 0,0:10:56.79,0:10:58.06,Default,Tsukumo,0,0,0,,See you later.
-Dialogue: 0,0:10:58.06,0:11:01.18,Default,Tsukumo,0,0,0,,It's a shame I didn't get to talk to Gojo{**-kun}, too,
-Dialogue: 0,0:11:01.18,0:11:03.08,Default,Tsukumo,0,0,0,,but it looks like I missed him today.
-Dialogue: 0,0:11:03.55,0:11:06.91,Default,Tsukumo,0,0,0,,I hope the three of us can all get along as fellow special-grades.
-Dialogue: 0,0:11:08.14,0:11:10.96,Default,Geto,0,0,0,,I'll pass that along to Satoru.
-Dialogue: 0,0:11:11.53,0:11:14.20,Default,Tsukumo,0,0,0,,Oh, right, one last thing.
-Dialogue: 0,0:11:14.20,0:11:17.09,Default,Tsukumo,0,0,0,,You don't need to worry about the Star Plasma Vessel.
-Dialogue: 0,0:11:17.09,0:11:20.74,Default,Tsukumo,0,0,0,,Either there was already another Star Plasma Vessel at the time,
-Dialogue: 0,0:11:20.74,0:11:24.18,Default,Tsukumo,0,0,0,,or a new Star Plasma Vessel has already been born.
-Dialogue: 0,0:11:24.65,0:11:28.09,Default,Tsukumo,0,0,0,,Either way, Tengen is stable.
-Dialogue: 0,0:11:32.19,0:11:33.46,Default,Geto,0,0,0,,I'm sure.
-Dialogue: 0,0:11:34.48,0:11:37.35,Default,Tsukumo,0,0,0,,Oh, I didn't get his type.
-Dialogue: 0,0:11:40.11,0:11:44.85,Default,Nanami,0,0,0,,It was supposed to be an easy mission to exterminate a second-grade cursed spirit!
-Dialogue: 0,0:11:49.59,0:11:50.47,Default,Nanami,0,0,0,,Damn it!
-Dialogue: 0,0:11:55.56,0:11:57.49,Default,Nanami,0,0,0,,Their faith in Ubusunagami...
-Dialogue: 0,0:11:59.56,0:12:01.53,Default,Nanami,0,0,0,,That was a local deity.
-Dialogue: 0,0:12:02.26,0:12:03.95,Default,Nanami,0,0,0,,That was a first-grade case!
-Dialogue: 0,0:12:06.95,0:12:09.75,Default,Geto,0,0,0,,You need to rest for now, Nanami.
-Dialogue: 0,0:12:10.11,0:12:12.20,Default,Geto,0,0,0,,Satoru has taken up your mission.
-Dialogue: 0,0:12:14.30,0:12:17.59,Default,Nanami,0,0,0,,Can't we just leave everything up to him alone at this point?
-Dialogue: 0,0:12:19.39,0:12:22.21,Default,Geto,0,0,0,,{\i1}This marathon game of being a jujutsu sorcerer...
-Dialogue: 0,0:12:24.48,0:12:26.59,Default,Geto,0,0,0,,{\i1}If the only thing waiting at the end
-Dialogue: 0,0:12:28.39,0:12:31.77,Default,Geto,0,0,0,,{\i1}is a mountain of our comrades' corpses, then...
-Dialogue: 0,0:12:43.23,0:12:44.70,Default,Geto,0,0,0,,What is this?
-Dialogue: 0,0:12:44.70,0:12:46.39,Default,Man,0,0,0,,What, you ask?
-Dialogue: 0,0:12:46.39,0:12:49.45,Default,Man,0,0,0,,These two are responsible for the latest incidents, right?
-Dialogue: 0,0:12:52.13,0:12:53.21,Default,Geto,0,0,0,,No, they're not.
-Dialogue: 0,0:12:59.92,0:13:01.88,Default,Man,0,0,0,,These two are crazy!
-Dialogue: 0,0:13:02.23,0:13:05.79,Default,Man,0,0,0,,They used their mysterious powers to attack the villagers!
-Dialogue: 0,0:13:06.29,0:13:09.43,Default,Geto,0,0,0,,I've already exterminated the cause of those incidents.
-Dialogue: 0,0:13:09.43,0:13:12.55,Default,Woman,0,0,0,,My granddaughter was nearly killed by these two, too!
-Dialogue: 0,0:13:12.55,0:13:13.68,Default,Nanako,0,0,0,,That's because she—
-Dialogue: 0,0:13:13.68,0:13:15.67,Default,Woman,0,0,0,,Shut up, you monsters!
-Dialogue: 0,0:13:15.67,0:13:17.72,Default,Woman,0,0,0,,Your parents were just as bad!
-Dialogue: 0,0:13:17.72,0:13:21.11,Default,Curse,0,0,0,,{\an8}It... It's okay.
-Dialogue: 0,0:13:17.73,0:13:21.11,Default,Woman,0,0,0,,I knew we should have killed you two when you were babies!
-Dialogue: 0,0:13:23.56,0:13:25.82,Default,Tsukumo,0,0,0,,This part of you despising non-sorcerers,
-Dialogue: 0,0:13:25.82,0:13:27.44,Default,Tsukumo,0,0,0,,and this part of you rejecting that..
-Dialogue: 0,0:13:27.87,0:13:30.16,Default,Tsukumo,0,0,0,,It's up to you to choose which part...
-Dialogue: 0,0:13:30.75,0:13:34.62,Default,Geto,0,0,0,,Everyone, shall we step outside for a moment?
-Dialogue: 0,0:13:34.62,0:13:37.12,Default,Tsukumo,0,0,0,,...becomes your true feelings from here on out.
-Dialogue: 0,0:13:42.51,0:13:43.91,Default,Woman,0,0,0,,What?!
-Dialogue: 0,0:13:44.55,0:13:45.04,Default,Man,0,0,0,,Why?!
-Dialogue: 0,0:13:47.55,0:13:48.90,Default,Woman,0,0,0,,No!
-Dialogue: 0,0:14:16.23,0:14:17.15,Default,Gojo,0,0,0,,Huh?
-Dialogue: 0,0:14:17.96,0:14:20.08,Default,Yaga,0,0,0,,Don't make me repeat myself.
-Dialogue: 0,0:14:20.08,0:14:23.10,Default,Yaga,0,0,0,,Suguru killed everyone in the village and—
-Dialogue: 0,0:14:22.16,0:14:24.01,Default,Gojo,0,0,0,,I heard you the first time.
-Dialogue: 0,0:14:24.01,0:14:26.38,Default,Gojo,0,0,0,,That's why I said, "Huh?"
-Dialogue: 0,0:14:27.73,0:14:31.27,Default,Yaga,0,0,0,,Suguru's old home was already an empty husk, as well.
-Dialogue: 0,0:14:31.72,0:14:35.47,Default,Yaga,0,0,0,,Though, from the bloodstains and residuals, he most likely killed his parents, too—
-Dialogue: 0,0:14:35.47,0:14:36.63,Default,Gojo,0,0,0,,Like hell he did!
-Dialogue: 0,0:14:36.63,0:14:37.98,Default,Yaga,0,0,0,,Satoru.
-Dialogue: 0,0:14:37.98,0:14:41.48,Default,Yaga,0,0,0,,I don't understand what's going on, either.
-Dialogue: 0,0:14:55.24,0:14:56.89,Default,Geto,0,0,0,,Need a light?
-Dialogue: 0,0:14:58.83,0:14:59.78,Default,Geto,0,0,0,,Hey.
-Dialogue: 0,0:15:00.83,0:15:02.29,Default,Shoko,0,0,0,,It's the criminal.
-Dialogue: 0,0:15:02.63,0:15:04.04,Default,Shoko,0,0,0,,Need something?
-Dialogue: 0,0:15:04.04,0:15:06.34,Default,Geto,0,0,0,,Just testing my luck, I guess.
-Dialogue: 0,0:15:07.79,0:15:09.23,Default,Shoko,0,0,0,,I'll go ahead and ask...
-Dialogue: 0,0:15:09.23,0:15:10.88,Default,Shoko,0,0,0,,Any chance the charges are false?
-Dialogue: 0,0:15:11.08,0:15:13.35,Default,Geto,0,0,0,,Nope. Unfortunately not.
-Dialogue: 0,0:15:14.00,0:15:16.79,Default,Shoko,0,0,0,,I'll ask further, then. Why?
-Dialogue: 0,0:15:17.22,0:15:19.34,Default,Geto,0,0,0,,I'm going to create a world of only jujutsu sorcerers.
-Dialogue: 0,0:15:20.46,0:15:22.48,Default,Shoko,0,0,0,,I don't get it.
-Dialogue: 0,0:15:22.48,0:15:24.32,Default,Geto,0,0,0,,I'm not a child.
-Dialogue: 0,0:15:24.32,0:15:27.70,Default,Geto,0,0,0,,I'm not holding out hope that everyone will understand.
-Dialogue: 0,0:15:28.11,0:15:31.38,Default,Shoko,0,0,0,,Sulking over the idea that no one will understand you
-Dialogue: 0,0:15:31.38,0:15:33.87,Default,Shoko,0,0,0,,sounds pretty childish to me, though.
-Dialogue: 0,0:15:33.87,0:15:35.48,Default,Shoko,0,0,0,,Hey, Gojo?
-Dialogue: 0,0:15:35.82,0:15:37.04,Default,Shoko,0,0,0,,I found Geto.
-Dialogue: 0,0:15:37.57,0:15:39.16,Default,Shoko,0,0,0,,Yeah, Shinjuku.
-Dialogue: 0,0:15:40.32,0:15:42.62,Default,Shoko,0,0,0,,No way. I don't want to get killed.
-Dialogue: 0,0:15:51.91,0:15:54.34,Default,Gojo,0,0,0,,Explain yourself, Suguru.
-Dialogue: 0,0:15:58.76,0:16:00.67,Default,Geto,0,0,0,,You already heard from Shoko, right?
-Dialogue: 0,0:16:01.00,0:16:03.31,Default,Geto,0,0,0,,That's all there is to it.
-Dialogue: 0,0:16:03.31,0:16:05.81,Default,Gojo,0,0,0,,So you're just going to kill everyone who's not a sorcerer?
-Dialogue: 0,0:16:06.56,0:16:07.82,Default,Gojo,0,0,0,,Even your parents?!
-Dialogue: 0,0:16:07.82,0:16:10.87,Default,Geto,0,0,0,,I can't allow my parents to be a special exception.
-Dialogue: 0,0:16:10.87,0:16:14.07,Default,Geto,0,0,0,,Besides, those people aren't my family anymore.
-Dialogue: 0,0:16:14.07,0:16:15.94,Default,Gojo,0,0,0,,That's not what I was asking!
-Dialogue: 0,0:16:16.30,0:16:19.12,Default,Gojo,0,0,0,,I thought we weren't allowed to kill when there's no point to it!
-Dialogue: 0,0:16:19.82,0:16:22.27,Default,Geto,0,0,0,,There is a point to it. Significance, too.
-Dialogue: 0,0:16:22.27,0:16:23.66,Default,Geto,0,0,0,,Even a great cause.
-Dialogue: 0,0:16:23.66,0:16:25.15,Default,Gojo,0,0,0,,There's not!
-Dialogue: 0,0:16:25.15,0:16:28.73,Default,Gojo,0,0,0,,You're going to kill all non-sorcerers and create a world of only jujutsu sorcerers?!
-Dialogue: 0,0:16:28.73,0:16:30.17,Default,Gojo,0,0,0,,You know that's impossible!
-Dialogue: 0,0:16:30.88,0:16:32.92,Default,Gojo,0,0,0,,There's no point in chipping away bit by bit
-Dialogue: 0,0:16:32.92,0:16:34.68,Default,Gojo,0,0,0,,at something you can't possibly do!
-Dialogue: 0,0:16:36.37,0:16:37.68,Default,Geto,0,0,0,,How arrogant.
-Dialogue: 0,0:16:38.65,0:16:39.81,Default,Gojo,0,0,0,,Huh?
-Dialogue: 0,0:16:40.31,0:16:43.15,Default,Geto,0,0,0,,You could do it, couldn't you, Satoru?
-Dialogue: 0,0:16:45.91,0:16:47.98,Default,Geto,0,0,0,,Yet you would try to convince someone else
-Dialogue: 0,0:16:48.57,0:16:52.90,Default,Geto,0,0,0,,that it's impossible to do something that's possible for you?
-Dialogue: 0,0:16:56.11,0:16:59.63,Default,Geto,0,0,0,,Are you the strongest because you're Satoru Gojo?
-Dialogue: 0,0:16:59.63,0:17:02.19,Default,Geto,0,0,0,,Or does being the strongest make you Satoru Gojo?
-Dialogue: 0,0:17:02.19,0:17:04.32,Default,Gojo,0,0,0,,What are you trying to say?
-Dialogue: 0,0:17:04.32,0:17:07.07,Default,Geto,0,0,0,,If I were able to become you,
-Dialogue: 0,0:17:07.54,0:17:11.12,Default,Geto,0,0,0,,this foolish ideal would become a lot more grounded and real, don't you think?
-Dialogue: 0,0:17:12.87,0:17:14.75,Default,Geto,0,0,0,,I've decided how I'll live my life.
-Dialogue: 0,0:17:14.75,0:17:17.63,Default,Geto,0,0,0,,Now it's just a matter of doing the best I can to achieve that.
-Dialogue: 0,0:17:27.10,0:17:28.84,Default,Geto,0,0,0,,If you want to kill me, then kill me.
-Dialogue: 0,0:17:30.85,0:17:32.60,Default,Geto,0,0,0,,There would be a point to that.
-Dialogue: 0,0:17:42.60,0:17:44.67,Default,Yaga,0,0,0,,Why didn't you pursue him?
-Dialogue: 0,0:17:48.11,0:17:50.51,Default,Gojo,0,0,0,,You're actually asking me that?
-Dialogue: 0,0:17:52.55,0:17:54.05,Default,Yaga,0,0,0,,Nah, it's fine.
-Dialogue: 0,0:17:54.37,0:17:55.63,Default,Yaga,0,0,0,,My bad.
-Dialogue: 0,0:17:59.39,0:18:02.00,Default,Gojo,0,0,0,,{*}Teach{*Sensei}, I'm strong, right?
-Dialogue: 0,0:18:02.00,0:18:04.79,Default,Yaga,0,0,0,,Yeah, brazenly so.
-Dialogue: 0,0:18:06.58,0:18:10.21,Default,Gojo,0,0,0,,But apparently, it's not good enough for just me to be strong.
-Dialogue: 0,0:18:10.85,0:18:15.44,Default,Gojo,0,0,0,,The only ones I can save are those who are already ready to be saved by another.
-Dialogue: 0,0:18:20.27,0:18:23.07,Default,Geto,0,0,0,,I thought the Star Religious Group was already dissolved.
-Dialogue: 0,0:18:23.07,0:18:25.90,Default,Kong,0,0,0,,It's a different group, but their roots are the same.
-Dialogue: 0,0:18:25.90,0:18:28.79,Default,Kong,0,0,0,,They're claiming they just bought the existing space as-is.
-Dialogue: 0,0:18:28.79,0:18:29.87,Default,Kong,0,0,0,,Don't like it?
-Dialogue: 0,0:18:29.87,0:18:33.67,Default,Geto,0,0,0,,No, it doesn't matter, as long as I can gather curses and money.
-Dialogue: 0,0:18:33.84,0:18:36.47,Default,Kong,0,0,0,,Are you really going out dressed like that?
-Dialogue: 0,0:18:36.47,0:18:39.36,Default,Geto,0,0,0,,Why not? A little showmanship is important.
-Dialogue: 0,0:18:39.75,0:18:41.37,Default,Nanako,0,0,0,,Geto-sama...
-Dialogue: 0,0:18:41.37,0:18:42.75,Default,Geto,0,0,0,,Watch closely.
-Dialogue: 0,0:18:43.20,0:18:44.43,Default,Geto,0,0,0,,They're all there, right?
-Dialogue: 0,0:18:44.43,0:18:47.68,Default,Kong,0,0,0,,All the branch directors, all the representatives, and the president.
-Dialogue: 0,0:18:47.68,0:18:49.96,Default,Kong,0,0,0,,All the big donors, as well.
-Dialogue: 0,0:18:53.29,0:18:58.39,Default,Geto,0,0,0,,Test, test. Sorry for the wait, everyone.
-Dialogue: 0,0:18:58.39,0:19:00.27,Default,Geto,0,0,0,,Now, I'll keep this brief.
-Dialogue: 0,0:19:00.63,0:19:04.27,Default,Geto,0,0,0,,From this moment onward, this organization belongs to me.
-Dialogue: 0,0:19:04.77,0:19:06.36,Default,Geto,0,0,0,,I'll be changing the name, too,
-Dialogue: 0,0:19:06.36,0:19:09.15,Default,Geto,0,0,0,,so everyone, please be sure to follow me.
-Dialogue: 0,0:19:11.16,0:19:13.23,Default,Geto,0,0,0,,Now, that's not good.
-Dialogue: 0,0:19:13.79,0:19:15.17,Default,Geto,0,0,0,,I know!
-Dialogue: 0,0:19:15.17,0:19:18.15,Default,Geto,0,0,0,,Sonoda{**-san}, if you wouldn't mind, please come to the stage.
-Dialogue: 0,0:19:19.09,0:19:20.91,Default,Geto,0,0,0,,Yes! You there!
-Dialogue: 0,0:19:21.59,0:19:23.58,Default,Geto,0,0,0,,Now, once again.
-Dialogue: 0,0:19:24.11,0:19:25.59,Default,Geto,0,0,0,,{\i1}I hate monkeys.
-Dialogue: 0,0:19:25.59,0:19:27.53,Default,Geto,0,0,0,,You obey me now...
-Dialogue: 0,0:19:27.75,0:19:30.02,Default,Geto,0,0,0,,{\i1}That's the true feeling I chose.
-Dialogue: 0,0:19:30.68,0:19:32.07,Default,Geto,0,0,0,,...monkeys.
-Dialogue: 0,0:19:34.62,0:19:37.52,Default,Gojo,0,0,0,,You're Megumi Fushiguro{**-kun}, right?
-Dialogue: 0,0:19:39.65,0:19:41.07,Default,Megumi,0,0,0,,Who are you?
-Dialogue: 0,0:19:41.07,0:19:43.36,Default,Megumi,0,0,0,,And what's with that weird face?
-Dialogue: 0,0:19:44.88,0:19:47.29,Default,Gojo,0,0,0,,You look just like him, is all.
-Dialogue: 0,0:19:48.65,0:19:50.19,Default,Gojo,0,0,0,,My own issue.
-Dialogue: 0,0:19:50.56,0:19:52.47,Default,Gojo,0,0,0,,So listen. About your dad...
-Dialogue: 0,0:19:52.47,0:19:55.54,Default,Gojo,0,0,0,,He's from this big shot jujutsu sorcerer family called the Zenin,
-Dialogue: 0,0:19:55.54,0:19:57.71,Default,Gojo,0,0,0,,but they're such scumbags they make even me sick,
-Dialogue: 0,0:19:57.71,0:20:00.79,Default,Gojo,0,0,0,,and that's why your dad left the family and had you.
-Dialogue: 0,0:20:00.79,0:20:03.33,Default,Gojo,0,0,0,,Now, you're one of the ones who can see things,
-Dialogue: 0,0:20:03.33,0:20:04.83,Default,Gojo,0,0,0,,so you're privileged there, right?
-Dialogue: 0,0:20:05.38,0:20:08.08,Default,Gojo,0,0,0,,You've noticed the power within yourself, too, yeah?
-Dialogue: 0,0:20:08.63,0:20:11.27,Default,Gojo,0,0,0,,The Zenin clan just loves strong powers.
-Dialogue: 0,0:20:11.27,0:20:14.47,Default,Gojo,0,0,0,,Most become aware of their cursed techniques around 4-6 years old.
-Dialogue: 0,0:20:14.47,0:20:16.94,Default,Gojo,0,0,0,,So it's the perfect timing to sell a kid off.
-Dialogue: 0,0:20:17.19,0:20:18.85,Default,Gojo,0,0,0,,So, Megumi{**-kun},
-Dialogue: 0,0:20:18.85,0:20:23.19,Default,Gojo,0,0,0,,you were the ultimate card that your dad kept on hand against the Zenin clan.
-Dialogue: 0,0:20:23.19,0:20:24.89,Default,Gojo,0,0,0,,Pisses you off, doesn't it?
-Dialogue: 0,0:20:24.89,0:20:28.78,Default,Gojo,0,0,0,,So, about that dad of yours. I ki—
-Dialogue: 0,0:20:27.78,0:20:28.78,Default,Megumi,0,0,0,,I don't care.
-Dialogue: 0,0:20:29.37,0:20:32.15,Default,Megumi,0,0,0,,I have no interest in where he is or what he's doing.
-Dialogue: 0,0:20:32.15,0:20:35.04,Default,Megumi,0,0,0,,I haven't even seen him in years, so I don't remember what he looks like.
-Dialogue: 0,0:20:35.47,0:20:37.66,Default,Megumi,0,0,0,,Though I get the general idea from what you just said.
-Dialogue: 0,0:20:38.33,0:20:41.49,Default,Megumi,0,0,0,,Tsumiki's mother hasn't come home for a while now, either.
-Dialogue: 0,0:20:41.49,0:20:43.85,Default,Tsumiki,0,0,0,,Ah, Megumi's home!
-Dialogue: 0,0:20:44.29,0:20:46.59,Default,Megumi,0,0,0,,That means they're finished with us,
-Dialogue: 0,0:20:46.59,0:20:49.09,Default,Megumi,0,0,0,,and they're off enjoying themselves elsewhere, right?
-Dialogue: 0,0:20:50.38,0:20:53.08,Default,Gojo,0,0,0,,Are you really a first grader?
-Dialogue: 0,0:20:53.68,0:20:54.99,Default,Gojo,0,0,0,,Well, whatever.
-Dialogue: 0,0:20:54.99,0:20:58.11,Default,Gojo,0,0,0,,If you ever want to know about your father, you can ask me.
-Dialogue: 0,0:20:58.11,0:20:59.92,Default,Gojo,0,0,0,,Hup.
-Dialogue: 0,0:20:59.92,0:21:02.39,Default,Gojo,0,0,0,,I think it'll be pretty interesting to hear.
-Dialogue: 0,0:21:02.39,0:21:04.11,Default,Gojo,0,0,0,,Now, on to the main point.
-Dialogue: 0,0:21:04.11,0:21:05.78,Default,Gojo,0,0,0,,What do you want to do?
-Dialogue: 0,0:21:05.78,0:21:07.47,Default,Gojo,0,0,0,,Do you want to go to the Zenin clan?
-Dialogue: 0,0:21:08.39,0:21:09.95,Default,Megumi,0,0,0,,What will happen to Tsumiki?
-Dialogue: 0,0:21:10.27,0:21:14.03,Default,Megumi,0,0,0,,If I go there, will Tsumiki be able to find happiness? It all depends on that.
-Dialogue: 0,0:21:14.03,0:21:16.31,Default,Gojo,0,0,0,,No. A hundred percent no.
-Dialogue: 0,0:21:16.31,0:21:18.13,Default,Gojo,0,0,0,,I can say that with certainty.
-Dialogue: 0,0:21:21.48,0:21:22.99,Default,Gojo,0,0,0,,Okay!
-Dialogue: 0,0:21:23.84,0:21:25.75,Default,Gojo,0,0,0,,Leave the rest to me, then.
-Dialogue: 0,0:21:27.61,0:21:30.87,Default,Gojo,0,0,0,,I might need you to push yourself a bit, though.
-Dialogue: 0,0:21:31.19,0:21:32.55,Default,Gojo,0,0,0,,So do your best.
-Dialogue: 0,0:21:32.96,0:21:34.57,Default,Gojo,0,0,0,,Get stronger.
-Dialogue: 0,0:21:35.42,0:21:37.98,Default,Gojo,0,0,0,,Strong enough to keep up with me.
-Dialogue: 0,0:21:44.58,0:21:46.02,Default,Megumi,0,0,0,,Gojo{*}{*-sensei}.
-Dialogue: 0,0:21:46.02,0:21:47.98,Default,Yuji,0,0,0,,So even {*}{*Sensei} sleeps, huh?
-Dialogue: 0,0:21:47.98,0:21:50.49,Default,Nobara,0,0,0,,Of course he does. What kind of nonsense is that?
-Dialogue: 0,0:21:50.49,0:21:51.85,Default,Megumi,0,0,0,,Gojo{*}{*-sensei}!
-Dialogue: 0,0:21:52.90,0:21:54.43,Default,Yuji,0,0,0,,Oh, he's awake.
-Dialogue: 0,0:21:54.43,0:21:56.87,Default,Nobara,0,0,0,,Hey, that's one of those expensive chairs, isn't it?
-Dialogue: 0,0:21:56.87,0:21:59.83,Default,Megumi,0,0,0,,Please don't fall asleep after summoning all of us here.
-Dialogue: 0,0:22:01.31,0:22:03.23,Default,Yuji,0,0,0,,Hey, no fair! I get it next, got it?!
-Dialogue: 0,0:22:03.23,0:22:05.15,Default,Yuji,0,0,0,,Hey! Hurry up!
-Dialogue: 0,0:22:05.15,0:22:06.46,Default,Megumi,0,0,0,,What are you smiling about?
-Dialogue: 0,0:22:05.15,0:22:08.34,Default,Yuji,0,0,0,,{\an8}Don't be mean! Move it!
-Dialogue: 0,0:22:08.34,0:22:09.33,Default,Gojo,0,0,0,,Nothing.
+Dialogue: 0,0:02:14.57,0:02:18.74,Default,Gojo,0,0,0,,I'll also have reverse cursed technique\N running around the clock,
+Dialogue: 0,0:02:18.74,0:02:21.20,Default,Gojo,0,0,0,,constantly giving it a fresh brain to work with.
+Dialogue: 0,0:02:22.00,0:02:24.92,Default,Gojo,0,0,0,,I've finally minimized all the necessary hand signs.
+Dialogue: 0,0:02:24.92,0:02:30.05,Default,Gojo,0,0,0,,Multiple simultaneous activations of Red and Blue\N is coming along nicely as well.
+Dialogue: 0,0:02:30.05,0:02:34.18,Default,Gojo,0,0,0,,The only things left are Domain Expansion\N and long distance teleportation.
+Dialogue: 0,0:02:34.76,0:02:39.68,Default,Gojo,0,0,0,,If we manage to secure a clear course to school, \NI might be able to get that down too.
+Dialogue: 0,0:02:40.18,0:02:42.98,Default,Gojo,0,0,0,,Shoko, could you lend me some of your lab rats? {is he referring to the juniors?}
+Dialogue: 0,0:02:42.98,0:02:44.31,Default,Shoko,0,0,0,,Uh...
+Dialogue: 0,0:02:44.31,0:02:46.60,Default,Geto,0,0,0,,{\i1}Satoru became "the strongest."
+Dialogue: 0,0:02:46.60,0:02:49.32,Default,Gojo,0,0,0,,Suguru, have you lost some weight?
+Dialogue: 0,0:02:49.32,0:02:50.65,Default,Gojo,0,0,0,,You okay?
+Dialogue: 0,0:02:50.94,0:02:53.65,Default,Geto,0,0,0,,{\i1}He handled all of his missions alone.
+Dialogue: 0,0:02:53.65,0:02:57.28,Default,Geto,0,0,0,,{\i1}Shoko was never sent out on dangerous missions in the first place,
+Dialogue: 0,0:02:57.78,0:03:01.54,Default,Geto,0,0,0,,{\i1}which naturally meant I was sent on missions alone more often, too.
+Dialogue: 0,0:03:01.83,0:03:03.45,Default,Geto,0,0,0,,It's just heat fatigue.
+Dialogue: 0,0:03:03.45,0:03:04.79,Default,Geto,0,0,0,,I'll be fine.
+Dialogue: 0,0:03:05.54,0:03:07.29,Default,Gojo,0,0,0,,Did you eat too much somen?
+Dialogue: 0,0:03:08.79,0:03:11.25,Default,Geto,0,0,0,,{\i1}Things were busy that summer.
+Dialogue: 0,0:03:16.34,0:03:19.85,Default,Geto,0,0,0,,{\i1}Perhaps due to all those frequent disasters last year.
+Dialogue: 0,0:03:20.60,0:03:22.93,Default,Geto,0,0,0,,{\i1}Curses were springing up like maggots.
+Dialogue: 0,0:03:24.43,0:03:25.18,Default,Geto,0,0,0,,{\i1}Exorcise. {originally this was joined and the next instance was split}
+Dialogue: 0,0:03:25.60,0:03:26.14,Default,Geto,0,0,0,,{\i1}Consume.
+Dialogue: 0,0:03:26.69,0:03:28.06,Default,Geto,0,0,0,,{\i1}Over and over.
+Dialogue: 0,0:03:28.65,0:03:30.52,Default,Geto,0,0,0,,{\i1}Exorcise. Consume.
+Dialogue: 0,0:03:31.61,0:03:33.11,Default,Geto,0,0,0,,{\i1}It's a taste nobody knows.
+Dialogue: 0,0:03:33.11,0:03:34.49,Default,Geto,0,0,0,,{\i1}The taste of a curse.
+Dialogue: 0,0:03:34.99,0:03:38.28,Default,Geto,0,0,0,,{\i1}Like swallowing a rag used to wipe up shit and vomit.
+Dialogue: 0,0:03:41.03,0:03:42.41,Default,Geto,0,0,0,,{\i1}Who am I doing this for?
+Dialogue: 0,0:03:46.58,0:03:47.71,Default,Geto,0,0,0,,{\i1}Exorcise.
+Dialogue: 0,0:03:47.71,0:03:48.42,Default,Geto,0,0,0,,{\i1}Consume.
+Dialogue: 0,0:03:49.50,0:03:52.84,Default,Geto,0,0,0,,{\i1}I've been telling myself ever since that day. {That's what I've been telling myself ever since that day.}
+Dialogue: 0,0:03:52.84,0:03:55.55,Default,Geto,0,0,0,,{\i1}What I witnessed was nothing out of the ordinary.
+Dialogue: 0,0:03:55.55,0:03:57.63,Default,Geto,0,0,0,,{\i1}A hideous evil known to everyone.
+Dialogue: 0,0:03:57.63,0:04:03.85,Default,Geto,0,0,0,,{\i1}Despite knowing that, I still chose to be\N a sorcerer who saves others.
+Dialogue: 0,0:04:13.32,0:04:14.90,Default,Geto,0,0,0,,{\i1}Don't lose your way.
+Dialogue: 0,0:04:14.90,0:04:17.36,Default,Geto,0,0,0,,{\i1}Follow through with your duty as the strong.
+Dialogue: 0,0:04:37.01,0:04:38.38,Default,Geto,0,0,0,,Damn monkeys...
+Dialogue: 0,0:04:41.80,0:04:43.10,Default,Haibara,0,0,0,,Geto{**-san}!
+Dialogue: 0,0:04:44.56,0:04:45.77,Default,Geto,0,0,0,,Haibara.
+Dialogue: 0,0:04:46.64,0:04:48.18,Default,Haibara,0,0,0,,I hope you're doing well!
+Dialogue: 0,0:04:48.73,0:04:50.02,Default,Geto,0,0,0,,You want a drink?
+Dialogue: 0,0:04:50.44,0:04:52.61,Default,Haibara,0,0,0,,What? No, I couldn't possibly...
+Dialogue: 0,0:04:52.61,0:04:53.65,Default,Haibara,0,0,0,,Cola, please!
+Dialogue: 0,0:04:56.61,0:04:59.65,Default,Haibara,0,0,0,,I'm going pretty far away for tomorrow's mission.
+Dialogue: 0,0:04:59.65,0:05:00.91,Default,Geto,0,0,0,,Is that so?
+Dialogue: 0,0:05:00.91,0:05:02.37,Default,Geto,0,0,0,,I'll be expecting souvenirs, then.
+Dialogue: 0,0:05:02.37,0:05:03.49,Default,Haibara,0,0,0,,Of course!
+Dialogue: 0,0:05:03.49,0:05:06.58,Default,Haibara,0,0,0,,Would you like something sweet or salty?
+Dialogue: 0,0:05:07.45,0:05:11.17,Default,Geto,0,0,0,,Satoru might eat some too,\N so get something sweet, I guess?
+Dialogue: 0,0:05:11.58,0:05:12.79,Default,Geto,0,0,0,,Got it!
+Dialogue: 0,0:05:16.67,0:05:20.59,Default,Geto,0,0,0,,Haibara, do you think being a sorcerer\N was the right path?
+Dialogue: 0,0:05:20.59,0:05:22.09,Default,Geto,0,0,0,,Isn't it too hard?
+Dialogue: 0,0:05:23.30,0:05:24.64,Default,Haibara,0,0,0,,Honestly...
+Dialogue: 0,0:05:25.68,0:05:29.52,Default,Haibara,0,0,0,,I'm not one to think too hard about \Nstuff like my path in life. {I'm not really one to think about things too deeply.}
+Dialogue: 0,0:05:29.52,0:05:34.15,Default,Haibara,0,0,0,,I'm satisfied as long as I can follow it \Nto the best of my ability! {It feels really good to be able to give my all to something I can actually do.}
+Dialogue: 0,0:05:36.15,0:05:37.19,Default,Geto,0,0,0,,Yeah.
+Dialogue: 0,0:05:38.15,0:05:39.24,Default,Geto,0,0,0,,You're right.
+Dialogue: 0,0:05:43.78,0:05:45.45,Default,Tsukumo,0,0,0,,Are you Geto{**-kun}?
+Dialogue: 0,0:05:46.41,0:05:49.58,Default,Tsukumo,0,0,0,,What type of women do you like?
+Dialogue: 0,0:05:50.58,0:05:52.46,Default,Geto,0,0,0,,May I know who you are?
+Dialogue: 0,0:05:52.87,0:05:55.25,Default,Haibara,0,0,0,,I like girls who eat a lot!
+Dialogue: 0,0:05:55.25,0:05:56.17,Default,Tsukumo,0,0,0,,Oh?
+Dialogue: 0,0:05:56.17,0:05:57.67,Default,Geto,0,0,0,,Haibara... {oh god the disappointment in his voice...}
+Dialogue: 0,0:05:57.67,0:06:01.51,Default,Haibara,0,0,0,,It's okay. She's not a bad person.
+Dialogue: 0,0:06:01.51,0:06:03.68,Default,Haibara,0,0,0,,I'm a great judge of character!
+Dialogue: 0,0:06:04.09,0:06:06.51,Default,Geto,0,0,0,,You say that while sitting next to me?
+Dialogue: 0,0:06:08.10,0:06:09.10,Default,Haibara,0,0,0,,Yes! {:thumbs_up:}
+Dialogue: 0,0:06:10.89,0:06:13.60,Default,Tsukumo,0,0,0,,He was being sarcastic, you know.
+Dialogue: 0,0:06:14.94,0:06:16.06,Default,Haibara,0,0,0,,I'll be off, then.
+Dialogue: 0,0:06:17.27,0:06:18.77,Default,Tsukumo,0,0,0,,Is he your junior?
+Dialogue: 0,0:06:18.77,0:06:20.86,Default,Tsukumo,0,0,0,,It's cute how frank he is.
+Dialogue: 0,0:06:20.86,0:06:24.24,Default,Geto,0,0,0,,He should be more suspicious of people as a sorcerer.
+Dialogue: 0,0:06:24.24,0:06:27.83,Default,Tsukumo,0,0,0,,So, are you not going to answer?
+Dialogue: 0,0:06:28.37,0:06:31.20,Default,Geto,0,0,0,,I need you to answer my question first.
+Dialogue: 0,0:06:31.20,0:06:32.33,Default,Geto,0,0,0,,Who are you?
+Dialogue: 0,0:06:32.33,0:06:35.54,Default,Tsukumo,0,0,0,,Special-grade sorcerer, Tsukumo Yuki.
+Dialogue: 0,0:06:35.54,0:06:37.25,Default,Tsukumo,0,0,0,,Ring any bells?
+Dialogue: 0,0:06:38.09,0:06:39.71,Default,Geto,0,0,0,,You're the...
+Dialogue: 0,0:06:39.71,0:06:42.09,Default,Tsukumo,0,0,0,,Oh, wow! What have you heard about me? {I'm the what?}
+Dialogue: 0,0:06:43.30,0:06:46.34,Default,Geto,0,0,0,,You're the special-grade\N who never takes on any missions.
+Dialogue: 0,0:06:46.34,0:06:49.47,Default,Geto,0,0,0,,Just a waste who does nothing but\N wander around overseas.
+Dialogue: 0,0:06:49.47,0:06:52.60,Default,Tsukumo,0,0,0,,Man, I hate Jujutsu Tech.
+Dialogue: 0,0:06:52.60,0:06:53.48,Default,Geto,0,0,0,,{\i1}She's sulking.
+Dialogue: 0,0:06:54.06,0:06:55.31,Default,Tsukumo,0,0,0,,Kidding.
+Dialogue: 0,0:06:55.31,0:06:59.40,Default,Tsukumo,0,0,0,,Though it's true that Jujutsu Tech and I don't see eye to eye.
+Dialogue: 0,0:06:59.40,0:07:02.99,Default,Tsukumo,0,0,0,,What they do here is treat the symptoms.
+Dialogue: 0,0:07:02.99,0:07:05.36,Default,Tsukumo,0,0,0,,I want to treat the cause.
+Dialogue: 0,0:07:05.82,0:07:07.57,Default,Geto,0,0,0,,How does that work?
+Dialogue: 0,0:07:07.57,0:07:13.04,Default,Tsukumo,0,0,0,,Instead of hunting down curses,\N I want to create a world where curses are never born.
+Dialogue: 0,0:07:15.92,0:07:17.71,Default,Tsukumo,0,0,0,,Care for a little lesson?
+Dialogue: 0,0:07:18.25,0:07:20.67,Default,Tsukumo,0,0,0,,What {\i1}are{\i0} curses to begin with?
+Dialogue: 0,0:07:20.67,0:07:26.80,Default,Geto,0,0,0,,They're creatures that are formed from the\N build-up of cursed energy leaking from humans.
+Dialogue: 0,0:07:26.80,0:07:28.26,Default,Tsukumo,0,0,0,,Excellent.
+Dialogue: 0,0:07:28.84,0:07:33.06,Default,Tsukumo,0,0,0,,Therefore, we have two ways to\N create a world where curses aren't born.
+Dialogue: 0,0:07:33.06,0:07:36.98,Default,Tsukumo,0,0,0,,First is to eliminate cursed energy from all of humanity.
+Dialogue: 0,0:07:36.98,0:07:41.07,Default,Tsukumo,0,0,0,,Second is to make it possible for every human\N to control their cursed energy.
+Dialogue: 0,0:07:41.07,0:07:44.82,Default,Tsukumo,0,0,0,,I thought the first one had a pretty good chance of working.
+Dialogue: 0,0:07:45.24,0:07:47.20,Default,Tsukumo,0,0,0,,It even had a proof of concept.
+Dialogue: 0,0:07:47.20,0:07:48.57,Default,Geto,0,0,0,,Really?
+Dialogue: 0,0:07:48.57,0:07:50.83,Default,Tsukumo,0,0,0,,It's someone you're familiar with.
+Dialogue: 0,0:07:50.83,0:07:52.41,Default,Tsukumo,0,0,0,,Zenin Toji.
+Dialogue: 0,0:07:53.41,0:07:58.83,Default,Tsukumo,0,0,0,,I've seen several cases where Heavenly Restriction\N has reduced a person's cursed energy,
+Dialogue: 0,0:07:58.83,0:08:00.96,Default,Tsukumo,0,0,0,,but only to the level of a normal human.
+Dialogue: 0,0:08:00.96,0:08:03.55,Default,Tsukumo,0,0,0,,He was the only one to eliminate it entirely.
+Dialogue: 0,0:08:04.59,0:08:07.97,Default,Tsukumo,0,0,0,,That wasn't the only intriguing thing about him, either.
+Dialogue: 0,0:08:08.51,0:08:14.22,Default,Tsukumo,0,0,0,,He could perceive curses with his five senses\N even without any cursed energy.
+Dialogue: 0,0:08:14.22,0:08:16.43,Default,Tsukumo,0,0,0,,By eliminating cursed energy entirely,
+Dialogue: 0,0:08:16.43,0:08:21.19,Default,Tsukumo,0,0,0,,his body became sharpened to the point where he developed a resistance to curses.
+Dialogue: 0,0:08:21.61,0:08:23.27,Default,Tsukumo,0,0,0,,He truly was superhuman.
+Dialogue: 0,0:08:23.73,0:08:25.82,Default,Tsukumo,0,0,0,,Don't feel bad about losing to him.
+Dialogue: 0,0:08:26.86,0:08:30.82,Default,Tsukumo,0,0,0,,I wanted to try studying him, but he blew me off. {??? what}
+Dialogue: 0,0:08:30.82,0:08:32.70,Default,Tsukumo,0,0,0,,It's a real shame we lost him.
+Dialogue: 0,0:08:33.28,0:08:38.46,Default,Tsukumo,0,0,0,,Cases of Heavenly Restriction are few and far between,\N so I'm currently favoring the second route.
+Dialogue: 0,0:08:38.46,0:08:42.33,Default,Tsukumo,0,0,0,,To make it possible for every human\N to control their cursed energy.
+Dialogue: 0,0:08:43.04,0:08:46.88,Default,Tsukumo,0,0,0,,Did you know? Curses are never born from sorcerers.
+Dialogue: 0,0:08:48.01,0:08:52.64,Default,Tsukumo,0,0,0,,Obviously, that doesn't include cases\N where the sorcerer turns into a curse after death. {foreshadowing}
+Dialogue: 0,0:08:53.39,0:08:57.85,Default,Tsukumo,0,0,0,,Sorcerers leak very little cursed energy\N compared to non-sorcerers.
+Dialogue: 0,0:08:58.27,0:09:02.56,Default,Tsukumo,0,0,0,,It's partly due to the difference in\N consumption and capacity of cursed energy, {There's some variance based on the sorcerer's capacity and the amount of cursed energy their technique expends,}
+Dialogue: 0,0:09:02.56,0:09:05.32,Default,Tsukumo,0,0,0,,but the main reason is its flow.
+Dialogue: 0,0:09:05.32,0:09:09.53,Default,Tsukumo,0,0,0,,Sorcerers are always channeling\N cursed energy throughout their own bodies.
+Dialogue: 0,0:09:09.53,0:09:15.79,Default,Tsukumo,0,0,0,,In layman's terms, if all of humanity were sorcerers,\N curses would never be born.
+Dialogue: 0,0:09:17.08,0:09:21.37,Default,Geto,0,0,0,,In that case, why not just kill every non-sorcerer.
+Dialogue: 0,0:09:23.42,0:09:24.67,Default,Tsukumo,0,0,0,,Geto{**-kun}.
+Dialogue: 0,0:09:25.71,0:09:27.63,Default,Tsukumo,0,0,0,,That {\i1}is{\i0} an option.
+Dialogue: 0,0:09:28.42,0:09:29.34,Default,Geto,0,0,0,,But...
+Dialogue: 0,0:09:30.63,0:09:34.30,Default,Tsukumo,0,0,0,,In fact, that might be the easiest way.
+Dialogue: 0,0:09:34.89,0:09:40.68,Default,Tsukumo,0,0,0,,Keep culling non-sorcerers and force them to adapt\N into sorcerers as a strategy for survival. {ayo}
+Dialogue: 0,0:09:40.68,0:09:48.44,Default,Tsukumo,0,0,0,,Basically forcing them to evolve using fear and danger,\N the same way birds gained wings.
+Dialogue: 0,0:09:48.44,0:09:52.49,Default,Tsukumo,0,0,0,,Unfortunately, I'm not crazy enough to do that.
+Dialogue: 0,0:09:52.49,0:09:55.57,Default,Tsukumo,0,0,0,,Do you hate non-sorcerers, Geto{**-kun}?
+Dialogue: 0,0:09:59.66,0:10:01.41,Default,Geto,0,0,0,,I don't know.
+Dialogue: 0,0:10:01.41,0:10:05.38,Default,Geto,0,0,0,,I always thought sorcerers existed to protect non-sorcerers.
+Dialogue: 0,0:10:05.38,0:10:10.55,Default,Geto,0,0,0,,But lately, the value of non-sorcerers\N has been wavering in my mind.
+Dialogue: 0,0:10:11.17,0:10:14.97,Default,Geto,0,0,0,,The preciousness of the weak. The ugliness of the weak.
+Dialogue: 0,0:10:14.97,0:10:18.47,Default,Geto,0,0,0,,I can no longer tell the difference between them.
+Dialogue: 0,0:10:18.47,0:10:22.89,Default,Geto,0,0,0,,Part of me despises non-sorcerers,\N and part of me wants to reject that feeling.{\alpha&HFF&\fscx128}. {why did i do that...}
+Dialogue: 0,0:10:22.89,0:10:28.57,Default,Geto,0,0,0,,If being a sorcerer is like running a marathon, then I can't see what lies at the finish line. {My vision for what lies at the end of the marathon game of being a jujutsu sorcerer is so vague now}
+Dialogue: 0,0:10:28.57,0:10:30.69,Default,Geto,0,0,0,,I don't know how I truly feel.
+Dialogue: 0,0:10:31.74,0:10:33.90,Default,Tsukumo,0,0,0,,The answer is neither.
+Dialogue: 0,0:10:37.53,0:10:39.66,Default,Tsukumo,0,0,0,,You're not at that stage yet.
+Dialogue: 0,0:10:39.66,0:10:42.16,Default,Tsukumo,0,0,0,,The part of you that despises non-sorcerers,
+Dialogue: 0,0:10:42.16,0:10:44.42,Default,Tsukumo,0,0,0,,and the part of you that rejects it.
+Dialogue: 0,0:10:44.42,0:10:48.17,Default,Tsukumo,0,0,0,,They're both just possibilities that you're considering.
+Dialogue: 0,0:10:48.17,0:10:53.01,Default,Tsukumo,0,0,0,,Whatever your true feeling is,\N it's something you have yet to decide.
+Dialogue: 0,0:10:56.93,0:10:58.18,Default,Tsukumo,0,0,0,,Later, then.
+Dialogue: 0,0:10:58.18,0:11:01.18,Default,Tsukumo,0,0,0,,I was hoping I could talk to Gojo{**-kun}, too.
+Dialogue: 0,0:11:01.18,0:11:03.06,Default,Tsukumo,0,0,0,,Looks like I missed him today.
+Dialogue: 0,0:11:03.64,0:11:06.90,Default,Tsukumo,0,0,0,,I hope the three of us can all get along\N as fellow special-grades.
+Dialogue: 0,0:11:08.19,0:11:11.28,Default,Geto,0,0,0,,I'll pass that along to Satoru.
+Dialogue: 0,0:11:11.61,0:11:14.32,Default,Tsukumo,0,0,0,,Oh, right, one last thing.
+Dialogue: 0,0:11:14.32,0:11:17.20,Default,Tsukumo,0,0,0,,You don't need to worry about the Star Plasma Vessel.
+Dialogue: 0,0:11:17.20,0:11:20.91,Default,Tsukumo,0,0,0,,I'm not sure if there was \Nanother Star Plasma Vessel at the time,
+Dialogue: 0,0:11:20.91,0:11:24.12,Default,Tsukumo,0,0,0,,or if a new Star Plasma Vessel has been born.
+Dialogue: 0,0:11:24.96,0:11:28.08,Default,Tsukumo,0,0,0,,Either way, Tengen is stabilized.
+Dialogue: 0,0:11:32.25,0:11:33.46,Default,Geto,0,0,0,,Of course. {I'm sure.}
+Dialogue: 0,0:11:34.47,0:11:37.38,Default,Tsukumo,0,0,0,,Oh, I didn't get his type.
+Comment: 0,0:11:38.09,0:11:38.14,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:11:40.22,0:11:44.85,Default,Nanami,0,0,0,,The mission was to exterminate a weak\N second-grade curse. It was supposed to be easy!
+Dialogue: 0,0:11:49.81,0:11:50.81,Default,Nanami,0,0,0,,Fuck!
+Dialogue: 0,0:11:55.61,0:11:57.49,Default,Nanami,0,0,0,,The Birthplace Deity... {gonna assume it's in the same class of curses as Smallpox Deity except this one's not a special grade}
+Dialogue: 0,0:11:59.70,0:12:01.83,Default,Nanami,0,0,0,,Faith of the locals made it stronger.
+Dialogue: 0,0:12:02.28,0:12:03.95,Default,Nanami,0,0,0,,It was a first-grade case!
+Dialogue: 0,0:12:07.04,0:12:09.71,Default,Geto,0,0,0,,You need to rest for now, Nanami.
+Dialogue: 0,0:12:10.21,0:12:12.21,Default,Geto,0,0,0,,Satoru has taken over the mission.
+Dialogue: 0,0:12:14.38,0:12:17.59,Default,Nanami,0,0,0,,Why don't we just leave\N everything up to him at this point?
+Dialogue: 0,0:12:19.47,0:12:22.22,Default,Geto,0,0,0,,{\i1}If being a sorcerer is like running a marathon...
+Dialogue: 0,0:12:24.56,0:12:26.60,Default,Geto,0,0,0,,{\i1}What if all that lies at the finish line
+Dialogue: 0,0:12:28.48,0:12:31.77,Default,Geto,0,0,0,,{\i1}is a mountain of corpses of fellow sorcerers...
+Dialogue: 0,0:12:43.33,0:12:44.70,Default,Geto,0,0,0,,What's going on here?
+Dialogue: 0,0:12:45.12,0:12:46.54,Default,Man,0,0,0,,What do you mean?
+Dialogue: 0,0:12:46.54,0:12:49.46,Default,Man,0,0,0,,These two are responsible for the latest incidents!
+Dialogue: 0,0:12:52.25,0:12:53.21,Default,Geto,0,0,0,,No, they're not.
+Dialogue: 0,0:13:00.01,0:13:02.34,Default,Man,0,0,0,,These two are crazy!
+Dialogue: 0,0:13:02.34,0:13:05.81,Default,Man,0,0,0,,They attacked the villagers with their weird powers again!
+Dialogue: 0,0:13:06.31,0:13:09.44,Default,Geto,0,0,0,,{\i1}I've already exterminated the cause of those incidents.
+Dialogue: 0,0:13:09.44,0:13:12.56,Default,Woman,0,0,0,,My grandson was nearly killed by these two! {did we just assume their gender?}
+Dialogue: 0,0:13:12.56,0:13:13.69,Default,Nanako,0,0,0,,That's because he{\fscx180}—{\fscx}
+Dialogue: 0,0:13:13.69,0:13:15.65,Default,Woman,0,0,0,,Shut up, you monsters!
+Dialogue: 0,0:13:15.65,0:13:17.74,Default,Woman,0,0,0,,You're just like your parents!
+Dialogue: 0,0:13:17.74,0:13:21.11,Default,Woman,0,0,0,,I knew we should've killed you at birth!
+Dialogue: 0,0:13:17.74,0:13:21.11,Cursed,Curse,0,0,0,,{\an8}It... It's okay.
+Dialogue: 0,0:13:23.57,0:13:25.91,Default,Tsukumo,0,0,0,,The part of you that despises non-sorcerers,
+Dialogue: 0,0:13:25.91,0:13:27.95,Default,Tsukumo,0,0,0,,and the part of you that rejects it.
+Dialogue: 0,0:13:27.95,0:13:30.16,Default,Tsukumo,0,0,0,,Whatever your true feeling is...
+Dialogue: 0,0:13:30.83,0:13:34.63,Default,Geto,0,0,0,,Let's step outside for a moment, shall we?
+Dialogue: 0,0:13:34.63,0:13:37.38,Default,Tsukumo,0,0,0,,...it's something you have yet to decide.
+Dialogue: 0,0:13:42.59,0:13:43.80,Default,Woman,0,0,0,,What?!
+Dialogue: 0,0:13:44.55,0:13:45.05,Default,Man,0,0,0,,Why?!
+Dialogue: 0,0:13:47.56,0:13:48.56,Default,Woman,0,0,0,,No!
+Dialogue: 0,0:14:16.29,0:14:17.17,Default,Gojo,0,0,0,,What?
+Dialogue: 0,0:14:18.05,0:14:20.17,Default,Yaga,0,0,0,,Don't make me repeat myself.
+Dialogue: 0,0:14:20.17,0:14:23.30,Default,Yaga,0,0,0,,Suguru killed everyone in the village and{\fscx180}—{\fscx}
+Dialogue: 0,0:14:22.17,0:14:24.09,Alt,Gojo,0,0,0,,I heard you the first time.
+Dialogue: 0,0:14:24.09,0:14:26.39,Default,Gojo,0,0,0,,That's why I asked.
+Dialogue: 0,0:14:27.81,0:14:31.27,Default,Yaga,0,0,0,,Suguru's old house was empty, as well.
+Dialogue: 0,0:14:31.85,0:14:35.40,Default,Yaga,0,0,0,,Judging from the bloodstains and residuals,\N he might have killed his parents{\fscx180}—{\fscx}
+Dialogue: 0,0:14:35.40,0:14:36.65,Default,Gojo,0,0,0,,Like hell he did!
+Dialogue: 0,0:14:36.65,0:14:38.07,Default,Yaga,0,0,0,,Satoru.
+Dialogue: 0,0:14:38.07,0:14:41.49,Default,Yaga,0,0,0,,I don't understand what's going on, either.
+Dialogue: 0,0:14:55.33,0:14:56.83,Default,Geto,0,0,0,,Need a light?
+Dialogue: 0,0:14:58.92,0:14:59.80,Default,Geto,0,0,0,,'Sup. {decaprio_pointing.jpg}
+Dialogue: 0,0:15:00.88,0:15:02.67,Default,Shoko,0,0,0,,If it isn't the criminal.
+Dialogue: 0,0:15:02.67,0:15:04.09,Default,Shoko,0,0,0,,What brings you here? {Need something?}
+Dialogue: 0,0:15:04.09,0:15:06.26,Default,Geto,0,0,0,,Just testing my luck, I guess.
+Dialogue: 0,0:15:07.85,0:15:09.30,Default,Shoko,0,0,0,,I'll go ahead and ask anyway.
+Dialogue: 0,0:15:09.30,0:15:10.89,Default,Shoko,0,0,0,,Any chance the charges are false?
+Dialogue: 0,0:15:11.22,0:15:13.48,Default,Geto,0,0,0,,Nope. Unfortunately not.
+Dialogue: 0,0:15:14.10,0:15:15.91,Default,Shoko,0,0,0,,I'll ask further, then.
+Dialogue: 0,0:15:15.91,0:15:17.27,Default,Shoko,0,0,0,,Why?
+Dialogue: 0,0:15:17.27,0:15:19.36,Default,Geto,0,0,0,,I'm going to create a world of \Nonly jujutsu sorcerers.
+Dialogue: 0,0:15:20.52,0:15:22.57,Default,Shoko,0,0,0,,Yeah, I don't get it.
+Dialogue: 0,0:15:22.57,0:15:24.32,Default,Geto,0,0,0,,I'm not a child.
+Dialogue: 0,0:15:24.32,0:15:27.78,Default,Geto,0,0,0,,I'm not holding out hope that everyone will understand.
+Dialogue: 0,0:15:28.20,0:15:34.00,Default,Shoko,0,0,0,,Sulking over the idea that no one will understand you\N sounds pretty childish to me, though.
+Dialogue: 0,0:15:34.00,0:15:35.50,Default,Shoko,0,0,0,,Hey, Gojo?
+Dialogue: 0,0:15:35.91,0:15:37.04,Default,Shoko,0,0,0,,Geto's here.
+Dialogue: 0,0:15:37.67,0:15:39.17,Default,Shoko,0,0,0,,Yeah, Shinjuku.
+Dialogue: 0,0:15:40.46,0:15:42.63,Default,Shoko,0,0,0,,No way. I don't wanna get killed.
+Dialogue: 0,0:15:52.01,0:15:54.35,Default,Gojo,0,0,0,,Explain yourself, Suguru.
+Dialogue: 0,0:15:58.94,0:16:01.15,Default,Geto,0,0,0,,You already heard from Shoko, didn't you?
+Dialogue: 0,0:16:01.15,0:16:03.32,Default,Geto,0,0,0,,That's all there is to it.
+Dialogue: 0,0:16:03.32,0:16:05.82,Default,Gojo,0,0,0,,So you're just going to kill everyone\N who's not a sorcerer?
+Dialogue: 0,0:16:06.61,0:16:07.82,Default,Gojo,0,0,0,,Even your parents?!
+Dialogue: 0,0:16:07.82,0:16:10.99,Default,Geto,0,0,0,,I can't allow my parents to be an exception.
+Dialogue: 0,0:16:10.99,0:16:14.08,Default,Geto,0,0,0,,Besides, my family isn't limited to just them anymore.
+Dialogue: 0,0:16:14.08,0:16:15.95,Default,Gojo,0,0,0,,That's not what I'm asking!
+Dialogue: 0,0:16:16.41,0:16:19.21,Default,Gojo,0,0,0,,I thought we weren't allowed to kill if there's no point to it!
+Dialogue: 0,0:16:19.83,0:16:22.34,Default,Geto,0,0,0,,There {\i1}is{\i0} a point to it. Significance, too.
+Dialogue: 0,0:16:22.34,0:16:23.67,Default,Geto,0,0,0,,You could even call it a cause. {A cause, even.}
+Dialogue: 0,0:16:23.67,0:16:25.30,Default,Gojo,0,0,0,,Yeah, right! {Bullshit!} {There isn't!}
+Dialogue: 0,0:16:25.30,0:16:28.80,Default,Gojo,0,0,0,,Killing all non-sorcerers\N to create a world of only sorcerers?!
+Dialogue: 0,0:16:28.80,0:16:30.18,Default,Gojo,0,0,0,,You know that's impossible!
+Dialogue: 0,0:16:30.93,0:16:34.68,Default,Gojo,0,0,0,,There's no point in chipping away at something\N you can't possibly do!
+Dialogue: 0,0:16:36.43,0:16:37.68,Default,Geto,0,0,0,,How arrogant.
+Dialogue: 0,0:16:38.81,0:16:39.69,Default,Gojo,0,0,0,,What?
+Dialogue: 0,0:16:40.31,0:16:43.48,Default,Geto,0,0,0,,You could do it, Satoru.
+Dialogue: 0,0:16:45.90,0:16:47.99,Default,Geto,0,0,0,,Yet you would try to convince someone else
+Dialogue: 0,0:16:48.78,0:16:52.91,Default,Geto,0,0,0,,that it's impossible to do something that's possible for you?
+Dialogue: 0,0:16:56.12,0:16:59.79,Default,Geto,0,0,0,,Are you the strongest because you're Gojo Satoru?
+Dialogue: 0,0:16:59.79,0:17:02.58,Default,Geto,0,0,0,,Or are you Gojo Satoru because you're the strongest?
+Dialogue: 0,0:17:02.58,0:17:04.34,Default,Gojo,0,0,0,,What exactly are you getting at?
+Dialogue: 0,0:17:04.34,0:17:11.13,Default,Geto,0,0,0,,If I could be you, wouldn't my foolish ideals \Nbecome reasonable possibilities?
+Dialogue: 0,0:17:12.89,0:17:14.89,Default,Geto,0,0,0,,This is the path I've chosen.
+Dialogue: 0,0:17:14.89,0:17:17.64,Default,Geto,0,0,0,,All that's left is to follow it to the best of my ability.
+Dialogue: 0,0:17:27.11,0:17:28.86,Default,Geto,0,0,0,,If you want to kill me, then kill me.
+Dialogue: 0,0:17:30.86,0:17:32.61,Default,Geto,0,0,0,,There would be a point to that.
+Dialogue: 0,0:17:42.75,0:17:44.63,Default,Yaga,0,0,0,,Why didn't you pursue him?
+Dialogue: 0,0:17:48.26,0:17:50.55,Default,Gojo,0,0,0,,You're actually asking me that?
+Dialogue: 0,0:17:52.68,0:17:54.05,Default,Yaga,0,0,0,,No, it's fine.
+Dialogue: 0,0:17:54.47,0:17:55.64,Default,Yaga,0,0,0,,My bad.
+Dialogue: 0,0:17:59.52,0:18:02.02,Default,Gojo,0,0,0,,{*}Teach{*Sensei}, I'm strong, right?
+Dialogue: 0,0:18:02.39,0:18:04.77,Default,Yaga,0,0,0,,Yeah, brazenly so.
+Dialogue: 0,0:18:06.73,0:18:10.28,Default,Gojo,0,0,0,,Me being strong isn't enough, apparently.
+Dialogue: 0,0:18:10.99,0:18:15.45,Default,Gojo,0,0,0,,I can only save those who allow themselves to be saved. {i wanna use "want to be saved" but "allow themselves" implies someone else is doing the saving (kinda?) which is intended}
+Dialogue: 0,0:18:20.29,0:18:23.21,Default,Geto,0,0,0,,I thought the Star Religious Group\N was already dissolved.
+Dialogue: 0,0:18:23.21,0:18:25.92,Default,Kong,0,0,0,,It's a different group, but their roots are the same.
+Dialogue: 0,0:18:25.92,0:18:28.92,Default,Kong,0,0,0,,They're claiming they just bought\N the existing space as-is. {Officially it's a different organization.}
+Dialogue: 0,0:18:28.92,0:18:30.01,Default,Kong,0,0,0,,Don't like it?
+Dialogue: 0,0:18:30.01,0:18:33.68,Default,Geto,0,0,0,,No, it doesn't matter as long as I can\N collect curses and money.
+Dialogue: 0,0:18:34.09,0:18:36.60,Default,Kong,0,0,0,,Are you really going out dressed like that?
+Dialogue: 0,0:18:36.60,0:18:39.35,Default,Geto,0,0,0,,Why not? A little showmanship goes a long way.
+Dialogue: 0,0:18:39.89,0:18:41.48,Default,Nanako,0,0,0,,{*}Master Geto{*Geto-sama}...
+Dialogue: 0,0:18:41.48,0:18:42.73,Default,Geto,0,0,0,,Watch closely.
+Dialogue: 0,0:18:43.35,0:18:44.60,Default,Geto,0,0,0,,They're all there, right?
+Dialogue: 0,0:18:44.60,0:18:47.77,Default,Kong,0,0,0,,All the branch directors,\N representatives, and the president.
+Dialogue: 0,0:18:47.77,0:18:49.90,Default,Kong,0,0,0,,All the big donors, as well.
+Dialogue: 0,0:18:53.40,0:18:54.57,Default,Geto,0,0,0,,Check, check.
+Dialogue: 0,0:18:55.11,0:18:58.53,Default,Geto,0,0,0,,Ladies and gentlemen, sorry to keep you waiting.
+Dialogue: 0,0:18:58.53,0:19:00.29,Default,Geto,0,0,0,,Now, I'll keep this brief.
+Dialogue: 0,0:19:00.66,0:19:04.29,Default,Geto,0,0,0,,As of this moment, this organization belongs to me.
+Dialogue: 0,0:19:04.79,0:19:06.46,Default,Geto,0,0,0,,We'll have a new name, as well.
+Dialogue: 0,0:19:06.46,0:19:09.17,Default,Geto,0,0,0,,So everyone, please be sure to obey me.
+Dialogue: 0,0:19:11.17,0:19:13.21,Default,Geto,0,0,0,,Now, that's not good.
+Dialogue: 0,0:19:13.92,0:19:15.26,Default,Geto,0,0,0,,Oh, I know!
+Dialogue: 0,0:19:15.26,0:19:18.10,Default,Geto,0,0,0,,{*}Mr. Sonoda{*Sonoda-san}, could you please come to the stage?
+Dialogue: 0,0:19:19.18,0:19:20.89,Default,Geto,0,0,0,,Yes! You there!
+Dialogue: 0,0:19:21.60,0:19:23.60,Default,Geto,0,0,0,,Now, let's try this again.
+Dialogue: 0,0:19:24.23,0:19:25.60,Default,Geto,0,0,0,,{\i1}I hate monkeys.
+Dialogue: 0,0:19:25.60,0:19:27.52,Default,Geto,0,0,0,,You {\i1}will{\i0} obey me,
+Dialogue: 0,0:19:27.90,0:19:30.02,Default,Geto,0,0,0,,{\i1}That's the true feeling I chose. {i feel the "true feeling" should just be "feeling" but there's significance to the repetetion}
+Dialogue: 0,0:19:30.73,0:19:32.23,Default,Geto,0,0,0,,filthy monkeys.
+Dialogue: 0,0:19:34.69,0:19:37.53,Default,Gojo,0,0,0,,You're Fushiguro Megumi{**-kun}, right?
+Dialogue: 0,0:19:39.87,0:19:41.20,Default,Megumi,0,0,0,,Who are you?
+Dialogue: 0,0:19:41.20,0:19:43.37,Default,Megumi,0,0,0,,And what's with that look on your face?
+Dialogue: 0,0:19:44.87,0:19:47.71,Default,Gojo,0,0,0,,You look just like him, is all.
+Dialogue: 0,0:19:48.67,0:19:50.17,Default,Gojo,0,0,0,,My own issue.
+Dialogue: 0,0:19:50.63,0:19:52.59,Default,Gojo,0,0,0,,So, about your dad...
+Dialogue: 0,0:19:52.59,0:19:55.59,Default,Gojo,0,0,0,,He's from the Zenin clan, \None of the biggest sorcerer families,
+Dialogue: 0,0:19:55.59,0:19:58.05,Default,Gojo,0,0,0,,but he's such a loser it freaks even me out!
+Dialogue: 0,0:19:58.05,0:20:00.80,Default,Gojo,0,0,0,,He left the clan and had you \Njust so he could use you.
+Dialogue: 0,0:20:00.80,0:20:04.93,Default,Gojo,0,0,0,,Now, you're one of those who can see things,\N so you're privileged there, right?
+Dialogue: 0,0:20:05.48,0:20:08.14,Default,Gojo,0,0,0,,You've noticed the power within yourself, too, yeah?
+Dialogue: 0,0:20:08.69,0:20:11.40,Default,Gojo,0,0,0,,The Zenin clan just loves talent like that.
+Dialogue: 0,0:20:11.40,0:20:14.53,Default,Gojo,0,0,0,,Most become aware of their cursed techniques\N at around four to six years of age. {when they're around four to six.}
+Dialogue: 0,0:20:14.53,0:20:16.95,Default,Gojo,0,0,0,,So it's the perfect timing to sell a kid off. {A ripe time to sell!}
+Dialogue: 0,0:20:17.32,0:20:23.20,Default,Gojo,0,0,0,,In your father's fight against \Nthe Zenin clan, you're his trump card. {check tl}
+Dialogue: 0,0:20:23.20,0:20:24.87,Default,Gojo,0,0,0,,Pisses you off, doesn't it?
+Dialogue: 0,0:20:24.87,0:20:28.79,Default,Gojo,0,0,0,,So I took care of that dad of yours by ki{\fscx180}—{\fscx}
+Dialogue: 0,0:20:27.79,0:20:28.79,Alt,Megumi,0,0,0,,I don't care.
+Dialogue: 0,0:20:29.17,0:20:32.17,Default,Megumi,0,0,0,,I have no interest in where he is or what he's doing.
+Dialogue: 0,0:20:32.17,0:20:35.55,Default,Megumi,0,0,0,,Haven't seen him in years. Barely remember his face. {he legit went out to buy milk}
+Dialogue: 0,0:20:35.55,0:20:37.67,Default,Megumi,0,0,0,,Though I get the general idea from what you just said.
+Dialogue: 0,0:20:38.51,0:20:41.68,Default,Megumi,0,0,0,,Tsumiki's mother hasn't come home\N for a while now, either.
+Dialogue: 0,0:20:41.68,0:20:43.68,Default,Tsumiki,0,0,0,,Ah, Megumi's back!
+Dialogue: 0,0:20:44.35,0:20:49.10,Default,Megumi,0,0,0,,That means they're done with us,\N and are off enjoying themselves elsewhere.
+Dialogue: 0,0:20:50.52,0:20:53.06,Default,Gojo,0,0,0,,Are you really a first grader?
+Dialogue: 0,0:20:53.69,0:20:55.11,Default,Gojo,0,0,0,,Well, whatever.
+Dialogue: 0,0:20:55.11,0:20:58.28,Default,Gojo,0,0,0,,If you ever wanna know about your dad,\N feel free to ask me.
+Dialogue: 0,0:20:58.28,0:20:59.61,Default,Gojo,0,0,0,,Hup. {Upsie daisy?}
+Dialogue: 0,0:21:00.11,0:21:02.49,Default,Gojo,0,0,0,,I think you'll find it interesting.
+Dialogue: 0,0:21:02.49,0:21:04.20,Default,Gojo,0,0,0,,Now, on to the main point.
+Dialogue: 0,0:21:04.20,0:21:05.87,Default,Gojo,0,0,0,,What do you want to do?
+Dialogue: 0,0:21:05.87,0:21:07.87,Default,Gojo,0,0,0,,Wanna go to the Zenin clan?
+Dialogue: 0,0:21:08.50,0:21:10.33,Default,Megumi,0,0,0,,What will happen to Tsumiki? {>happen}
+Dialogue: 0,0:21:10.33,0:21:14.04,Default,Megumi,0,0,0,,Will she be happy there? It all depends on that.
+Dialogue: 0,0:21:14.04,0:21:14.88,Default,Gojo,0,0,0,,No.
+Dialogue: 0,0:21:14.88,0:21:16.46,Default,Gojo,0,0,0,,A hundred percent no.
+Dialogue: 0,0:21:16.46,0:21:18.13,Default,Gojo,0,0,0,,I can assure you of that.
+Dialogue: 0,0:21:21.64,0:21:22.97,Default,Gojo,0,0,0,,Okay!
+Dialogue: 0,0:21:23.97,0:21:25.76,Default,Gojo,0,0,0,,You can leave it to me, then.
+Dialogue: 0,0:21:27.68,0:21:30.89,Default,Gojo,0,0,0,,I might need you to push yourself a bit, though.
+Dialogue: 0,0:21:31.31,0:21:32.27,Default,Gojo,0,0,0,,So do your best!
+Dialogue: 0,0:21:33.19,0:21:35.02,Default,Gojo,0,0,0,,Get stronger.
+Dialogue: 0,0:21:35.48,0:21:37.98,Default,Gojo,0,0,0,,{\pos(960,1045)}Strong enough to keep up with me.
+Dialogue: 0,0:21:44.62,0:21:46.12,Default,Megumi,0,0,0,,{*}Mr. Gojo{*Gojo-sensei}.
+Dialogue: 0,0:21:46.12,0:21:47.91,Default,Yuji,0,0,0,,So even {*}Teach{*Sensei} sleeps sometimes, huh?
+Dialogue: 0,0:21:47.91,0:21:50.50,Default,Nobara,0,0,0,,Of course he does. What kinda nonsense is that?
+Dialogue: 0,0:21:50.50,0:21:51.83,Default,Megumi,0,0,0,,{*}Mr. Gojo{*Gojo-sensei}!
+Dialogue: 0,0:21:53.00,0:21:54.25,Default,Yuji,0,0,0,,Oh, he's awake!
+Dialogue: 0,0:21:54.63,0:21:56.88,Default,Nobara,0,0,0,,Hey, that's one of those expensive chairs, isn't it?
+Dialogue: 0,0:21:56.88,0:21:59.76,Default,Megumi,0,0,0,,Please don't fall asleep after calling all of us here.
+Dialogue: 0,0:22:01.38,0:22:03.26,Default,Yuji,0,0,0,,Hey, no fair! I get it next, got it?!
+Dialogue: 0,0:22:03.26,0:22:05.14,Default,Yuji,0,0,0,,Hey! Hurry up!
+Dialogue: 0,0:22:05.14,0:22:06.47,Default,Megumi,0,0,0,,What are you smiling about?
+Dialogue: 0,0:22:05.14,0:22:08.35,Default,Yuji,0,0,0,,{\an8}Don't be mean! Move it!
+Dialogue: 0,0:22:08.35,0:22:09.43,Default,Gojo,0,0,0,,It's nothing.
 Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:40.02,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.94,0:23:43.75,Default,Yuji,0,0,0,,How do you write "motto" in kanji?
-Dialogue: 0,0:23:43.75,0:23:46.56,Default,Yuji,0,0,0,,Wait, you use katakana? It's a foreign word?
-Dialogue: 0,0:23:47.02,0:23:48.73,Default,Yuji,0,0,0,,Next time, "It's Like That."
-Dialogue: 0,0:23:49.77,0:23:53.43,Default,Yuji,0,0,0,,There's so much I thought I knew, but I don't.
-
-[Aegisub Project Garbage]
-Keyframes File: jjk_29_keyframes.txt
+Dialogue: 0,0:23:40.94,0:23:43.86,Default,Yuji,0,0,0,,{\an8}How do you write "motto" in kanji?
+Dialogue: 0,0:23:43.86,0:23:46.78,Default,Yuji,0,0,0,,{\an8}Wait, you use katakana? It's a foreign word?
+Dialogue: 0,0:23:47.03,0:23:48.74,Default,Yuji,0,0,0,,{\an8}Next time, It's Like That.
+Dialogue: 0,0:23:50.03,0:23:53.37,Default,Yuji,0,0,0,,{\an8}There's so much I thought I knew, but I don't.
