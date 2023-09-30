@@ -1,0 +1,385 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.98,0:00:04.85,Default,Yuji,0,0,0,,I think I'll go see a movie.
+Dialogue: 0,0:00:05.12,0:00:06.50,Default,Yuji,0,0,0,,What about you, Kugisaki?
+Dialogue: 0,0:00:06.50,0:00:09.59,Default,Kugisaki,0,0,0,,It's still early. I'll go shopping or something.
+Dialogue: 0,0:00:09.68,0:00:11.71,Default,Fushiguro,0,0,0,,You all have so much energy.
+Dialogue: 0,0:00:11.71,0:00:13.73,Default,Fushiguro,0,0,0,,I'm going home, then.
+Dialogue: 0,0:00:14.66,0:00:16.16,Default,Yuji,0,0,0,,Take care.
+Dialogue: 0,0:00:18.19,0:00:20.06,Default,Kugisaki,0,0,0,,Finally done.
+Dialogue: 0,0:00:21.00,0:00:23.69,Default,Yuji,0,0,0,,I'm going to the movies. What about you?
+Dialogue: 0,0:00:24.07,0:00:25.58,Default,Kugisaki,0,0,0,,What are you seeing?
+Dialogue: 0,0:00:25.58,0:00:27.25,Default,Yuji,0,0,0,,{\i1}Human Earthworm 4{\i0}.
+Dialogue: 0,0:00:27.25,0:00:28.24,Default,Kugisaki,0,0,0,,Who'd ever go see that?
+Dialogue: 0,0:00:28.24,0:00:30.79,Default,Kugisaki,0,0,0,,I haven't even seen 1, 2, or 3.
+Dialogue: 0,0:00:30.79,0:00:33.47,Default,Yuji,0,0,0,,I think you'd be fine jumping in on 4.
+Dialogue: 0,0:00:34.30,0:00:37.27,Default,Yuji,0,0,0,,This time, the mad scientist from the first one,
+Dialogue: 0,0:00:37.27,0:00:40.30,Default,Yuji,0,0,0,,Dr. Richter, is making his long-awaited reappearance!
+Dialogue: 0,0:00:37.65,0:00:40.94,Default,Boy,0,0,0,,{\an8}Stop! Let me go!
+Dialogue: 0,0:00:40.30,0:00:43.52,Default,Yuji,0,0,0,,And the hybrid human-earthworm fusion born from the doctor's experiments
+Dialogue: 0,0:00:43.52,0:00:45.92,Default,Yuji,0,0,0,,is going to give rise to an enhanced Human Earthworm!
+Dialogue: 0,0:00:45.92,0:00:47.80,Default,Kugisaki,0,0,0,,What the hell? That's so gross.
+Dialogue: 0,0:00:48.27,0:00:52.34,Default,Yuji,0,0,0,,The poor Human Earthworm, who barely escaped from Dr. Richter with its life,
+Dialogue: 0,0:00:52.34,0:00:56.19,Default,Yuji,0,0,0,,finally wanders into a campground where a group of college students are,
+Dialogue: 0,0:00:56.19,0:00:58.55,Default,Yuji,0,0,0,,and that's when the story really kicks off.
+Dialogue: 0,0:00:58.55,0:01:03.45,Default,Yuji,0,0,0,,So, one of the people in that group is a kind woman who's an animal rights proponent,
+Dialogue: 0,0:01:03.45,0:01:06.07,Default,Yuji,0,0,0,,and the Human Earthworm falls in love with her.
+Dialogue: 0,0:01:06.55,0:01:09.48,Default,Humanearthworm,0,0,0,,I'm no longer human.
+Dialogue: 0,0:01:09.48,0:01:11.86,Default,Woman,0,0,0,,You're more human than anyone else.
+Dialogue: 0,0:01:12.12,0:01:13.45,Default,Man,0,0,0,,It's a monster! Kill it!
+Dialogue: 0,0:01:13.45,0:01:14.90,Default,Woman,0,0,0,,Kevin, stop!
+Dialogue: 0,0:01:14.90,0:01:17.50,Default,Woman,0,0,0,,If we kill him, then we're the monsters!
+Dialogue: 0,0:01:19.60,0:01:21.34,Default,BabyHumanEarthworm,0,0,0,,Papa.
+Dialogue: 0,0:01:21.34,0:01:23.46,Default,BabyHEWs,0,0,0,,{\an8}Papa?
+Dialogue: 0,0:01:21.34,0:01:23.46,Default,BabyHEWs,0,0,0,,Are you okay?
+Dialogue: 0,0:01:21.34,0:01:23.46,Default,BabyHEWs,0,0,0,,What's wrong?
+Dialogue: 0,0:01:25.09,0:01:28.22,Default,Yuji,0,0,0,,So the theme is actually love!
+Dialogue: 0,0:01:32.22,0:01:35.86,Default,Kugisaki,0,0,0,,I don't want see some wormo man, regardless of the theme.
+Dialogue: 0,0:01:36.39,0:01:38.22,Default,Yuji,0,0,0,,It's "Human Earthworm."
+Dialogue: 0,0:01:38.22,0:01:40.11,Default,Kugisaki,0,0,0,,It doesn't matter.
+Dialogue: 0,0:01:40.11,0:01:42.84,Default,Kugisaki,0,0,0,,I'm going shopping, okay?
+Dialogue: 0,0:01:43.20,0:01:44.41,Default,Kugisaki,0,0,0,,Want to come with?
+Dialogue: 0,0:01:44.41,0:01:46.94,Default,Yuji,0,0,0,,I just said I'm going to the movies.
+Dialogue: 0,0:01:46.94,0:01:49.58,Default,Kugisaki,0,0,0,,Okay. Later, then.
+Dialogue: 0,0:01:58.37,0:02:04.50,Default,Gakuganji,0,0,0,,Special-grade is a rank reserved for those sorcerers who are exceptional.
+Dialogue: 0,0:02:04.50,0:02:08.64,Default,Gakuganji,0,0,0,,In my opinion, first-grade is the true rank for the sorcerers
+Dialogue: 0,0:02:08.64,0:02:12.17,Default,Gakuganji,0,0,0,,who will lead other sorcerers and jujutsu society.
+Dialogue: 0,0:02:12.17,0:02:18.17,Default,Gakuganji,0,0,0,,They must stand above comparison to semi-first- grades in terms of peril, secrecy, and salary.
+Dialogue: 0,0:02:18.17,0:02:21.43,Default,Gakuganji,0,0,0,,Now, with that in mind, what did you just say?
+Dialogue: 0,0:02:21.43,0:02:24.31,Default,Mei,0,0,0,,Maki Zenin, Panda...
+Dialogue: 0,0:02:24.31,0:02:30.38,Default,Todo,0,0,0,,...Megumi Fushiguro, Nobara Kugisaki, and my brother, Yuji Itadori.
+Dialogue: 0,0:02:30.38,0:02:33.15,Default,Todo,0,0,0,,On my name as Aoi Todo...
+Dialogue: 0,0:02:33.43,0:02:35.62,Default,Mei,0,0,0,,And on my name as Mei Mei...
+Dialogue: 0,0:02:35.93,0:02:38.78,Default,Both,0,0,0,,I recommend those five for first-grade sorcerer.
+Dialogue: 0,0:02:41.76,0:02:47.52,Default,Todo,0,0,0,,Those who are recommended by at least two first-grades
+Dialogue: 0,0:02:47.52,0:02:50.62,Default,Todo,0,0,0,,must carry out missions under an active first-grade,
+Dialogue: 0,0:02:50.62,0:02:52.60,Default,Todo,0,0,0,,or first-grade equivalent sorcerer.
+Dialogue: 0,0:02:54.38,0:02:59.55,Default,Todo,0,0,0,,Then, if they are deemed fit, they will be promoted to semi-first-grade
+Dialogue: 0,0:02:59.55,0:03:03.34,Default,Todo,0,0,0,,and proceed to be assigned first-grade missions on their own.
+Dialogue: 0,0:03:03.34,0:03:05.62,Default,Todo,0,0,0,,Following the results of those missions,
+Dialogue: 0,0:03:05.62,0:03:10.10,Default,Todo,0,0,0,,they either will or won't officially become first-grade sorcerers.
+Dialogue: 0,0:03:10.88,0:03:14.10,Default,Todo,0,0,0,,My brother will certainly accept the recommendation.
+Dialogue: 0,0:03:14.10,0:03:16.15,Default,Todo,0,0,0,,With Sukuna still uncooperative,
+Dialogue: 0,0:03:16.15,0:03:18.40,Default,Todo,0,0,0,,he'll need to go on more dangerous missions
+Dialogue: 0,0:03:18.40,0:03:21.78,Default,Todo,0,0,0,,to raise his chances of finding more fingers.
+Dialogue: 0,0:03:21.78,0:03:25.70,Default,Todo,0,0,0,,You understand what that means, right, Ms. Mei?
+Dialogue: 0,0:03:27.76,0:03:32.59,Default,Mei,0,0,0,,What that means? That's everything, Mr. Todo.
+Dialogue: 0,0:03:42.84,0:03:44.55,Default,Todo,0,0,0,,A bright future...
+Dialogue: 0,0:03:44.55,0:03:47.65,Default,Todo,0,0,0,,It means a bright future where Aoi Todo and Yuji Itadori
+Dialogue: 0,0:03:47.65,0:03:53.98,Default,Todo,0,0,0,,face missions together lies ahead of us!
+Dialogue: 0,0:03:53.98,0:03:54.75,Default,Mei,0,0,0,,No...
+Dialogue: 0,0:03:54.75,0:03:56.42,Default,Todo,0,0,0,,You don't have to say it.
+Dialogue: 0,0:03:56.42,0:03:59.55,Default,Todo,0,0,0,,There's no guarantee I'll be the first-grade sorcerer assigned to accompany him.
+Dialogue: 0,0:03:59.55,0:04:01.35,Default,Todo,0,0,0,,That's what you wanted to say, right?
+Dialogue: 0,0:04:01.35,0:04:03.59,Default,Todo,0,0,0,,But I'm certain of this!
+Dialogue: 0,0:04:03.60,0:04:06.46,Default,Todo,0,0,0,,It's as certain as apples falling from a tree!
+Dialogue: 0,0:04:06.46,0:04:08.94,Default,Todo,0,0,0,,The two of us are drawn together!
+Dialogue: 0,0:04:10.83,0:04:15.39,Default,Todo,0,0,0,,Yes, it truly is destiny!
+Dialogue: 0,0:04:15.80,0:04:17.30,Default,Mei,0,0,0,,No, I mean...
+Dialogue: 0,0:04:17.30,0:04:22.01,Default,Mei,0,0,0,,The sorcerers who recommended him can't be assigned to accompany him.
+Dialogue: 0,0:04:23.77,0:04:26.98,Default,Mei,0,0,0,,Since we're the two that recommended Itadori{**-kun},
+Dialogue: 0,0:04:26.98,0:04:30.99,Default,Mei,0,0,0,,someone else will have to accompany him.
+Dialogue: 0,0:04:31.62,0:04:32.86,Default,Mei,0,0,0,,Thanks for today.
+Dialogue: 0,0:04:32.86,0:04:35.93,Default,Mei,0,0,0,,I'll be leaving now, Mr. Todo.
+Dialogue: 0,0:04:46.41,0:04:48.46,Default,Ozawa,0,0,0,,Um, excuse me.
+Dialogue: 0,0:04:51.45,0:04:55.62,Default,Ozawa,0,0,0,,You were with Itadori{**-kun} earlier, right?
+Dialogue: 0,0:04:57.87,0:04:59.01,Default,Kugisaki,0,0,0,,Huh?
+Dialogue: 0,0:06:32.29,0:06:34.06,Default,Waitress,0,0,0,,Welcome!
+Dialogue: 0,0:06:34.30,0:06:37.77,Default,Ozawa,0,0,0,,This is what I looked like at our middle school graduation ceremony.
+Dialogue: 0,0:06:37.77,0:06:40.98,Default,Kugisaki,0,0,0,,Huh?! Seriously?! That was only six months ago!
+Dialogue: 0,0:06:40.98,0:06:42.95,Default,Kugisaki,0,0,0,,What happened to you?!
+Dialogue: 0,0:06:42.95,0:06:47.37,Default,Ozawa,0,0,0,,Well, I've grown about 15 centimeters since then.
+Dialogue: 0,0:06:47.64,0:06:51.95,Default,Ozawa,0,0,0,,That combined with the stress of moving to Tokyo and changing environments...
+Dialogue: 0,0:06:51.95,0:06:53.82,Default,Kugisaki,0,0,0,,Wow...
+Dialogue: 0,0:06:53.82,0:06:56.32,Default,Kugisaki,0,0,0,,You're a real Kuroko Sato.
+Dialogue: 0,0:06:57.08,0:06:58.83,Default,Kugisaki,0,0,0,,That's Itadori.
+Dialogue: 0,0:06:58.83,0:07:02.93,Default,Ozawa,0,0,0,,On graduation day, I worked up the courage to ask for a photo with him.
+Dialogue: 0,0:07:02.93,0:07:06.15,Default,Ozawa,0,0,0,,I actually wanted to ask for his phone number,
+Dialogue: 0,0:07:06.15,0:07:08.90,Default,Ozawa,0,0,0,,but it was already decided that we would be moving to Tokyo...
+Dialogue: 0,0:07:09.68,0:07:12.32,Default,Ozawa,0,0,0,,So when I saw Itadori{**-kun} earlier,
+Dialogue: 0,0:07:12.66,0:07:16.38,Default,Ozawa,0,0,0,,I thought maybe with how I look now, I might...
+Dialogue: 0,0:07:16.70,0:07:19.99,Default,Kugisaki,0,0,0,,Wait... Yuko, you mean...
+Dialogue: 0,0:07:20.61,0:07:22.40,Default,Kugisaki,0,0,0,,It's like {\i1}that{\i0}, right?
+Dialogue: 0,0:07:22.40,0:07:24.46,Default,Ozawa,0,0,0,,Yes! It's like {\i1}that{\i0}!
+Dialogue: 0,0:07:27.16,0:07:28.66,Default,Kugisaki,0,0,0,,Hey, Ijichi{**-san}.
+Dialogue: 0,0:07:28.66,0:07:30.65,Default,Kugisaki,0,0,0,,Is Fushiguro still riding with you?
+Dialogue: 0,0:07:30.65,0:07:32.70,Default,Kugisaki,0,0,0,,I sent you the URL for the restaurant I'm at.
+Dialogue: 0,0:07:32.70,0:07:34.86,Default,Kugisaki,0,0,0,,Could you turn around and bring him here?
+Dialogue: 0,0:07:34.86,0:07:37.10,Default,Kugisaki,0,0,0,,Thanks! See ya soon!
+Dialogue: 0,0:07:38.72,0:07:41.69,Default,Kugisaki,0,0,0,,Someone who knows Itadori well is on his way here now.
+Dialogue: 0,0:07:41.69,0:07:42.68,Default,Ozawa,0,0,0,,Um...
+Dialogue: 0,0:07:42.68,0:07:44.88,Default,Kugisaki,0,0,0,,We'll talk to him about it first.
+Dialogue: 0,0:07:44.88,0:07:46.09,Default,Ozawa,0,0,0,,Um...
+Dialogue: 0,0:07:47.51,0:07:50.38,Default,Ozawa,0,0,0,,If you're also interested in Itadori{**-kun}...
+Dialogue: 0,0:07:50.38,0:07:51.38,Default,Kugisaki,0,0,0,,No.
+Dialogue: 0,0:07:51.86,0:07:54.27,Default,Kugisaki,0,0,0,,Even if hell froze over and danced the lambada...
+Dialogue: 0,0:07:55.00,0:07:56.24,Default,Kugisaki,0,0,0,,No.
+Dialogue: 0,0:07:59.76,0:08:02.47,Default,Kugisaki,0,0,0,,{\i1}My chest just felt weird.
+Dialogue: 0,0:08:03.14,0:08:04.56,Default,Kugisaki & Screen,0,0,0,,{\i1}Did my heart skip a beat?
+Dialogue: 0,0:08:07.99,0:08:10.12,Default,Fushiguro,0,0,0,,Yo, what's the big idea?
+Dialogue: 0,0:08:10.12,0:08:11.72,Default,Kugisaki,0,0,0,,Hey, Fushiguro!
+Dialogue: 0,0:08:11.72,0:08:13.47,Default,Kugisaki,0,0,0,,Does Itadori have a girlfriend?
+Dialogue: 0,0:08:13.47,0:08:14.38,Default,Fushiguro,0,0,0,,Huh?
+Dialogue: 0,0:08:14.38,0:08:16.14,Default,Kugisaki,0,0,0,,This is Yuko Ozawa.
+Dialogue: 0,0:08:16.61,0:08:19.58,Default,Kugisaki,0,0,0,,She's actually blah, blah, blah.
+Dialogue: 0,0:08:19.58,0:08:21.58,Default,Fushiguro,0,0,0,,So it's like {\i1}that{\i0}?!
+Dialogue: 0,0:08:21.58,0:08:23.80,Default,Kugisaki,0,0,0,,Yeah, it's like {\i1}that{\i0}!
+Dialogue: 0,0:08:24.14,0:08:25.99,Default,Fushiguro,0,0,0,,He definitely doesn't have a girlfriend.
+Dialogue: 0,0:08:25.99,0:08:27.27,Default,Kugisaki,0,0,0,,Your basis for that?
+Dialogue: 0,0:08:27.27,0:08:31.06,Default,Fushiguro,0,0,0,,When he suddenly had to transfer to Tokyo, he didn't seem particularly upset about it.
+Dialogue: 0,0:08:31.70,0:08:34.43,Default,Fushiguro,0,0,0,,He also has a pinup poster hanging in his room.
+Dialogue: 0,0:08:34.43,0:08:37.82,Default,Fushiguro,0,0,0,,Anyone with a girlfriend wouldn't have something like that hanging up, right?
+Dialogue: 0,0:08:37.82,0:08:39.33,Default,Fushiguro,0,0,0,,Because she'd hate it.
+Dialogue: 0,0:08:39.33,0:08:43.54,Default,Kugisaki,0,0,0,,Are you the type to drink coffee black only when women around so you can show off?
+Dialogue: 0,0:08:43.54,0:08:44.44,Default,Kugisaki,0,0,0,,Stop it, okay?
+Dialogue: 0,0:08:44.44,0:08:47.60,Default,Fushiguro,0,0,0,,You called me out here to ask me about this, right?
+Dialogue: 0,0:08:47.60,0:08:49.16,Default,Fushiguro,0,0,0,,And I always drink it black.
+Dialogue: 0,0:08:49.81,0:08:53.59,Default,Ozawa,0,0,0,,Um, by the way, do you know what his type is?
+Dialogue: 0,0:08:53.59,0:08:55.03,Default,Fushiguro,0,0,0,,Oh...
+Dialogue: 0,0:08:55.03,0:08:57.83,Default,Fushiguro,0,0,0,,He mentioned he likes tall girls.
+Dialogue: 0,0:09:01.09,0:09:02.81,Default,Kugisaki,0,0,0,,You have a shot!
+Dialogue: 0,0:09:02.81,0:09:04.47,Default,Kugisaki,0,0,0,,I'll summon Itadori!
+Dialogue: 0,0:09:04.47,0:09:06.30,Default,Kugisaki,0,0,0,,You're okay with that, right, Yuko?!
+Dialogue: 0,0:09:06.30,0:09:07.59,Default,Ozawa,0,0,0,,Yes!
+Dialogue: 0,0:09:13.26,0:09:14.84,Default,Ozawa,0,0,0,,That was curt.
+Dialogue: 0,0:09:15.27,0:09:16.34,Default,Kugiasawa,0,0,0,,Really?
+Dialogue: 0,0:09:16.94,0:09:18.77,Default,Yuji,0,0,0,,Huh? Fushiguro is here, too?
+Dialogue: 0,0:09:18.77,0:09:20.18,Default,Kugisaki,0,0,0,,That was fast!
+Dialogue: 0,0:09:21.02,0:09:23.44,Default,Kugisaki,0,0,0,,{\i1}Oh, shoot.
+Dialogue: 0,0:09:23.44,0:09:24.06,Default,Fushiguro,0,0,0,,{\an8}What's that?
+Dialogue: 0,0:09:24.06,0:09:26.82,Default,Kugisaki,0,0,0,,{\i1}I haven't told Itadori about Yuko!
+Dialogue: 0,0:09:24.97,0:09:28.01,Default,Yuji,0,0,0,,{\an8}Finding a money exchange was a pain, so I traded in for prizes instead.
+Dialogue: 0,0:09:27.33,0:09:30.78,Default,Kugisaki,0,0,0,,{\i1}He definitely won't recognize who she is after she changed so much!
+Dialogue: 0,0:09:33.05,0:09:34.17,Default,Yuji,0,0,0,,Who are you?
+Dialogue: 0,0:09:34.72,0:09:40.84,Default,Kugisaki,0,0,0,,{\i1}That's the #1 line you never want to hear when reuniting with the person you adore!
+Dialogue: 0,0:09:40.84,0:09:41.95,Default,Kugisaki,0,0,0,,Itadori!
+Dialogue: 0,0:09:41.95,0:09:43.05,Default,Kugisaki,0,0,0,,This girl is—
+Dialogue: 0,0:09:41.95,0:09:43.05,Default,Yuji,0,0,0,,Huh?
+Dialogue: 0,0:09:43.05,0:09:44.23,Default,Yuji,0,0,0,,You're Ozawa.
+Dialogue: 0,0:09:44.23,0:09:45.62,Default,Yuji,0,0,0,,What are you doing here?
+Dialogue: 0,0:09:47.70,0:09:49.09,Default,Yuji,0,0,0,,What a coincidence.
+Dialogue: 0,0:09:51.50,0:09:54.89,Default,Student,0,0,0,,Okay, so which girl in our class do you like, Itadori?
+Dialogue: 0,0:10:03.12,0:10:04.98,Default,Yuji,0,0,0,,None of them, really.
+Dialogue: 0,0:10:04.98,0:10:07.16,Default,Student,0,0,0,,If you had to pick! If you had to!
+Dialogue: 0,0:10:07.81,0:10:09.02,Default,Yuji,0,0,0,,Huh?
+Dialogue: 0,0:10:09.02,0:10:11.99,Default,Yuji,0,0,0,,If I had to pick, then, Ozawa.
+Dialogue: 0,0:10:12.69,0:10:14.08,Default,Student,0,0,0,,Huh?
+Dialogue: 0,0:10:14.08,0:10:17.41,Default,Student,0,0,0,,No way, man. She's fat.
+Dialogue: 0,0:10:19.47,0:10:20.74,Default,Yuji,0,0,0,,I guess?
+Dialogue: 0,0:10:20.74,0:10:26.35,Default,Yuji,0,0,0,,But the way she eats and her handwriting and stuff are really pretty.
+Dialogue: 0,0:10:29.80,0:10:32.68,Default,Yuji,0,0,0,,Don't you agree it's hard to eat fish?!
+Dialogue: 0,0:10:32.68,0:10:36.49,Default,Student,0,0,0,,I thought you said you liked tall girls with big butts?
+Dialogue: 0,0:10:36.88,0:10:39.13,Default,Yuji,0,0,0,,That's its own thing!
+Dialogue: 0,0:10:42.46,0:10:47.02,Default,Ozawa,0,0,0,,{\i1}It's easy for girls to get fat.
+Dialogue: 0,0:10:47.02,0:10:49.72,Default,Ozawa,0,0,0,,{\i1}I started off fat,
+Dialogue: 0,0:10:57.94,0:11:02.90,Default,Ozawa,0,0,0,,{\i1}but even I don't have interest in choosing someone who won't choose me.
+Dialogue: 0,0:11:15.34,0:11:19.37,Default,Ozawa,0,0,0,,{\i1}Itadori{**-kun} was looking at a side of me I wasn't aware of.
+Dialogue: 0,0:11:20.90,0:11:23.65,Default,Ozawa,0,0,0,,{\i1}I hated all the boys other than Itadori{**-kun}.
+Dialogue: 0,0:11:25.23,0:11:26.23,Default,Ozawa,0,0,0,,{\i1}But...
+Dialogue: 0,0:11:27.18,0:11:33.30,Default,Ozawa,0,0,0,,{\i1}"Maybe with how I look now, I might..."
+Dialogue: 0,0:11:34.77,0:11:40.67,Default,Ozawa,0,0,0,,{\i1}I'm living by the same standards as the people I hate.
+Dialogue: 0,0:11:46.38,0:11:47.24,Default,Student,0,0,0,,Later.
+Dialogue: 0,0:11:47.24,0:11:47.83,Default,Student,0,0,0,,See you tomorrow.
+Dialogue: 0,0:11:47.83,0:11:48.59,Default,Yuji,0,0,0,,Later.
+Dialogue: 0,0:11:50.85,0:11:52.03,Default,Yuji,0,0,0,,See you later.
+Dialogue: 0,0:12:09.28,0:12:10.89,Default,Fushiguro,0,0,0,,Was that really okay?
+Dialogue: 0,0:12:10.89,0:12:12.95,Default,Fushiguro,0,0,0,,They could have at least exchanged numbers.
+Dialogue: 0,0:12:12.95,0:12:14.93,Default,Kugisaki,0,0,0,,She exchanged hers with me,
+Dialogue: 0,0:12:14.93,0:12:16.69,Default,Kugisaki,0,0,0,,so yeah, it'll be fine.
+Dialogue: 0,0:12:16.69,0:12:18.04,Default,Kugisaki,0,0,0,,More importantly, Fushiguro,
+Dialogue: 0,0:12:18.04,0:12:20.59,Default,Kugisaki,0,0,0,,I've finally realized my own feelings.
+Dialogue: 0,0:12:20.59,0:12:21.46,Default,Fushiguro,0,0,0,,Huh?
+Dialogue: 0,0:12:21.46,0:12:24.10,Default,Kugisaki,0,0,0,,The thought that Itadori might land a girlfriend
+Dialogue: 0,0:12:24.10,0:12:26.74,Default,Kugisaki,0,0,0,,before I get a boyfriend pisses me off.
+Dialogue: 0,0:12:26.74,0:12:27.74,Default,Fushiguro,0,0,0,,That so?
+Dialogue: 0,0:12:27.74,0:12:29.55,Default,Yuji,0,0,0,,Sorry for the wait.
+Dialogue: 0,0:12:29.55,0:12:31.42,Default,Kugisaki,0,0,0,,Walk behind me.
+Dialogue: 0,0:12:31.42,0:12:32.89,Default,Yuji,0,0,0,,Huh? What's this?
+Dialogue: 0,0:12:32.89,0:12:33.70,Default,Yuji,0,0,0,,What are you talking about?
+Dialogue: 0,0:12:33.70,0:12:34.71,Default,Fushiguro,0,0,0,,Here.
+Dialogue: 0,0:12:34.71,0:12:36.17,Default,Yuji,0,0,0,,Oh? Thanks!
+Dialogue: 0,0:12:36.17,0:12:36.91,Default,Kugisaki,0,0,0,,Here.
+Dialogue: 0,0:12:36.91,0:12:39.22,Default,Yuji,0,0,0,,Huh? Huh? What's this?
+Dialogue: 0,0:12:39.22,0:12:40.74,Default,Kugisaki,0,0,0,,While you're at it, while you're at it.
+Dialogue: 0,0:12:40.74,0:12:41.37,Default,Yuji,0,0,0,,While I'm at it?
+Dialogue: 0,0:12:41.37,0:12:44.98,Default,Kugisaki,0,0,0,,You'd feel bad making a lady carry them, right?
+Dialogue: 0,0:12:46.53,0:12:47.79,Default,Yuji,0,0,0,,Sure.
+Dialogue: 0,0:12:47.79,0:12:48.74,Default,Yuji,0,0,0,,Oh, shoot!
+Dialogue: 0,0:12:48.74,0:12:49.82,Default,Yuji,0,0,0,,The movie's starting!
+Dialogue: 0,0:12:49.81,0:12:50.89,Default,Yuji,0,0,0,,Hey, let's go!
+Dialogue: 0,0:12:50.89,0:12:53.02,Default,Yuji,0,0,0,,Come on, come on, come on. Here, here.
+Dialogue: 0,0:12:50.91,0:12:53.02,Default,Kugisaki,0,0,0,,{\an8}Huh?! Hold up!
+Dialogue: 0,0:12:53.02,0:12:54.35,Default,Kugisaki,0,0,0,,Don't take mine with you!
+Dialogue: 0,0:12:54.35,0:12:56.55,Default,Kugisaki,0,0,0,,There's no way I'm watching some wormo man!
+Dialogue: 0,0:12:56.55,0:12:58.34,Default,Yuji,0,0,0,,You want some popcorn, too, Fushiguro?!
+Dialogue: 0,0:12:58.34,0:12:59.57,Default,Yuji,0,0,0,,You like caramel flavoring, right?!
+Dialogue: 0,0:12:59.57,0:13:01.98,Default,Fushiguro,0,0,0,,Don't just advance the conversation assuming we're going to watch wormo man.
+Dialogue: 0,0:13:01.98,0:13:04.99,Default,Yuji,0,0,0,,{\an8}I told you all it's {\i1}Human Earthworm 4{\i0}!
+Dialogue: 0,0:13:25.95,0:13:27.36,Default,Utahime,0,0,0,,Impossible!
+Dialogue: 0,0:13:27.36,0:13:28.74,Default,Utahime,0,0,0,,Working with a curse user is one thing,
+Dialogue: 0,0:13:28.74,0:13:29.78,Default,Utahime,0,0,0,,but cursed spirits?!
+Dialogue: 0,0:13:29.78,0:13:33.62,Default,Gojo,0,0,0,,Yet, lately, cursed spirits of that level have been popping up everywhere.
+Dialogue: 0,0:13:33.62,0:13:37.29,Default,Gojo,0,0,0,,The person in question may think they're only working with curse users, though.
+Dialogue: 0,0:13:38.46,0:13:41.67,Default,Gojo,0,0,0,,I want to leave the investigation of Kyoto up to you, Utahime.
+Dialogue: 0,0:13:45.67,0:13:46.84,Default,Utahime,0,0,0,,This way.
+Dialogue: 0,0:13:48.26,0:13:50.97,Default,Utahime,0,0,0,,You've heard from Gojo about the person leaking intel, right?
+Dialogue: 0,0:13:51.35,0:13:52.39,Default,Three,0,0,0,,Yes.
+Dialogue: 0,0:13:52.39,0:13:55.48,Default,Utahime,0,0,0,,There's probably two or more people in contact with the curse users.
+Dialogue: 0,0:13:55.48,0:13:58.02,Default,Utahime,0,0,0,,One would be a higher-up, well above the principal.
+Dialogue: 0,0:13:58.02,0:14:00.48,Default,Utahime,0,0,0,,I won't be able to do anything about that one.
+Dialogue: 0,0:14:00.98,0:14:05.24,Default,Utahime,0,0,0,,The other would be someone passing the information up to that higher-up.
+Dialogue: 0,0:14:05.24,0:14:07.53,Default,Utahime,0,0,0,,That one is our current target.
+Dialogue: 0,0:14:07.99,0:14:09.82,Default,Utahime,0,0,0,,They're only a suspect at this point,
+Dialogue: 0,0:14:09.82,0:14:11.78,Default,Utahime,0,0,0,,so we'll capture and then interrogate them.
+Dialogue: 0,0:14:12.28,0:14:14.49,Default,Kugisaki,0,0,0,,So who from Kyoto is it?
+Dialogue: 0,0:14:14.49,0:14:15.33,Default,Yuji,0,0,0,,Oh?!
+Dialogue: 0,0:14:15.58,0:14:19.33,Default,Kugisaki,0,0,0,,That's why you asked those of us from Tokyo, right?
+Dialogue: 0,0:14:19.33,0:14:21.29,Default,Yuji,0,0,0,,Kugisaki, you're incredible.
+Dialogue: 0,0:14:24.63,0:14:26.42,Default,Utahime,0,0,0,,The mole is—
+Dialogue: 0,0:14:26.42,0:14:28.13,Default,Miwa,0,0,0,,Mechamaru!
+Dialogue: 0,0:14:28.13,0:14:30.01,Default,Miwa,0,0,0,,Oh, there you are.
+Dialogue: 0,0:14:30.34,0:14:33.14,Default,Miwa,0,0,0,,Today's the last day to turn in your notebook.
+Dialogue: 0,0:14:37.14,0:14:38.14,Default,Miwa,0,0,0,,Mechamaru?
+Dialogue: 0,0:14:39.19,0:14:41.15,Default,Mechamaru,0,0,0,,{\an8}Sorry, Miwa.
+Dialogue: 0,0:14:41.15,0:14:42.61,Default,Mechamaru,0,0,0,,{\an8}I'm going to sleep for a bit.
+Dialogue: 0,0:14:44.11,0:14:46.82,Default,Mechamaru,0,0,0,,{\an8}Please take the notebook from my desk.
+Dialogue: 0,0:14:46.82,0:14:49.95,Default,Miwa,0,0,0,,{\an8}Sleep? It's still only evening?
+Dialogue: 0,0:14:53.07,0:14:55.29,Default,Miwa,0,0,0,,Jeez!
+Dialogue: 0,0:14:58.75,0:15:00.46,Default,Miwa,0,0,0,,He really did go to sleep.
+Dialogue: 0,0:15:00.46,0:15:03.42,Default,Miwa,0,0,0,,{\i1}I wonder where the real Mechamaru actually is.
+Dialogue: 0,0:15:05.05,0:15:07.38,Default,Utahime,0,0,0,,Mechamaru's real body,
+Dialogue: 0,0:15:07.80,0:15:09.88,Default,Utahime,0,0,0,,Kokichi Muta, is in the basement here.
+Dialogue: 0,0:15:10.63,0:15:12.89,Default,Utahime,0,0,0,,Now, it's not like he's suspicious.
+Dialogue: 0,0:15:12.89,0:15:15.01,Default,Utahime,0,0,0,,It's more that everyone else wasn't.
+Dialogue: 0,0:15:15.01,0:15:16.97,Default,Utahime,0,0,0,,So the process of elimination leaves us with Mechamaru.
+Dialogue: 0,0:15:30.82,0:15:33.87,Default,Utahime,0,0,0,,Mechamaru's technique is puppet manipulation.
+Dialogue: 0,0:15:33.87,0:15:35.62,Default,Utahime,0,0,0,,Though, thanks to his Heavenly Pact,
+Dialogue: 0,0:15:35.62,0:15:38.50,Default,Utahime,0,0,0,,the range he can manipulate puppets in extends throughout all of Japan.
+Dialogue: 0,0:15:38.87,0:15:40.96,Default,Utahime,0,0,0,,If he has any unregistered puppets,
+Dialogue: 0,0:15:40.96,0:15:44.17,Default,Utahime,0,0,0,,then he could do the work of a mole as much as he wanted.
+Dialogue: 0,0:15:44.17,0:15:45.50,Default,Yuji,0,0,0,,Really?
+Dialogue: 0,0:15:45.50,0:15:47.67,Default,Yuji,0,0,0,,That guy stood out a lot to me.
+Dialogue: 0,0:15:48.13,0:15:51.09,Default,Utahime,0,0,0,,Even if the puppet was the size of a fly or a mosquito?
+Dialogue: 0,0:15:51.38,0:15:52.43,Default,Yuji,0,0,0,,I see.
+Dialogue: 0,0:15:52.43,0:15:54.22,Default,Yuji,0,0,0,,So those are options, too, huh?
+Dialogue: 0,0:15:56.76,0:15:57.68,Default,Utahime,0,0,0,,We're here.
+Dialogue: 0,0:16:01.35,0:16:02.73,Default,Muta,0,0,0,,They've arrived?
+Dialogue: 0,0:16:17.83,0:16:19.66,Default,Yuji,0,0,0,,Uh...
+Dialogue: 0,0:16:20.58,0:16:22.75,Default,Utahime,0,0,0,,He got us.
+Dialogue: 0,0:16:22.75,0:16:24.17,Default,Fushiguro,0,0,0,,Though, on the other hand...
+Dialogue: 0,0:16:24.17,0:16:26.88,Default,Kugisaki,0,0,0,,Now we're certain it's Mechamaru.
+Dialogue: 0,0:16:33.76,0:16:35.47,Default,Muta,0,0,0,,You're late.
+Dialogue: 0,0:16:35.47,0:16:37.64,Default,Muta,0,0,0,,I thought you forgot about me.
+Dialogue: 0,0:16:38.05,0:16:39.89,Default,Geto,0,0,0,,We wouldn't make a blunder like that.
+Dialogue: 0,0:16:40.27,0:16:43.89,Default,Geto,0,0,0,,You're already personally familiar with the terrifying nature of a pact, right?
+Dialogue: 0,0:16:44.39,0:16:47.44,Default,Mahito,0,0,0,,He always smells moldy and I hate it.
+Dialogue: 0,0:16:48.02,0:16:51.11,Default,Mahito,0,0,0,,We're enemies, too, so let's just kill him quick.
+Dialogue: 0,0:16:51.48,0:16:53.70,Default,Geto,0,0,0,,You can't do that yet, Mahito.
+Dialogue: 0,0:16:54.65,0:16:57.87,Default,Geto,0,0,0,,He agreed to cooperate with us and provide us information.
+Dialogue: 0,0:16:58.58,0:17:00.24,Default,Geto,0,0,0,,In exchange,
+Dialogue: 0,0:17:00.24,0:17:02.62,Default,Geto,0,0,0,,we agreed to use your Idle Transfiguration to fix his body.
+Dialogue: 0,0:17:03.46,0:17:07.00,Default,Geto,0,0,0,,That's the pact we all forged, remember?
+Dialogue: 0,0:17:08.25,0:17:10.75,Default,Geto,0,0,0,,Killing him comes after fixing him.
+Dialogue: 0,0:17:13.01,0:17:16.05,Default,Geto,0,0,0,,I wanted him to do some work for us in Shibuya, too,
+Dialogue: 0,0:17:16.05,0:17:17.55,Default,Geto,0,0,0,,so that's a shame.
+Dialogue: 0,0:17:18.01,0:17:20.76,Default,Muta,0,0,0,,"We won't lay a hand on the people from the Kyoto school."
+Dialogue: 0,0:17:20.76,0:17:23.89,Default,Muta,0,0,0,,You're the ones who broke our pact first.
+Dialogue: 0,0:17:23.89,0:17:26.10,Default,Mahito,0,0,0,,Hanami's the one who did that.
+Dialogue: 0,0:17:26.10,0:17:29.02,Default,Mahito,0,0,0,,You shouldn't lash out at the wrong people.
+Dialogue: 0,0:17:29.02,0:17:31.23,Default,Muta,0,0,0,,I have no intention of getting into a debate with cursed spirits.
+Dialogue: 0,0:17:31.23,0:17:33.90,Default,Muta,0,0,0,,Hurry up and fix me, scumbag.
+Dialogue: 0,0:17:36.20,0:17:39.45,Default,Mahito,0,0,0,,Maybe I'll get carried away and turn him into a caterpillar.
+Dialogue: 0,0:17:39.45,0:17:40.45,Default,Geto,0,0,0,,Mahito.
+Dialogue: 0,0:17:40.45,0:17:45.75,Default,Geto,0,0,0,,Pacts forged with others are very different from pacts placed upon oneself.
+Dialogue: 0,0:17:46.16,0:17:50.38,Default,Geto,0,0,0,,The first aspect of that is the uncertain nature of the penalty.
+Dialogue: 0,0:17:50.79,0:17:53.71,Default,Geto,0,0,0,,When you break a pact with yourself, whatever you gained...
+Dialogue: 0,0:17:53.71,0:17:57.88,Default,Geto,0,0,0,,the improvement to your own ability is lost,
+Dialogue: 0,0:17:57.88,0:17:59.84,Default,Geto,0,0,0,,but this time you can't break it.
+Dialogue: 0,0:17:59.84,0:18:01.55,Default,Geto,0,0,0,,If you break this pact,
+Dialogue: 0,0:18:01.55,0:18:06.23,Default,Geto,0,0,0,,then we have no idea when, or what kind of disaster will befall us.
+Dialogue: 0,0:18:06.23,0:18:07.89,Default,Mahito,0,0,0,,Yeah, yeah.
+Dialogue: 0,0:18:08.69,0:18:11.61,Default,Mahito,0,0,0,,You're lower than a scumbag, so be grateful.
+Dialogue: 0,0:18:13.90,0:18:15.44,Default,Mahito,0,0,0,,Idle Transfiguration.
+Dialogue: 0,0:18:45.10,0:18:46.27,Default,Mahito,0,0,0,,Hmph.
+Dialogue: 0,0:18:46.68,0:18:48.60,Default,Mahito,0,0,0,,No fun at all.
+Dialogue: 0,0:18:48.60,0:18:50.27,Default,Mahito,0,0,0,,Celebrate a bit more.
+Dialogue: 0,0:18:52.36,0:18:55.23,Default,Muta,0,0,0,,I'll do that after I'm finished here.
+Dialogue: 0,0:18:56.78,0:18:58.40,Default,Mahito,0,0,0,,I suppose that's true.
+Dialogue: 0,0:18:59.24,0:19:01.32,Default,Mahito,0,0,0,,Well, shall we get started?
+Dialogue: 0,0:19:10.87,0:19:12.25,Default,Geto,0,0,0,,Want my help?
+Dialogue: 0,0:19:12.25,0:19:13.25,Default,Mahito,0,0,0,,Stop it.
+Dialogue: 0,0:19:13.25,0:19:14.88,Default,Mahito,0,0,0,,He's my toy.
+Dialogue: 0,0:19:19.01,0:19:19.80,Default,Mahito,0,0,0,,There!
+Dialogue: 0,0:19:23.89,0:19:25.14,Default,Mahito,0,0,0,,There!
+Dialogue: 0,0:19:34.94,0:19:35.90,Default,Mahito,0,0,0,,Hmph!
+Dialogue: 0,0:19:44.62,0:19:46.33,Default,Mahito,0,0,0,,He escaped?
+Dialogue: 0,0:19:47.20,0:19:50.41,Default,Mahito,0,0,0,,Well, it's not like he needs to kill us.
+Dialogue: 0,0:19:50.87,0:19:52.58,Default,Mahito,0,0,0,,How boring.
+Dialogue: 0,0:19:52.87,0:19:56.54,Default,Mahito,0,0,0,,I wanted to have a match, not go hunting, you know.
+Dialogue: 0,0:20:13.23,0:20:15.19,Default,Mahito,0,0,0,,That's more like it!
+Dialogue: 0,0:20:22.99,0:20:26.07,Default,Mahito,0,0,0,,So you've been making something like this in secret?
+Dialogue: 0,0:20:26.07,0:20:29.12,Default,Mahito,0,0,0,,Guess you weren't a shut-in just for show.
+Dialogue: 0,0:20:29.49,0:20:31.16,Default,Mahito,0,0,0,,He's inside it, right?
+Dialogue: 0,0:20:31.16,0:20:33.62,Default,Mahito,0,0,0,,He wouldn't want me to touch him after all.
+Dialogue: 0,0:20:33.92,0:20:35.46,Default,Mahito,0,0,0,,The cockpit...
+Dialogue: 0,0:20:35.96,0:20:37.88,Default,Mahito,0,0,0,,The seat of his soul...
+Dialogue: 0,0:20:38.21,0:20:39.46,Default,Mahito,0,0,0,,is the head!
+Dialogue: 0,0:20:39.46,0:20:41.05,Default,SystemVoice,0,0,0,,Expansion rate normal.
+Dialogue: 0,0:20:41.05,0:20:43.01,Default,SystemVoice,0,0,0,,Perception feedback severed.
+Dialogue: 0,0:20:43.01,0:20:43.84,Default,Muta,0,0,0,,Tsk.
+Dialogue: 0,0:20:43.84,0:20:45.47,Default,Muta,0,0,0,,They lowered a Veil.
+Dialogue: 0,0:20:45.47,0:20:46.89,Default,Muta,0,0,0,,Must be Geto.
+Dialogue: 0,0:20:47.72,0:20:49.64,Default,Muta,0,0,0,,It's not just attempting to trap me inside.
+Dialogue: 0,0:20:50.06,0:20:52.02,Default,Muta,0,0,0,,It's cutting off signal, too.
+Dialogue: 0,0:20:53.10,0:20:56.02,Default,Muta,0,0,0,,{\i1}This won't be as easy as it was for Satoru Gojo.
+Dialogue: 0,0:20:56.27,0:21:00.15,Default,Muta,0,0,0,,{\i1}That's right, my victory condition is Satoru Gojo.
+Dialogue: 0,0:21:00.65,0:21:04.36,Default,Muta,0,0,0,,{\i1}I have to use any means necessary to get in contact with Satoru Gojo,
+Dialogue: 0,0:21:04.36,0:21:06.03,Default,Muta,0,0,0,,{\i1}and tell him about the Shibuya plot.
+Dialogue: 0,0:21:06.57,0:21:08.49,Default,Muta,0,0,0,,{\i1}Then I'll have him protect me.
+Dialogue: 0,0:21:08.87,0:21:12.12,Default,Muta,0,0,0,,{\i1}However, even if I want to focus on Geto, the one who lowered this Veil,
+Dialogue: 0,0:21:12.45,0:21:14.75,Default,Muta,0,0,0,,{\i1}Mahito, is too dangerous to ignore.
+Dialogue: 0,0:21:15.08,0:21:17.29,Default,Muta,0,0,0,,{\i1}I'll have to exorcise him first.
+Dialogue: 0,0:21:19.75,0:21:22.21,Default,Geto,0,0,0,,{\i1}Go ahead, don't mind me.
+Dialogue: 0,0:21:23.63,0:21:25.47,Default,Muta,0,0,0,,{\i1}I'm still at a disadvantage.
+Dialogue: 0,0:21:25.47,0:21:28.34,Default,Muta,0,0,0,,{\i1}But I have a chance to win.
+Dialogue: 0,0:21:34.48,0:21:36.56,Default,Muta,0,0,0,,{\i1}I've seen it all.
+Dialogue: 0,0:21:37.73,0:21:40.15,Default,Muta,0,0,0,,{\i1}I have all the time I was bound.
+Dialogue: 0,0:21:40.15,0:21:41.98,Default,Muta,0,0,0,,{\i1}All the cursed energy I gained from that time.
+Dialogue: 0,0:21:42.82,0:21:44.49,Default,Muta,0,0,0,,{\i1}I won't hold anything back.
+Dialogue: 0,0:21:52.49,0:21:54.41,Default,Muta,0,0,0,,Charge, 1 year!
+Dialogue: 0,0:21:54.41,0:21:57.29,Default,Muta,0,0,0,,Burn him, Mechamaru!
+Dialogue: 0,0:22:00.25,0:22:02.75,Default,Muta,0,0,0,,Ultra Cannon!
+Dialogue: 0,0:23:40.65,0:23:43.86,Default,Miwa,0,0,0,,I decided I would never tell anyone about the things I truly want to keep secret
+Dialogue: 0,0:23:43.86,0:23:46.23,Default,Miwa,0,0,0,,when I wrote out what type of boy I like in my profile
+Dialogue: 0,0:23:46.23,0:23:48.56,Default,Miwa,0,0,0,,book during elementary school and had everyone find out.
+Dialogue: 0,0:23:48.56,0:23:50.32,Default,Miwa,0,0,0,,Next Episode, Evening Festival!
+Dialogue: 0,0:23:50.32,0:23:51.21,Default,Mai,0,0,0,,What did you write down?
+Dialogue: 0,0:23:51.21,0:23:52.65,Default,Miwa,0,0,0,,Mittermeyer.
+Dialogue: 0,0:23:52.65,0:23:54.74,Default,Mai,0,0,0,,He does seem like he'd be fast.
+
+[Aegisub Project Garbage]
+Audio File: jjk_30_premux.mkv
+Video File: jjk_30_premux.mkv
+

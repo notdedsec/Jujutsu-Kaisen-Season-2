@@ -1,0 +1,35 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Signs,Screen,0,0,0,,{\pos(320,240)\fnArial}Q: {\fn}What do you think of {\fnArial}Satoru Gojo{\fn}?
+Dialogue: 0,0:01:06.61,0:01:11.12,Signs,Screen,0,0,0,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
+Dialogue: 0,0:02:26.02,0:02:29.02,Signs,Screen,0,0,0,,Episode 33\N{\fs30\fscy150}Shibuya Incident - Gate, Open
+Dialogue: 0,0:09:50.92,0:09:53.93,Signs,Sign,0,0,0,,{\fnArial\b1\an8\c&H455051&\3c&HF1FFFF&\shad0}Meiji Shrine (Harajuku)
+Dialogue: 0,0:12:18.04,0:12:18.98,Signs,,0,0,0,,{\fad(375,0)\fnComic Sans MS\c&H090A13&\3c&HC7D0D9&\shad0\an8\b1\fs16\move(420,60,420,90,23,689)}What...?
+Dialogue: 0,0:12:21.20,0:12:24.00,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1c&H75EFED&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:12:21.26,0:12:23.97,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1a&HFF&\3c&HC5E3EC&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:12:27.21,0:12:28.97,Signs,Eyecatch,0,0,0,,{\fad(675,0)\3c&H1EDDF0&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:23:50.78,0:23:54.99,Signs,Screen,0,0,0,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Pandemonium
+
+[Aegisub Project Garbage]
+Audio File: jjk_33_premux.mkv
+Video File: jjk_33_premux.mkv
+

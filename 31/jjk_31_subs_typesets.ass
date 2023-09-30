@@ -1,0 +1,50 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:48.31,0:00:52.61,Signs,Screen,0,0,0,,{\pos(320,245)\bord1\shad0\c&H000000&\3c&HFFFFFF&\fnTimes New Roman\b1\fs20}Ultimate Mechamaru, Mode: Absolute\N“Armored Puppet Ultimate Mechamaru Prototype 0”
+Dialogue: 0,0:01:15.45,0:01:18.45,Sign_Basic,Screen,0,0,0,,{\an8\c&HF3FDF7&\3c&H54DCCD&\blur1\shad0}17 years 1 month 29 days
+Dialogue: 0,0:01:18.45,0:01:19.43,Sign_Basic,Screen,0,0,0,,{\an8\c&H0500E4&\3c&H050707&\blur1\shad0}16 Years
+Dialogue: 0,0:02:01.97,0:02:04.97,Signs,Screen,0,0,0,,Episode 31\N{\fs30\fscy150}Evening Festival
+Dialogue: 0,0:02:15.53,0:02:20.03,Signs,Screen,0,0,0,,{\fad(0,825)\pos(320,10)}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
+Dialogue: 0,0:09:50.15,0:09:56.95,Signs,Screen,0,0,0,,{\fad(0,1625)\an8\b1\shad0\3c&H321A1C&\pos(357,86)\frx40}9 Years 5 Months 6 Days
+Dialogue: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,{\pos(272.667,63.333)\fs10\shad0\bord.5\an8\3c&H886848&\c&HCEB7A6&\frz357.4}Today's Weather
+Dialogue: 0,0:15:46.38,0:15:49.26,Signs,ScrollingText,0,0,0,,{\q2\an7\bord0\shad0\move(145,230,18,230)\fscx65\clip(m 188 3 l 122 358 529 356 510 269 494 200 472 100 456 24 451 6)\frz356.2}November 1, Heisei 30 [Hokkaido] Sunny, Partly Cloudy [Aomori] Rain [Miyagi]
+Dialogue: 0,0:16:21.16,0:16:23.96,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1c&H75EFED&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:16:21.16,0:16:23.96,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1a&HFF&\3c&HC5E3EC&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:18:01.34,0:18:06.35,Signs,Screen,0,0,0,,{\an3\fnArial\b1\fs30\bord0\shad0\pos(609,286)}20:14, Tokyo, Shibuya
+Dialogue: 0,0:18:06.35,0:18:14.10,Signs,Screen,0,0,0,,{\fnArial\an3\fs24\b1\bord0\shad0\pos(602,260)}Same Time, Tokyo Metro Shibuya Station\NExit #13 (Outside the Veil)
+Dialogue: 0,0:18:06.35,0:18:14.10,Signs,BuildingBanner,0,0,0,,{\an4\3c&H6D7D9E&\c&HA7BDCE&\shad0\fs14\fay-.32\pos(435.334,106.667)\fsp2\clip(m 430 96 l 640 23 640 132 612 108 605 35 572 47 576 106 436 144)}For Health Insurance, Choose
+Dialogue: 0,0:18:26.87,0:18:29.75,Signs,Screen,0,0,0,,{\an1\fnArial\fs20\bord0\shad0\pos(80,251)\b1\fscx70}Team Nanami\h\h\h\h\h\h\h{\fscx60}Kento Nanami (Grade 1 Jujutsu Sorcerer) \N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTakuma Ino (Grade 2 Jujutsu Sorcerer) (Under Evaluation for Promotion) \N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMegumi Fushiguro (Grade 2 Jujutsu Sorcerer) (Under Evaluation for Promotion)
+Dialogue: 0,0:19:05.86,0:19:10.87,Signs,Screen,0,0,0,,{\fnTArial\b1\an3\fs24\bord0\shad0\pos(602,260)}Same Time, Shibuya Mark City\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\N{\fscx92}Restaurant Avenue Entrance (Outside the Veil)
+Dialogue: 0,0:19:24.51,0:19:30.52,Signs,Screen,0,0,0,,{\an1\fnArial\fs18\bord0\shad0\pos(74,251)\b1\fscx70}Team Zen'in\h\h\h\h\h\h\h\h\h\hNaobito Zen'in (Special Grade 1 Jujutsu Sorcerer) \N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMaki Zen'in (Grade 4 Jujutsu Sorcerer) (Under Evaluation for Promotion)\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hNobara Kugisaki (Grade 3 Jujutsu Sorcerer) (Under Evaluation for Promotion)
+Dialogue: 0,0:19:59.82,0:20:06.80,Signs,Screen,0,0,0,,{\fnArial\b1\an3\fs24\bord0\shad0\pos(606,300)\fscx70}Same Time, JR Shibuya Station South Entrance (Outside the Veil)
+Dialogue: 0,0:20:06.80,0:20:12.69,Signs,,0,0,0,,{\fnArial\b1\bord0\shad0\an3\fs24\fscx60\pos(606,267)}Grade 1 Jujutsu Sorcerer (Tokyo Jujutsu High Second-year Teacher)\N{\fscx100}Atsuya Kusakabe
+Dialogue: 0,0:20:20.65,0:20:26.65,Signs,Screen,0,0,0,,{\fnArial\b1\an3\fs20\bord0\shad0\pos(602,280)\fscx85\q2}Team Kusakabe\h\h\h\h\h\hAtsuya Kusakabe (Grade 1 Jujutsu Sorcerer)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\N{\fscx70}Panda (Grade 2 Jujutsu Sorcerer) (Promotion Evaluation Postponed)
+Dialogue: 0,0:21:05.86,0:21:11.74,Signs,Screen,0,0,0,,{\fnArial\b1\an3\fs24\bord0\shad0\pos(602,264)}Same Time, Bunkamura Street\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\N{\fscx80}Dogenzaka 2-Chome East (Inside the Veil)
+Dialogue: 0,0:21:36.64,0:21:38.39,Signs,Phone,0,0,0,,{\bord0\shad0\and8\fs16\pos(346,174.666)\c&HE0EDFF&\frz13.41\fax.1}Wednesday, October 31
+Dialogue: 0,0:21:36.64,0:21:38.39,Signs,Phone,0,0,0,,{\bord2\shad0\fs12\c&H6D5D8B&\frz13.41\fax.1\an7\3c&HCCC5F7&\pos(273,248)}Connection Error\NUnable to Connect to Network
+Dialogue: 0,0:22:06.96,0:22:09.96,Signs,Screen,0,0,0,,{\pos(320,282)\fnArial\b1\fs30\bord0\shad0}20:31 Satoru Gojo Arrives
+Dialogue: 0,0:23:50.19,0:23:54.99,Signs,Screen,0,0,0,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}The Shibuya Incident
+
+[Aegisub Project Garbage]
+Audio File: jjk_31_premux.mkv
+Video File: jjk_31_premux.mkv
+

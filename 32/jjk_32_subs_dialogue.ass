@@ -1,0 +1,291 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
+Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.53,0:00:18.37,Default,Gojo,0,0,0,,{\i1}Well, this is awful.
+Dialogue: 0,0:00:18.83,0:00:25.12,Default,Gojo,0,0,0,,{\i1}There's another Veil centered underneath here that also traps non-sorcerers inside.
+Dialogue: 0,0:00:29.84,0:00:31.46,Default,Gojo,0,0,0,,Hey, pardon me.
+Dialogue: 0,0:00:33.72,0:00:34.97,Default,Gojo,0,0,0,,Hup, hup.
+Dialogue: 0,0:00:42.56,0:00:45.10,Default,Gojo,0,0,0,,I think I have a good idea what they're after.
+Dialogue: 0,0:00:48.40,0:00:50.11,Default,Gojo,0,0,0,,I'll play along.
+Dialogue: 0,0:00:50.90,0:00:53.86,Default,Yuji,0,0,0,,{\an8}They're making Gojo{*}{*-sensei} do this alone?!
+Dialogue: 0,0:00:54.28,0:00:58.41,Default,Yuji,0,0,0,,I understand the logic, but there has to be something we can do, too!
+Dialogue: 0,0:00:58.41,0:01:00.03,Default,Yuji,0,0,0,,Be his backup or something!
+Dialogue: 0,0:01:00.33,0:01:01.45,Default,Yuji,0,0,0,,Huh?
+Dialogue: 0,0:01:01.91,0:01:08.38,Default,Mei,0,0,0,,Yeah. That's why we're heading to Shibuya now.
+Dialogue: 0,0:01:08.38,0:01:10.09,Default,Yuji,0,0,0,,Oh, we are?
+Dialogue: 0,0:01:10.09,0:01:11.21,Default,UiUi,0,0,0,,Give it back.
+Dialogue: 0,0:01:11.21,0:01:12.32,Default,Yuji,0,0,0,,"Give it back"?
+Dialogue: 0,0:01:14.38,0:01:17.34,Default,UiUi,0,0,0,,Forcing Nee-sama to be his backup...
+Dialogue: 0,0:01:17.72,0:01:21.18,Default,UiUi,0,0,0,,Satoru Gojo must think he's some big-shot.
+Dialogue: 0,0:01:21.18,0:01:24.93,Default,Mei,0,0,0,,You shouldn't treat him like some ordinary guy.
+Dialogue: 0,0:01:24.93,0:01:28.73,Default,Ui,0,0,0,,You're not like ordinary women yourself, Nee-sama.
+Dialogue: 0,0:01:28.73,0:01:30.44,Default,Mei,0,0,0,,Ah, Ui Ui!
+Dialogue: 0,0:01:30.44,0:01:33.19,Default,Mei,0,0,0,,You truly are adorable!
+Dialogue: 0,0:01:33.19,0:01:35.53,Default,Ui,0,0,0,,{\an8}There you go saying stuff you don't believe again.
+Dialogue: 0,0:01:35.53,0:01:41.08,Default,Ui,0,0,0,,{\an8}What you love isn't family, but work relations treated as family relations, right?
+Dialogue: 0,0:01:41.99,0:01:44.12,Default,Mei,0,0,0,,You really do get it.
+Dialogue: 0,0:01:44.12,0:01:46.16,Default,Mei,0,0,0,,I love that part of you.
+Dialogue: 0,0:01:46.16,0:01:46.91,Default,Ui,0,0,0,,Oh, my!
+Dialogue: 0,0:01:47.46,0:01:48.96,Default,Yuji,0,0,0,,{\i1}Let's hurry up and go.
+Dialogue: 0,0:01:50.54,0:01:52.17,Default,Mei,0,0,0,,Hello, Mei Mei here.
+Dialogue: 0,0:01:52.63,0:01:53.46,Default,Mei,0,0,0,,Oh?
+Dialogue: 0,0:01:55.59,0:01:58.38,Default,Mei,0,0,0,,Itadori{**-kun}, change in destination.
+Dialogue: 0,0:01:58.38,0:01:59.18,Default,Yuji,0,0,0,,Huh?
+Dialogue: 0,0:01:59.18,0:02:03.68,Default,Mei,0,0,0,,Another Veil like the one over Shibuya was lowered over Meiji Shrine Station.
+Dialogue: 0,0:02:03.68,0:02:05.79,Default,Mei,0,0,0,,We're heading to that one.
+Dialogue: 0,0:02:08.06,0:02:11.11,Default,Mei,0,0,0,,We're running. Keep up.
+Dialogue: 0,0:02:11.77,0:02:12.77,Default,Yuji,0,0,0,,Right!
+Dialogue: 0,0:02:23.45,0:02:25.49,Default,Gojo,0,0,0,,I see you're all fully prepared.
+Dialogue: 0,0:02:29.77,0:02:31.44,Default,Jogo,0,0,0,,You came.
+Dialogue: 0,0:02:31.75,0:02:34.68,Default,Gojo,0,0,0,,You won't have any excuses left when you lose this time.
+Dialogue: 0,0:02:34.96,0:02:40.01,Default,Jogo,0,0,0,,And have you given thought to the first excuse you'll use when you lose?
+Dialogue: 0,0:04:14.14,0:04:16.45,Default,Assistant Supervisor,0,0,0,,{\an8}There's a Veil to keep ordinary people trapped inside
+Dialogue: 0,0:04:16.45,0:04:18.98,Default,Assistant Supervisor,0,0,0,,{\an8}covering the entire underground subway station,
+Dialogue: 0,0:04:18.98,0:04:22.65,Default,Assistant Supervisor,0,0,0,,{\an8}and within that, there's another Veil centered around the platform
+Dialogue: 0,0:04:22.65,0:04:25.66,Default,Assistant Supervisor,0,0,0,,{\an8}on level B5 that prevents sorcerers from entering.
+Dialogue: 0,0:04:26.28,0:04:30.29,Default,Assistant Supervisor,0,0,0,,We believe the cursed spirit or curse user who lowered these Veils
+Dialogue: 0,0:04:30.29,0:04:32.35,Default,Assistant Supervisor,0,0,0,,is located somewhere between these two.
+Dialogue: 0,0:04:33.04,0:04:34.00,Default,Mei,0,0,0,,Between them?
+Dialogue: 0,0:04:34.58,0:04:37.00,Default,Mei,0,0,0,,Not on the platform they're centered around?
+Dialogue: 0,0:04:37.38,0:04:41.63,Default,Assistant Supervisor,0,0,0,,We believe they're most likely taking on the risk of being outside
+Dialogue: 0,0:04:41.63,0:04:44.38,Default,Assistant Supervisor,0,0,0,,the Veil as well in order to strengthen the barrier.
+Dialogue: 0,0:04:44.38,0:04:47.36,Default,Assistant Supervisor,0,0,0,,Two of our assistant supervisors have already been taken out.
+Dialogue: 0,0:04:47.66,0:04:50.43,Default,Assistant Supervisor,0,0,0,,Also, in between these barriers...
+Dialogue: 0,0:04:51.06,0:04:56.10,Default,Assistant Supervisor,0,0,0,,Well, we can't say for certain yet, but...
+Dialogue: 0,0:04:56.56,0:04:59.36,Default,Mei,0,0,0,,That's fine. Say it.
+Dialogue: 0,0:05:03.44,0:05:08.62,Default,Assistant Supervisor,0,0,0,,There are transfigured humans between the barriers.
+Dialogue: 0,0:05:31.47,0:05:33.81,Default,Yuji,0,0,0,,What are you two doing?! We have to hurry!
+Dialogue: 0,0:05:33.81,0:05:34.48,Default,Ui,0,0,0,,Shh!
+Dialogue: 0,0:05:34.48,0:05:38.27,Default,Ui,0,0,0,,Nee-sama is currently sharing the crows' perception.
+Dialogue: 0,0:05:38.27,0:05:41.57,Default,Ui,0,0,0,,It's a process that takes concentration, so be quiet.
+Dialogue: 0,0:05:41.90,0:05:44.61,Default,Mei,0,0,0,,I don't mind if you talk.
+Dialogue: 0,0:05:44.61,0:05:45.44,Default,Yuji,0,0,0,,She says it's fine.
+Dialogue: 0,0:05:45.44,0:05:48.03,Default,Ui,0,0,0,,Oh, Nee-sama!
+Dialogue: 0,0:05:52.66,0:05:53.41,Default,Mei,0,0,0,,Yeah.
+Dialogue: 0,0:05:54.75,0:05:56.33,Default,Mei,0,0,0,,I've got the gist of it.
+Dialogue: 0,0:05:57.00,0:05:58.21,Default,Mei,0,0,0,,Itadori{**-kun},
+Dialogue: 0,0:05:58.42,0:06:01.21,Default,Mei,0,0,0,,which would you prefer? Killing lots of weak, transfigured humans,
+Dialogue: 0,0:06:01.21,0:06:04.13,Default,Narration,0,0,0,,or exorcising one powerful cursed spirit?
+Dialogue: 0,0:06:06.22,0:06:09.59,Default,Mei,0,0,0,,Knowing you, it's probably the latter.
+Dialogue: 0,0:06:13.60,0:06:15.89,Default,Mei,0,0,0,,This is a map of the underground station.
+Dialogue: 0,0:06:16.14,0:06:18.39,Default,Mei,0,0,0,,The transfigured humans are mulling about
+Dialogue: 0,0:06:18.39,0:06:21.02,Default,Mei,0,0,0,,and attacking normal people here, on level B4.
+Dialogue: 0,0:06:23.48,0:06:27.19,Default,Mei,0,0,0,,The majority of the normal people are probably at the train platform on level B5.
+Dialogue: 0,0:06:28.65,0:06:29.66,Default,Yuji,0,0,0,,"Probably"?
+Dialogue: 0,0:06:29.66,0:06:32.91,Default,Mei,0,0,0,,The crows I used are imbued with cursed energy,
+Dialogue: 0,0:06:33.53,0:06:35.91,Default,Mei,0,0,0,,so they couldn't enter B5.
+Dialogue: 0,0:06:36.20,0:06:41.38,Default,Mei,0,0,0,,I'm guessing they're forcing normal people to flee to B5, and serving them up.
+Dialogue: 0,0:06:41.88,0:06:47.38,Default,Mei,0,0,0,,Also, my crows got hunted down here, between B1 and B2.
+Dialogue: 0,0:06:47.38,0:06:51.43,Default,Mei,0,0,0,,This is likely where the cursed spirit or curse user who lowered the Veil is.
+Dialogue: 0,0:06:51.97,0:06:55.60,Default,Mei,0,0,0,,Maybe they're planning to hunt down any common people that come back up,
+Dialogue: 0,0:06:55.60,0:06:57.98,Default,Mei,0,0,0,,or maybe it has something to do with the Veils' conditions,
+Dialogue: 0,0:06:57.98,0:06:59.85,Default,Mei,0,0,0,,but it's unclear why they've chosen
+Dialogue: 0,0:06:59.85,0:07:03.71,Default,Mei,0,0,0,,this positioning, and what they hope to achieve by isolating level B5.
+Dialogue: 0,0:07:06.36,0:07:07.65,Default,Yuji,0,0,0,,He's here, though, right?
+Dialogue: 0,0:07:08.58,0:07:09.90,Default,Yuji,0,0,0,,Right below us.
+Dialogue: 0,0:07:10.78,0:07:11.82,Default,Yuji,0,0,0,,That curse.
+Dialogue: 0,0:07:12.78,0:07:14.07,Default,Mei,0,0,0,,Maybe?
+Dialogue: 0,0:07:14.07,0:07:19.08,Default,Mei,0,0,0,,My crows all got killed before they could confirm seeing Patchface.
+Dialogue: 0,0:07:19.08,0:07:23.58,Default,Mei,0,0,0,,Though the presence of transfigured humans would suggest that's likely.
+Dialogue: 0,0:07:24.13,0:07:26.92,Default,Mei,0,0,0,,I'm not so sure about dividing up our forces,
+Dialogue: 0,0:07:26.92,0:07:30.88,Default,Mei,0,0,0,,but if we keep wasting time, all the common people on B4 will be wiped out.
+Dialogue: 0,0:07:31.88,0:07:37.76,Default,Mei,0,0,0,,The two of us will take Exit 7 directly to B4 and rescue the civilians.
+Dialogue: 0,0:07:38.31,0:07:42.14,Default,Mei,0,0,0,,If it gets too dangerous, you head down there, as well.
+Dialogue: 0,0:07:42.14,0:07:46.86,Default,Mei,0,0,0,,Though, if I can be greedy, I hope that by the time we reunite,
+Dialogue: 0,0:07:46.86,0:07:50.24,Default,Mei,0,0,0,,the Veil will be lifted, the civilians will be freed,
+Dialogue: 0,0:07:50.24,0:07:54.87,Default,Mei,0,0,0,,and we'll know what our opponent on B5 is after.
+Dialogue: 0,0:07:55.82,0:07:58.04,Default,Yuji,0,0,0,,Don't worry, Mei{**-san}.
+Dialogue: 0,0:07:58.70,0:08:01.46,Default,Yuji,0,0,0,,I won't lose anymore.
+Dialogue: 0,0:08:14.89,0:08:16.76,Default,Ko-guy,0,0,0,,What are you looking at?
+Dialogue: 0,0:08:23.44,0:08:31.19,Default,Ko-guy,0,0,0,,Y-You're a j-juchu... j-jujuchu... juju... jujutsu sorcerer, right?
+Dialogue: 0,0:08:32.57,0:08:34.45,Default,Ko-guy,0,0,0,,A jujutsu sorcerer, right?
+Dialogue: 0,0:08:34.45,0:08:35.61,Default,Ko-guy,0,0,0,,Right?
+Dialogue: 0,0:08:35.61,0:08:37.82,Default,Ko-guy,0,0,0,,I'm clever.
+Dialogue: 0,0:08:38.45,0:08:41.25,Default,Yuji,0,0,0,,The patchfaced cursed spirit is here, right?
+Dialogue: 0,0:08:41.25,0:08:42.37,Default,Yuji,0,0,0,,Where is he?
+Dialogue: 0,0:08:43.75,0:08:47.58,Default,Ko-guy,0,0,0,,Patch... face? Patchface?
+Dialogue: 0,0:08:48.34,0:08:50.75,Default,Yuji,0,0,0,,The one with stitches all over his face.
+Dialogue: 0,0:08:51.38,0:08:54.09,Default,Ko-guy,0,0,0,,Don't insult me! I know that much!
+Dialogue: 0,0:08:54.09,0:08:56.34,Default,Ko-guy,0,0,0,,I'm clever!
+Dialogue: 0,0:08:56.84,0:08:58.55,Default,Ko-guy,0,0,0,,Mahito is below.
+Dialogue: 0,0:08:58.55,0:09:01.85,Default,Ko-guy,0,0,0,,I'm here protecting the Veil.
+Dialogue: 0,0:09:02.64,0:09:03.48,Default,Yuji,0,0,0,,Mahito...
+Dialogue: 0,0:09:04.31,0:09:06.35,Default,Yuji,0,0,0,,{\i1}I think Junpei called him that, too...
+Dialogue: 0,0:09:06.84,0:09:09.38,Default,Yuji,0,0,0,,{\i1}No, its name doesn't matter right now.
+Dialogue: 0,0:09:09.74,0:09:12.21,Default,Gojo,0,0,0,,Barriers are pretty complicated, yeah.
+Dialogue: 0,0:09:12.21,0:09:15.49,Default,Gojo,0,0,0,,There are plenty of people who are strong and still can't do them.
+Dialogue: 0,0:09:15.49,0:09:17.64,Default,Gojo,0,0,0,,Though I'm both strong and capable.
+Dialogue: 0,0:09:18.20,0:09:21.33,Default,Yuji,0,0,0,,{\i1}This thing is responsible for the Veil? Both of them?
+Dialogue: 0,0:09:21.33,0:09:22.58,Default,Yuji,0,0,0,,{\i1}Doesn't seem likely...
+Dialogue: 0,0:09:24.12,0:09:27.83,Default,Ko-guy,0,0,0,,Mahito's sorcery is bad.
+Dialogue: 0,0:09:29.04,0:09:32.63,Default,Yuji,0,0,0,,{\i1}He did say he was "protecting the Veil."
+Dialogue: 0,0:09:32.63,0:09:34.97,Default,Yuji,0,0,0,,{\i1}Which makes that object very suspicious.
+Dialogue: 0,0:09:34.97,0:09:36.63,Default,Yuji,0,0,0,,{\i1}I'll smash it for starters.
+Dialogue: 0,0:09:36.63,0:09:38.01,Default,Ko-guy,0,0,0,,Did you know?
+Dialogue: 0,0:09:38.01,0:09:41.93,Default,Ko-guy,0,0,0,,The humans he transfigures lose their flavor.
+Dialogue: 0,0:09:43.43,0:09:48.10,Default,Ko-guy,0,0,0,,I'm clever, so I can tell the difference!
+Dialogue: 0,0:09:55.86,0:10:04.41,Default,Yuji,0,0,0,,All of you need to stop underestimating humans.
+Dialogue: 0,0:10:09.21,0:10:13.21,Default,Ko-guy,0,0,0,,I take it y-you're not clever, huh?
+Dialogue: 0,0:10:13.58,0:10:18.01,Default,Ko-guy,0,0,0,,You don't know what curse I am, do you?
+Dialogue: 0,0:10:18.80,0:10:20.34,Default,Ko-guy,0,0,0,,Did you know?
+Dialogue: 0,0:10:20.76,0:10:26.93,Default,Ko-guy,0,0,0,,The not-clever ones die first in this world.
+Dialogue: 0,0:10:28.14,0:10:30.00,Default,Yuji,0,0,0,,Huh? You're a grasshopper curse, right?
+Dialogue: 0,0:10:30.00,0:10:31.06,Default,Ko-guy,0,0,0,,Huh?!
+Dialogue: 0,0:10:39.82,0:10:40.91,Default,Ko-guy,0,0,0,,{\i1}This guy...
+Dialogue: 0,0:10:41.95,0:10:43.33,Default,Ko-guy,0,0,0,,{\i1}is clever!
+Dialogue: 0,0:10:54.29,0:10:55.42,Default,Narration,0,0,0,,Locust plague.
+Dialogue: 0,0:10:55.75,0:10:59.59,Default,Narration,0,0,0,,A large-scale disaster arising from an outbreak of locusts.
+Dialogue: 0,0:11:00.18,0:11:03.76,Default,Narration,0,0,0,,The locusts will consume not just crops, but paper, clothes, buildings—
+Dialogue: 0,0:11:03.76,0:11:07.14,Default,Narration,0,0,0,,anything and everything made from plant fibers.
+Dialogue: 0,0:11:07.68,0:11:12.60,Default,Narration,0,0,0,,A locust is required to eat its own weight in food every day to grow,
+Dialogue: 0,0:11:12.60,0:11:15.23,Default,Narration,0,0,0,,so a locust swarm weighing one ton
+Dialogue: 0,0:11:15.23,0:11:19.61,Default,Narration,0,0,0,,must consume 2,500 people's worth of food each day.
+Dialogue: 0,0:11:20.11,0:11:23.29,Default,Narration,0,0,0,,The abnormal sounds of chewing fill the air around the swarm all day and night,
+Dialogue: 0,0:11:23.29,0:11:25.83,Default,Narration,0,0,0,,and once the swarm has passed,
+Dialogue: 0,0:11:25.83,0:11:30.12,Default,Narration,0,0,0,,it leaves behind a wasteland covered in the black fluid secreted by locusts,
+Dialogue: 0,0:11:30.12,0:11:33.54,Default,Narration,0,0,0,,creating a sight that is far from tranquil.
+Dialogue: 0,0:11:34.29,0:11:40.63,Default,Narration,0,0,0,,Mankind has long feared, hated, and cursed such demonic pests.
+Dialogue: 0,0:11:46.72,0:11:48.85,Default,Yuji,0,0,0,,{\i1}What an incredible jaw and jump.
+Dialogue: 0,0:11:48.85,0:11:52.64,Default,Yuji,0,0,0,,{\i1}The fact that it can understand speech means it's decently powerful, too, right?
+Dialogue: 0,0:12:39.44,0:12:41.28,Default,Ko-guy,0,0,0,,You keep just running away...
+Dialogue: 0,0:12:41.28,0:12:43.24,Default,Ko-guy,0,0,0,,Which is it with you?
+Dialogue: 0,0:12:43.57,0:12:46.41,Default,Yuji,0,0,0,,{\i1}He probably doesn't have any tricks.
+Dialogue: 0,0:12:46.91,0:12:47.74,Default,Yuji,0,0,0,,Which what?
+Dialogue: 0,0:12:47.74,0:12:49.62,Default,Ko-guy,0,0,0,,Are you clever?
+Dialogue: 0,0:12:50.24,0:12:52.00,Default,Ko-guy,0,0,0,,Or not clever?
+Dialogue: 0,0:12:53.25,0:12:55.75,Default,Ko-guy,0,0,0,,I'm... clever.
+Dialogue: 0,0:12:57.08,0:13:01.27,Default,Yuji,0,0,0,,Clever people wouldn't really go around calling themselves clever.
+Dialogue: 0,0:13:01.67,0:13:03.30,Default,Ko-guy,0,0,0,,Really?!
+Dialogue: 0,0:13:29.03,0:13:30.49,Default,Ko-guy,0,0,0,,Time to go fist-to-fist.
+Dialogue: 0,0:13:30.78,0:13:32.83,Default,Ko-guy,0,0,0,,Your two arms
+Dialogue: 0,0:13:33.62,0:13:35.16,Default,Ko-guy,0,0,0,,versus my four.
+Dialogue: 0,0:13:53.52,0:13:58.90,Default,Ko-guy,0,0,0,,{\i1}My arms, my jaw, and my eyes are all superior to those of humans.
+Dialogue: 0,0:13:59.23,0:14:01.40,Default,Ko-guy,0,0,0,,{\i1}So why?
+Dialogue: 0,0:14:07.78,0:14:11.28,Default,Ko-guy,0,0,0,,{\i1}Why am I the only one getting hit?
+Dialogue: 0,0:14:34.01,0:14:36.93,Default,Ko-guy,0,0,0,,Still, I am the more clever one!
+Dialogue: 0,0:14:37.23,0:14:39.98,Default,Narration,0,0,0,,Locusts lay their eggs underground.
+Dialogue: 0,0:14:39.98,0:14:43.52,Default,Narration,0,0,0,,To facilitate this, they're capable of extending their abdomens, the tips of which are hard,
+Dialogue: 0,0:14:43.52,0:14:47.28,Default,Narration,0,0,0,,to nearly three times their normal length.
+Dialogue: 0,0:14:50.07,0:14:51.74,Default,Ko-guy,0,0,0,,I win.
+Dialogue: 0,0:14:57.45,0:14:59.71,Default,Narration,0,0,0,,He did have a trick.
+Dialogue: 0,0:15:00.04,0:15:02.17,Default,Narration,0,0,0,,But more importantly...
+Dialogue: 0,0:15:02.17,0:15:04.46,Default,Yuji,0,0,0,,You've eaten people.
+Dialogue: 0,0:15:05.25,0:15:07.30,Default,Yuji,0,0,0,,You're prepared for what that means, right?
+Dialogue: 0,0:15:07.84,0:15:14.01,Default,Narration,0,0,0,,There was a gap in their strength that no trick could overcome.
+Dialogue: 0,0:15:18.68,0:15:19.60,Default,Ui,0,0,0,,Nee-sama.
+Dialogue: 0,0:15:20.10,0:15:21.31,Default,Mei,0,0,0,,Yes.
+Dialogue: 0,0:15:21.59,0:15:23.27,Default,Mei,0,0,0,,The Veil is lifted.
+Dialogue: 0,0:15:23.61,0:15:26.78,Default,Mei,0,0,0,,Let's wait for Itadori{**-kun} and then descend to B5.
+Dialogue: 0,0:15:31.24,0:15:33.66,Default,Mahito,0,0,0,,{\an8}Ko-guy was exorcised, huh?
+Dialogue: 0,0:15:33.66,0:15:36.08,Default,Mahito,0,0,0,,{\an8}That means a skilled sorcerer is here.
+Dialogue: 0,0:15:36.99,0:15:38.33,Default,Mahito,0,0,0,,What a shame.
+Dialogue: 0,0:15:38.62,0:15:40.83,Default,Mahito,0,0,0,,I wanted to fight them, too.
+Dialogue: 0,0:15:42.50,0:15:44.54,Default,Mahito,0,0,0,,But I can't, huh?
+Dialogue: 0,0:15:46.50,0:15:48.05,Default,Mahito,0,0,0,,Got a job to do.
+Dialogue: 0,0:15:50.42,0:15:52.34,Default,Mei,0,0,0,,{\an8}Impressive, Itadori{**-kun}.
+Dialogue: 0,0:15:53.13,0:15:54.09,Default,Yuji,0,0,0,,What was?
+Dialogue: 0,0:15:54.97,0:15:59.18,Default,Mei,0,0,0,,To be honest, I thought you would struggle a bit more.
+Dialogue: 0,0:15:59.64,0:16:03.06,Default,Mei,0,0,0,,You're practically a first-grade already.
+Dialogue: 0,0:16:03.06,0:16:07.36,Default,Mei,0,0,0,,I haven't seen anyone get this far without a technique since Kusakabe.
+Dialogue: 0,0:16:08.02,0:16:09.99,Default,Yuji,0,0,0,,It wasn't Patchface.
+Dialogue: 0,0:16:09.99,0:16:13.11,Default,Yuji,0,0,0,,If I'd been fighting him, it wouldn't have gone as easily.
+Dialogue: 0,0:16:13.11,0:16:15.45,Default,Ui,0,0,0,,Nee-sama is praising you! Just accept it!
+Dialogue: 0,0:16:15.45,0:16:16.99,Default,Yuji,0,0,0,,Thank you! I'm honored!
+Dialogue: 0,0:16:23.67,0:16:24.75,Default,Mei,0,0,0,,Guess we're too late.
+Dialogue: 0,0:16:24.75,0:16:26.44,Default,Yuji,0,0,0,,Hey, you over there!
+Dialogue: 0,0:16:26.44,0:16:27.67,Default,Yuji,0,0,0,,Are you okay?
+Dialogue: 0,0:16:28.71,0:16:30.17,Default,Yuji,0,0,0,,Where are the other...
+Dialogue: 0,0:16:40.35,0:16:43.20,Default,Gojo,0,0,0,,You don't need to do all this. I won't run.
+Dialogue: 0,0:16:43.60,0:16:48.19,Default,Gojo,0,0,0,,I mean, if I ran, you guys would kill every human in here, right?
+Dialogue: 0,0:16:52.78,0:16:55.03,Default,YouthA,0,0,0,,What are those two talking about?
+Dialogue: 0,0:16:55.03,0:16:56.45,Default,YouthB,0,0,0,,Don't you mean "four"?
+Dialogue: 0,0:16:57.16,0:17:00.20,Default,Jogo,0,0,0,,If you ran, huh? The correct answer is...
+Dialogue: 0,0:17:00.87,0:17:05.83,Default,Geto,0,0,0,,Do you understand when Satoru Gojo is able to utilize his power to the fullest?
+Dialogue: 0,0:17:09.17,0:17:11.96,Default,Jogo,0,0,0,,Quit with the build-up and say it.
+Dialogue: 0,0:17:12.30,0:17:13.76,Default,Geto,0,0,0,,Well, it's...
+Dialogue: 0,0:17:15.49,0:17:17.30,Default,Geto,0,0,0,,when he's alone.
+Dialogue: 0,0:17:18.47,0:17:20.68,Default,Jogo,0,0,0,,The correct answer is...
+Dialogue: 0,0:17:22.27,0:17:23.14,Default,Youths,0,0,0,,Stop it!
+Dialogue: 0,0:17:26.23,0:17:27.81,Default,Jogo,0,0,0,,Whether you run or not.
+Dialogue: 0,0:17:31.94,0:17:33.94,Default,Gojo,0,0,0,,Get back or you'll die.
+Dialogue: 0,0:17:34.24,0:17:37.78,Default,Gojo,0,0,0,,{\i1}Ah, so they sealed the exit off earlier to create a blind
+Dialogue: 0,0:17:37.78,0:17:41.58,Default,Gojo,0,0,0,,{\i1}so I wouldn't know if there were people on the other side or not.
+Dialogue: 0,0:17:41.91,0:17:46.60,Default,Geto,0,0,0,,Any jujutsu sorcerer with him is basically just a hindrance.
+Dialogue: 0,0:17:46.60,0:17:51.71,Default,Geto,0,0,0,,So we'll go one step lower and completely surround him with non-sorcerers.
+Dialogue: 0,0:18:09.35,0:18:13.36,Default,Choso,0,0,0,,Blood Manipulation: Slicing Exorcism.
+Dialogue: 0,0:18:34.00,0:18:38.88,Default,Geto,0,0,0,,The minimum output of his cursed technique reversal is double that of his amplification.
+Dialogue: 0,0:18:38.88,0:18:42.80,Default,Geto,0,0,0,,It'll be nearly impossible for him to use it without catching non-sorcerers in it, too.
+Dialogue: 0,0:18:42.80,0:18:47.90,Default,Geto,0,0,0,,He probably won't be able to charge his Blue up to an effective output, either.
+Dialogue: 0,0:18:51.23,0:18:54.90,Default,Geto,0,0,0,,It should prove difficult for him to use Blue for high-speed movement, as well.
+Dialogue: 0,0:18:54.90,0:18:58.92,Default,Geto,0,0,0,,It would make him a dump truck as far as non-sorcerers are concerned.
+Dialogue: 0,0:18:58.92,0:19:00.78,Default,Geto,0,0,0,,Get hit and it's instant death.
+Dialogue: 0,0:19:00.78,0:19:05.91,Default,Geto,0,0,0,,So in that situation, Satoru Gojo will have to focus his energy on defense.
+Dialogue: 0,0:19:18.09,0:19:19.97,Default,Jogo&Hanami,0,0,0,,Domain Amplification!
+Dialogue: 0,0:19:45.07,0:19:46.62,Default,Gojo,0,0,0,,Makes sense.
+Dialogue: 0,0:19:46.62,0:19:50.29,Default,Gojo,0,0,0,,I suppose you would think of that after allying with curse users.
+Dialogue: 0,0:19:51.37,0:19:53.04,Default,Gojo,0,0,0,,{\i1}Domain Amplification...
+Dialogue: 0,0:19:53.04,0:19:55.96,Default,Gojo,0,0,0,,{\i1}It's the same principle as the New Shadow School's simple domain.
+Dialogue: 0,0:19:56.39,0:19:58.84,Default,Gojo,0,0,0,,{\i1}They envelop themselves with the domain.
+Dialogue: 0,0:19:58.84,0:20:00.72,Default,Gojo,0,0,0,,{\i1}While that reduces its guaranteed-hit effect,
+Dialogue: 0,0:20:00.72,0:20:03.64,Default,Gojo,0,0,0,,{\i1}it ensures they neutralize any technique used.
+Dialogue: 0,0:20:06.93,0:20:11.16,Default,Gojo,0,0,0,,{\i1}That would allow their attacks to hit me.
+Dialogue: 0,0:20:11.50,0:20:15.40,Default,Jogo,0,0,0,,What do we do about his domain, Infinite Void?
+Dialogue: 0,0:20:15.40,0:20:22.15,Default,Geto,0,0,0,,The only ones unaffected by Infinite Void are Satoru Gojo himself and anyone he touches.
+Dialogue: 0,0:20:22.57,0:20:29.92,Default,Geto,0,0,0,,Even if he does have the skill to selectively trap you all in it,
+Dialogue: 0,0:20:29.92,0:20:32.23,Default,Geto,0,0,0,,a great number of non-sorcerers would get crushed
+Dialogue: 0,0:20:32.23,0:20:35.17,Default,Geto,0,0,0,,to death in the space left between his domain and the Veil.
+Dialogue: 0,0:20:35.50,0:20:39.92,Default,Geto,0,0,0,,Chances are 99% that he won't use his domain.
+Dialogue: 0,0:20:40.63,0:20:44.45,Default,Geto,0,0,0,,But that means you mustn't use your domains, either.
+Dialogue: 0,0:20:44.45,0:20:47.22,Default,Geto,0,0,0,,If you draw a large mass of non-sorcerers into your domain,
+Dialogue: 0,0:20:47.22,0:20:51.27,Default,Geto,0,0,0,,he'll be forced to give up on them and use his, too.
+Dialogue: 0,0:20:51.56,0:20:54.93,Default,Geto,0,0,0,,And you already realize that you can't win a tug-of-war of domains, right?
+Dialogue: 0,0:20:57.94,0:21:01.19,Default,Geto,0,0,0,,At any rate, you just need to get Satoru Gojo to focus.
+Dialogue: 0,0:21:01.19,0:21:04.61,Default,Geto,0,0,0,,Focus on defeating cursed spirits and rescuing non-sorcerers.
+Dialogue: 0,0:21:09.78,0:21:11.33,Default,Man,0,0,0,,Hey, stand up!
+Dialogue: 0,0:21:11.80,0:21:13.87,Default,Man,0,0,0,,Come on, keep it together!
+Dialogue: 0,0:21:14.62,0:21:15.79,Default,Man,0,0,0,,You're okay!
+Dialogue: 0,0:21:16.46,0:21:18.33,Default,Man,0,0,0,,Come on, take my hand.
+Dialogue: 0,0:21:23.59,0:21:26.30,Default,Jogo,0,0,0,,I thought I told you not to run.
+Dialogue: 0,0:21:27.43,0:21:29.97,Default,Jogo,0,0,0,,Can you not understand unless I do this?
+Dialogue: 0,0:21:31.56,0:21:33.31,Default,Gojo,0,0,0,,Man...
+Dialogue: 0,0:21:33.64,0:21:35.89,Default,Gojo,0,0,0,,Honestly, I'm shocked.
+Dialogue: 0,0:21:35.89,0:21:38.90,Default,Jogo,0,0,0,,What? Making excuses?
+Dialogue: 0,0:21:39.52,0:21:41.23,Default,Gojo,0,0,0,,Not at all, baldy.
+Dialogue: 0,0:21:46.49,0:21:52.54,Default,Gojo,0,0,0,,I'm saying I'm shocked that you ever thought you could beat me if this is all you've got.
+Dialogue: 0,0:21:56.54,0:21:59.33,Default,Geto,0,0,0,,I'll want you to hold out for at least twenty minutes.
+Dialogue: 0,0:21:59.67,0:22:05.13,Default,Geto,0,0,0,,After that, it's time for me and the Prison Realm.
+Dialogue: 0,0:23:40.27,0:23:42.82,Default,Gojo,0,0,0,,Time for the Yamanote Line Game! The topic is Satoru Gojo's good points!
+Dialogue: 0,0:23:42.82,0:23:44.17,Default,Both,0,0,0,,Yay!
+Dialogue: 0,0:23:44.17,0:23:45.20,Default,Yuji,0,0,0,,Strong!
+Dialogue: 0,0:23:45.46,0:23:46.56,Default,Fushiguro,0,0,0,,Strong!
+Dialogue: 0,0:23:46.80,0:23:47.74,Default,Kugisaki,0,0,0,,Only strong!
+Dialogue: 0,0:23:47.74,0:23:49.56,Default,Gojo,0,0,0,,Next time, "Shibuya Incident - Gate, Open."
+Dialogue: 0,0:23:49.56,0:23:50.88,Default,Ieiri,0,0,0,,He's rich, you know.
+Dialogue: 0,0:23:50.88,0:23:53.12,Default,Both,0,0,0,,Oh, you're such a kidder, {*}{*Sensei}!
+Dialogue: 0,0:23:53.12,0:23:54.80,Default,Gojo,0,0,0,,Seriously, don't discount what she said.
+
+[Aegisub Project Garbage]
+Audio File: jjk_32_premux.mkv
+Video File: jjk_32_premux.mkv
+

@@ -1,0 +1,41 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:23.46,0:01:24.85,Signs,Phone,0,0,0,,{\fad(175,0)\an8\an8\fnArial\b1\bord0\shad0\c&H03006F&}Human Earthworm 4
+Dialogue: 0,0:05:09.58,0:05:14.08,Signs,Screen,0,0,0,,{\fad(0,825)\pos(320,10)}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
+Dialogue: 0,0:08:03.17,0:08:07.63,Signs,Screen,0,0,0,,{\fad(450,0)\pos(454.667,70)\c&H391D6D&\bord0\shad0\fnComic Sans MS}Did my heart\Nskip a beat?
+Dialogue: 0,0:09:07.59,0:09:12.06,Signs,Phone,0,0,0,,{\pos(314.667,16.667)\an8\fs14\shad0\3c&H6B727F&\c&HDAE9F9&}Yuji Itadori
+Dialogue: 0,0:09:07.80,0:09:12.06,Signs,Phone,0,0,0,,{\pos(377.333,121.333)\an8\fs10\shad0\3c&HF9BCA8&}Hey.
+Dialogue: 0,0:09:08.02,0:09:12.06,Signs,Phone,0,0,0,,{\an8\fs10\shad0\c&H9E9CE4&\3c&HFFFFFF&\pos(380.667,187.333)}FAMILY Restaurant
+Dialogue: 0,0:09:08.22,0:09:12.06,Signs,Phone,0,0,0,,{\an8\fs10\shad0\3c&HF9BCA8&\pos(377.333,246.667)}Come.
+Dialogue: 0,0:09:09.30,0:09:12.06,Signs,Phone,0,0,0,,{\an8\fs10\shad0\c&HA5A79D&\3c&HFFFFFF&\pos(253.333,275)}Why?
+Dialogue: 0,0:09:09.64,0:09:12.06,Signs,Phone,0,0,0,,{\an8\fs10\shad0\3c&HF9BCA8&\pos(376,310)}Come.
+Dialogue: 0,0:09:10.43,0:09:12.06,Signs,Phone,0,0,0,,{\an8\fs10\shad0\c&HA5A79D&\3c&HFFFFFF&\pos(254,338)}Got it.
+Dialogue: 0,0:13:02.95,0:13:05.96,Signs,Screen,0,0,0,,Episode 30\N{\fs30\fscy150}That's How It Is
+Dialogue: 0,0:14:58.46,0:15:03.88,Signs,Screen,0,0,0,,{\fad(75,150)\pos(446,93.333)\fnComic Sans MS\b1\c&H6D46CB&\shad0\bord1\3c&H4C4383&}Poke Poke Poke
+Dialogue: 0,0:21:48.49,0:21:51.49,Sign_Basic,Counter,0,0,0,,{\fad(225,0)\an8\c&HF3FDF7&\3c&H54DCCD&\blur1\shad0}17 years 1 month 29 days {numbers constantly shifting down, but the date words matter.}{Z: gotta wait for final vid to typeset this.}
+Dialogue: 0,0:21:51.49,0:21:52.49,Sign_Basic,Counter,0,0,0,,{\an8\c&H0500E4&\3c&H050707&\blur1\shad0}16
+Dialogue: 0,0:23:48.78,0:23:54.99,Signs,Screen,0,0,0,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Evening Festival
+
+[Aegisub Project Garbage]
+Audio File: jjk_30_premux.mkv
+Video File: jjk_30_premux.mkv
+

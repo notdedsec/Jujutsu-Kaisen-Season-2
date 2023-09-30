@@ -1,0 +1,46 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:59.94,0:03:02.94,Signs,Screen,0,0,0,,Episode 34\N{\fs30\fscy150}Pandemonium
+Dialogue: 0,0:03:13.50,0:03:18.01,Signs,Screen,0,0,0,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
+Dialogue: 0,0:06:49.11,0:06:52.87,Signs,Screen,0,0,0,,{\pos(339,168)\c&HD4D6D6&\3c&H000000&\bord2\shad0\fnArial\fs16}Shibuya Station
+Dialogue: 0,0:08:45.08,0:08:47.83,Signs,Screen,0,0,0,,{\fnArial\b1\an1\fs30\bord0\shad0\pos(32,250)}21:26\h\h\h\h\h\h\h\h{\fs22}Tokyo Metro, Shibuya Station\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hB5F, Shin-toshin Line Platform
+Dialogue: 0,0:09:34.09,0:09:36.97,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1c&H75EFED&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:09:34.09,0:09:36.97,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1a&HFF&\3c&HC5E3EC&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:09:34.09,0:09:36.97,Signs,Eyecatch,0,0,0,,{\fad(675,0)\3c&H1EDDF0&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:09:36.97,0:09:40.73,Signs,Screen,0,0,0,,{\pos(320,146)\fnArial\b1\bord0}21:22 Shibuya
+Dialogue: 0,0:10:47.50,0:10:48.50,Signs,Screen,0,0,0,,{\pos(320,146)\fnArial\b1\bord0}All Three Teams Enter Simultaneously
+Dialogue: 0,0:12:32.19,0:12:38.44,Signs,Screen,0,0,0,,{\an3\fnArial\bord0\shad0\b1\pos(611,302)}21:27 Between Meiji Shrine and Shibuya Stations
+Dialogue: 0,0:12:46.45,0:12:49.96,Signs,Screen,0,0,0,,{\an7\bord4\shad0\fnArial\fs18\c&H31312F&\3c&HF8F4EC&\fscx93\pos(227,27)}Shin-toshin Line \NMeiji Jingu Station
+Dialogue: 0,0:12:46.45,0:12:49.96,Signs,Screen,0,0,0,,{\an7\bord4\fscx80\shad0\fnArial\fs18\c&H31312F&\3c&HF8F4EC&\pos(477,58)}Fukubumon Line \NOmotesando Station
+Dialogue: 0,0:12:46.45,0:12:49.96,Signs,Screen,0,0,0,,{\an7\bord4\fscx80\shad0\fnArial\fs18\c&H31312F&\3c&HF8F4EC&\pos(491,174)}Seiyoko Line \NDaikanyama Station
+Dialogue: 0,0:12:46.45,0:12:49.96,Signs,Screen,0,0,0,,{\an7\bord4\fscx85\shad0\fnArial\fs18\c&H31312F&\3c&HF8F4EC&\pos(183,288)}Den-en-toshin Line \NIkejiri-ohashi Station
+Dialogue: 0,0:12:46.45,0:12:49.96,Signs,Screen,0,0,0,,{\fnArial\bord2\shad0\b1\3c&H31312F&\c&HF8F4EC&\pos(322,158)}Shibuya Station
+Dialogue: 0,0:20:48.12,0:20:50.52,Signs,Our topic,0,0,0,,{\an8\move(320,-34,320,164)\fnTimes New Roman\bord0\shad0\b1\c&H000000&}Throughout Heaven and Earth, I Alone Am the Honored One
+Dialogue: 0,0:23:50.99,0:23:54.87,Signs,Screen,0,0,0,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Seance
+
+[Aegisub Project Garbage]
+Audio File: jjk_34_premux.mkv
+Video File: jjk_34_premux.mkv
+
+
+[Aegisub Project Garbage]
+Keyframes File: jjk_34_keyframes.txt

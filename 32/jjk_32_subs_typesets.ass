@@ -1,0 +1,53 @@
+﻿[Script Info]
+Title: English (US)
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.98,Signs,Screen,0,0,0,,{\fnArial\b1\an3\fs30\bord0\shad0\pos(608,305)}20:38 Shibuya Hikarie B3F
+Dialogue: 0,0:00:50.11,0:00:53.86,Signs,Screen,0,0,0,,{\fnArial\b1\an1\fs30\bord0\shad0\pos(32,305)}20:39 Aoyama Cemetery
+Dialogue: 0,0:01:24.93,0:01:30.44,Signs,Screen,0,0,0,,{\fnComic Sans MS\an8\c&H121617&\3c&H727678&\bord1\shad0\move(316,58,290,58)}Some Ordinary Guy
+Dialogue: 0,0:01:33.61,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\fnArial\b1\an1\fs20\bord0\shad0\fscx85\q2\pos(32,250)}Team Mei Mei\h\hMei Mei (Grade 1 Jujutsu Sorcerer)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hUi Ui\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYuji Itadori (Promotion Evaluation Postponed)
+Dialogue: 0,0:02:18.11,0:02:20.11,Signs,Screen,0,0,0,,{\fad(0,525)\fnArial\b1\an1\fs30\bord0\shad0\pos(182,250)}20:40\h\h\h\h\h\h\h\h\h{\fs22}Tokyo Metro, Shibuya Station\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hB5F, Shin-toshin Line Platform
+Dialogue: 0,0:02:40.01,0:02:43.01,Signs,Screen,0,0,0,,Episode 32\N{\fs30\fscy150}The Shibuya Incident
+Dialogue: 0,0:02:53.56,0:02:58.07,Signs,Screen,0,0,0,,{\fad(0,825)\pos(320,10)}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
+Dialogue: 0,0:04:12.98,0:04:18.98,Sign_Basic,Map,0,0,0,,{\c&H525D5B&\frz332.5\bord0\shad0\b1\move(176,92,176,286)}Platform
+Dialogue: 0,0:04:18.98,0:04:25.66,Signs,Screen,0,0,0,,{\fnArial\b1\an1\fs30\bord0\shad0\pos(136,265)}20:51 \h\h\h\h\h\h\h{\fs24}\hTokyo Metro, Meiji Shrine Station\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hExit 2
+Dialogue: 0,0:07:58.04,0:08:02.16,Signs,Screen,0,0,0,,{\fnArial\b1\an8\fs26\bord0\shad0\pos(320,225)}21:03 Tokyo Metro, Meiji Shrine Station, B2F
+Dialogue: 0,0:10:27.85,0:10:29.98,Signs,Screen,0,0,0,,{\fs12\fnTimes New Roman\b1\c&H152C35&\3c&HB1C1CC&\bord1\shad0\move(475,80,481,73)}You look just like one
+Dialogue: 0,0:10:46.24,0:10:49.04,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1c&H75EFED&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:10:46.24,0:10:49.04,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1a&HFF&\3c&HC5E3EC&\pos(320,18)}JUJUTSU KAISEN
+Dialogue: 0,0:10:52.25,0:10:54.04,Signs,Eyecatch,0,0,0,,{\fad(675,0)\3c&H1EDDF0&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
+Dialogue: 0,0:15:30.57,0:15:36.08,Signs,Screen,0,0,0,,{\fnArial\b1\an1\fs30\bord0\shad0\pos(142,250)}21:14\h\h\h\h\h\h\h\h{\fs24}Tokyo Metro, Meiji Shrine Station\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hB5F Shin-toshin Line Platform
+Dialogue: 0,0:15:36.08,0:15:41.83,Signs,Sign,0,0,0,,{\fnArial\b1\an8\c&H455051&\3c&HF1FFFF&\shad0}Meiji Shrine (Harajuku)
+Dialogue: 0,0:15:49.84,0:15:52.34,Signs,Screen,0,0,0,,{\fnArial\b1\an1\fs30\bord0\shad0\pos(48,305)}21:15\h\h\h\h\h\h\h\h{\fs24}Tokyo Metro, Meiji Shrine Station B4F
+Dialogue: 0,0:16:50.94,0:16:52.44,Signs,Screen,0,0,0,,{\an8\fnTimes New Roman\b1\fs18\shad0\c&H000000&\3c&HCED5DB&}That's the whole reason\NI came here for you.
+Dialogue: 0,0:17:37.32,0:17:41.08,Signs,Screen,0,0,0,,{\fnTimes New Roman\b1\c&H1D1D19&\3c&HB8BBB3&\shad0\frz359.7\pos(76,115.334)}Bang
+Dialogue: 0,0:17:37.32,0:17:41.08,Signs,Screen,0,0,0,,{\fnTimes New Roman\b1\c&H1D1D19&\3c&HB8BBB3&\shad0\fs17\frz3.858\pos(88,284.667)}Can't Break It
+Dialogue: 0,0:17:37.32,0:17:41.08,Signs,Screen,0,0,0,,{\fnComic Sans MS\b1\c&H1D1D19&\3c&HB8BBB3&\shad0\fs17\frz3.858\fs12\pos(168,74.667)}Eek!
+Dialogue: 0,0:19:11.00,0:19:11.92,Signs,Screen,0,0,0,,{\pos(209.333,198.667)\fnComic Sans MS\c&H975B87&\3c&HCCB2AD&\shad0\b1\fs16}Hmph
+Dialogue: 1,0:20:29.91,0:20:35.17,Signs,Screen,0,0,0,,{\c&H3A403E&\3c&HE7EFE9&\shad0\pos(110.667,30.667)}Veil
+Dialogue: 1,0:20:32.29,0:20:35.17,Signs,Screen,0,0,0,,{\fad(125,0)\pos(506.667,191.333)\fnTimes New Roman\b1\c&H000000&\3c&HFCF4F5&\bord1\shad0\blur1\frz301.8}Infinite Void
+Dialogue: 1,0:20:32.29,0:20:35.17,Signs,Screen,0,0,0,,{\fad(125,0)\fnTimes New Roman\b1\c&H221DDC&\3c&HFCF4F5&\bord1\shad0\blur1\pos(521.333,106.667)\frz310.3}Ack!
+Dialogue: 1,0:20:32.29,0:20:35.17,Signs,Screen,0,0,0,,{\fad(125,0)\fnTimes New Roman\b1\c&H221DDC&\3c&HFCF4F5&\bord1\shad0\blur1\frz46.97\pos(172,137.333)}Ack!
+Dialogue: 0,0:23:47.78,0:24:27.86,Signs,Screen,0,0,0,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Shibuya Incident - Gate, Open
+
+[Aegisub Project Garbage]
+Audio File: jjk_32_premux.mkv
+Video File: jjk_32_premux.mkv
+
