@@ -33,6 +33,12 @@ subs {
             }
         }
 
+        if(propertyExists("EX")) {
+            from(get("EX")) {
+                syncTargetTime(getAs<Duration>("exsync"))
+            }
+        }
+
         if(propertyExists("ED")) {
             from(get("ED")) {
                 syncTargetTime(getAs<Duration>("edsync"))
