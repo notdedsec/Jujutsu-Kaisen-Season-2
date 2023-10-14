@@ -27,7 +27,7 @@ flt = Filter(
     },
     NUKE_FRAMES = [19889, 19902, 19925],
     LETTERBOX_RANGES = {
-        (31049, 31119): dict(height=132, offset=2),
+        (31050, 31120): dict(height=132, offset=2),
     }
 )
 
