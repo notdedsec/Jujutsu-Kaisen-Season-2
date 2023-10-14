@@ -81,8 +81,8 @@ class Filter:
 
         unghosted = rescale
         for frame in self.NUKE_FRAMES:
-            unghosted = unghosted.std.DeleteFrames(frame)
-            unghosted = unghosted.std.DuplicateFrames(frame)
+            unghosted = unghosted.std.DeleteFrames(abs(frame))
+            unghosted = unghosted.std.DuplicateFrames(frame if frame > 0 else abs(frame) - 1)
 
         undimmed = unghosted
         for ranges, strength in self.DIMMED_SCENES.items():
