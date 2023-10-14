@@ -122,7 +122,7 @@ Dialogue: 0,0:07:28.51,0:07:30.10,Default,Utahime,0,0,0,,No way...
 Dialogue: 0,0:07:36.06,0:07:37.52,Default,Utahime,0,0,0,,For real?
 Dialogue: 0,0:07:39.98,0:07:43.66,Default,Utahime,0,0,0,,How long {\i1}is{\i0} this hallway?
 Dialogue: 0,0:07:44.99,0:07:49.08,Default,Mei Mei,0,0,0,,We've been moving for thirty minutes, so about four kilometers so far.
-Dialogue: 0,0:07:50.12,0:07:53.04,Default,Utahime,0,0,0,,It's not an Innate Domain, is it?
+Dialogue: 0,0:07:50.12,0:07:53.04,Default,Utahime,0,0,0,,It's not an innate domain, is it?
 Dialogue: 0,0:07:53.75,0:07:54.79,Default,Mei Mei,0,0,0,,It's not.
 Dialogue: 0,0:07:55.21,0:07:58.08,Default,Mei Mei,0,0,0,,Those are manifestations of one's mindscape.
 Dialogue: 0,0:07:58.88,0:08:00.00,Default,Mei Mei,0,0,0,,Any other ideas?
@@ -286,7 +286,7 @@ Dialogue: 0,0:17:26.78,0:17:29.77,Default,Geto,0,0,0,,It means {*}Master Tengen{
 Dialogue: 0,0:17:29.77,0:17:36.45,Default,Geto,0,0,0,,The jujutsu schools, the pillars of jujutsu society,\N and the many barrier techniques of assistant supervisors
 Dialogue: 0,0:17:36.45,0:17:41.03,Default,Geto,0,0,0,,are all being strengthened by {*}Master Tengen{*Tengen-sama}.
 Dialogue: 0,0:17:41.03,0:17:46.66,Default,Geto,0,0,0,,Without the aid of his power, we could \Nhardly maintain security or clean up after missions.
-Dialogue: 0,0:17:46.66,0:17:51.63,Default,Geto,0,0,0,,In the worst-case scenario, \N{*}Master Tengen{**Tengen-sama} could even become a threat to mankind.
+Dialogue: 0,0:17:46.66,0:17:51.63,Default,Geto,0,0,0,,In the worst-case scenario, \N{*}Master Tengen{*Tengen-sama} could even become a threat to mankind.
 Dialogue: 0,0:17:51.63,0:17:53.68,Default,Geto,0,0,0,,That's why, every five hundred years,
 Dialogue: 0,0:17:53.68,0:17:58.43,Default,Geto,0,0,0,,he finds the Star Plasma Vessel{\fscx180}—{\fscx}someone \Nwho is compatible with him{\fscx180}—{\fscx}and assimilates them,
 Dialogue: 0,0:17:58.43,0:18:00.51,Default,Geto,0,0,0,,overwriting his body's information.
