@@ -124,7 +124,7 @@ Dialogue: 0,0:06:53.94,0:06:56.31,Default,Kugisaki,0,0,0,,You're a real Sato Kur
 Dialogue: 0,0:06:57.06,0:06:58.82,Default,Kugisaki,0,0,0,,That's Itadori.
 Dialogue: 0,0:06:58.82,0:07:03.03,Default,Ozawa,0,0,0,,On graduation day, I worked up the courage\N to ask for a photo with him.
 Dialogue: 0,0:07:03.03,0:07:06.32,Default,Ozawa,0,0,0,,I actually wanted to get his number too,
-Dialogue: 0,0:07:06.32,0:07:09.20,Default,Ozawa,0,0,0,,but it was already decided \Nthat I would be moving to Tokyo...
+Dialogue: 0,0:07:06.32,0:07:09.20,Default,Ozawa,0,0,0,,but it was already decided \Nthat I would be moving to Tokyo.
 Dialogue: 0,0:07:09.83,0:07:12.33,Default,Ozawa,0,0,0,,So when I saw Itadori{**-kun} earlier,
 Dialogue: 0,0:07:12.83,0:07:16.75,Default,Ozawa,0,0,0,,I thought maybe with how I look now, I might...
 Dialogue: 0,0:07:16.75,0:07:17.88,Default,Kugisaki,0,0,0,,Wait.
@@ -344,7 +344,7 @@ Dialogue: 0,0:20:43.01,0:20:45.56,Default,Muta,0,0,0,,Tch. They deployed a Veil.
 Dialogue: 0,0:20:45.56,0:20:46.89,Default,Muta,0,0,0,,Must be Geto.
 Dialogue: 0,0:20:47.85,0:20:52.02,Default,Muta,0,0,0,,It's not just trapping me inside. It's cutting off signal, too.
 Dialogue: 0,0:20:53.27,0:20:56.03,Default,Muta,0,0,0,,This won't go as smoothly\N as it would have with Gojo Satoru.
-Dialogue: 0,0:20:56.40,0:21:00.16,Default,Muta,0,0,0,,{\i1}That's right, my key to victory is Gojo Satoru.
+Dialogue: 0,0:20:56.40,0:21:00.16,Default,Muta,0,0,0,,{\i1}That's right. My key to victory is Gojo Satoru.
 Dialogue: 0,0:21:00.78,0:21:04.54,Default,Muta,0,0,0,,{\i1}I need to get in contact with Gojo Satoru\Nby any means necessary,
 Dialogue: 0,0:21:04.54,0:21:06.87,Default,Muta,0,0,0,,{\i1}tell him about the Shibuya plot,
 Dialogue: 0,0:21:06.87,0:21:08.50,Default,Muta,0,0,0,,{\i1}and have him rescue me.
@@ -363,9 +363,9 @@ Dialogue: 0,0:21:54.63,0:21:57.30,Default,Muta,0,0,0,,Incinerate, Mechamaru!
 Dialogue: 0,0:22:00.76,0:22:02.76,Default,Muta,0,0,0,,Ultra Cannon!
 Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:39.98,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.65,0:23:44.03,Default,Miwa,0,0,0,,If you want a secret to remain a secret,\N keep it to yourself.
-Dialogue: 0,0:23:44.03,0:23:48.78,Default,Miwa,0,0,0,,I wrote out what type of boy I like in my elementary school profile book and everyone found out!
-Dialogue: 0,0:23:48.78,0:23:50.33,Default,Miwa,0,0,0,,Next Episode, Evening Festival!
-Dialogue: 0,0:23:50.33,0:23:51.45,Default,Mai,0,0,0,,What did you write down?
-Dialogue: 0,0:23:51.45,0:23:52.66,Default,Miwa,0,0,0,,Mittermeyer. {from LOGH??}
-Dialogue: 0,0:23:52.66,0:23:54.75,Default,Mai,0,0,0,,Sure got a fast-runner vibe. {cause elementary school girls like fast guys}
+Dialogue: 0,0:23:40.65,0:23:44.03,Default,Miwa,0,0,0,,{\an8}If you want a secret to remain a secret,\N keep it to yourself.
+Dialogue: 0,0:23:44.03,0:23:48.78,Default,Miwa,0,0,0,,{\an8}I wrote out what type of boy I like in my elementary school profile book and everyone found out!
+Dialogue: 0,0:23:48.78,0:23:50.33,Default,Miwa,0,0,0,,{\an8}Next Episode, Evening Festival!
+Dialogue: 0,0:23:50.33,0:23:51.45,Default,Mai,0,0,0,,{\an8}What did you write down?
+Dialogue: 0,0:23:51.45,0:23:52.66,Default,Miwa,0,0,0,,{\an8}Mittermeyer. {from LOGH??}
+Dialogue: 0,0:23:52.66,0:23:54.75,Default,Mai,0,0,0,,{\an8}Sure got that fast-runner vibe. {cause elementary school girls like fast guys}
