@@ -20,10 +20,10 @@ Audio File: jjk_31_premux.mkv
 Video File: jjk_31_premux.mkv
 Keyframes File: jjk_31_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.670370
-Scroll Position: 214
-Active Line: 225
-Video Position: 34155
+Video Zoom Percent: 0.795370
+Scroll Position: 189
+Active Line: 205
+Video Position: 30841
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -94,8 +94,8 @@ Dialogue: 0,0:09:24.88,0:09:26.46,Default,Mahito,0,0,0,,And we're done.
 Dialogue: 0,0:09:36.18,0:09:37.81,Default,Mahito,0,0,0,,Idle Transfiguration.
 Dialogue: 0,0:09:45.48,0:09:50.15,Default,Mahito,0,0,0,,It doesn't matter if I'm touching you directly\N once you're inside my domain.
 Dialogue: 0,0:09:50.53,0:09:53.11,Default,Mahito,0,0,0,,But you already knew that, didn't you?
-Dialogue: 0,0:09:58.58,0:10:02.21,Default,Muta,0,0,0,,{\i1}This one contains a special technique.
-Dialogue: 0,0:10:02.91,0:10:07.75,Default,Muta,0,0,0,,{\i1}It's the only way I could make it work.
+Dialogue: 0,0:09:58.58,0:10:02.21,Default,Muta,0,0,0,,{\i1}These contain a special technique.
+Dialogue: 0,0:10:02.91,0:10:07.75,Default,Muta,0,0,0,,{\i1}This is the only way I could make it work.
 Dialogue: 0,0:10:08.67,0:10:11.59,Default,Mahito,0,0,0,,There's only ten days until Halloween.
 Dialogue: 0,0:10:11.59,0:10:15.34,Default,Mahito,0,0,0,,Did you assume I won't use my domain\Nto conserve cursed energy?
 Dialogue: 0,0:10:15.34,0:10:18.05,Default,Mahito,0,0,0,,Ten days is more than enough\N for a full recovery.
@@ -132,7 +132,8 @@ Dialogue: 0,0:13:13.23,0:13:14.81,Default,Muta,0,0,0,,Let's do this, Mechamaru!
 Dialogue: 0,0:14:14.92,0:14:16.33,Default,Miwa,0,0,0,,Hey, Mechamaru?
 Dialogue: 0,0:14:16.92,0:14:19.50,Default,Miwa,0,0,0,,You think I can come visit you sometime?
 Dialogue: 0,0:14:22.84,0:14:28.55,Default,Miwa,0,0,0,,Ever since that baseball game at the exchange event,\N I feel like we've all gotten a lot closer.
-Dialogue: 0,0:14:29.06,0:14:36.36,Default,Miwa,0,0,0,,Maybe it's just part of being a sorcerer,\N but we kept our distances even though we got along.
+Dialogue: 0,0:14:29.06,0:14:32.06,Default,Miwa,0,0,0,,Maybe it's just part of being a sorcerer,
+Dialogue: 0,0:14:32.06,0:14:36.19,Default,Miwa,0,0,0,,but we used to keep our distance \Neven though we got along.
 Dialogue: 0,0:14:38.15,0:14:42.44,Default,Miwa,0,0,0,,Losing someone close is all the more painful, after all.
 Dialogue: 0,0:14:44.20,0:14:48.32,Default,Miwa,0,0,0,,But you know what? I really like how we are now.
 Dialogue: 0,0:14:48.70,0:14:52.70,Default,Miwa,0,0,0,,Remember how you couldn't participate\N in the baseball game?
@@ -147,20 +148,21 @@ Dialogue: 0,0:15:28.07,0:15:31.20,Default,Mahito,0,0,0,,Simple Domain could be u
 Dialogue: 0,0:15:31.20,0:15:33.58,Default,Mahito,0,0,0,,Good thing we got to see it in action\N before the main event!
 Dialogue: 0,0:15:34.04,0:15:35.08,Default,Geto,0,0,0,,Yeah.
 Dialogue: 0,0:15:35.08,0:15:38.50,Default,Geto,0,0,0,,I also finished tweaking the conditions\N of the commissioned Veil.
-Dialogue: 0,0:15:38.50,0:15:42.88,Default,Geto,0,0,0,,Now we should be able to have someone else\N perform the activation procedure. {he actually mentions "cursed energy and chant" which is required to activate the veil, but it makes things confusing and it's all part of the activation procefure anyway}
-Dialogue: 0,0:16:05.40,0:16:13.53,Default,Narrator,0,0,0,,Just after 7 PM on October 31st, 2018, with the \NToyoko Outlet of the Tokyu Department Store at its center,
-Dialogue: 0,0:16:13.53,0:16:17.91,Default,Narrator,0,0,0,,a Veil with a radius of roughly 400 meters was cast.
+Dialogue: 0,0:15:38.50,0:15:42.88,Default,Geto,0,0,0,,Now we should be able to have someone else\N perform the activation procedure. {he actually mentions "cursed energy and chant" which is required to activate the veil, but it makes things confusing and it's all part of the activation procedure anyway}
+Dialogue: 0,0:16:05.44,0:16:10.57,Default,Narrator,0,0,0,,At exactly 7:00 PM on October 31st, 2018,
+Dialogue: 0,0:16:10.57,0:16:13.53,Default,Narrator,0,0,0,,centered around Tokyu Department Store's Toyoko Outlet,
+Dialogue: 0,0:16:13.53,0:16:18.21,Default,Narrator,0,0,0,,a Veil with a radius of approximately 400 meters was cast.
 Comment: 0,0:16:23.96,0:16:24.00,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:16:34.89,0:16:37.68,Default,Men,0,0,0,,{\an8}Drink, drink, drink, drink!
 Dialogue: 0,0:16:37.68,0:16:39.69,Default,Men,0,0,0,,{\an8}Yay, yay, yay, yay!
 Dialogue: 0,0:16:38.18,0:16:39.69,Default,Men,0,0,0,,Hurry it up!
 Dialogue: 0,0:16:39.69,0:16:41.35,Default,Men,0,0,0,,Cut it out, idiot!
-Dialogue: 0,0:16:41.85,0:16:46.61,Default,Youth,0,0,0,,I heard a bunch of people from\N Ibaraki and Tochigi come in for Halloween.
+Dialogue: 0,0:16:41.85,0:16:46.61,Default,Youth,0,0,0,,I heard a buncha people from\N Ibaraki and Tochigi come in for Halloween.
 Dialogue: 0,0:16:46.61,0:16:47.78,Default,Youth,0,0,0,,From way out there?
 Dialogue: 0,0:16:47.78,0:16:49.36,Default,Man,0,0,0,,Excuse me, ladies!
 Dialogue: 0,0:16:49.36,0:16:50.99,Default,Man,0,0,0,,Mind if we take a pic?
 Dialogue: 0,0:16:50.99,0:16:52.74,Default,Man,0,0,0,,You look {\i1}real{\i0} cute!
-Dialogue: 0,0:16:52.74,0:16:54.83,Default,Woman,0,0,0,,{\pos(480,1020)}Is that so?
+Dialogue: 0,0:16:52.74,0:16:54.83,Default,Woman,0,0,0,,{\pos(480,1020)}Yeah?
 Dialogue: 0,0:16:53.03,0:16:54.83,Default,Woman,0,0,0,,{\pos(1200,1020)}Thanks.
 Dialogue: 0,0:16:53.87,0:16:54.83,Default,Woman,0,0,0,,{\pos(850,1020)}Gladly!
 Dialogue: 0,0:16:58.25,0:16:59.37,Default,Youth,0,0,0,,Way to go.
@@ -171,21 +173,18 @@ Dialogue: 0,0:17:06.59,0:17:08.30,Default,Youth,0,0,0,,That thing up there!
 Dialogue: 0,0:17:10.01,0:17:12.97,Default,Youth,0,0,0,,What? I don't see it.
 Dialogue: 0,0:17:13.64,0:17:15.64,Default,Youth,0,0,0,,Dude, it's like, right there!
 Dialogue: 0,0:17:15.64,0:17:17.81,Default,Youth,0,0,0,,Are you blind?
-Comment: 0,0:17:27.32,0:17:28.90,Default,Youth,0,0,0,,Freedom!
-Comment: 0,0:17:30.07,0:17:30.74,Default,Youth,0,0,0,,Ow!
-Dialogue: 0,0:17:30.74,0:17:32.20,Default,Youth,0,0,0,,What are you doing?
-Dialogue: 0,0:17:32.20,0:17:33.20,Default,Youth,0,0,0,,Idiot!
+Dialogue: 0,0:17:30.74,0:17:32.20,Default,Youth,0,0,0,,What're you doing?
+Dialogue: 0,0:17:32.20,0:17:33.20,Default,Youth,0,0,0,,What a clown!
 Dialogue: 0,0:17:33.20,0:17:34.91,Default,Youth,0,0,0,,You drunk already?
 Dialogue: 0,0:17:34.91,0:17:36.24,Default,Youth,0,0,0,,It's too early for that!
 Dialogue: 0,0:17:36.24,0:17:38.95,Default,Youth,0,0,0,,No, there's an invisible wall here! I swear!
-Comment: 0,0:17:51.59,0:17:52.30,Default,Woman,0,0,0,,Hey...
-Dialogue: 0,0:18:07.27,0:18:10.40,Default,Ijichi,0,0,0,,{\an8}It's a Veil that traps only normal people inside.
-Dialogue: 0,0:18:10.40,0:18:12.32,Default,Ijichi,0,0,0,,{\an8}They can only enter it.
-Dialogue: 0,0:18:12.32,0:18:14.11,Default,Ijichi,0,0,0,,{\an8}As for windows, it depends.
+Dialogue: 0,0:18:07.27,0:18:10.40,Default,Ijichi,0,0,0,,{\an8}It's a Veil that traps only civilians inside.
+Dialogue: 0,0:18:10.40,0:18:12.28,Default,Ijichi,0,0,0,,{\an8}They can enter it but not leave.
+Dialogue: 0,0:18:12.28,0:18:14.11,Default,Ijichi,0,0,0,,{\an8}As for windows, it depends.
 Dialogue: 0,0:18:14.11,0:18:18.87,Default,Ijichi,0,0,0,,Sorcerers and assistant supervisors\N seem to have no trouble moving in and out.
 Dialogue: 0,0:18:18.87,0:18:20.12,Default,Nanami,0,0,0,,Any reception?
 Dialogue: 0,0:18:20.12,0:18:21.41,Default,Ijichi,0,0,0,,It's blocked.
-Dialogue: 0,0:18:21.41,0:18:26.88,Default,Ijichi,0,0,0,,All communication will have to be done outside the Veil\N or through us assistant supervisors.
+Dialogue: 0,0:18:21.41,0:18:26.88,Default,Ijichi,0,0,0,,All communication will have to be done \Noutside the Veil, through us assistant supervisors.
 Dialogue: 0,0:18:26.88,0:18:29.75,Default,Nanami,0,0,0,,{\an8}Well, that's awfully inconvenient.
 Dialogue: 0,0:18:29.75,0:18:31.76,Default,Ino,0,0,0,,Fushiguro! Fushiguro!
 Dialogue: 0,0:18:31.76,0:18:33.26,Default,Ino,0,0,0,,Here's a fun fact!
@@ -203,14 +202,14 @@ Dialogue: 0,0:19:10.88,0:19:12.88,Default,Kugisaki,0,0,0,,We're talking Shibuya 
 Dialogue: 0,0:19:12.88,0:19:15.76,Default,Nitta,0,0,0,,It would seem something has happened there.
 Dialogue: 0,0:19:15.76,0:19:20.39,Default,Nitta,0,0,0,,Everyone's running to the edge of the Veil,\N shouting the same thing:
 Dialogue: 0,0:19:21.22,0:19:24.52,Default,Nitta,0,0,0,,"Bring Gojo Satoru."
-Comment: 0,0:19:24.52,0:19:25.56,Default,Naobito,0,0,0,,{\an8}Hmph.
 Dialogue: 0,0:19:25.56,0:19:28.98,Default,Naobito,0,0,0,,{\an8}Non-sorcerers couldn't possibly know his name.
 Dialogue: 0,0:19:28.98,0:19:30.52,Default,Naobito,0,0,0,,{\an8}They were forced to say it.
 Dialogue: 0,0:19:31.02,0:19:33.19,Default,Naobito,0,0,0,,Can we not just break the Veil? {wtf is that sfx}
-Dialogue: 0,0:19:33.53,0:19:39.20,Default,Nitta,0,0,0,,We're having a hard time with that because\N sorcerers don't feel any resistance from either side.
+Dialogue: 0,0:19:33.53,0:19:35.24,Default,Nitta,0,0,0,,We're having a hard time with that.
+Dialogue: 0,0:19:35.24,0:19:39.20,Default,Nitta,0,0,0,,Sorcerers don't feel any resistance from either side.
 Dialogue: 0,0:19:39.82,0:19:42.74,Default,Nitta,0,0,0,,So we can't just break it by force.
 Dialogue: 0,0:19:42.74,0:19:46.91,Default,Nitta,0,0,0,,It'll be faster to locate and neutralize\N the curse user who lowered it. {She used "lower" in the first season.} {oh good catch}
-Dialogue: 0,0:19:47.46,0:19:49.92,Default,Maki,0,0,0,,So we're here to help out with that?
+Dialogue: 0,0:19:47.46,0:19:49.92,Default,Maki,0,0,0,,And we're here to help out with that?
 Dialogue: 0,0:19:50.42,0:19:51.34,Default,Nitta,0,0,0,,Actually, no!
 Dialogue: 0,0:19:51.34,0:19:53.80,Default,Nitta,0,0,0,,You all are to wait here on standby!
 Dialogue: 0,0:19:56.17,0:20:00.47,Default,Kusakabe,0,0,0,,{\an8}They deployed an advanced barrier technique\N and called out Gojo Satoru specifically. {An advanced barrier while calling out Gojo Satoru specifically.}
@@ -240,7 +239,7 @@ Dialogue: 0,0:21:19.63,0:21:20.97,Default,Youth,0,0,0,,Hell if I know!
 Dialogue: 0,0:21:20.97,0:21:23.51,Default,Youth,0,0,0,,They just said we can't get out \Nunless he comes here!
 Dialogue: 0,0:21:23.51,0:21:24.39,Default,Youth,0,0,0,,Who said?
 Dialogue: 0,0:21:24.39,0:21:26.31,Default,Youth,0,0,0,,I dunno! I just heard!
-Dialogue: 0,0:21:26.31,0:21:29.43,Default,Youth,0,0,0,,Get a load of this guy who can't even keep his cool.
+Dialogue: 0,0:21:26.31,0:21:29.43,Default,Youth,0,0,0,,Get a load of this guy\N losing his cool at a time like this.
 Dialogue: 0,0:21:29.43,0:21:32.69,Default,Youth,0,0,0,,Honestly, being trapped {\i1}is{\i0} something\N out of a horror movie,
 Dialogue: 0,0:21:32.69,0:21:34.73,Default,Youth,0,0,0,,but it can't be {\i1}that{\i0} bad, right?
 Dialogue: 0,0:21:34.73,0:21:36.36,Default,Youth,0,0,0,,I'm sure help will come soon.

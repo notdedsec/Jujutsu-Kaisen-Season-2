@@ -20,10 +20,10 @@ Audio File: jjk_31_premux.mkv
 Video File: jjk_31_premux.mkv
 Keyframes File: jjk_31_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 9
-Active Line: 109
-Video Position: 28767
+Video Zoom Percent: 0.750000
+Scroll Position: 5
+Active Line: 53
+Video Position: 26047
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -69,26 +69,23 @@ Dialogue: 1,0:02:01.98,0:02:04.98,Signs,Screen,0,0,0,,{\blur0.7\fnSplit splat sp
 Dialogue: 1,0:02:01.98,0:02:04.98,Signs,Screen,0,0,0,,{\blur0.7\fnSplit splat splodge\fs7\c&HC8C6F5&\1a&H6E&\pos(1134.23,832.78)}s
 Dialogue: 1,0:02:01.98,0:02:04.98,Signs,Screen,0,0,0,,{\blur0.7\fnSplit splat splodge\fs7\c&HC8C6F5&\pos(860.74,828.46)}s
 Dialogue: 1,0:02:01.98,0:02:04.98,Signs,Screen,0,0,0,,{=87}
-Comment: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,Weather
+Comment: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,{=98}Weather
 Comment: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,{\an8\bord.5\shad0\fs10\frz357.4\c&HCEB7A6&\3c&H886848&\pos(272.667,63.333)}Today's Weather
 Comment: 0,0:15:46.38,0:15:49.26,Signs,ScrollingText,0,0,0,,{\an7\q2\bord0\shad0\fscx65\frz356.2\move(145,230,18,230)\clip(m 188 3 l 122 358 529 356 510 269 494 200 472 100 456 24 451 6)}November 1, Heisei 30 [Hokkaido] Sunny, Partly Cloudy [Aomori] Rain [Miyagi]
-Dialogue: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,
-Dialogue: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,
-Dialogue: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,
-Dialogue: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,
-Dialogue: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,
-Dialogue: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,
+Dialogue: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,{nah i give up}
+Dialogue: 0,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,{=99}
 Comment: 1,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{=20}Shibuya
 Dialogue: 1,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{\an7\fscx30\fscy100\pos(481,-1)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
 Dialogue: 1,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{\an7\fscx65\fscy100\pos(646,-1)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
-Dialogue: 3,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs111\c&H000000&\pos(1253.4,938.44)\b1}20:14        Tokyo, Shibuya
+Dialogue: 3,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs111\c&H000000&\pos(1251.4,938.44)\b1}20:14        Tokyo, Shibuya
 Dialogue: 3,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{=21}
 Comment: 1,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{=94}Exit 13
 Dialogue: 1,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an7\fscx20\fscy80\pos(518.08,106.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
 Dialogue: 1,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(423.08,106.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
 Dialogue: 1,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(423.08,226.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
-Dialogue: 3,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs81\c&H000000&\pos(683.4,899.4)\b1}20:14
-Dialogue: 3,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs80\fscx96\c&H000000&\pos(968.91,1018.69)\b1}Tokyo Metro, Shibuya Station\N\N{\fscx100}Exit 13, Outside the Veil
+Dialogue: 3,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs78\c&H000000&\pos(683.4,898.4)\b1}20:14
+Dialogue: 3,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx98\c&H000000&\pos(968.91,895.69)\b1}Tokyo Metro, Shibuya Station
+Dialogue: 3,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx100\c&H000000&\pos(968.91,1018.69)\b1}Exit 13, Outside the Veil
 Dialogue: 1,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\an7\blur2\fscx100\fscy100\c&HC5BFA9&\pos(0,0)\iclip(m 292.95 250.29 l 320.76 253.71 332.57 277.72 319.62 299.05 291.81 295.62 279.62 271.24)\p1}m 218.53 229.89 l 533.68 266.53 558.18 340.08 602.9 359.4 602.73 400 570.52 428.86 215.16 397.05
 Dialogue: 2,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur2\fnSplit splat splodge\fs500\frz171.4\c&HB6B19C&\pos(457,354.92)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78 216.53 229.87 228.8 229.87 288 242.67 292.27 250.67 280 270.4 290.67 294.93 319.47 298.13 331.2 277.87 320 254.93 289.07 250.67 216.53 234.13)}a
 Dialogue: 3,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur1.2\fnSplit splat splodge\fs500\frz171.4\c&HB0AB93&\pos(457,354.92)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}b
@@ -115,8 +112,8 @@ Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Gro
 Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx91\c&H000000&\pos(508.91,837.69)\b1}Nanami Kento, First-Grade Sorcerer
 Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx90\c&H000000&\pos(508.91,926.69)\b1}Ino Takuma, Second-Grade Sorcerer
 Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx82\c&H000000&\pos(508.91,1016.69)\b1}Fushiguro Megumi, Second-Grade Sorcerer
-Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs48\fscx86\c&H000000&\pos(1264.91,923.69)\b1}Under Evaluation for Promotion
-Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs48\fscx86\c&H000000&\pos(1264.91,1013.69)\b1}Under Evaluation for Promotion
+Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs48\fscx86\c&H000000&\pos(1265.91,923.69)\b1}Under Evaluation for Promotion
+Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs48\fscx86\c&H000000&\pos(1265.91,1013.69)\b1}Under Evaluation for Promotion
 Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{=13}
 Comment: 1,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{=14}Mark City
 Dialogue: 1,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{\an7\fscx20\fscy80\pos(18.08,116.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
@@ -133,12 +130,12 @@ Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx110\fscy100\pos(
 Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx110\fscy100\pos(-114,179)\p1}m 553.33 770.67 l 1255 770.67 1255 848 553.33 848
 Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx70\fscy100\pos(893,88)\p1}m 553.33 770.67 l 1272 770.67 1272 848 553.33 848
 Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx70\fscy100\pos(893,179)\p1}m 553.33 770.67 l 1272 770.67 1272 848 553.33 848
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx105\c&H000000&\pos(210,836)\b1}Team Zenin
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,835.69)\b1}Zenin Naobito, Autonomous First-Grade Sorcerer
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,926.69)\b1}Zenin Maki{\fscx96}, Fourth-Grade Sorcerer
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,1017.69)\b1}Kugisaki Nobara, Third-Grade Sorcerer
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs45\fscx90\c&H000000&\pos(1294.91,924.69)\b1}Under Evaluation for Promotion
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs45\fscx90\c&H000000&\pos(1294.91,1015.69)\b1}Under Evaluation for Promotion
+Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx105\c&H000000&\pos(210,835)\b1}Team Zenin
+Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,834.69)\b1}Zenin Naobito, Honorary First-Grade Sorcerer
+Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,925.69)\b1}Zenin Maki{\fscx96}, Fourth-Grade Sorcerer
+Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,1016.69)\b1}Kugisaki Nobara, Third-Grade Sorcerer
+Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs45\fscx90\c&H000000&\pos(1294.91,920.69)\b1}Under Evaluation for Promotion
+Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs45\fscx90\c&H000000&\pos(1294.91,1011.69)\b1}Under Evaluation for Promotion
 Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{=17}
 Comment: 1,0:19:59.80,0:20:06.81,Signs,Screen,0,0,0,,{=42}South Exit
 Dialogue: 1,0:19:59.80,0:20:06.81,Signs,Screen,0,0,0,,{\an7\fscx19\fscy80\pos(84.48,226.86)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
@@ -171,33 +168,43 @@ Dialogue: 3,0:21:05.87,0:21:11.75,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Gro
 Dialogue: 3,0:21:05.87,0:21:11.75,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs70\fscx99\c&H000000&\pos(826.4,1015.4)\b1}Dogenzaka Block 2 East, Inside the Veil
 Dialogue: 3,0:21:05.87,0:21:11.75,Signs,Screen,0,0,0,,{=71}
 Comment: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{=80}Phone
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs80\fscy111\frz13.95\fax0.12\c&HAB9DF2&\pos(997.87,455.36)}I{\c&HAC9EF2&*}I{\c&HAB9FF2&*}I{\c&HAAA0F2&*}I{\c&HA9A1F2&*}I{\c&HA8A2F2&*}I{\c&HA7A3F2&*}I{\c&HA6A3F2&*}I{\c&HA5A4F2&*}I{\c&HA4A5F2&*}I{\c&HA3A6F2&*}I{\c&HA2A7F2&*}I{\c&HA1A8F2&*}I{\c&HA0A8F2&*}I{\c&H9FA9F2&*}I{\c&H9EAAF2&*}I{\c&H9DABF2&*}I{\c&H9CACF2&*}I{\c&H9BADF2&*}I{\c&H9AADF2&*}I{\c&H99AEF2&*}I{\c&H98AFF2&*}I{\c&H97B0F2&*}I{\c&H96B1F2&*}I{\c&H95B2F2&*}I{\c&H94B3F2&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs80\fscy111\frz13.95\fax0.12\c&HAD9EF3&\pos(1005.87,455.36)}I{\c&HAC9EF2&*}I{\c&HAB9FF2&*}I{\c&HAAA0F2&*}I{\c&HA9A1F2&*}I{\c&HA8A2F2&*}I{\c&HA7A3F2&*}I{\c&HA6A3F2&*}I{\c&HA5A4F2&*}I{\c&HA4A5F2&*}I{\c&HA3A6F2&*}I{\c&HA2A7F2&*}I{\c&HA1A8F2&*}I{\c&HA0A8F2&*}I{\c&H9FA9F2&*}I{\c&H9EAAF2&*}I{\c&H9DABF2&*}I{\c&H9CACF2&*}I{\c&H9BADF2&*}I{\c&H9AADF2&*}I{\c&H99AEF2&*}I{\c&H98AFF2&*}I{\c&H97B0F2&*}I{\c&H96B1F2&*}I{\c&H95B2F2&*}I{\c&H94B3F2&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs80\fscy111\frz13.95\fax0.12\c&HAD9EF3&\pos(1012.87,455.36)}I{\c&HAC9EF2&*}I{\c&HAB9FF2&*}I{\c&HAAA0F2&*}I{\c&HA9A1F2&*}I{\c&HA8A2F2&*}I{\c&HA7A3F2&*}I{\c&HA6A3F2&*}I{\c&HA5A4F2&*}I{\c&HA4A5F2&*}I{\c&HA3A6F2&*}I{\c&HA2A7F2&*}I{\c&HA1A8F2&*}I{\c&HA0A8F2&*}I{\c&H9FA9F2&*}I{\c&H9EAAF2&*}I{\c&H9DABF2&*}I{\c&H9CACF2&*}I{\c&H9BADF2&*}I{\c&H9AADF2&*}I{\c&H99AEF2&*}I{\c&H98AFF2&*}I{\c&H97B0F2&*}I{\c&H96B1F2&*}I{\c&H95B2F2&*}I{\c&H94B3F2&}
-Dialogue: 1,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\fnSerangkaian Pattern\fs32\fscy200\frz13.35\fax0.33\c&HB2A5F4&\pos(1009.72,451.28)}a{\c&HB0A6F4&*}a{\c&HAFA7F4&*}a{\c&HAEA9F4&*}a{\c&HACAAF4&*}a{\c&HABACF5&*}a{\c&HAAADF5&*}a{\c&HA8AFF5&*}a{\c&HA7B0F5&*}a{\c&HA6B2F5&*}a{\c&HA4B3F6&*}a{\c&HA3B5F6&*}a{\c&HA2B6F6&*}a{\c&HA0B8F6&*}a{\c&H9FB9F6&*}a{\c&H9EBBF7&}
-Dialogue: 2,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur0.6\fnAribau Grotesk\fs50\frz13.83\fax0.15\c&H5A51AF&\pos(1006.87,455.36)\blur0.8}Wednesday, October 31
-Dialogue: 3,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur0.6\fnAribau Grotesk\fs50\frz13.83\fax0.15\pos(1006.87,455.36)\blur0.7}Wednesday, October 31
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs80\fscy111\frz13.95\fax0.12\c&HAB9DF2&\pos(997.87,456.36)}I{\c&HAC9EF2&*}I{\c&HAB9FF2&*}I{\c&HAAA0F2&*}I{\c&HA9A1F2&*}I{\c&HA8A2F2&*}I{\c&HA7A3F2&*}I{\c&HA6A3F2&*}I{\c&HA5A4F2&*}I{\c&HA4A5F2&*}I{\c&HA3A6F2&*}I{\c&HA2A7F2&*}I{\c&HA1A8F2&*}I{\c&HA0A8F2&*}I{\c&H9FA9F2&*}I{\c&H9EAAF2&*}I{\c&H9DABF2&*}I{\c&H9CACF2&*}I{\c&H9BADF2&*}I{\c&H9AADF2&*}I{\c&H99AEF2&*}I{\c&H98AFF2&*}I{\c&H97B0F2&*}I{\c&H96B1F2&*}I{\c&H95B2F2&*}I{\c&H94B3F2&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs80\fscy111\frz13.95\fax0.12\c&HAD9EF3&\pos(1005.87,454.36)}I{\c&HAC9EF2&*}I{\c&HAB9FF2&*}I{\c&HAAA0F2&*}I{\c&HA9A1F2&*}I{\c&HA8A2F2&*}I{\c&HA7A3F2&*}I{\c&HA6A3F2&*}I{\c&HA5A4F2&*}I{\c&HA4A5F2&*}I{\c&HA3A6F2&*}I{\c&HA2A7F2&*}I{\c&HA1A8F2&*}I{\c&HA0A8F2&*}I{\c&H9FA9F2&*}I{\c&H9EAAF2&*}I{\c&H9DABF2&*}I{\c&H9CACF2&*}I{\c&H9BADF2&*}I{\c&H9AADF2&*}I{\c&H99AEF2&*}I{\c&H98AFF2&*}I{\c&H97B0F2&*}I{\c&H96B1F2&*}I{\c&H95B2F2&*}I{\c&H94B3F2&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs80\fscy111\frz13.95\fax0.12\c&HAD9EF3&\pos(1012.87,456.36)}I{\c&HAC9EF2&*}I{\c&HAB9FF2&*}I{\c&HAAA0F2&*}I{\c&HA9A1F2&*}I{\c&HA8A2F2&*}I{\c&HA7A3F2&*}I{\c&HA6A3F2&*}I{\c&HA5A4F2&*}I{\c&HA4A5F2&*}I{\c&HA3A6F2&*}I{\c&HA2A7F2&*}I{\c&HA1A8F2&*}I{\c&HA0A8F2&*}I{\c&H9FA9F2&*}I{\c&H9EAAF2&*}I{\c&H9DABF2&*}I{\c&H9CACF2&*}I{\c&H9BADF2&*}I{\c&H9AADF2&*}I{\c&H99AEF2&*}I{\c&H98AFF2&*}I{\c&H97B0F2&*}I{\c&H96B1F2&*}I{\c&H95B2F2&*}I{\c&H94B3F2&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur8\fs80\fscy111\frz13.95\fax0.12\c&HAB9DF2&\pos(997.87,463.36)}I{\c&HAC9EF2&*}I{\c&HAB9FF2&*}I{\c&HAAA0F2&*}I{\c&HA9A1F2&*}I{\c&HA8A2F2&*}I{\c&HA7A3F2&*}I{\c&HA6A3F2&*}I{\c&HA5A4F2&*}I{\c&HA4A5F2&*}I{\c&HA3A6F2&*}I{\c&HA2A7F2&*}I{\c&HA1A8F2&*}I{\c&HA0A8F2&*}I{\c&H9FA9F2&*}I{\c&H9EAAF2&*}I{\c&H9DABF2&*}I{\c&H9CACF2&*}I{\c&H9BADF2&*}I{\c&H9AADF2&*}I{\c&H99AEF2&*}I{\c&H98AFF2&*}I{\c&H97B0F2&*}I{\c&H96B1F2&*}I{\c&H95B2F2&*}I{\c&H94B3F2&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur8\fs80\fscy111\frz13.95\fax0.12\c&HAD9EF3&\pos(1005.87,447.36)}I{\c&HAC9EF2&*}I{\c&HAB9FF2&*}I{\c&HAAA0F2&*}I{\c&HA9A1F2&*}I{\c&HA8A2F2&*}I{\c&HA7A3F2&*}I{\c&HA6A3F2&*}I{\c&HA5A4F2&*}I{\c&HA4A5F2&*}I{\c&HA3A6F2&*}I{\c&HA2A7F2&*}I{\c&HA1A8F2&*}I{\c&HA0A8F2&*}I{\c&H9FA9F2&*}I{\c&H9EAAF2&*}I{\c&H9DABF2&*}I{\c&H9CACF2&*}I{\c&H9BADF2&*}I{\c&H9AADF2&*}I{\c&H99AEF2&*}I{\c&H98AFF2&*}I{\c&H97B0F2&*}I{\c&H96B1F2&*}I{\c&H95B2F2&*}I{\c&H94B3F2&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur8\fs80\fscy111\frz13.95\fax0.12\c&HAD9EF3&\pos(1012.87,463.36)}I{\c&HAC9EF2&*}I{\c&HAB9FF2&*}I{\c&HAAA0F2&*}I{\c&HA9A1F2&*}I{\c&HA8A2F2&*}I{\c&HA7A3F2&*}I{\c&HA6A3F2&*}I{\c&HA5A4F2&*}I{\c&HA4A5F2&*}I{\c&HA3A6F2&*}I{\c&HA2A7F2&*}I{\c&HA1A8F2&*}I{\c&HA0A8F2&*}I{\c&H9FA9F2&*}I{\c&H9EAAF2&*}I{\c&H9DABF2&*}I{\c&H9CACF2&*}I{\c&H9BADF2&*}I{\c&H9AADF2&*}I{\c&H99AEF2&*}I{\c&H98AFF2&*}I{\c&H97B0F2&*}I{\c&H96B1F2&*}I{\c&H95B2F2&*}I{\c&H94B3F2&}
+Dialogue: 2,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur0.5\fnSerangkaian Pattern\fs32\fscy200\frz13.35\fax0.33\c&HB2A5F4&\pos(1009.72,451.28)}a{\c&HB0A6F4&*}a{\c&HAFA7F4&*}a{\c&HAEA9F4&*}a{\c&HACAAF4&*}a{\c&HABACF5&*}a{\c&HAAADF5&*}a{\c&HA8AFF5&*}a{\c&HA7B0F5&*}a{\c&HA6B2F5&*}a{\c&HA4B3F6&*}a{\c&HA3B5F6&*}a{\c&HA2B6F6&*}a{\c&HA0B8F6&*}a{\c&H9FB9F6&*}a{\c&H9EBBF7&}
+Dialogue: 3,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur0.6\fnAribau Grotesk\fs50\frz13.83\fax0.15\c&H5A51AF&\pos(1006.87,455.36)\blur0.8}Wednesday, October 31
+Dialogue: 4,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur0.6\fnAribau Grotesk\fs50\frz13.83\fax0.15\pos(1006.87,455.36)\blur0.7}Wednesday, October 31
 Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCFC1F5&\pos(842.25,636.79)}I{\c&HCEC1F5&*}I{\c&HCEC2F5&*}I{\c&HCEC2F6&*}I{\c&HCEC3F6&*}I{\c&HCEC4F7&*}II{\c&HCEC5F7&*}I{\c&HCEC6F8&*}II{\c&HCEC7F9&*}I{\c&HCEC8F9&*}II{\c&HCEC9FA&*}I{\c&HCECAFA&*}I{\c&HCECAFB&*}I{\c&HCECBFB&*}I{\c&HCECCFC&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCFC1F5&\pos(846.25,636.79)}I{\c&HCEC1F5&*}I{\c&HCEC2F5&*}I{\c&HCEC2F6&*}I{\c&HCEC3F6&*}I{\c&HCEC4F7&*}II{\c&HCEC5F7&*}I{\c&HCEC6F8&*}II{\c&HCEC7F9&*}I{\c&HCEC8F9&*}II{\c&HCEC9FA&*}I{\c&HCECAFA&*}I{\c&HCECAFB&*}I{\c&HCECBFB&*}I{\c&HCECCFC&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCFC1F5&\pos(850.25,636.79)}I{\c&HCEC1F5&*}I{\c&HCEC2F5&*}I{\c&HCEC2F6&*}I{\c&HCEC3F6&*}I{\c&HCEC4F7&*}II{\c&HCEC5F7&*}I{\c&HCEC6F8&*}II{\c&HCEC7F9&*}I{\c&HCEC8F9&*}II{\c&HCEC9FA&*}I{\c&HCECAFA&*}I{\c&HCECAFB&*}I{\c&HCECBFB&*}I{\c&HCECCFC&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCFC1F5&\pos(854.25,636.79)}I{\c&HCEC1F5&*}I{\c&HCEC2F5&*}I{\c&HCEC2F6&*}I{\c&HCEC3F6&*}I{\c&HCEC4F7&*}II{\c&HCEC5F7&*}I{\c&HCEC6F8&*}II{\c&HCEC7F9&*}I{\c&HCEC8F9&*}II{\c&HCEC9FA&*}I{\c&HCECAFA&*}I{\c&HCECAFB&*}I{\c&HCECBFB&*}I{\c&HCECCFC&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCFC1F5&\pos(842.25,638.79)}I{\c&HCEC1F5&*}I{\c&HCEC2F5&*}I{\c&HCEC2F6&*}I{\c&HCEC3F6&*}I{\c&HCEC4F7&*}II{\c&HCEC5F7&*}I{\c&HCEC6F8&*}II{\c&HCEC7F9&*}I{\c&HCEC8F9&*}II{\c&HCEC9FA&*}I{\c&HCECAFA&*}I{\c&HCECAFB&*}I{\c&HCECBFB&*}I{\c&HCECCFC&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCFC1F5&\pos(846.25,634.79)}I{\c&HCEC1F5&*}I{\c&HCEC2F5&*}I{\c&HCEC2F6&*}I{\c&HCEC3F6&*}I{\c&HCEC4F7&*}II{\c&HCEC5F7&*}I{\c&HCEC6F8&*}II{\c&HCEC7F9&*}I{\c&HCEC8F9&*}II{\c&HCEC9FA&*}I{\c&HCECAFA&*}I{\c&HCECAFB&*}I{\c&HCECBFB&*}I{\c&HCECCFC&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCFC1F5&\pos(850.25,638.79)}I{\c&HCEC1F5&*}I{\c&HCEC2F5&*}I{\c&HCEC2F6&*}I{\c&HCEC3F6&*}I{\c&HCEC4F7&*}II{\c&HCEC5F7&*}I{\c&HCEC6F8&*}II{\c&HCEC7F9&*}I{\c&HCEC8F9&*}II{\c&HCEC9FA&*}I{\c&HCECAFA&*}I{\c&HCECAFB&*}I{\c&HCECBFB&*}I{\c&HCECCFC&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCFC1F5&\pos(854.25,634.79)}I{\c&HCEC1F5&*}I{\c&HCEC2F5&*}I{\c&HCEC2F6&*}I{\c&HCEC3F6&*}I{\c&HCEC4F7&*}II{\c&HCEC5F7&*}I{\c&HCEC6F8&*}II{\c&HCEC7F9&*}I{\c&HCEC8F9&*}II{\c&HCEC9FA&*}I{\c&HCECAFA&*}I{\c&HCECAFB&*}I{\c&HCECBFB&*}I{\c&HCECCFC&}
 Dialogue: 1,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\fnSerangkaian Pattern\fs32\fscy200\frz13.68\fax0.25\c&HD4C8FD&\pos(859.21,629.7)}a{\c&HD3C8FD&*}a{\c&HD3C9FD&*}a{\c&HD2CAFD&*}aa{\c&HD1CBFD&*}a{\c&HD1CCFD&*}a{\c&HD0CCFD&*}a{\c&HD0CDFD&*}a{\c&HD0CEFE&}
 Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCDBFF2&\pos(977.36,670.59)}I{\c&HCCBFF2&*}I{\c&HCCC0F2&*}I{\c&HCCC1F2&*}I{\c&HCCC2F3&*}II{\c&HCCC3F3&*}I{\c&HCCC4F3&*}I{\c&HCCC5F4&*}II{\c&HCCC6F4&*}I{\c&HCCC7F5&*}I{\c&HCCC8F5&*}II{\c&HCCC9F5&*}I{\c&HCCCAF6&*}I{\c&HCCCBF6&*}II{\c&HCCCCF6&*}I{\c&HCCCDF7&*}I{\c&HCCCEF7&*}II{\c&HCCCFF8&*}I{\c&HCCD0F8&*}I{\c&HCCD1F8&*}II{\c&HCCD2F9&*}I{\c&HCCD3F9&*}I{\c&HCCD4F9&*}II{\c&HCCD5FA&*}I{\c&HCCD6FA&*}I{\c&HCCD7FA&*}I{\c&HCCD8FB&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCDBFF2&\pos(982.36,670.59)}I{\c&HCCBFF2&*}I{\c&HCCC0F2&*}I{\c&HCCC1F2&*}I{\c&HCCC2F3&*}II{\c&HCCC3F3&*}I{\c&HCCC4F3&*}I{\c&HCCC5F4&*}II{\c&HCCC6F4&*}I{\c&HCCC7F5&*}I{\c&HCCC8F5&*}II{\c&HCCC9F5&*}I{\c&HCCCAF6&*}I{\c&HCCCBF6&*}II{\c&HCCCCF6&*}I{\c&HCCCDF7&*}I{\c&HCCCEF7&*}II{\c&HCCCFF8&*}I{\c&HCCD0F8&*}I{\c&HCCD1F8&*}II{\c&HCCD2F9&*}I{\c&HCCD3F9&*}I{\c&HCCD4F9&*}II{\c&HCCD5FA&*}I{\c&HCCD6FA&*}I{\c&HCCD7FA&*}I{\c&HCCD8FB&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCDBFF2&\pos(987.36,670.59)}I{\c&HCCBFF2&*}I{\c&HCCC0F2&*}I{\c&HCCC1F2&*}I{\c&HCCC2F3&*}II{\c&HCCC3F3&*}I{\c&HCCC4F3&*}I{\c&HCCC5F4&*}II{\c&HCCC6F4&*}I{\c&HCCC7F5&*}I{\c&HCCC8F5&*}II{\c&HCCC9F5&*}I{\c&HCCCAF6&*}I{\c&HCCCBF6&*}II{\c&HCCCCF6&*}I{\c&HCCCDF7&*}I{\c&HCCCEF7&*}II{\c&HCCCFF8&*}I{\c&HCCD0F8&*}I{\c&HCCD1F8&*}II{\c&HCCD2F9&*}I{\c&HCCD3F9&*}I{\c&HCCD4F9&*}II{\c&HCCD5FA&*}I{\c&HCCD6FA&*}I{\c&HCCD7FA&*}I{\c&HCCD8FB&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCDBFF2&\pos(989.36,670.59)}I{\c&HCCBFF2&*}I{\c&HCCC0F2&*}I{\c&HCCC1F2&*}I{\c&HCCC2F3&*}II{\c&HCCC3F3&*}I{\c&HCCC4F3&*}I{\c&HCCC5F4&*}II{\c&HCCC6F4&*}I{\c&HCCC7F5&*}I{\c&HCCC8F5&*}II{\c&HCCC9F5&*}I{\c&HCCCAF6&*}I{\c&HCCCBF6&*}II{\c&HCCCCF6&*}I{\c&HCCCDF7&*}I{\c&HCCCEF7&*}II{\c&HCCCFF8&*}I{\c&HCCD0F8&*}I{\c&HCCD1F8&*}II{\c&HCCD2F9&*}I{\c&HCCD3F9&*}I{\c&HCCD4F9&*}II{\c&HCCD5FA&*}I{\c&HCCD6FA&*}I{\c&HCCD7FA&*}I{\c&HCCD8FB&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCDBFF2&\pos(977.36,668.59)}I{\c&HCCBFF2&*}I{\c&HCCC0F2&*}I{\c&HCCC1F2&*}I{\c&HCCC2F3&*}II{\c&HCCC3F3&*}I{\c&HCCC4F3&*}I{\c&HCCC5F4&*}II{\c&HCCC6F4&*}I{\c&HCCC7F5&*}I{\c&HCCC8F5&*}II{\c&HCCC9F5&*}I{\c&HCCCAF6&*}I{\c&HCCCBF6&*}II{\c&HCCCCF6&*}I{\c&HCCCDF7&*}I{\c&HCCCEF7&*}II{\c&HCCCFF8&*}I{\c&HCCD0F8&*}I{\c&HCCD1F8&*}II{\c&HCCD2F9&*}I{\c&HCCD3F9&*}I{\c&HCCD4F9&*}II{\c&HCCD5FA&*}I{\c&HCCD6FA&*}I{\c&HCCD7FA&*}I{\c&HCCD8FB&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCDBFF2&\pos(982.36,668.59)}I{\c&HCCBFF2&*}I{\c&HCCC0F2&*}I{\c&HCCC1F2&*}I{\c&HCCC2F3&*}II{\c&HCCC3F3&*}I{\c&HCCC4F3&*}I{\c&HCCC5F4&*}II{\c&HCCC6F4&*}I{\c&HCCC7F5&*}I{\c&HCCC8F5&*}II{\c&HCCC9F5&*}I{\c&HCCCAF6&*}I{\c&HCCCBF6&*}II{\c&HCCCCF6&*}I{\c&HCCCDF7&*}I{\c&HCCCEF7&*}II{\c&HCCCFF8&*}I{\c&HCCD0F8&*}I{\c&HCCD1F8&*}II{\c&HCCD2F9&*}I{\c&HCCD3F9&*}I{\c&HCCD4F9&*}II{\c&HCCD5FA&*}I{\c&HCCD6FA&*}I{\c&HCCD7FA&*}I{\c&HCCD8FB&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCDBFF2&\pos(987.36,668.59)}I{\c&HCCBFF2&*}I{\c&HCCC0F2&*}I{\c&HCCC1F2&*}I{\c&HCCC2F3&*}II{\c&HCCC3F3&*}I{\c&HCCC4F3&*}I{\c&HCCC5F4&*}II{\c&HCCC6F4&*}I{\c&HCCC7F5&*}I{\c&HCCC8F5&*}II{\c&HCCC9F5&*}I{\c&HCCCAF6&*}I{\c&HCCCBF6&*}II{\c&HCCCCF6&*}I{\c&HCCCDF7&*}I{\c&HCCCEF7&*}II{\c&HCCCFF8&*}I{\c&HCCD0F8&*}I{\c&HCCD1F8&*}II{\c&HCCD2F9&*}I{\c&HCCD3F9&*}I{\c&HCCD4F9&*}II{\c&HCCD5FA&*}I{\c&HCCD6FA&*}I{\c&HCCD7FA&*}I{\c&HCCD8FB&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur1\fs64\fscy111\frz13.95\fax0.12\c&HCDBFF2&\pos(989.36,668.59)}I{\c&HCCBFF2&*}I{\c&HCCC0F2&*}I{\c&HCCC1F2&*}I{\c&HCCC2F3&*}II{\c&HCCC3F3&*}I{\c&HCCC4F3&*}I{\c&HCCC5F4&*}II{\c&HCCC6F4&*}I{\c&HCCC7F5&*}I{\c&HCCC8F5&*}II{\c&HCCC9F5&*}I{\c&HCCCAF6&*}I{\c&HCCCBF6&*}II{\c&HCCCCF6&*}I{\c&HCCCDF7&*}I{\c&HCCCEF7&*}II{\c&HCCCFF8&*}I{\c&HCCD0F8&*}I{\c&HCCD1F8&*}II{\c&HCCD2F9&*}I{\c&HCCD3F9&*}I{\c&HCCD4F9&*}II{\c&HCCD5FA&*}I{\c&HCCD6FA&*}I{\c&HCCD7FA&*}I{\c&HCCD8FB&}
 Dialogue: 1,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\fnSerangkaian Pattern\fs32\fscy200\frz13.68\fax0.25\c&HD2C4F9&\pos(980.87,672.87)}a{\c&HD2C5F9&*}a{\c&HD2C7F9&*}a{\c&HD2C9FA&*}a{\c&HD2CAFA&*}a{\c&HD2CCFA&*}a{\c&HD2CEFB&*}a{\c&HD2CFFB&*}a{\c&HD2D1FC&*}a{\c&HD2D3FC&*}a{\c&HD2D4FC&*}a{\c&HD2D6FD&*}a{\c&HD2D8FD&*}a{\c&HD2D9FD&*}a{\c&HD2DBFE&*}a{\c&HD2DDFE&*}a{\c&HD2DFFF&}
 Dialogue: 2,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\an7\blur0.7\fnFOT-Rodin ProN DB vL\fs40\frz13.6\fax0.18\c&H656184&\pos(723.96,647.78)}No service\N\N\h{\frz13.3}Unable to connect to network
 Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur2\fs60\frz11.97\fax0.12\c&HBBA6EF&\pos(426.67,279.7)}I{\c&HBCA7EF&*}I{\c&HBDA8EF&*}I{\c&HBEAAEF&*}I{\c&HBFABEF&*}I{\c&HC0ACEF&*}I{\c&HC2AEF0&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur2\fs60\frz11.97\fax0.12\c&HBBA6EF&\pos(429.67,277.7)}I{\c&HBCA7EF&*}I{\c&HBDA8EF&*}I{\c&HBEAAEF&*}I{\c&HBFABEF&*}I{\c&HC0ACEF&*}I{\c&HC2AEF0&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur2\fs60\frz11.97\fax0.12\c&HBBA6EF&\pos(433.67,277.7)}I{\c&HBCA7EF&*}I{\c&HBDA8EF&*}I{\c&HBEAAEF&*}I{\c&HBFABEF&*}I{\c&HC0ACEF&*}I{\c&HC2AEF0&}
-Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur2\fs60\frz11.97\fax0.12\c&HBBA6EF&\pos(435.67,276.7)}I{\c&HBCA7EF&*}I{\c&HBDA8EF&*}I{\c&HBEAAEF&*}I{\c&HBFABEF&*}I{\c&HC2B0EF&*}I{\c&HC2AEF0&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur2.8\fs60\frz11.97\fax0.12\c&HBBA6EF&\pos(426.67,277.7)}I{\c&HBCA7EF&*}I{\c&HBDA8EF&*}I{\c&HBEAAEF&*}I{\c&HBFABEF&*}I{\c&HC0ACEF&*}I{\c&HC2AEF0&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur2.8\fs60\frz11.97\fax0.12\c&HBBA6EF&\pos(429.67,275.7)}I{\c&HBCA7EF&*}I{\c&HBDA8EF&*}I{\c&HBEAAEF&*}I{\c&HBFABEF&*}I{\c&HC0ACEF&*}I{\c&HC2AEF0&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur2.8\fs60\frz11.97\fax0.12\c&HBBA6EF&\pos(433.67,275.7)}I{\c&HBCA7EF&*}I{\c&HBDA8EF&*}I{\c&HBEAAEF&*}I{\c&HBFABEF&*}I{\c&HC0ACEF&*}I{\c&HC2AEF0&}
+Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\blur2.8\fs60\frz11.97\fax0.12\c&HBBA6EF&\pos(435.67,274.7)}I{\c&HBCA7EF&*}I{\c&HBDA8EF&*}I{\c&HBEAAEF&*}I{\c&HBFABEF&*}I{\c&HC2B0EF&*}I{\c&HC2AEF0&}
 Dialogue: 1,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\an7\blur0.7\fnFOT-Rodin ProN DB vL\fs30\frz11.68\fax0.18\c&HAA93DE&\pos(364.56,272.09)}No service
 Dialogue: 2,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{\an7\blur0.7\fnFOT-Rodin ProN DB vL\fs30\frz11.68\fax0.18\c&HFFFFFF&\pos(364.56,272.09)}No service
 Dialogue: 0,0:21:36.65,0:21:38.40,Signs,Phone,0,0,0,,{=81}
+Comment: 0,0:15:55.02,0:15:57.90,Signs,,0,0,0,,{=96}sibuyasutation
+Dialogue: 1,0:15:55.02,0:15:57.90,Signs,,0,0,0,,{\an7\blur0.8\fscx100\fscy100\c&HB7AB93&\pos(0,1)\p1}m 525.94 399.78 l 524.77 397.63 523.8 393.33 524.97 383.76 544.3 385.71 543.33 391.18 543.91 394.11 544.69 398.8 545.47 401.92 541.37 402.31 534.93 401.92 533.95 399.97 529.85 401.53 524.77 400.36
+Dialogue: 2,0:15:55.02,0:15:57.90,Signs,,0,0,0,,{\an7\blur5\fscx100\fscy100\pos(0,2)\p1}m 525.63 389.55 l 531 388.21 540.75 388.57 544.53 386.62 541.6 384.18 531.24 384.79 526.97 385.28 523.8 387.35 524.29 391.98 526.12 394.42 529.41 395.52
+Dialogue: 3,0:15:55.02,0:15:57.90,Signs,,0,0,0,,{\blur0.55\xshad-1\yshad2.5\fnRagnar\fs26\frz351.4\fax0.1\c&HF1E6E0&\4c&H6F6358&\pos(539.54,390.55)\b1}s
+Dialogue: 1,0:15:55.02,0:15:57.90,Signs,,0,0,0,,{\an7\blur1\fscx100\fscy100\c&HCABC9C&\pos(0.4,1)\p1}m 463.76 378.84 l 468.57 378.02 471.62 378.84 472.44 380.36 472.67 382.24 473.02 384.7 473.26 387.51 473.37 390.21 473.73 391.62 472.91 394.2 471.85 395.49 469.97 396.19 464.93 395.37 462.94 392.2 462 385.52
+Dialogue: 2,0:15:55.02,0:15:57.90,Signs,,0,0,0,,{\blur0.88\xshad-1\yshad2.8\fnRagnar\fs26\fscx92\frz352.7\fax0.1\c&HFBEFE4&\4c&H2E1E0F&\pos(463.99,382.59)\b1}sh
+Dialogue: 1,0:15:55.02,0:15:57.90,Signs,,0,0,0,,{=97}
 Dialogue: 0,0:22:06.97,0:22:09.98,Signs,Screen,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
 Dialogue: 1,0:22:06.97,0:22:09.98,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs120\fscx96\c&HFFFFFF&\pos(960,540)\b1}20:31    Gojo Satoru Arrives
 Dialogue: 0,0:23:50.20,0:23:55.00,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}The Shibuya Incident
@@ -228,9 +235,19 @@ Data: 86,_aegi_folddata,e0;1;12
 Data: 87,_aegi_folddata,e1;1;12
 Data: 94,_aegi_folddata,e0;1;1
 Data: 95,_aegi_folddata,e1;1;1
-Data: 110,_aegi_folddata,e0;0;1
-Data: 111,_aegi_folddata,e1;0;1
-Data: 112,_aegi_folddata,e0;0;4
-Data: 113,_aegi_folddata,e1;0;4
-Data: 116,_aegi_folddata,e0;0;6
-Data: 117,_aegi_folddata,e1;0;6
+Data: 96,_aegi_folddata,e0;1;13
+Data: 97,_aegi_folddata,e1;1;13
+Data: 98,_aegi_folddata,e0;1;14
+Data: 99,_aegi_folddata,e1;1;14
+Data: 100,_aegi_folddata,e0;0;13
+Data: 101,_aegi_folddata,e1;0;13
+Data: 102,_aegi_folddata,e0;0;5
+Data: 103,_aegi_folddata,e1;0;5
+Data: 104,_aegi_folddata,e0;0;1
+Data: 105,_aegi_folddata,e1;0;1
+Data: 106,_aegi_folddata,e0;0;4
+Data: 107,_aegi_folddata,e1;0;4
+Data: 108,_aegi_folddata,e0;0;11
+Data: 109,_aegi_folddata,e1;0;11
+Data: 110,_aegi_folddata,e0;0;2
+Data: 111,_aegi_folddata,e1;0;2
