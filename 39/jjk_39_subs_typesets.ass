@@ -21,8 +21,8 @@ Video File: jjk_39_premux.mkv
 Keyframes File: jjk_39_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 6751
+Active Line: 2
+Video Position: 34405
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,10 +30,6 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:46.74,0:00:49.74,Signs,Screen,0,0,0,,Episode 39\N{\fs30\fscy150}Fluctuations, Part 2
-Dialogue: 0,0:04:41.55,0:04:46.06,Signs,Screen,0,0,0,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
-Dialogue: 0,0:14:45.44,0:14:47.99,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
-Dialogue: 0,0:14:45.44,0:14:47.99,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
-Dialogue: 0,0:14:50.95,0:14:52.99,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1c&H213835&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
-Dialogue: 0,0:14:50.95,0:14:52.99,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\3c&HA0DCE8&\pos(320,18)\c&H354F3E&}JUJUTSU KAISEN
-Dialogue: 0,0:23:52.16,0:23:54.99,Signs,Screen,0,0,0,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Thunderclap
+Dialogue: 0,0:00:46.74,0:00:49.74,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 39\N{\fs70}Fluctuations II
+Dialogue: 0,0:23:52.16,0:23:55.00,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Thunderclap
+Dialogue: 1,0:23:52.16,0:23:55.00,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Thunderclap

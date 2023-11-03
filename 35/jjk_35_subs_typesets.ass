@@ -20,9 +20,9 @@ Audio File: jjk_35_premux.mkv
 Video File: jjk_35_premux.mkv
 Keyframes File: jjk_35_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Active Line: 11
-Video Position: 34319
+Video Zoom Percent: 0.500000
+Active Line: 10
+Video Position: 15826
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,15 +30,23 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:49.46,0:01:52.96,Signs,Screen,0,0,0,,{\an2\fnArial\bord0\shad0\b1\pos(320,300)}22:01 Shibuya Central Tower
-Dialogue: 0,0:02:29.27,0:02:31.48,Signs,Screen,0,0,0,,{\fad(208,0)\pos(92,36)\fs18\bord1\shad0\c&H716DA4&\3c&HF3E5EE&}These are great.
-Dialogue: 0,0:04:42.00,0:04:45.00,Signs,Screen,0,0,0,,Episode 35\N{\fs30\fscy150}Seance
-Dialogue: 0,0:04:55.56,0:05:00.07,Signs,Screen,0,0,0,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
-Dialogue: 0,0:09:34.21,0:09:35.71,Signs,Screen,0,0,0,,{\fad(250,0)\frz282.5\pos(76.666,183.333)\fnComic Sans MS\c&H1D1618&\3c&HF4F8FA&\bord1}No comment.
-Dialogue: 0,0:10:48.29,0:10:51.09,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1c&H75EFED&\3c&H75EFED&\blur20\1a&HE0&\3a&HC0&\pos(320,18)}JUJUTSU KAISEN
-Dialogue: 0,0:10:48.35,0:10:51.06,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\1a&HFF&\3c&HC5E3EC&\pos(320,18)}JUJUTSU KAISEN
-Dialogue: 0,0:10:54.29,0:10:56.05,Signs,Eyecatch,0,0,0,,{\fad(675,0)\3c&H1EDDF0&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
-Dialogue: 0,0:11:00.05,0:11:03.05,Signs,Screen,0,0,0,,{\an8\fnArial\bord0\shad0\b1\pos(320,20)}December 7th, 1989
-Dialogue: 0,0:11:10.81,0:11:13.82,Signs,Screen,0,0,0,,{\an8\fnArial\bord0\shad0\b1\pos(320,20)}Satoru Gojo Is Born
-Dialogue: 0,0:20:16.07,0:20:17.02,Signs,Screen,0,0,0,,{\fad(175,250)\fnComic Sans MS\c&H000000&\3c&HFFFFFF&\shad0\bord1\pos(77.333,82)}True.
-Dialogue: 0,0:23:51.36,0:23:55.03,Signs,Screen,0,0,0,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Blunt Knife
+Comment: 0,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{=0}Cerulean Tower
+Dialogue: 1,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{\an7\fscx24\fscy80\pos(156.48,226.86)\p1}m 677 880 l 1888 880 1888 999 677 999 677 900
+Dialogue: 1,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{\an7\fscx70\fscy80\pos(189,227.26)\p1}m 677 880 l 2020 880 2020 999 677 999 677 900
+Dialogue: 3,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs80\c&H000000&\pos(382.8,1020)\b1}22:01
+Dialogue: 3,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs80\c&H000000&\pos(766.4,1019.4)\b1}Cerulean Tower, Shibuya
+Dialogue: 0,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{=1}
+Dialogue: 0,0:04:42.00,0:04:45.00,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 35\N{\fs70}Seance
+Comment: 0,0:02:29.27,0:02:31.48,Signs,Screen,0,0,0,,{\fad(208,0)\pos(92,36)\fs18\bord1\shad0\c&H716DA4&\3c&HF3E5EE&}These are great.
+Comment: 0,0:09:34.21,0:09:35.71,Signs,Screen,0,0,0,,{\fad(250,0)\frz282.5\pos(76.666,183.333)\fnComic Sans MS\c&H1D1618&\3c&HF4F8FA&\bord1}No comment.
+Comment: 0,0:20:16.07,0:20:17.02,Signs,Screen,0,0,0,,{\fad(175,250)\fnComic Sans MS\c&H000000&\3c&HFFFFFF&\shad0\bord1\pos(77.333,82)}True.
+Dialogue: 0,0:11:00.06,0:11:03.06,Signs,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
+Dialogue: 1,0:11:00.06,0:11:03.06,Signs,,0,0,0,,{\pos(960,536)\fnRagnar\fs128\fscx110\blur0.5}December 7th, 1989
+Dialogue: 0,0:11:10.82,0:11:13.82,Signs,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
+Dialogue: 1,0:11:10.82,0:11:13.82,Signs,,0,0,0,,{\pos(960,536)\fnRagnar\fs110\fscx110\blur0.5}Gojo Satoru Is Born
+Dialogue: 0,0:23:51.36,0:23:55.00,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Dull Blade
+Dialogue: 1,0:23:51.36,0:23:55.00,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Dull Blade
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1

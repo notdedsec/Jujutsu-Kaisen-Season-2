@@ -20,7 +20,9 @@ Audio File: jjk_38_premux.mkv
 Video File: jjk_38_premux.mkv
 Keyframes File: jjk_38_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.875000
+Active Line: 3
+Video Position: 10979
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,10 +30,22 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:03:35.67,0:03:36.86,Signs,Screen,0,0,0,,{\fnTimes New Roman\bord0\shad0\pos(322,300)}New Shadow Style: Simple Domain
-Dialogue: 0,0:05:22.98,0:05:25.99,Signs,Screen,0,0,0,,Episode 38\N{\fs30\fscy150}Fluctuations
-Dialogue: 0,0:05:36.54,0:05:41.06,Signs,Screen,0,0,0,,{\fad(0,825)\pos(320,10)\3c&H8ECEDD&}JUJUTSU KAISEN\N{\fs16\bord0\fscy100\c&HDEDCE0&}Shibuya Incident
-Dialogue: 0,0:07:37.91,0:07:44.67,Signs,Screen,0,0,0,,{\an3\fnArial\bord0\shad0\b1\fs20\pos(608,268)}22:20  Shibuya Station, Inokashira Line \NAvenue Exit
-Dialogue: 0,0:15:05.30,0:15:07.96,Signs,Eyecatch,0,0,0,,{\fad(1350,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
-Dialogue: 0,0:15:10.38,0:15:12.97,Signs,Eyecatch,0,0,0,,{\fad(675,0)\3c&HA0DCE8&\pos(320,18)\c&H292619&}JUJUTSU KAISEN
-Dialogue: 0,0:23:50.11,0:23:55.15,Signs,Screen,0,0,0,,{\c&HFFFFFF&\bord2\blur4}Next Episode\N{\fs30\fscy150}Fluctuations, Part 2
+Dialogue: 0,0:03:35.65,0:03:36.86,Signs,Screen,0,0,0,,{\fs55\blur8\fnRagnar\fscx105\c&H000000&\alpha&H80&\pos(960,875)\}New Shadow Style: Simple Domain
+Dialogue: 1,0:03:35.65,0:03:36.86,Signs,Screen,0,0,0,,{\fs55\blur0.5\fnRagnar\fscx105\pos(960,875)\b1}New Shadow Style: Simple Domain
+Dialogue: 0,0:05:22.97,0:05:25.97,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 38\N{\fs70}Fluctuations
+Comment: 0,0:07:37.90,0:07:44.65,Signs,Screen,0,0,0,,{=0}Inokashira Line
+Dialogue: 0,0:07:37.90,0:07:44.65,Signs,Screen,0,0,0,,{\fade(0,500)\an7\fscx22\fscy75\pos(672.48,164.86)\p1}m 677 880 l 1850 880 1850 999 677 999 677 900
+Dialogue: 0,0:07:37.90,0:07:44.65,Signs,Screen,0,0,0,,{\fade(0,500)\an7\fscx77\fscy75\pos(579.48,164.86)\p1}m 677 880 l 1720 880 1720 999 677 999 677 900
+Dialogue: 0,0:07:37.90,0:07:44.65,Signs,Screen,0,0,0,,{\fade(0,500)\an7\fscx77\fscy75\pos(579.48,276.86)\p1}m 677 880 l 1395 880 1395 999 677 999 677 900
+Dialogue: 0,0:07:37.90,0:07:44.65,Signs,Screen,0,0,0,,{\fade(0,400)\an7\blur0.6\fnAribau Grotesk\fs75\c&H000000&\pos(869,832)\b1}22:20
+Dialogue: 0,0:07:37.90,0:07:44.65,Signs,Screen,0,0,0,,{\fade(0,400)\an7\blur0.6\fnAribau Grotesk\fs70\fscx93\c&H000000&\pos(1118,835)\b1}Shibuya Station, Inokashira Line
+Dialogue: 0,0:07:37.90,0:07:44.65,Signs,Screen,0,0,0,,{\fade(0,400)\an7\blur0.6\fnAribau Grotesk\fs70\fscx96\c&H000000&\pos(1120,948)\b1}Avenue Exit
+Dialogue: 0,0:07:37.90,0:07:44.65,Signs,Screen,0,0,0,,{=1}
+Dialogue: 0,0:23:50.12,0:23:55.04,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Fluctuations II
+Dialogue: 1,0:23:50.12,0:23:55.04,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Fluctuations II
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;0;1
+Data: 3,_aegi_folddata,e1;0;1
