@@ -35,7 +35,7 @@ Dialogue: 0,0:03:12.55,0:03:15.55,Signs,Screen,0,0,0,,{\pos(960,800)\fnRagnar\fs
 Dialogue: 0,0:01:29.99,0:01:31.99,Signs,Screen,0,0,0,,{=69}{\p1\c&H000000&}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
 Dialogue: 1,0:01:29.99,0:01:31.99,Signs,Screen,0,0,0,,{\pos(960,501)\fnRagnar\fs70\fscx110\blur0.5}One Year Later{\fs128}\NAugust 2007
 Dialogue: 0,0:21:39.36,0:21:43.32,Signs,Screen,0,0,0,,{\p1\c&H000000&}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
-Dialogue: 1,0:21:39.36,0:21:43.32,Signs,Screen,0,0,0,,{\pos(960,536)\fnRagnar\fs128\fscx110\blur0.5}October 19, 2018
+Dialogue: 1,0:21:39.36,0:21:43.32,Signs,Screen,0,0,0,,{\pos(960,536)\fnRagnar\fs128\fscx110\blur0.5}October 19th, 2018
 Dialogue: 0,0:19:09.17,0:19:11.17,Signs,,0,0,0,,{\p1\c&H000000&}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
 Dialogue: 1,0:19:09.17,0:19:11.17,Signs,,0,0,0,,{=70}{\pos(960,536)\fnRagnar\fs100\fscx110\blur0.5}Many Objected
 Dialogue: 0,0:06:52.51,0:06:52.55,Signs,Geto,0,0,0,,{=15=20}{\alpha&HE0&\pos(651.71,144.14)\fnBarthowheel\fs69\b1\bord4\3c&HF8F6F1&\blur0.6\c&HF8F6F1&\frz6.294}She's sulking...
