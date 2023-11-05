@@ -109,19 +109,19 @@ Dialogue: 1,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnZinHena
 Dialogue: 0,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnZinHenaKokuryu\fs47\frz12.81\c&HC5C5C5&\3c&HC5C5C5&\pos(287.37,980.04)\b1}Can't Break It
 Dialogue: 1,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.64\bord0\fnZinHenaKokuryu\fs47\frz12.81\c&H1E1E1E&\4a&HFF&\pos(287.37,980.04)\b1}Can't Break It
 Dialogue: 0,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnBoBsFrAnTiC\fs50\frz3.858\c&HCBC8C7&\3c&HCBC8C7&\pos(711.96,255.85)\b0\b1}Eek!
-Dialogue: 1,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.60\bord0\fnBoBsFrAnTiC\fs50\frz3.858\c&H2C2C33&\4a&HFF&\pos(711.96,255.85)\b0\b1}Eek!
+Dialogue: 1,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.64\bord0\fnBoBsFrAnTiC\fs50\frz3.858\c&H2C2C33&\4a&HFF&\pos(711.96,255.85)\b0\b1}Eek!
 Dialogue: 0,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnZinHenaKokuryu\fs64\frz349.8\c&HC5C5C5&\3c&HC5C5C5&\pos(242.96,304.27)\b1}Bang
 Dialogue: 1,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnZinHenaKokuryu\fs64\frz349.8\c&H252525&\4a&HFF&\pos(242.96,304.27)\b1}Bang
 Dialogue: 0,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnZinHenaKokuryu\fs47\frz12.81\c&HC5C5C5&\3c&HC5C5C5&\pos(287.37,980.04)\b1}Can't Break It
 Dialogue: 1,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnZinHenaKokuryu\fs47\frz12.81\c&H1E1E1E&\4a&HFF&\pos(287.37,980.04)\b1}Can't Break It
 Dialogue: 0,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnBoBsFrAnTiC\fs50\frz3.858\c&HCBC8C7&\3c&HCBC8C7&\pos(711.96,255.85)\b0\b1}Eek!
-Dialogue: 1,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.60\bord0\fnBoBsFrAnTiC\fs50\frz3.858\c&H2C2C33&\4a&HFF&\pos(711.96,255.85)\b0\b1}Eek!
+Dialogue: 1,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.64\bord0\fnBoBsFrAnTiC\fs50\frz3.858\c&H2C2C33&\4a&HFF&\pos(711.96,255.85)\b0\b1}Eek!
 Dialogue: 0,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnZinHenaKokuryu\fs64\frz349.8\c&HC5C5C5&\3c&HC5C5C5&\pos(242.96,304.27)\b1}Bang
 Dialogue: 1,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnZinHenaKokuryu\fs64\frz349.8\c&H252525&\4a&HFF&\pos(242.96,304.27)\b1}Bang
 Dialogue: 0,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnZinHenaKokuryu\fs47\frz12.81\c&HC5C5C5&\3c&HC5C5C5&\pos(287.37,980.04)\b1}Can't Break It
 Dialogue: 1,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnZinHenaKokuryu\fs47\frz12.81\c&H1E1E1E&\4a&HFF&\pos(287.37,980.04)\b1}Can't Break It
 Dialogue: 0,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnBoBsFrAnTiC\fs50\frz3.858\c&HCBC8C7&\3c&HCBC8C7&\pos(711.96,255.85)\b0\b1}Eek!
-Dialogue: 1,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.60\bord0\fnBoBsFrAnTiC\fs50\frz3.858\c&H2C2C33&\4a&HFF&\pos(711.96,255.85)\b0\b1}Eek!
+Dialogue: 1,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.64\bord0\fnBoBsFrAnTiC\fs50\frz3.858\c&H2C2C33&\4a&HFF&\pos(711.96,255.85)\b0\b1}Eek!
 Dialogue: 0,0:17:37.33,0:17:41.08,Signs,Screen,0,0,0,,{=87}
 Comment: 0,0:19:11.01,0:19:11.92,Signs,Screen,0,0,0,,{=67}Heh
 Dialogue: 0,0:19:11.01,0:19:11.09,Signs,Screen,0,0,0,,{\an7\blur5\fscx100\fscy100\c&HDBC2BA&\pos(-2,-1)\p1}m 626.81 616.93 l 616.78 629.46 613.28 651.01 614.78 673.56 620.79 705.13 630.31 727.68 648.35 749.23 662.88 758.76 679.92 754.25 685.43 742.22 684.43 722.17 692.94 704.63 695.95 692.1 691.94 678.07 683.92 660.53 673.9 641.48 669.39 627.45 659.87 620.94 643.34 614.42
@@ -149,7 +149,7 @@ Dialogue: 0,0:19:11.79,0:19:11.83,Signs,Screen,0,0,0,,{=66}{\an7\blur2.59\fnBloc
 Dialogue: 0,0:19:11.83,0:19:11.88,Signs,Screen,0,0,0,,{=66}{\an7\blur2.62\fnBlockParty\fs30\fscx93.4\fscy98.4\c&H6E3558&\alpha&H00&\1a&H30&\pos(622.76,680.93)}Heh
 Dialogue: 0,0:19:11.88,0:19:11.92,Signs,Screen,0,0,0,,{=66}{\an7\blur2.63\fnBlockParty\fs30\fscx93.76\fscy98.76\c&H6E3558&\alpha&H00&\1a&H30&\pos(621.73,681.32)}Heh
 Dialogue: 0,0:19:11.01,0:19:11.92,Signs,Screen,0,0,0,,{=68}
-Comment: 1,0:20:29.92,0:20:35.17,Signs,Screen,0,0,0,,{=134}Infinite Void
+Comment: 1,0:20:29.92,0:20:35.17,Signs,Screen,0,0,0,,{=92}Infinite Void
 Dialogue: 1,0:20:29.92,0:20:30.42,Signs,Screen,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\p1}m 139 109.22 l 153.78 101.58 173.68 106.08 177.37 115.32 186.24 111.99 183.59 91.79 202.24 89.5 223.01 78.55 233.9 81.5 240.55 92.59 240.55 108.67 249.42 125.3 262.73 138.05 272.7 146.37 272.7 161.33 280.46 169.1 276.08 188.99 259.77 196.02 237.23 184.07 225.59 202.92 211.18 204.02 201.2 176.86 189.56 179.08 203.42 210.68 200.09 222.87 177.92 222.32 165.17 206.8 167.39 189.06 150.76 199.59 141.89 184.62 129.15 140.82 141.34 128.07
 Dialogue: 1,0:20:30.42,0:20:30.92,Signs,Screen,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\p1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
 Dialogue: 1,0:20:30.92,0:20:31.42,Signs,Screen,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\p1}m 139 109.22 l 153.78 101.58 173.68 106.08 177.37 115.32 186.24 111.99 183.59 91.79 202.24 89.5 223.01 78.55 233.9 81.5 240.55 92.59 240.55 108.67 249.42 125.3 262.73 138.05 272.7 146.37 272.7 161.33 280.46 169.1 276.08 188.99 259.77 196.02 237.23 184.07 225.59 202.92 211.18 204.02 201.2 176.86 189.56 179.08 203.42 210.68 200.09 222.87 177.92 222.32 165.17 206.8 167.39 189.06 150.76 199.59 141.89 184.62 129.15 140.82 141.34 128.07
@@ -210,13 +210,13 @@ Dialogue: 1,0:20:34.42,0:20:34.92,Signs,Screen,0,0,0,,{\blur0.60\bord4.2\fnRiiTe
 Dialogue: 2,0:20:34.42,0:20:34.92,Signs,Screen,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs44\fsp-22.09\frz338.880\c&H19191B&\4a&HFF&\pos(1012,264)\org(1012.01,941.34)\b1}I{\fsp-25.39\frz337.010}n{\fsp-20.99\frz334.861}f{\fsp-20.99\frz333.084}i{\fsp-20.99\frz331.307}n{\fsp-19.89\frz329.530}i{\fsp-23.19\frz327.846}t{\fsp-23.19\frz325.884}e{\fsp-26.48\frz323.921} {\fsp-27.59\frz321.679}V{\fsp-20.99\frz319.344}o{\fsp-20.99\frz317.567}i{\fsp0.00\frz315.790}d
 Dialogue: 1,0:20:34.92,0:20:35.17,Signs,Screen,0,0,0,,{\blur0.60\bord4.2\fnRiiTegakiFude\fs44\fsp-22.09\frz338.880\c&HFEFCF8&\3c&HFEFCF8&\pos(1009,273)\org(1012.01,941.34)\b1}I{\fsp-25.39\frz337.010}n{\fsp-20.99\frz334.861}f{\fsp-20.99\frz333.084}i{\fsp-20.99\frz331.307}n{\fsp-19.89\frz329.530}i{\fsp-23.19\frz327.846}t{\fsp-23.19\frz325.884}e{\fsp-26.48\frz323.921} {\fsp-27.59\frz321.679}V{\fsp-20.99\frz319.344}o{\fsp-20.99\frz317.567}i{\fsp0.00\frz315.790}d
 Dialogue: 2,0:20:34.92,0:20:35.17,Signs,Screen,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs44\fsp-22.09\frz338.880\c&H19191B&\4a&HFF&\pos(1009,273)\org(1012.01,941.34)\b1}I{\fsp-25.39\frz337.010}n{\fsp-20.99\frz334.861}f{\fsp-20.99\frz333.084}i{\fsp-20.99\frz331.307}n{\fsp-19.89\frz329.530}i{\fsp-23.19\frz327.846}t{\fsp-23.19\frz325.884}e{\fsp-26.48\frz323.921} {\fsp-27.59\frz321.679}V{\fsp-20.99\frz319.344}o{\fsp-20.99\frz317.567}i{\fsp0.00\frz315.790}d
-Dialogue: 1,0:20:32.30,0:20:35.17,Signs,Screen,0,0,0,,{=135}
-Comment: 1,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{=118}That's why
+Dialogue: 1,0:20:32.30,0:20:35.17,Signs,Screen,0,0,0,,{=93}
+Comment: 1,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{=136}Isn't that why I'm here?
 Comment: 0,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{\pos(943,56)\alpha&H00&\fnHuiFont\fs70\b1\bord3\blur0.64\4a&HFF&\3c&HEBECED&\c&HEBECED&\org(929,5281)\frz8.276\fsp-35.02}T{\frz7.891\fsp-35.02}h{\frz7.506\fsp-35.02}a{\frz7.121\fsp-35.02}t{\frz6.736\fsp-35.02}'{\frz6.351\fsp-35.02}s{\frz5.966\fsp-35.02} {\frz5.581\fsp-35.02}t{\frz5.196\fsp-35.02}h{\frz4.811\fsp-35.02}e{\frz4.427\fsp-35.02} {\frz4.042\fsp-35.02}w{\frz3.657\fsp-35.02}h{\frz3.272\fsp-35.02}o{\frz2.887\fsp-35.02}l{\frz2.502\fsp-35.02}e{\frz2.117\fsp-35.02} {\frz1.732\fsp-35.02}r{\frz1.347\fsp-35.02}e{\frz0.962\fsp-35.02}a{\frz0.577\fsp-35.02}s{\frz0.192\fsp-35.02}o{\frz359.808\fsp-35.02}n{\frz359.423\fsp-35.02} {\frz359.038\fsp-35.02}I{\frz358.653\fsp-35.02} {\frz358.268\fsp-35.02}c{\frz357.883\fsp-35.02}a{\frz357.498\fsp-35.02}m{\frz357.113\fsp-35.02}e{\frz356.728\fsp-35.02} {\frz356.343\fsp-35.02}h{\frz355.958\fsp-35.02}e{\frz355.573\fsp-35.02}r{\frz355.189\fsp-35.02}e{\frz354.804\fsp-35.02} {\frz354.419\fsp-35.02}f{\frz354.034\fsp-35.02}o{\frz353.649\fsp-35.02}r{\frz353.264\fsp-35.02} {\frz352.879\fsp-35.02}y{\frz352.494\fsp-35.02}o{\frz352.109\fsp0.00}u
 Comment: 1,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{\pos(943,56)\alpha&H00&\fnHuiFont\fs70\b1\bord0\blur0.64\c&H03030B&\4a&HFF&\org(929,5281)\frz8.276\fsp-35.02\4a&HFF&}T{\frz7.891\fsp-35.02}h{\frz7.506\fsp-35.02}a{\frz7.121\fsp-35.02}t{\frz6.736\fsp-35.02}'{\frz6.351\fsp-35.02}s{\frz5.966\fsp-35.02} {\frz5.581\fsp-35.02}t{\frz5.196\fsp-35.02}h{\frz4.811\fsp-35.02}e{\frz4.427\fsp-35.02} {\frz4.042\fsp-35.02}w{\frz3.657\fsp-35.02}h{\frz3.272\fsp-35.02}o{\frz2.887\fsp-35.02}l{\frz2.502\fsp-35.02}e{\frz2.117\fsp-35.02} {\frz1.732\fsp-35.02}r{\frz1.347\fsp-35.02}e{\frz0.962\fsp-35.02}a{\frz0.577\fsp-35.02}s{\frz0.192\fsp-35.02}o{\frz359.808\fsp-35.02}n{\frz359.423\fsp-35.02} {\frz359.038\fsp-35.02}I{\frz358.653\fsp-35.02} {\frz358.268\fsp-35.02}c{\frz357.883\fsp-35.02}a{\frz357.498\fsp-35.02}m{\frz357.113\fsp-35.02}e{\frz356.728\fsp-35.02} {\frz356.343\fsp-35.02}h{\frz355.958\fsp-35.02}e{\frz355.573\fsp-35.02}r{\frz355.189\fsp-35.02}e{\frz354.804\fsp-35.02} {\frz354.419\fsp-35.02}f{\frz354.034\fsp-35.02}o{\frz353.649\fsp-35.02}r{\frz353.264\fsp-35.02} {\frz352.879\fsp-35.02}y{\frz352.494\fsp-35.02}o{\frz352.109\fsp0.00}u
-Dialogue: 1,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{\fnHuiFont\fs70\b1\bord3\blur0.64\pos(960,69)\4a&HFF&\3c&HEBECED&\c&HEBECED&}That's why I came here
-Dialogue: 2,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{\fnHuiFont\fs70\b1\bord0\blur0.64\pos(960,69)\c&H03030B&\4a&HFF&\4a&HFF&}That's why I came here
-Dialogue: 1,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{=119}
+Dialogue: 1,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{\fnHuiFont\fs70\b1\bord3.3\blur0.64\pos(960,69)\4a&HFF&\3c&HEBECED&\c&HEBECED&}Isn't that why I'm here?
+Dialogue: 2,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{\fnHuiFont\fs70\b1\bord0\blur0.64\pos(960,69)\c&H03030B&\4a&HFF&\4a&HFF&}Isn't that why I'm here?
+Dialogue: 1,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{=137}
 Dialogue: 0,0:23:47.78,0:23:55.04,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Shibuya Incident: Gate, Open
 Dialogue: 1,0:23:47.78,0:23:55.04,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Shibuya Incident: Gate, Open
 
@@ -261,3 +261,5 @@ Data: 132,_aegi_folddata,e0;0;22
 Data: 133,_aegi_folddata,e1;0;22
 Data: 134,_aegi_folddata,e0;0;8
 Data: 135,_aegi_folddata,e1;0;8
+Data: 136,_aegi_folddata,e0;0;23
+Data: 137,_aegi_folddata,e1;0;23
