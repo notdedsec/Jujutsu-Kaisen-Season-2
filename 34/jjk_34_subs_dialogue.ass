@@ -20,10 +20,10 @@ Audio File: jjk_34_premux.mkv
 Video File: jjk_34_premux.mkv
 Keyframes File: jjk_34_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 21
-Active Line: 34
-Video Position: 4335
+Video Zoom Percent: 0.750000
+Scroll Position: 331
+Active Line: 341
+Video Position: 34231
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,14 +44,15 @@ Dialogue: 0,0:00:35.47,0:00:38.35,Default,Mechamaru,0,0,0,,There's no time.\N Li
 Dialogue: 0,0:00:39.31,0:00:42.36,Default,Mechamaru,0,0,0,,Gojo Satoru has been sealed.
 Dialogue: 0,0:00:49.11,0:00:51.99,Default,Geto,0,0,0,,Goodnight, Gojo Satoru.
 Dialogue: 0,0:00:51.99,0:00:54.99,Default,Geto,0,0,0,,We'll meet again in the new world.
-Dialogue: 0,0:00:54.99,0:00:59.00,Default,Gojo,0,0,0,,Yeah, maybe I'll take a nap,\N but it's about time {\i1}you{\i0} woke up.
-Dialogue: 0,0:00:59.00,0:01:02.25,Default,Gojo,0,0,0,,How long are you gonna\N let it have its way with you, Suguru?
+Dialogue: 0,0:00:55.24,0:00:56.83,Default,Gojo,0,0,0,,Sure, I'll take a nap,
+Dialogue: 0,0:00:56.83,0:00:59.00,Default,Gojo,0,0,0,,but it's about time you woke up.
+Dialogue: 0,0:00:59.37,0:01:02.25,Default,Gojo,0,0,0,,How long are you gonna\N let it have its way with you, Suguru?
 Dialogue: 0,0:01:21.56,0:01:24.94,Default,Geto,0,0,0,,No way! It's a first for me!
 Dialogue: 0,0:01:30.40,0:01:32.20,Default,Mahito,0,0,0,,Hey, Geto.
 Dialogue: 0,0:01:32.20,0:01:34.20,Default,Geto,0,0,0,,Mahito, take a look at this.
 Dialogue: 0,0:01:34.70,0:01:38.79,Default,Geto,0,0,0,,You proposed that the soul exists before the body,
-Dialogue: 0,0:01:38.79,0:01:43.63,Default,Geto,0,0,0,,but actually, the body is part of the soul,\N and the soul is part of the body. {the body and the soul are one and the same.}
-Dialogue: 0,0:01:43.63,0:01:45.84,Default,Geto,0,0,0,,There is no other explanation to this
+Dialogue: 0,0:01:38.79,0:01:43.62,Default,Geto,0,0,0,,but actually, the body is part of the soul,\N and the soul is part of the body. {the body and the soul are one and the same.}
+Dialogue: 0,0:01:43.62,0:01:45.84,Default,Geto,0,0,0,,There is no other explanation for this
 Dialogue: 0,0:01:45.84,0:01:51.80,Default,Geto,0,0,0,,or the fact that the body's memories\N flow into my brain whenever I swap hosts.
 Dialogue: 0,0:01:51.80,0:01:54.39,Default,Mahito,0,0,0,,Does it have to be a universal truth? {Does it have to be the same for everyone?}
 Dialogue: 0,0:01:54.97,0:01:58.31,Default,Mahito,0,0,0,,Maybe the world operates differently\N for your technique and mine? {og: Are you sure the world doesn't operate differently for your technique and mine?}
@@ -60,24 +61,24 @@ Dialogue: 0,0:02:02.81,0:02:05.31,Default,Geto,0,0,0,,What a lovely idea. I like
 Dialogue: 0,0:02:05.31,0:02:06.77,Default,Gojo,0,0,0,,Hello?
 Dialogue: 0,0:02:07.19,0:02:09.86,Default,Gojo,0,0,0,,If you're gonna do this, hurry it up.
 Dialogue: 0,0:02:09.86,0:02:12.82,Default,Gojo,0,0,0,,This is nauseating and\N I'm not exactly enjoying the view.
-Dialogue: 0,0:02:12.82,0:02:17.70,Default,Geto,0,0,0,,I would love to savor it for a bit longer,\N but I supposed you're right.
+Dialogue: 0,0:02:12.82,0:02:17.70,Default,Geto,0,0,0,,I would love to savor it for a bit longer,\N but I suppose you're right.
 Dialogue: 0,0:02:17.70,0:02:19.70,Default,Geto,0,0,0,,I wouldn't want anything going wrong.
 Dialogue: 0,0:02:20.12,0:02:21.20,Default,Geto,0,0,0,,Gate, Close.
 Dialogue: 0,0:02:43.64,0:02:46.44,Default,Mahito,0,0,0,,Now it can't be used anymore?
 Dialogue: 0,0:02:46.44,0:02:49.19,Default,Geto,0,0,0,,Yeah, it only holds one.
-Dialogue: 0,0:02:49.19,0:02:52.82,Default,Geto,0,0,0,,Unless the person inside takes their own life,\N it will remain unusable.
-Dialogue: 0,0:02:52.82,0:02:54.70,Default,Mahito,0,0,0,,Hm. Boring.
+Dialogue: 0,0:02:49.19,0:02:52.90,Default,Geto,0,0,0,,Unless the person inside takes their own life,\N it will remain unusable.
+Dialogue: 0,0:02:53.69,0:02:54.70,Default,Mahito,0,0,0,,Boring.
 Dialogue: 0,0:02:55.20,0:02:57.20,Default,Mahito,0,0,0,,Well, either way...
 Dialogue: 0,0:02:58.53,0:03:00.83,Default,Geto,0,0,0,,{\an8}The sealing is complete.
 Comment: 0,0:03:02.95,0:03:03.00,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:04:33.00,0:04:33.04,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:04:38.68,0:04:41.01,Default,Mei,0,0,0,,We're talking about Gojo Satoru here.
+Dialogue: 0,0:04:38.67,0:04:41.01,Default,Mei,0,0,0,,We're talking about Gojo Satoru here.
 Dialogue: 0,0:04:41.01,0:04:44.01,Default,Mei,0,0,0,,What makes you think we would believe you?
 Dialogue: 0,0:04:44.39,0:04:46.43,Default,Mechamaru,0,0,0,,Sorry, but I don't have any proof.
 Dialogue: 0,0:04:46.43,0:04:50.02,Default,Mechamaru,0,0,0,,If I must provide something, it's the very fact that I'm here.
 Dialogue: 0,0:04:50.44,0:04:56.11,Default,Mechamaru,0,0,0,,I was killed on October 19th by the\N special-grade cursed spirit called Mahito.
 Dialogue: 0,0:04:56.11,0:05:00.03,Default,Mechamaru,0,0,0,,What I am now is just an insurance\N I planned when I was still alive.
-Dialogue: 0,0:05:00.03,0:05:06.87,Default,Mechamaru,0,0,0,,Since it's a complex insurance, I had to set its\N condition for activation to Gojo Satoru being sealed.
+Dialogue: 0,0:05:00.03,0:05:06.87,Default,Mechamaru,0,0,0,,Since it's a complex insurance, I had to set its\N condition for activation to Gojo Satoru being sealed. {"complex insurance" means... something else entirely but}
 Dialogue: 0,0:05:06.87,0:05:13.04,Default,Mechamaru,0,0,0,,I even sneaked these puppets into three locations\Nto counter the risk of a malfunction.
 Dialogue: 0,0:05:13.04,0:05:19.05,Default,Mechamaru,0,0,0,,Out of all the sorcerers at Jujutsu Tech,\N Itadori Yuji was least likely to be the mole.
 Dialogue: 0,0:05:19.55,0:05:24.60,Default,Mechamaru,0,0,0,,And Mei Mei, given the situation,\N I'm now certain that you can be trusted too.
@@ -85,9 +86,9 @@ Dialogue: 0,0:05:24.60,0:05:25.56,Default,Mei,0,0,0,,Why is that?
 Dialogue: 0,0:05:26.89,0:05:30.52,Default,Mechamaru,0,0,0,,Because instead of having you \Ngather intel from the shadows in Shibuya,
 Dialogue: 0,0:05:30.52,0:05:33.56,Default,Mechamaru,0,0,0,,they sent you out here to Meiji Jingumae. {and that means she can be trusted somehow? sure it means that "they" trust her but that doesn't explain why mechamaru should... idk}
 Dialogue: 0,0:05:33.56,0:05:38.82,Default,Mechamaru,0,0,0,,As for Itadori, he had no connection to\N jujutsu society until a few months ago.
-Dialogue: 0,0:05:38.82,0:05:42.57,Default,Mei,0,0,0,,Hey, I might use that as an excuse to refuse aiding them.
-Dialogue: 0,0:05:42.57,0:05:49.41,Default,Mei,0,0,0,,Besides, I'm the one who has been stopping Itadori{**-kun} from heading straight to Shibuya all this time.
-Dialogue: 0,0:05:49.41,0:05:51.75,Default,Mei,0,0,0,,We're already disregarding the order to be on standby.
+Dialogue: 0,0:05:38.82,0:05:42.57,Default,Mei,0,0,0,,Hey, I might use that as\N an excuse to refuse aiding them.
+Dialogue: 0,0:05:42.57,0:05:49.41,Default,Mei,0,0,0,,Besides, I'm the one who has been stopping Itadori{**-kun}\N from heading straight to Shibuya all this time.
+Dialogue: 0,0:05:49.41,0:05:51.75,Default,Mei,0,0,0,,We're already disregarding the standby order.
 Dialogue: 0,0:05:51.75,0:05:53.25,Default,Mechamaru,0,0,0,,Then why is it...
 Dialogue: 0,0:05:53.79,0:05:57.80,Default,Mechamaru,0,0,0,,that curse users are on their way here to kill you. {Then surely you can also explain why\Ncurse users are on their way here to kill you.}
 Dialogue: 0,0:06:08.06,0:06:09.77,Default,Mei,0,0,0,,One, two...
@@ -97,23 +98,23 @@ Dialogue: 0,0:06:16.94,0:06:19.82,Default,Yuji,0,0,0,,I'd say they're stronger t
 Dialogue: 0,0:06:20.65,0:06:24.86,Default,Mei,0,0,0,,{\i1}Apparently, the curse Itadori{**-kun} exorcised\N was capable of communication.
 Dialogue: 0,0:06:24.86,0:06:27.99,Default,Mei,0,0,0,,{\i1}It would have to be a\N semi-first-grade at the very least.
 Dialogue: 0,0:06:27.99,0:06:30.95,Default,Mei,0,0,0,,{\i1}Enemies that strong are\Ncrawling out of the woodwork now?
-Dialogue: 0,0:06:32.16,0:06:34.83,Default,Mei,0,0,0,,{\i1}Where have they been hiding this whole time and why?
+Dialogue: 0,0:06:32.12,0:06:34.83,Default,Mei,0,0,0,,{\i1}Where have they been hiding this whole time and why?
 Dialogue: 0,0:06:36.63,0:06:39.30,Default,Mei,0,0,0,,Let's ignore the curse users and move onward.
 Dialogue: 0,0:06:39.30,0:06:41.51,Default,Mei,0,0,0,,We need to confirm Gojo{**-kun}'s status first.
 Dialogue: 0,0:06:41.51,0:06:42.80,Default,Mechamaru,0,0,0,,Don't.
 Dialogue: 0,0:06:43.26,0:06:46.01,Default,Mechamaru,0,0,0,,The situation in Shibuya is not the same anymore.
-Dialogue: 0,0:06:46.01,0:06:49.10,Default,Mechamaru,0,0,0,,Their barriers are more complicated than we expected.
+Dialogue: 0,0:06:46.01,0:06:49.10,Default,Mechamaru,0,0,0,,Their barriers are more \Ncomplicated than we expected.
 Dialogue: 0,0:06:49.76,0:06:53.31,Default,Mechamaru,0,0,0,,Currently, there are four Veils deployed over Shibuya.
 Dialogue: 0,0:06:53.31,0:06:56.40,Default,Mechamaru,0,0,0,,Veil A traps civilians inside.
-Dialogue: 0,0:06:56.40,0:06:59.61,Default,Mechamaru,0,0,0,,Veil B traps Gojo Satoru inside.
-Dialogue: 0,0:06:59.61,0:07:02.32,Default,Mechamaru,0,0,0,,Veil C keeps sorcerers from entering.
-Dialogue: 0,0:07:02.32,0:07:06.87,Default,Mechamaru,0,0,0,,Veil D prevents civilians from leaving, just like Veil A.
-Dialogue: 0,0:07:06.87,0:07:10.95,Default,Mei,0,0,0,,And you're saying the area further down\N these tracks is blocked by Veil C.
+Dialogue: 0,0:06:56.40,0:06:59.57,Default,Mechamaru,0,0,0,,Veil B traps Gojo Satoru inside.
+Dialogue: 0,0:06:59.57,0:07:02.28,Default,Mechamaru,0,0,0,,Veil C prevents sorcerers from entering.
+Dialogue: 0,0:07:02.28,0:07:06.86,Default,Mechamaru,0,0,0,,Veil D, like Veil A, traps civilians inside.
+Dialogue: 0,0:07:06.86,0:07:10.95,Default,Mei,0,0,0,,And you're saying the area further down\N these tracks is blocked by Veil C.
 Dialogue: 0,0:07:10.95,0:07:12.16,Default,Mechamaru,0,0,0,,That's right.
-Dialogue: 0,0:07:12.16,0:07:15.87,Default,Mechamaru,0,0,0,,The sorcerers on standby have already entered the Veil.
+Dialogue: 0,0:07:12.16,0:07:15.87,Default,Mechamaru,0,0,0,,The sorcerers on standby \Nhave already entered the Veil.
 Dialogue: 0,0:07:15.87,0:07:19.25,Default,Mechamaru,0,0,0,,And cell phones don't work while you're inside.
 Dialogue: 0,0:07:19.25,0:07:21.25,Default,Mei,0,0,0,,Looks like that's not all, either.
-Dialogue: 0,0:07:21.25,0:07:24.88,Default,Mei,0,0,0,,I can't contact the assistant supervisors who \Nare supposed to be outside the Veil. {bitch how will you contact them from the inside where there's no signal???}
+Dialogue: 0,0:07:21.25,0:07:24.88,Default,Mei,0,0,0,,I can't contact the assistant supervisors\N who are supposed to be outside the Veil. {bitch how will you contact them from the inside where there's no signal???}
 Dialogue: 0,0:07:24.88,0:07:27.89,Default,Mechamaru,0,0,0,,Please, just follow my directions.
 Dialogue: 0,0:07:28.34,0:07:31.18,Default,Mechamaru,0,0,0,,This insurance of mine won't last long.
 Dialogue: 0,0:07:31.18,0:07:32.18,Default,Mechamaru,0,0,0,,Please.
@@ -121,18 +122,16 @@ Dialogue: 0,0:07:33.81,0:07:35.14,Default,Yuji,0,0,0,,{*}Miss Mei{*Mei-san}. {I 
 Dialogue: 0,0:07:37.44,0:07:40.27,Default,Mei,0,0,0,,All right, tell us.
 Dialogue: 0,0:07:40.94,0:07:45.28,Default,Mechamaru,0,0,0,,Itadori, return to Meiji Jingumae,\N and head to Shibuya from the surface.
 Dialogue: 0,0:07:45.78,0:07:48.91,Default,Mechamaru,0,0,0,,Inform all sorcerers that Gojo has been sealed.
-Dialogue: 0,0:07:48.91,0:07:52.04,Default,Mechamaru,0,0,0,,We need everyone in on the plan to rescue Gojo.
-Dialogue: 0,0:07:52.04,0:07:53.04,Default,Yuji,0,0,0,,Right!
+Dialogue: 0,0:07:48.91,0:07:52.03,Default,Mechamaru,0,0,0,,We need everyone in on the plan to rescue Gojo.
+Dialogue: 0,0:07:52.03,0:07:53.04,Default,Yuji,0,0,0,,Right!
 Dialogue: 0,0:07:53.37,0:07:56.46,Default,Mechamaru,0,0,0,,Mei Mei, create an opening for Itadori to escape.
 Dialogue: 0,0:07:56.46,0:08:00.29,Default,Mechamaru,0,0,0,,After defeating the curse users,\N I'd like you to stay on this track for now.
-Dialogue: 0,0:08:00.29,0:08:02.55,Default,Mechamaru,0,0,0,,We don't know what moves the enemy will make.
-Dialogue: 0,0:08:02.55,0:08:04.05,Default,Mei,0,0,0,,I can adapt.
-Dialogue: 0,0:08:04.38,0:08:07.80,Default,Mei,0,0,0,,By the way, they haven't frozen\N your bank account yet, have they?
-Comment: 0,0:08:07.80,0:08:08.64,Default,Mechamaru,0,0,0,,Huh?
+Dialogue: 0,0:08:00.29,0:08:02.55,Default,Mechamaru,0,0,0,,We don't know what moves \Nthe enemy will make.
+Dialogue: 0,0:08:02.55,0:08:04.05,Default,Mei,0,0,0,,I can improvise.
+Dialogue: 0,0:08:04.30,0:08:07.80,Default,Mei,0,0,0,,By the way, they haven't frozen\N your bank account yet, have they?
 Dialogue: 0,0:08:10.18,0:08:14.93,Default,Mechamaru,0,0,0,,Without Gojo Satoru, both jujutsu and\N human society will be upended.
 Dialogue: 0,0:08:14.93,0:08:17.31,Default,Mechamaru,0,0,0,,I'm sorry but I must ask you to \Nstake your life on this. {You'll have to forgive me for asking}
-Dialogue: 0,0:08:18.23,0:08:21.06,Default,Mechamaru,0,0,0,,{\i1}I didn't care if the world was upended at one point. {i'm not too sure about this one but i don't see any other interpretation}
-Dialogue: 0,0:08:21.06,0:08:23.32,Default,Mechamaru,0,0,0,,{\i1}That was pretty low of me.
+Dialogue: 0,0:08:18.23,0:08:23.32,Default,Mechamaru,0,0,0,,{\i1}I didn't care if the world was \Nupended at one point. How low of me. {i'm not too sure about this one but i don't see any other interpretation}
 Dialogue: 0,0:08:23.69,0:08:25.07,Default,Ui,0,0,0,,Hey, what about me?
 Dialogue: 0,0:08:25.07,0:08:26.32,Default,Mechamaru,0,0,0,,Follow whichever one you prefer.
 Dialogue: 0,0:08:26.32,0:08:27.32,Default,Ui,0,0,0,,{*}Sister{*Nee-sama} it is, then!
@@ -146,20 +145,20 @@ Dialogue: 0,0:08:48.13,0:08:50.05,Default,Geto,0,0,0,,Now, for our next...
 Dialogue: 0,0:08:51.30,0:08:52.26,Default,Jogo,0,0,0,,What's wrong?
 Dialogue: 0,0:08:57.68,0:08:59.10,Default,Geto,0,0,0,,I can't believe this guy!
 Dialogue: 0,0:09:12.62,0:09:15.74,Default,Gojo,0,0,0,,Looks like time doesn't flow normally here.
-Dialogue: 0,0:09:17.25,0:09:19.21,Default,Gojo,0,0,0,,Man, I screwed up.
+Dialogue: 0,0:09:17.24,0:09:19.21,Default,Gojo,0,0,0,,Man, I screwed up.
 Dialogue: 0,0:09:19.21,0:09:20.96,Default,Gojo,0,0,0,,This is all kinds of bad.
 Dialogue: 0,0:09:22.46,0:09:24.42,Default,Gojo,0,0,0,,Well, it'll all work out somehow.
 Dialogue: 0,0:09:27.71,0:09:31.30,Default,Gojo,0,0,0,,I have faith in everyone.
 Comment: 0,0:09:31.97,0:09:32.01,Default,,0,0,0,,
-Comment: 0,0:09:36.97,0:09:37.02,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:09:40.73,0:09:42.65,Default,Kusakabe,0,0,0,,Too low.
-Dialogue: 0,0:09:42.65,0:09:48.28,Default,Kusakabe,0,0,0,,Even accounting for those trapped inside the station,\N the crowd density was too low.
+Comment: 0,0:09:36.97,0:09:37.01,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:09:40.98,0:09:42.65,Default,Kusakabe,0,0,0,,Y'know what?
+Dialogue: 0,0:09:42.65,0:09:48.28,Default,Kusakabe,0,0,0,,Even accounting for those trapped\N inside the station, the crowd density was too low.
 Dialogue: 0,0:09:52.61,0:09:59.95,Default,Naobito,0,0,0,,The transfigured humans who were lying in wait\N inside the buildings are now attacking non-sorcerers, is it?
 Dialogue: 0,0:09:59.95,0:10:03.71,Default,Nanami,0,0,0,,That's why we're ending standby and moving in. {just putting it out there that there's a bit of ambiguity here: were they ordered to end standby or did they decide to go in by themselves? this affects how the next line gets translated. i'm leaning towards the latter though because i don't see any evidence that the higher-ups are involved and all three teams seem to have reached the same conclusion by themselves.}
 Dialogue: 0,0:10:03.71,0:10:08.46,Default,Nanami,0,0,0,,We may be acting against orders\Nbut if we wait any longer, it might be too late. {cr: There wasn't much else we could do. Our response is falling too far behind.}
-Dialogue: 0,0:10:08.46,0:10:10.47,Default,Nanami,0,0,0,,Still, my biggest concern is...
+Dialogue: 0,0:10:08.46,0:10:10.46,Default,Nanami,0,0,0,,Still, my biggest concern is...
 Dialogue: 0,0:10:10.46,0:10:13.93,Default,Fushiguro,0,0,0,,The other Veil that keeps sorcerers outside, correct?
-Dialogue: 0,0:10:10.47,0:10:12.05,Alt,Ino,0,0,0,,The other{\fscx180}—{\fscx}
+Dialogue: 0,0:10:10.46,0:10:12.05,Alt,Ino,0,0,0,,The other{\fscx180}—{\fscx}
 Dialogue: 0,0:10:14.64,0:10:18.31,Default,Fushiguro,0,0,0,,It's been some time since {*}Mr. Gojo{*Gojo-sensei} arrived.
 Dialogue: 0,0:10:18.31,0:10:20.18,Default,Fushiguro,0,0,0,,Why deploy it now?
 Dialogue: 0,0:10:20.18,0:10:22.56,Default,Nanami,0,0,0,,Either something has happened inside
@@ -169,19 +168,15 @@ Dialogue: 0,0:10:32.61,0:10:35.36,Default,Nanami,0,0,0,,I'll focus on the enemie
 Dialogue: 0,0:10:35.36,0:10:38.62,Default,Nanami,0,0,0,,You two do your best to rescue the civilians.
 Dialogue: 0,0:10:52.55,0:10:54.59,Default,Ijichi,0,0,0,,Yes, understood.
 Dialogue: 0,0:10:54.59,0:10:58.89,Default,Ijichi,0,0,0,,Once you've confirmed the situation,\N please head back outside the Veil, {*}Miss Nitta{*Nitta-san}. {Miss?} {Ijichi is 26. Nitta's age isn't revealed but with some quick mafs we can deduce that she's at least 21 and def less than 26. not that it matters because Ijichi is her senior anyway, but he just sounds like a guy who would use honorifics even with juniors.}
-Dialogue: 0,0:10:58.89,0:11:03.89,Default,Ijichi,0,0,0,,With signal blocked inside,\N we need someone on the outside at all times.
+Dialogue: 0,0:10:58.89,0:11:03.89,Default,Ijichi,0,0,0,,With the signal blocked inside,\N we need someone on the outside at all times.
 Dialogue: 0,0:11:04.89,0:11:07.40,Default,Ijichi,0,0,0,,I would like you to take on that role.
 Dialogue: 0,0:11:07.40,0:11:12.40,Default,Ijichi,0,0,0,,The assistant supervisors are the only ones\N maintaining our communication network as of now.
 Dialogue: 0,0:11:12.40,0:11:16.41,Default,Ijichi,0,0,0,,If we mobilize the windows and those off-duty, it should{\fscx180}—{\fscx}
 Comment: 0,0:11:15.11,0:11:16.41,Alt,Shigemo,0,0,0,,Hup!
-Comment: 0,0:11:23.20,0:11:23.75,Default,Shigemo,0,0,0,,Hup!
+Comment: 0,0:11:23.20,0:11:23.91,Default,Shigemo,0,0,0,,Hup!
 Comment: 0,0:11:28.04,0:11:28.79,Default,Shigemo,0,0,0,,Hup!
-Comment: 0,0:11:30.55,0:11:31.88,Default,Shigemo,0,0,0,,Hup!
-Dialogue: 0,0:11:15.11,0:11:16.41,Alt,Shigemo,0,0,0,,Yah!
-Dialogue: 0,0:11:23.20,0:11:23.75,Default,Shigemo,0,0,0,,Yah!
-Dialogue: 0,0:11:28.04,0:11:28.79,Default,Shigemo,0,0,0,,Yah!
-Dialogue: 0,0:11:30.55,0:11:31.88,Default,Shigemo,0,0,0,,Yah!
-Dialogue: 0,0:11:40.47,0:11:44.56,Default,Shigemo,0,0,0,,I do indeed excel at picking on the weak!
+Comment: 0,0:11:30.54,0:11:31.88,Default,Shigemo,0,0,0,,Hup!
+Dialogue: 0,0:11:40.47,0:11:44.56,Default,Shigemo,0,0,0,,I sure do excel at picking on the weak!
 Dialogue: 0,0:11:45.35,0:11:46.94,Default,Shigemo,0,0,0,,That's all I gotta do?
 Dialogue: 0,0:11:47.94,0:11:48.94,Default,Uraume,0,0,0,,Yes.
 Dialogue: 0,0:11:48.94,0:11:54.44,Default,Uraume,0,0,0,,Please continue patrolling the outside of the Veil \Nand hunt down any humans in suits.
@@ -191,15 +186,15 @@ Dialogue: 0,0:12:02.83,0:12:05.16,Default,Mahito,0,0,0,,So what's the deal here?
 Dialogue: 0,0:12:05.66,0:12:08.00,Default,Geto,0,0,0,,The sealing is complete.
 Dialogue: 0,0:12:08.00,0:12:13.92,Default,Geto,0,0,0,,However, the Prison Realm \Nhas yet to finish processing Gojo Satoru.
 Dialogue: 0,0:12:14.42,0:12:17.38,Default,Geto,0,0,0,,We won't be able to move it for some time.
-Dialogue: 0,0:12:27.18,0:12:28.19,Default,Geto,0,0,0,,{\pos(999,1020)}They got one over on us.
+Dialogue: 0,0:12:27.18,0:12:28.27,Default,Geto,0,0,0,,{\pos(999,1020)}They got one over on us.
 Dialogue: 0,0:12:29.69,0:12:31.56,Default,Mechamaru,0,0,0,,{\an8}Itadori, good news!
 Dialogue: 0,0:12:31.56,0:12:32.19,Default,Yuji,0,0,0,,{\an8}Yeah?
-Dialogue: 0,0:12:32.19,0:12:35.94,Default,Mechamaru,0,0,0,,{\an8}They can't move Gojo from where he was sealed on B5.
-Dialogue: 0,0:12:35.94,0:12:36.78,Default,Yuji,0,0,0,,{\an8}Why not?!
-Dialogue: 0,0:12:36.78,0:12:38.45,Default,Mechamaru,0,0,0,,{\an8}Because he is Gojo Satoru.
+Dialogue: 0,0:12:32.19,0:12:35.94,Default,Mechamaru,0,0,0,,{\an8}They can't move Gojo from where he was sealed. { on B5}
+Dialogue: 0,0:12:35.94,0:12:36.82,Default,Yuji,0,0,0,,{\an8}Why not?!
+Dialogue: 0,0:12:36.82,0:12:38.45,Default,Mechamaru,0,0,0,,{\an8}Because he is Gojo Satoru.
 Dialogue: 0,0:12:39.11,0:12:40.24,Default,Yuji,0,0,0,,Makes sense!
 Dialogue: 0,0:12:40.24,0:12:41.95,Default,Mechamaru,0,0,0,,We can surround them.
-Dialogue: 0,0:12:41.95,0:12:46.45,Default,Mechamaru,0,0,0,,Have the sorcerers follow the subway lines\N into Shibuya Station from each neighboring station.
+Dialogue: 0,0:12:41.95,0:12:46.45,Default,Mechamaru,0,0,0,,Have all sorcerers follow the subway lines\N into Shibuya Station from each neighboring station.
 Dialogue: 1,0:12:46.45,0:12:49.96,Default,Mechamaru,0,0,0,,Once the Veil keeping sorcerers out is lifted, we charge in.
 Dialogue: 0,0:12:49.96,0:12:53.92,Default,Yuji,0,0,0,,How do we tell them? I can't contact {*}Mr. Ijichi{*Ijichi-san}!
 Dialogue: 0,0:12:53.92,0:12:55.00,Default,Yuji,0,0,0,,Oh!
@@ -210,8 +205,8 @@ Dialogue: 0,0:13:13.44,0:13:15.32,Cursed,Transfigured,0,0,0,,Kill me.
 Dialogue: 0,0:13:40.38,0:13:45.01,Cursed,Transfigured,0,0,0,,D-D-D-Did you call me?
 Dialogue: 0,0:14:12.16,0:14:18.92,Default,Yuji,0,0,0,,Nanamin!
 Dialogue: 0,0:14:18.92,0:14:24.43,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Nanamin!
-Dialogue: 0,0:14:21.93,0:14:25.85,Default,Yuji,0,0,0,,Nanamin, are you here?!
-Dialogue: 0,0:14:25.85,0:14:29.52,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Nanamin, are you here?!
+Dialogue: 0,0:14:21.92,0:14:25.84,Default,Yuji,0,0,0,,Nanamin, are you here?!
+Dialogue: 0,0:14:25.84,0:14:29.52,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Nanamin, are you here?!
 Dialogue: 0,0:14:28.01,0:14:28.89,Default,Fushiguro,0,0,0,,Itadori?
 Dialogue: 0,0:14:29.52,0:14:31.18,Default,Ino,0,0,0,,N-Nanamin?
 Dialogue: 0,0:14:31.18,0:14:35.19,Default,Yuji,0,0,0,,{\alpha&H50&}{*}Mr. Gojo{*Gojo-sensei} has been sealed!
@@ -224,7 +219,7 @@ Dialogue: 0,0:14:47.91,0:14:53.33,Default,Nanami,0,0,0,,If he has indeed been se
 Dialogue: 0,0:14:54.83,0:14:58.04,Default,Mahito,0,0,0,,Crap, now they know what we're doing.
 Dialogue: 0,0:14:58.04,0:15:00.55,Default,Mahito,0,0,0,,Sorcerers will be coming here in full force now.
 Dialogue: 0,0:15:00.55,0:15:04.05,Default,Geto,0,0,0,,I'll be staying behind. What about the rest of you?
-Dialogue: 0,0:15:04.05,0:15:09.26,Default,Choso,0,0,0,,I'll avenge my brothers by killing\N Itadori Yuji and Nobara Kugisaki.
+Dialogue: 0,0:15:04.05,0:15:09.26,Default,Choso,0,0,0,,I'll avenge my brothers by killing\N Itadori Yuji and Kugisaki Nobara.
 Dialogue: 0,0:15:09.26,0:15:14.06,Default,Choso,0,0,0,,Then I'll head to Jujutsu Tech\N to retrieve the rest of my brothers.
 Dialogue: 0,0:15:14.06,0:15:17.52,Default,Jogo,0,0,0,,I don't care about this Kugisaki,\N but you can't kill Itadori.
 Dialogue: 0,0:15:17.52,0:15:18.98,Default,Jogo,0,0,0,,We're turning him into Sukuna.
@@ -234,57 +229,56 @@ Dialogue: 0,0:15:29.91,0:15:32.54,Default,Mahito,0,0,0,,Honestly, I wanna kill I
 Dialogue: 0,0:15:32.54,0:15:34.66,Default,Jogo,0,0,0,,Mahito! Explain yourself!
 Dialogue: 0,0:15:35.00,0:15:38.29,Default,Mahito,0,0,0,,After seeing Gojo Satoru in person,\Nnow that he's been sealed,
 Dialogue: 0,0:15:38.29,0:15:42.30,Default,Mahito,0,0,0,,I'd say the sorcerers and cursed spirits\N are evenly matched.
-Dialogue: 0,0:15:42.30,0:15:45.24,Default,Mahito,0,0,0,,Sukuna's resurrection gives us an \Noverwhelming advantage.
-Dialogue: 0,0:15:45.24,0:15:47.22,Default,Mahito,0,0,0,,It basically guarantees victory, right?
+Dialogue: 0,0:15:42.30,0:15:45.26,Default,Mahito,0,0,0,,Sukuna's resurrection gives us an \Noverwhelming advantage.
+Dialogue: 0,0:15:45.26,0:15:47.22,Default,Mahito,0,0,0,,It basically guarantees victory, right?
 Dialogue: 0,0:15:47.22,0:15:48.80,Default,Geto,0,0,0,,Yes, that is true.
-Dialogue: 0,0:15:48.80,0:15:53.31,Default,Mahito,0,0,0,,Well then, we're perfectly capable of winning as it stands.
+Dialogue: 0,0:15:48.80,0:15:53.31,Default,Mahito,0,0,0,,Well then, we're perfectly capable\N of winning on our own as it stands.
 Dialogue: 0,0:15:54.22,0:15:56.31,Default,Mahito,0,0,0,,Let's kill Itadori!
-Dialogue: 0,0:15:56.31,0:15:57.81,Default,Mahito,0,0,0,,It'll be fine!
-Dialogue: 0,0:15:57.81,0:16:00.98,Default,Mahito,0,0,0,,We can win even without Sukuna.
+Dialogue: 0,0:15:56.31,0:16:00.98,Default,Mahito,0,0,0,,It'll be fine! We can win even without Sukuna!
 Dialogue: 0,0:16:01.44,0:16:02.36,Default,Jogo,0,0,0,,Are you serious?
 Dialogue: 0,0:16:02.36,0:16:04.61,Default,Mahito,0,0,0,,I'm serious. Like, dead serious.
-Dialogue: 0,0:16:13.37,0:16:18.37,Default,Jogo,0,0,0,,It doesn't have to be me who gets the last laugh \Nin the dystopia centuries down the line.
-Dialogue: 0,0:16:18.37,0:16:22.38,Default,Jogo,0,0,0,,It's all well and good as long as \Ncurses emerge as the true humans.
+Dialogue: 0,0:16:13.37,0:16:18.92,Default,Jogo,0,0,0,,It doesn't have to be me who gets the last laugh \Nin the dystopia centuries down the line.
+Dialogue: 0,0:16:18.92,0:16:22.54,Default,Jogo,0,0,0,,It's all well and good as long as \Ncurses emerge as the true humans.
 Dialogue: 0,0:16:24.80,0:16:27.38,Default,Jogo,0,0,0,,Sukuna is not one of us.
-Dialogue: 0,0:16:27.38,0:16:31.89,Default,Jogo,0,0,0,,We might even be the ones in danger if he is resurrected.
+Dialogue: 0,0:16:27.38,0:16:31.89,Default,Jogo,0,0,0,,We might even be the ones in danger\N if he is resurrected.
 Dialogue: 0,0:16:31.89,0:16:36.39,Default,Jogo,0,0,0,,But if Sukuna is resurrected,\N it guarantees that the age of curses will come.
-Dialogue: 0,0:16:36.39,0:16:39.40,Default,Jogo,0,0,0,,We are not like the humans of today.
-Dialogue: 0,0:16:39.40,0:16:41.02,Default,Jogo,0,0,0,,We do not fear death.
-Dialogue: 0,0:16:41.02,0:16:43.90,Default,Jogo,0,0,0,,We follow the path to our goals without falsehoods.
-Dialogue: 0,0:16:43.90,0:16:47.90,Default,Jogo,0,0,0,,That is the essence of us curses that mere imitations lack.
+Dialogue: 0,0:16:36.39,0:16:39.39,Default,Jogo,0,0,0,,We are not like the humans of today.
+Dialogue: 0,0:16:39.39,0:16:41.02,Default,Jogo,0,0,0,,We do not fear death.
+Dialogue: 0,0:16:41.02,0:16:43.90,Default,Jogo,0,0,0,,We follow the path to our goals\N without falsehoods.
+Dialogue: 0,0:16:43.90,0:16:47.90,Default,Jogo,0,0,0,,That is the essence of us curses \Nthat mere imitations lack.
 Dialogue: 0,0:16:47.90,0:16:48.90,Default,Mahito,0,0,0,,You're wrong.
 Dialogue: 0,0:16:48.90,0:16:49.66,Default,Jogo,0,0,0,,Wha?!
 Dialogue: 0,0:16:49.66,0:16:56.16,Default,Mahito,0,0,0,,No matter how off-kilter or inconsistent,\N we always act in accordance with our true desires.
 Dialogue: 0,0:16:56.16,0:16:58.16,Default,Mahito,0,0,0,,That's what it means to be a curse.
-Dialogue: 0,0:16:58.50,0:17:02.50,Default,Mahito,0,0,0,,Oh, when I said you were wrong,\N that was in regards to the nature of us curses.
-Dialogue: 0,0:17:02.50,0:17:04.92,Default,Mahito,0,0,0,,I agree that resurrecting Sukuna \Nis a legitimate strategy.
+Dialogue: 0,0:16:58.54,0:17:02.50,Default,Mahito,0,0,0,,Oh, when I said you were wrong,\N that was about the nature of us curses.
+Dialogue: 0,0:17:02.50,0:17:04.92,Default,Mahito,0,0,0,,I agree resurrecting Sukuna is\N a legitimate strategy.
 Dialogue: 0,0:17:04.92,0:17:07.05,Default,Mahito,0,0,0,,I don't wanna fight you over it.
 Dialogue: 0,0:17:07.05,0:17:09.68,Default,Mahito,0,0,0,,So how about we play a game?
 Dialogue: 0,0:17:09.68,0:17:13.93,Default,Mahito,0,0,0,,If I run into Itadori first, I'll kill him.
-Dialogue: 0,0:17:14.39,0:17:18.69,Default,Mahito,0,0,0,,If you find him first, you can give him the fingers\N and let Sukuna regain his power.
-Dialogue: 0,0:17:18.69,0:17:21.81,Default,Choso,0,0,0,,And if I find him first, I kill him. That okay?
+Dialogue: 0,0:17:14.39,0:17:18.68,Default,Mahito,0,0,0,,If you find him first, you can give him the fingers\N and let Sukuna regain his power.
+Dialogue: 0,0:17:18.68,0:17:21.81,Default,Choso,0,0,0,,And if I find him first, I kill him. That okay?
 Dialogue: 0,0:17:21.81,0:17:22.65,Default,Jogo,0,0,0,,Hey!
 Dialogue: 0,0:17:22.65,0:17:25.15,Default,Mahiro,0,0,0,,Oh, you wanna play too, Choso?
 Dialogue: 0,0:17:25.15,0:17:26.36,Default,Mahiro,0,0,0,,Of course that's okay!
 Dialogue: 0,0:17:26.86,0:17:29.57,Default,Mahito,0,0,0,,If Geto had to pick,\N he'd probably be on Jogo's side.
 Dialogue: 0,0:17:29.57,0:17:30.95,Default,Mahito,0,0,0,,Am I right? {lit: What are you gonna do?}
-Dialogue: 0,0:17:30.95,0:17:33.95,Default,Geto,0,0,0,,I need to stay here and watch over the Prison Realm.
+Dialogue: 0,0:17:30.95,0:17:33.95,Default,Geto,0,0,0,,I need to stay here and\N watch over the Prison Realm.
 Dialogue: 0,0:17:33.95,0:17:35.87,Default,Geto,0,0,0,,I'm afraid I'll have to abstain.
 Dialogue: 0,0:17:37.45,0:17:39.50,Default,Geto,0,0,0,,You can do as you wish.
 Dialogue: 0,0:17:39.50,0:17:44.46,Default,Geto,0,0,0,,Sukuna was just an alternative to me\Nif the Prison Realm failed.
 Dialogue: 0,0:17:44.46,0:17:46.21,Default,Jogo,0,0,0,,This is ridiculous.
 Dialogue: 0,0:17:46.21,0:17:50.97,Default,Jogo,0,0,0,,All the sorcerers, including Itadori,\N will be heading this way to rescue Gojo.
 Dialogue: 0,0:17:50.97,0:17:53.09,Default,Jogo,0,0,0,,We just need to wait here.
-Dialogue: 0,0:17:53.09,0:17:54.60,Default,Jogo,0,0,0,,Not much of a game, is it?
-Dialogue: 0,0:17:53.55,0:17:54.59,Default,Mahito,0,0,0,,Ready, go!
-Dialogue: 0,0:17:54.59,0:17:55.68,Default,Mahito,0,0,0,,Ready, go!
+Dialogue: 0,0:17:53.09,0:17:54.59,Default,Jogo,0,0,0,,Not much of a game, is it?
+Dialogue: 0,0:17:53.72,0:17:54.59,Alt,Mahito,0,0,0,,Ready, go!
+Dialogue: 0,0:17:54.59,0:17:55.60,Default,Mahito,0,0,0,,Ready, go!
 Dialogue: 0,0:17:56.56,0:17:58.06,Default,Jogo,0,0,0,,Wha{\fscx180}—{\fscx}
 Dialogue: 0,0:17:58.06,0:17:59.35,Default,Jogo,0,0,0,,Wait up!
 Dialogue: 0,0:18:01.60,0:18:04.86,Default,Geto,0,0,0,,Those cursed spirits are smarter than you two.
-Dialogue: 0,0:18:05.27,0:18:06.40,Default,Nanako,0,0,0,,Give him back.
+Dialogue: 0,0:18:05.27,0:18:06.48,Default,Nanako,0,0,0,,Give him back.
 Dialogue: 0,0:18:10.86,0:18:15.78,Default,Mimiko,0,0,0,,We cooperated with you\N and kept dropping monkeys for you.
-Dialogue: 0,0:18:15.78,0:18:18.75,Default,Nanako,0,0,0,,Now give us back {*}Master Geto{*Geto-sama}'s \Nbody like you promised.
-Dialogue: 0,0:18:18.75,0:18:21.08,Default,Mimiko,0,0,0,,Don't toy with...
+Dialogue: 0,0:18:15.78,0:18:18.74,Default,Nanako,0,0,0,,Now give us back {*}Master Geto{*Geto-sama}'s \Nbody like you promised.
+Dialogue: 0,0:18:18.74,0:18:21.08,Default,Mimiko,0,0,0,,Don't toy with...
 Dialogue: 0,0:18:21.08,0:18:23.25,Default,Nanako,0,0,0,,...{*}Master Geto{*Geto-sama} any further.
 Dialogue: 0,0:18:23.58,0:18:25.96,Default,Geto,0,0,0,,Have you lost your minds?
 Dialogue: 0,0:18:25.96,0:18:29.92,Default,Geto,0,0,0,,I don't recall taking your brains out.
@@ -292,7 +286,7 @@ Dialogue: 0,0:18:29.92,0:18:35.26,Default,Geto,0,0,0,,Next time you make a deal 
 Dialogue: 0,0:18:35.26,0:18:36.35,Default,Geto,0,0,0,,Now, get lost.
 Dialogue: 0,0:18:36.35,0:18:39.22,Default,Geto,0,0,0,,Unless you want to be killed by this body.
 Dialogue: 0,0:18:42.10,0:18:43.69,Default,Nanako,0,0,0,,You'll regret this.
-Dialogue: 0,0:18:45.44,0:18:47.02,Default,Geto,0,0,0,,Regret, you say?
+Dialogue: 0,0:18:45.44,0:18:47.02,Default,Geto,0,0,0,,Regret, huh?
 Dialogue: 0,0:18:47.73,0:18:51.90,Default,Geto,0,0,0,,Let's see, what did that taste like? {I can not recall the taste of it.}
 Dialogue: 0,0:18:53.03,0:18:56.74,Default,Yuji,0,0,0,,Nanamin!
 Dialogue: 0,0:18:54.91,0:18:56.74,Default,Yuji,0,0,0,,{\alpha&H50&}Nanamin!
@@ -309,18 +303,25 @@ Dialogue: 0,0:19:01.37,0:19:01.75,Default,Yuji,0,0,0,,Na-na-na-na{\alpha&HFF&}-n
 Dialogue: 0,0:19:01.75,0:19:02.12,Default,Yuji,0,0,0,,Na-na-na-na-na{\alpha&HFF&}-na-min!
 Dialogue: 0,0:19:02.12,0:19:02.54,Default,Yuji,0,0,0,,Na-na-na-na-na-na{\alpha&HFF&}-min!
 Dialogue: 0,0:19:02.54,0:19:03.33,Default,Yuji,0,0,0,,Na-na-na-na-na-na-min!
+Dialogue: 0,0:19:03.33,0:19:03.66,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Na{\alpha&HFF&}-na-na-na-na-na-min!
+Dialogue: 0,0:19:03.66,0:19:04.04,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Na-na{\alpha&HFF&}-na-na-na-na-min!
+Dialogue: 0,0:19:04.04,0:19:04.41,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Na-na-na{\alpha&HFF&}-na-na-na-min!
+Dialogue: 0,0:19:04.41,0:19:04.79,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Na-na-na-na{\alpha&HFF&}-na-na-min!
+Dialogue: 0,0:19:04.79,0:19:05.12,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Na-na-na-na-na{\alpha&HFF&}-na-min!
+Dialogue: 0,0:19:05.12,0:19:05.46,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Na-na-na-na-na-na{\alpha&HFF&}-min!
+Dialogue: 0,0:19:05.46,0:19:06.17,Default,Yuji,0,0,0,,{\alpha&H50&\an8}Na-na-na-na-na-na-min!
 Dialogue: 0,0:19:03.33,0:19:04.16,Default,Fushiguro,0,0,0,,Hey.
 Dialogue: 0,0:19:05.25,0:19:06.54,Default,Fushiguro,0,0,0,,Behind you!
 Dialogue: 0,0:19:07.25,0:19:07.79,Default,Yuji,0,0,0,,Na-na{\fscx180}—{\fscx}
-Dialogue: 0,0:19:08.75,0:19:11.13,Default,Yuji,0,0,0,,Fushiguro! Nanamin!
-Dialogue: 0,0:19:11.13,0:19:12.26,Default,Yuji,0,0,0,,And... who?
+Dialogue: 0,0:19:08.75,0:19:11.17,Default,Yuji,0,0,0,,Fushiguro! Nanamin!
+Dialogue: 0,0:19:11.17,0:19:12.26,Default,Yuji,0,0,0,,And... who?
 Dialogue: 0,0:19:12.26,0:19:15.76,Default,Ino,0,0,0,,{\i1}He really was referring to {*}Mr. Nanami{*Nanami-san}\N with that "Nanamin," huh?
 Dialogue: 0,0:19:16.26,0:19:17.43,Default,Nanami,0,0,0,,Geto{**-san} did?
 Dialogue: 0,0:19:18.01,0:19:23.06,Default,Mechamaru,0,0,0,,The thing that's acting as Geto Suguru, to be precise.
 Dialogue: 0,0:19:23.06,0:19:26.02,Default,Mechamaru,0,0,0,,Shibuya Station is in pandemonium right now.
-Dialogue: 0,0:19:26.02,0:19:28.69,Default,Mechamaru,0,0,0,,It's overrun by those special-grades\N and weaker curses,
-Dialogue: 0,0:19:28.69,0:19:33.53,Default,Mechamaru,0,0,0,,curse users who follow Geto,\N as well as transfigured humans and civilians.
-Dialogue: 0,0:19:33.53,0:19:38.03,Default,Nanami,0,0,0,,Then attacking through the subway from\N neighboring stations does indeed make sense. {faster? faster than what? this release?}
+Dialogue: 0,0:19:26.02,0:19:30.87,Default,Mechamaru,0,0,0,,It's overrun by special-grades, weaker curses,\N and curse users who follow Geto,
+Dialogue: 0,0:19:30.87,0:19:33.53,Default,Mechamaru,0,0,0,,as well as transfigured humans and civilians.
+Dialogue: 0,0:19:33.53,0:19:38.03,Default,Nanami,0,0,0,,Then attacking through the subway \Nfrom neighboring stations does make sense. {faster? faster than what? this release?}
 Dialogue: 0,0:19:38.03,0:19:41.54,Default,Nanami,0,0,0,,But in order to do that, we need that Veil lifted.
 Dialogue: 0,0:19:41.54,0:19:43.41,Default,Mechamaru,0,0,0,,This is an emergency.
 Dialogue: 0,0:19:43.41,0:19:45.04,Default,Mechamaru,0,0,0,,We'll have to multi-task.
@@ -330,9 +331,9 @@ Dialogue: 0,0:19:51.59,0:19:55.38,Default,Nanami,0,0,0,,I'll step outside and \N
 Dialogue: 0,0:19:56.01,0:20:00.05,Default,Nanami,0,0,0,,In the meantime, I want you three to do something\N about the Veil that's keeping sorcerers out.
 Dialogue: 0,0:20:00.39,0:20:01.22,Default,Nanami,0,0,0,,Ino{**-kun}.
 Dialogue: 0,0:20:01.93,0:20:07.60,Default,Nanami,0,0,0,,Kusakabe{**-san} and the honorary first-grade Zenin\N should be inside the Veil as well.
-Dialogue: 0,0:20:07.60,0:20:12.57,Default,Nanami,0,0,0,,If you meet up with them, please explain\N the situation to them and request for their help.
-Dialogue: 0,0:20:12.57,0:20:15.53,Default,Nanami,0,0,0,,Though, they might have heard\N that shouting already.
-Dialogue: 0,0:20:15.53,0:20:16.49,Default,Ino,0,0,0,,Roger that!
+Dialogue: 0,0:20:07.60,0:20:12.57,Default,Nanami,0,0,0,,If you meet up with them, please explain\N the situation and request for their assistance.
+Dialogue: 0,0:20:12.57,0:20:15.57,Default,Nanami,0,0,0,,Though, that shouting earlier \Nmight have done the job already.
+Dialogue: 0,0:20:15.57,0:20:16.49,Default,Ino,0,0,0,,Roger that!
 Dialogue: 0,0:20:16.95,0:20:20.99,Default,Nanami,0,0,0,,And lastly, I'm leaving these two in your care. {I feel there's more to this line that "Also, please take care of these two" doesn't fully capture}
 Dialogue: 0,0:20:22.24,0:20:23.49,Default,Ino,0,0,0,,Understood!
 Dialogue: 0,0:20:26.16,0:20:27.33,Default,Yuji,0,0,0,,Ino{**-san}?
@@ -341,23 +342,23 @@ Dialogue: 0,0:20:30.71,0:20:32.25,Default,Ino,0,0,0,,You guys!
 Dialogue: 0,0:20:32.75,0:20:35.88,Default,Ino,0,0,0,,Before we start the mission,\N let me make it clear how important this is.
 Dialogue: 0,0:20:35.88,0:20:39.51,Default,Ino,0,0,0,,Starting with the two main issues with losing {*}Mr. Gojo{*Gojo-san}:
 Dialogue: 0,0:20:40.09,0:20:42.72,Default,Ino,0,0,0,,First is the collapse of the Gojo clan.
-Dialogue: 0,0:20:42.72,0:20:45.27,Default,Ino,0,0,0,,The Gojo clan is a one-man team of Gojo Satoru himself.
-Dialogue: 0,0:20:45.27,0:20:50.52,Default,Ino,0,0,0,,His whims and influence have saved many a sorcerer!
-Dialogue: 0,0:20:50.73,0:20:53.53,Default,Ino,0,0,0,,Itadori, you're one of those he saved, right?
-Dialogue: 0,0:20:53.53,0:20:54.19,Default,Yuji,0,0,0,,Oh, yeah!
-Dialogue: 0,0:20:54.19,0:20:55.40,Default,Ino,0,0,0,,So casual about it!
+Dialogue: 0,0:20:42.72,0:20:45.27,Default,Ino,0,0,0,,The Gojo clan is a one-man team\N of Gojo Satoru himself.
+Dialogue: 0,0:20:45.27,0:20:50.52,Default,Ino,0,0,0,,His whims and influence have saved many a sorcerer! {i swear i wrote a comment about the wordplay here but now i can't find it}
+Dialogue: 0,0:20:50.73,0:20:53.52,Default,Ino,0,0,0,,Itadori, you're one of them, right?
+Dialogue: 0,0:20:53.52,0:20:54.19,Default,Yuji,0,0,0,,Oh, yeah!
+Dialogue: 0,0:20:54.19,0:20:55.40,Default,Ino,0,0,0,,Take this seriously!
 Dialogue: 0,0:20:56.03,0:21:01.16,Default,Ino,0,0,0,,All those people are going to find themselves in trouble,\N and in the worst case, executed!
 Dialogue: 0,0:21:01.49,0:21:05.29,Default,Ino,0,0,0,,The second issue is the \Ncollapse of the power balance.
-Dialogue: 0,0:21:05.74,0:21:11.42,Default,Ino,0,0,0,,Those{cursed spirits and curse users} who have remained in the shadows\N because of Gojo Satoru will being to make their move.
-Dialogue: 0,0:21:11.83,0:21:14.21,Default,Ino,0,0,0,,If those guys from issue two\N try to start a war
-Dialogue: 0,0:21:14.21,0:21:17.42,Default,Ino,0,0,0,,while society's in disarray from\N fighting over issue one,
+Dialogue: 0,0:21:05.74,0:21:11.42,Default,Ino,0,0,0,,Those{cursed spirits and curse users} who have remained in the shadows\N because of Gojo Satoru will begin to make their move.
+Dialogue: 0,0:21:11.83,0:21:14.48,Default,Ino,0,0,0,,If society is in disarray over the first issue
+Dialogue: 0,0:21:14.48,0:21:17.42,Default,Ino,0,0,0,,and those guys from the second\N try to start a war,
 Dialogue: 0,0:21:17.42,0:21:18.42,Default,Ino,0,0,0,,we will lose.
 Dialogue: 0,0:21:19.09,0:21:21.18,Default,Ino,0,0,0,,That's the future as {*}Mr. Nanami{*Nanami-san} and I see it.
 Dialogue: 0,0:21:21.18,0:21:22.93,Default,Ino,0,0,0,,And what do you think happens if we lose?
 Dialogue: 0,0:21:22.93,0:21:27.68,Default,Fushiguro,0,0,0,,At the very least, the age of humans\N would be over in Japan.
-Dialogue: 0,0:21:28.06,0:21:29.69,Default,Ino,0,0,0,,I see you get the idea.
+Dialogue: 0,0:21:28.06,0:21:29.68,Default,Ino,0,0,0,,I see you get the idea.
 Dialogue: 0,0:21:30.44,0:21:32.19,Default,Ino,0,0,0,,Let's get going, boys!
-Dialogue: 0,0:21:32.48,0:21:36.11,Default,Ino,0,0,0,,We'll break that Veil before {*}Mr. Nanami{*Nanami-san} gets back!
+Dialogue: 0,0:21:32.48,0:21:36.11,Default,Ino,0,0,0,,By the time {*}Mr. Nanami{*Nanami-san} gets back,\N that Veil will be destroyed!
 Dialogue: 0,0:21:36.94,0:21:39.95,Default,Ino,0,0,0,,Let's rescue Gojo Satoru!
 Comment: 0,0:21:39.95,0:21:39.99,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:09.91,0:23:09.95,Default,chptr,0,0,0,,{Part C}
@@ -368,12 +369,12 @@ Dialogue: 0,0:23:19.96,0:23:22.30,Default,Awasaka,0,0,0,,Isn't that a good thing
 Dialogue: 0,0:23:22.30,0:23:24.84,Default,Awasaka,0,0,0,,It's finally starting to feel real to me.
 Dialogue: 0,0:23:25.30,0:23:28.47,Default,Awasaka,0,0,0,,Gojo Satoru really has been sealed, huh?
 Dialogue: 0,0:23:29.01,0:23:30.85,Default,Awasaka,0,0,0,,I'm giddy with anticipation.
-Dialogue: 0,0:23:31.47,0:23:34.85,Default,Awasaka,0,0,0,,I wonder what's gonna happen to this country now.
-Dialogue: 0,0:23:35.52,0:23:39.86,Default,Ogami,0,0,0,,People will curse, be cursed, and die, same as always.
+Dialogue: 0,0:23:31.47,0:23:34.85,Default,Awasaka,0,0,0,,What do you think is gonna happen\N to this country now?
+Dialogue: 0,0:23:35.52,0:23:39.86,Default,Ogami,0,0,0,,People will curse, be cursed, and die,\N same as always.
 Comment: 0,0:23:39.86,0:23:39.90,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.15,0:23:42.11,Default,Jogo,0,0,0,,{\an8}Oh dear, have you heard the news? {prolly remove the dear}
+Dialogue: 0,0:23:40.32,0:23:42.11,Default,Jogo,0,0,0,,{\an8}Oh dear, have you heard the news? {prolly remove the dear}{nah it's correct, but removed the geto one}
 Dialogue: 0,0:23:42.11,0:23:45.28,Default,Jogo,0,0,0,,{\an8}They said the Gojos' little Satoru{**-kun} was sealed!
 Dialogue: 0,0:23:45.28,0:23:47.70,Default,Mahito,0,0,0,,{\an8}Oh, my! I knew that boy\N would be in trouble one day!
-Dialogue: 0,0:23:47.70,0:23:51.08,Default,Mahito,0,0,0,,{\an8}Always flaunting his figure like\N he was nothing but leg below his nipples!
-Dialogue: 0,0:23:51.08,0:23:52.24,Default,Jogo,0,0,0,,{\an8}Next time, Seance!
-Dialogue: 0,0:23:52.24,0:23:54.87,Default,Mahito,0,0,0,,{\an8}Oh, {*}Geto dear{*Geto-san}, have you heard the news? The Gojos' little{\fscx180}—{\fscx}
+Dialogue: 0,0:23:47.70,0:23:50.99,Default,Mahito,0,0,0,,{\an8}Always flaunting his figure like\N he's nothing but leg below his nipples!
+Dialogue: 0,0:23:50.99,0:23:52.24,Default,Jogo,0,0,0,,{\an8}Next time, Seance!
+Dialogue: 0,0:23:52.24,0:23:54.87,Default,Mahito,0,0,0,,{\an8}Hey, Geto{**-san}, have you heard the news?\N The Gojos' little{\fscx180}—{\fscx}
