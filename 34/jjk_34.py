@@ -19,7 +19,7 @@ SRC = src.replace('common/ED4.mkv', repl_start=2137, main_start=ED+2137, duratio
 
 flt = Filter(
     SRC,
-    NO_AA_RANGES = [(ED, ED+2157), (17268, 17752), (17891, 17939)],
+    NO_AA_RANGES = [(ED, ED+2157), (219, 287), (17268, 17752), (17891, 17939)],
     NO_RESCALE_RANGES = [(ED+1973, ED+2134)],
     NO_DENOISE_RANGES = [(ED+1973, ED+2134), (OP, OP+2157)],
     STRONG_DEBAND_RANGES = [(ED+1522, ED+1535), (ED+1552, ED+1567), (ED+1598, ED+1612), (ED+2137, ED+2157)],
