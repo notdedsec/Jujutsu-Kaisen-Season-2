@@ -20,9 +20,9 @@ Audio File: jjk_35_premux.mkv
 Video File: jjk_35_premux.mkv
 Keyframes File: jjk_35_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 10
-Video Position: 15826
+Video Zoom Percent: 0.625000
+Active Line: 11
+Video Position: 13769
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,23 +30,160 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:04:42.01,0:04:45.01,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 35\N{\fs70}Seance
 Comment: 0,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{=0}Cerulean Tower
 Dialogue: 1,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{\an7\fscx24\fscy80\pos(156.48,226.86)\p1}m 677 880 l 1888 880 1888 999 677 999 677 900
 Dialogue: 1,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{\an7\fscx70\fscy80\pos(189,227.26)\p1}m 677 880 l 2020 880 2020 999 677 999 677 900
 Dialogue: 3,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs80\c&H000000&\pos(382.8,1020)\b1}22:01
 Dialogue: 3,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs80\c&H000000&\pos(766.4,1019.4)\b1}Cerulean Tower, Shibuya
 Dialogue: 0,0:01:49.46,0:01:52.97,Signs,Screen,0,0,0,,{=1}
-Dialogue: 0,0:04:42.00,0:04:45.00,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 35\N{\fs70}Seance
-Comment: 0,0:02:29.27,0:02:31.48,Signs,Screen,0,0,0,,{\fad(208,0)\pos(92,36)\fs18\bord1\shad0\c&H716DA4&\3c&HF3E5EE&}These are great.
-Comment: 0,0:09:34.21,0:09:35.71,Signs,Screen,0,0,0,,{\fad(250,0)\frz282.5\pos(76.666,183.333)\fnComic Sans MS\c&H1D1618&\3c&HF4F8FA&\bord1}No comment.
-Comment: 0,0:20:16.07,0:20:17.02,Signs,Screen,0,0,0,,{\fad(175,250)\fnComic Sans MS\c&H000000&\3c&HFFFFFF&\shad0\bord1\pos(77.333,82)}True.
+Comment: 0,0:02:29.25,0:02:31.46,Signs,Screen,0,0,0,,{=14}These are quite handy
+Dialogue: 0,0:02:29.25,0:02:31.46,Signs,Screen,0,0,0,,{\fade(200,0)\blur0.6\bord2.8\fnHuiFont\fs35\c&HA089EC&\3c&HE7E7E8&\alpha&H00&\pos(607.95,530.84)\frz14.45}These are quite handy
+Dialogue: 1,0:02:29.25,0:02:31.46,Signs,Screen,0,0,0,,{\fade(200,0)\be3\bord0\fnHuiFont\fs35\c&H8268D7&\alpha&H00&\4a&HFF&\pos(607.95,530.84)\frz14.45}These are quite handy
+Comment: 0,0:02:29.25,0:02:31.46,Signs,Screen,0,0,0,,{=15}
+Comment: 0,0:09:34.26,0:09:35.72,Signs,Screen,0,0,0,,{=6}No comment
+Dialogue: 0,0:09:34.26,0:09:34.30,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&HEE&\pos(257.97,796.76)\frz15.48}No comment
+Dialogue: 0,0:09:34.30,0:09:34.35,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&HEB&\pos(257.1,796.06)\frz15.48}No comment
+Dialogue: 0,0:09:34.35,0:09:34.39,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&HD6&\pos(256.42,795.71)\frz15.48}No comment
+Dialogue: 0,0:09:34.39,0:09:34.43,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&HC2&\pos(255.73,795.29)\frz15.48}No comment
+Dialogue: 0,0:09:34.43,0:09:34.47,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&HAD&\pos(255.02,794.82)\frz15.48}No comment
+Dialogue: 0,0:09:34.47,0:09:34.51,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H94&\pos(254.28,794.4)\frz15.48}No comment
+Dialogue: 0,0:09:34.51,0:09:34.55,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H80&\pos(253.61,794.05)\frz15.48}No comment
+Dialogue: 0,0:09:34.55,0:09:34.60,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H6B&\pos(252.82,793.54)\frz15.48}No comment
+Dialogue: 0,0:09:34.60,0:09:34.64,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H57&\pos(252.21,793.18)\frz15.48}No comment
+Dialogue: 0,0:09:34.64,0:09:34.68,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H42&\pos(251.5,792.78)\frz15.48}No comment
+Dialogue: 0,0:09:34.68,0:09:34.72,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H2E&\pos(250.76,792.29)\frz15.48}No comment
+Dialogue: 0,0:09:34.72,0:09:34.76,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H14&\pos(250.07,791.9)\frz15.48}No comment
+Dialogue: 0,0:09:34.76,0:09:34.80,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(249.21,791.48)\frz15.48}No comment
+Dialogue: 0,0:09:34.80,0:09:34.85,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(248.41,791.01)\frz15.48}No comment
+Dialogue: 0,0:09:34.85,0:09:34.89,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(247.68,790.6)\frz15.48}No comment
+Dialogue: 0,0:09:34.89,0:09:34.93,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(246.9,790.23)\frz15.48}No comment
+Dialogue: 0,0:09:34.93,0:09:34.97,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(246.15,789.75)\frz15.48}No comment
+Dialogue: 0,0:09:34.97,0:09:35.01,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(245.36,789.35)\frz15.48}No comment
+Dialogue: 0,0:09:35.01,0:09:35.05,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(244.59,788.96)\frz15.48}No comment
+Dialogue: 0,0:09:35.05,0:09:35.10,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(243.84,788.47)\frz15.48}No comment
+Dialogue: 0,0:09:35.10,0:09:35.14,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(242.99,788.07)\frz15.48}No comment
+Dialogue: 0,0:09:35.14,0:09:35.18,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(242.26,787.65)\frz15.48}No comment
+Dialogue: 0,0:09:35.18,0:09:35.22,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(241.49,787.17)\frz15.48}No comment
+Dialogue: 0,0:09:35.22,0:09:35.26,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(240.74,786.78)\frz15.48}No comment
+Dialogue: 0,0:09:35.26,0:09:35.30,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(239.97,786.38)\frz15.48}No comment
+Dialogue: 0,0:09:35.30,0:09:35.35,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(239.06,785.89)\frz15.48}No comment
+Dialogue: 0,0:09:35.35,0:09:35.39,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(238.4,785.51)\frz15.48}No comment
+Dialogue: 0,0:09:35.39,0:09:35.43,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(237.66,785.14)\frz15.48}No comment
+Dialogue: 0,0:09:35.43,0:09:35.47,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(236.81,784.65)\frz15.48}No comment
+Dialogue: 0,0:09:35.47,0:09:35.51,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(236.12,784.24)\frz15.48}No comment
+Dialogue: 0,0:09:35.51,0:09:35.55,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(235.27,783.84)\frz15.48}No comment
+Dialogue: 0,0:09:35.55,0:09:35.60,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(234.51,783.36)\frz15.48}No comment
+Dialogue: 0,0:09:35.60,0:09:35.64,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(233.75,782.96)\frz15.48}No comment
+Dialogue: 0,0:09:35.64,0:09:35.68,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(232.93,782.53)\frz15.48}No comment
+Dialogue: 0,0:09:35.68,0:09:35.72,Signs,Screen,0,0,0,,{=5}{\blur0.64\bord2.6\fnBarthowheel\fs44\c&HEDEEED&\3c&HEDEEED&\alpha&H00&\pos(232.21,782.07)\frz15.48}No comment
+Dialogue: 1,0:09:34.26,0:09:34.30,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&HFF&\4a&HEE&\pos(257.97,796.76)\frz15.48}No comment
+Dialogue: 1,0:09:34.30,0:09:34.35,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&HE3&\4a&HFF&\pos(257.1,796.06)\frz15.48}No comment
+Dialogue: 1,0:09:34.35,0:09:34.39,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&HC6&\4a&HFF&\pos(256.42,795.71)\frz15.48}No comment
+Dialogue: 1,0:09:34.39,0:09:34.43,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&HAA&\4a&HFF&\pos(255.73,795.29)\frz15.48}No comment
+Dialogue: 1,0:09:34.43,0:09:34.47,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H8E&\4a&HFF&\pos(255.02,794.82)\frz15.48}No comment
+Dialogue: 1,0:09:34.47,0:09:34.51,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H6A&\4a&HFF&\pos(254.28,794.4)\frz15.48}No comment
+Dialogue: 1,0:09:34.51,0:09:34.55,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H4E&\4a&HFF&\pos(253.61,794.05)\frz15.48}No comment
+Dialogue: 1,0:09:34.55,0:09:34.60,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H32&\4a&HFF&\pos(252.82,793.54)\frz15.48}No comment
+Dialogue: 1,0:09:34.60,0:09:34.64,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H15&\4a&HFF&\pos(252.21,793.18)\frz15.48}No comment
+Dialogue: 1,0:09:34.64,0:09:34.68,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(251.5,792.78)\frz15.48}No comment
+Dialogue: 1,0:09:34.68,0:09:34.72,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(250.76,792.29)\frz15.48}No comment
+Dialogue: 1,0:09:34.72,0:09:34.76,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(250.07,791.9)\frz15.48}No comment
+Dialogue: 1,0:09:34.76,0:09:34.80,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(249.21,791.48)\frz15.48}No comment
+Dialogue: 1,0:09:34.80,0:09:34.85,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(248.41,791.01)\frz15.48}No comment
+Dialogue: 1,0:09:34.85,0:09:34.89,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(247.68,790.6)\frz15.48}No comment
+Dialogue: 1,0:09:34.89,0:09:34.93,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(246.9,790.23)\frz15.48}No comment
+Dialogue: 1,0:09:34.93,0:09:34.97,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(246.15,789.75)\frz15.48}No comment
+Dialogue: 1,0:09:34.97,0:09:35.01,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(245.36,789.35)\frz15.48}No comment
+Dialogue: 1,0:09:35.01,0:09:35.05,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(244.59,788.96)\frz15.48}No comment
+Dialogue: 1,0:09:35.05,0:09:35.10,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(243.84,788.47)\frz15.48}No comment
+Dialogue: 1,0:09:35.10,0:09:35.14,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(242.99,788.07)\frz15.48}No comment
+Dialogue: 1,0:09:35.14,0:09:35.18,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(242.26,787.65)\frz15.48}No comment
+Dialogue: 1,0:09:35.18,0:09:35.22,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(241.49,787.17)\frz15.48}No comment
+Dialogue: 1,0:09:35.22,0:09:35.26,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(240.74,786.78)\frz15.48}No comment
+Dialogue: 1,0:09:35.26,0:09:35.30,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(239.97,786.38)\frz15.48}No comment
+Dialogue: 1,0:09:35.30,0:09:35.35,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(239.06,785.89)\frz15.48}No comment
+Dialogue: 1,0:09:35.35,0:09:35.39,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(238.4,785.51)\frz15.48}No comment
+Dialogue: 1,0:09:35.39,0:09:35.43,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(237.66,785.14)\frz15.48}No comment
+Dialogue: 1,0:09:35.43,0:09:35.47,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(236.81,784.65)\frz15.48}No comment
+Dialogue: 1,0:09:35.47,0:09:35.51,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(236.12,784.24)\frz15.48}No comment
+Dialogue: 1,0:09:35.51,0:09:35.55,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(235.27,783.84)\frz15.48}No comment
+Dialogue: 1,0:09:35.55,0:09:35.60,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(234.51,783.36)\frz15.48}No comment
+Dialogue: 1,0:09:35.60,0:09:35.64,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(233.75,782.96)\frz15.48}No comment
+Dialogue: 1,0:09:35.64,0:09:35.68,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(232.93,782.53)\frz15.48}No comment
+Dialogue: 1,0:09:35.68,0:09:35.72,Signs,Screen,0,0,0,,{=4}{\blur0.69\bord0\fnBarthowheel\fs44\c&H282C29&\alpha&H00&\4a&HFF&\pos(232.21,782.07)\frz15.48}No comment
+Comment: 1,0:09:34.26,0:09:35.72,Signs,Screen,0,0,0,,{=7}
+Comment: 0,0:20:16.03,0:20:17.03,Signs,Screen,0,0,0,,{=12}True
+Dialogue: 0,0:20:16.03,0:20:16.07,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&HCC&\pos(290.97,499.09)\frz22.11}True
+Dialogue: 0,0:20:16.07,0:20:16.11,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&HC0&\pos(290.59,499.08)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.11,0:20:16.15,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H8C&\pos(290.35,499.09)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.15,0:20:16.19,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H59&\pos(290.13,499.09)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.19,0:20:16.24,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H26&\pos(289.87,499.08)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.24,0:20:16.28,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(289.53,499.08)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.28,0:20:16.32,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(289.25,499.09)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.32,0:20:16.36,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(289,499.09)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.36,0:20:16.40,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(288.78,499.09)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.40,0:20:16.45,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(288.52,499.09)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.45,0:20:16.49,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(288.24,499.09)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.49,0:20:16.53,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(287.95,499.1)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.53,0:20:16.57,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(287.68,499.1)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.57,0:20:16.61,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(287.45,499.1)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.61,0:20:16.65,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(287.21,499.1)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.65,0:20:16.70,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(286.9,499.1)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.70,0:20:16.74,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(286.59,499.1)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.74,0:20:16.78,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(286.36,499.1)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.78,0:20:16.82,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H00&\pos(286.15,499.1)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.82,0:20:16.86,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H33&\pos(285.89,499.09)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.86,0:20:16.90,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H66&\pos(285.55,499.1)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.90,0:20:16.95,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&H99&\pos(285.31,499.11)\frz22.11\1a&HCC&}True
+Dialogue: 0,0:20:16.95,0:20:16.99,Signs,Screen,0,0,0,,{=11}{\blur0.55\bord1.5\fnHuiFont\fs44\c&H2D2E36&\3c&HFFFFFF&\alpha&HCC&\pos(285.09,499.12)\frz22.11}True
+Dialogue: 1,0:20:16.03,0:20:16.07,Signs,Screen,0,0,0,,{=10}{\be4\bord0\fnHuiFont\fs44\c&H11110C&\alpha&HFF&\4a&HFF&\pos(290.97,499.09)\frz22.11}True
+Dialogue: 1,0:20:16.07,0:20:16.11,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&HCC&\4a&HFF&\pos(290.59,499.08)\frz22.11}True
+Dialogue: 1,0:20:16.11,0:20:16.15,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H8C&\4a&HFF&\pos(290.35,499.09)\frz22.11}True
+Dialogue: 1,0:20:16.15,0:20:16.19,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H59&\4a&HFF&\pos(290.13,499.09)\frz22.11}True
+Dialogue: 1,0:20:16.19,0:20:16.24,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H26&\4a&HFF&\pos(289.87,499.08)\frz22.11}True
+Dialogue: 1,0:20:16.24,0:20:16.28,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(289.53,499.08)\frz22.11}True
+Dialogue: 1,0:20:16.28,0:20:16.32,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(289.25,499.09)\frz22.11}True
+Dialogue: 1,0:20:16.32,0:20:16.36,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(289,499.09)\frz22.11}True
+Dialogue: 1,0:20:16.36,0:20:16.40,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(288.78,499.09)\frz22.11}True
+Dialogue: 1,0:20:16.40,0:20:16.45,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(288.52,499.09)\frz22.11}True
+Dialogue: 1,0:20:16.45,0:20:16.49,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(288.24,499.09)\frz22.11}True
+Dialogue: 1,0:20:16.49,0:20:16.53,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(287.95,499.1)\frz22.11}True
+Dialogue: 1,0:20:16.53,0:20:16.57,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(287.68,499.1)\frz22.11}True
+Dialogue: 1,0:20:16.57,0:20:16.61,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(287.45,499.1)\frz22.11}True
+Dialogue: 1,0:20:16.61,0:20:16.65,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(287.21,499.1)\frz22.11}True
+Dialogue: 1,0:20:16.65,0:20:16.70,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(286.9,499.1)\frz22.11}True
+Dialogue: 1,0:20:16.70,0:20:16.74,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(286.59,499.1)\frz22.11}True
+Dialogue: 1,0:20:16.74,0:20:16.78,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(286.36,499.1)\frz22.11}True
+Dialogue: 1,0:20:16.78,0:20:16.82,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H00&\4a&HFF&\pos(286.15,499.1)\frz22.11}True
+Dialogue: 1,0:20:16.82,0:20:16.86,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H33&\4a&HFF&\pos(285.89,499.09)\frz22.11}True
+Dialogue: 1,0:20:16.86,0:20:16.90,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H66&\4a&HFF&\pos(285.55,499.1)\frz22.11}True
+Dialogue: 1,0:20:16.90,0:20:16.95,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&H99&\4a&HFF&\pos(285.31,499.11)\frz22.11}True
+Dialogue: 1,0:20:16.95,0:20:16.99,Signs,Screen,0,0,0,,{=10}{\be3\bord0\fnHuiFont\fs44\c&H11110C&\alpha&HCC&\4a&HFF&\pos(285.09,499.12)\frz22.11}True
+Comment: 0,0:20:16.03,0:20:17.03,Signs,Screen,0,0,0,,{=13}
 Dialogue: 0,0:11:00.06,0:11:03.06,Signs,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
 Dialogue: 1,0:11:00.06,0:11:03.06,Signs,,0,0,0,,{\pos(960,536)\fnRagnar\fs128\fscx110\blur0.5}December 7th, 1989
 Dialogue: 0,0:11:10.82,0:11:13.82,Signs,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
 Dialogue: 1,0:11:10.82,0:11:13.82,Signs,,0,0,0,,{\pos(960,536)\fnRagnar\fs110\fscx110\blur0.5}Gojo Satoru Is Born
-Dialogue: 0,0:23:51.36,0:23:55.00,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Dull Blade
-Dialogue: 1,0:23:51.36,0:23:55.00,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Dull Blade
+Dialogue: 0,0:23:51.37,0:23:55.00,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Dull Blade
+Dialogue: 1,0:23:51.37,0:23:55.00,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Dull Blade
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1
 Data: 1,_aegi_folddata,e1;1;1
+Data: 4,a-mo,e{"uuid"#3A"a2c370b4-cee3-44ae-b432-e9a618b5d96e"#2C"originalText"#3A"{\\fade(360#2C0)\\blur0.64\\bord0\\fnBarthowheel\\fs44\\c&H282C29&\\alpha&H00&\\4a&HFF&\\pos(255.97#2C796.76)\\frz13.27}No comment."}
+Data: 5,a-mo,e{"uuid"#3A"61190de6-8da4-49ec-a69b-53080f30b06b"#2C"originalText"#3A"{\\fade(500#2C0)\\blur0.64\\bord2.5\\fnBarthowheel\\fs44\\c&HFFFFFF&\\3c&HFFFFFF&\\alpha&H00&\\pos(255.97#2C796.76)\\frz13.27}No comment."}
+Data: 6,_aegi_folddata,e0;1;2
+Data: 7,_aegi_folddata,e1;1;2
+Data: 10,a-mo,e{"uuid"#3A"1c507ee1-46dc-44b5-8651-bc8383d9daac"#2C"originalText"#3A"{\\fade(200#2C200)\\blur0.69\\bord0\\fnHuiFont\\fs44\\c&H11110C&\\alpha&H00&\\4a&HFF&\\pos(290.97#2C499.09)\\frz22.11}True"}
+Data: 11,a-mo,e{"uuid"#3A"c8576786-6068-453a-9201-7b3e3fbd6cb4"#2C"originalText"#3A"{\\fade(200#2C200)\\blur0.50\\bord1.4\\fnHuiFont\\fs44\\c&H15140E&\\3c&HFFFFFF&\\alpha&H00&\\pos(290.97#2C499.09)\\frz22.11}True"}
+Data: 12,_aegi_folddata,e0;1;3
+Data: 13,_aegi_folddata,e1;1;3
+Data: 14,_aegi_folddata,e0;1;4
+Data: 15,_aegi_folddata,e1;1;4
+Data: 20,_aegi_folddata,e0;0;3
+Data: 21,_aegi_folddata,e1;0;3
+Data: 24,_aegi_folddata,e0;0;4
+Data: 25,_aegi_folddata,e1;0;4
+Data: 26,_aegi_folddata,e0;0;2
+Data: 27,_aegi_folddata,e1;0;2
