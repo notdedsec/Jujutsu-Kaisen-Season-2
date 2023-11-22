@@ -1,11 +1,11 @@
 import os
-from typing import List, Tuple
+from typing import List, Tuple, Optional
 
 from vsscale import SSIM
 from vskernels import BicubicDidee
 from vsrgtools import lehmer_diff_merge
 from vstools import initialize_clip, replace_ranges, core
-from vardautomation import FileInfo, VPath, Preset, PresetType, PresetEAC3, PresetAAC
+from vardautomation import FileInfo, VPath, Preset, PresetType, PresetBD, PresetEAC3, PresetAAC
 
 
 PresetWEB = Preset(
@@ -21,12 +21,50 @@ PresetWEB = Preset(
 class Source:
 
     ROOT = VPath(os.path.dirname(__file__)).parent
+    BDMV = ROOT / 'BDMV'
     FILE = None
 
+    VOLUME = {
+        1: BDMV / 'JUJUTSUKAISEN_SEASON2_1',
+        2: BDMV / 'JUJUTSUKAISEN_SEASON2_2',
+        3: BDMV / 'JUJUTSUKAISEN_SEASON2_3',
+        4: BDMV / 'JUJUTSUKAISEN_SEASON2_4',
+        5: BDMV / 'JUJUTSUKAISEN_SEASON2_5',
+        6: BDMV / 'JUJUTSUKAISEN_SEASON2_6',
+        7: BDMV / 'JUJUTSUKAISEN_SEASON2_7',
+        8: BDMV / 'JUJUTSUKAISEN_SEASON2_8',
+    }
 
-    def __init__(self, episode: int):
+    EPISODE = {
+        25: VOLUME[1] / 'BDMV/STREAM/00002.m2ts',
+        26: VOLUME[1] / 'BDMV/STREAM/00003.m2ts',
+        27: VOLUME[1] / 'BDMV/STREAM/00004.m2ts',
+        28: VOLUME[2] / 'BDMV/STREAM/00002.m2ts',
+        29: VOLUME[2] / 'BDMV/STREAM/00003.m2ts',
+    }
+
+    BONUS = {
+        'NCOP3': VOLUME[1] / 'BDMV/STREAM/00005.m2ts',
+        'NCED3': VOLUME[1] / 'BDMV/STREAM/00010.m2ts',
+    }
+
+
+    def __init__(self, episode: Optional[int] = None, bouns: Optional[str] = None):
+        assert episode or bouns
+
         self.episode = episode
         self.sources = self.ROOT / str(episode) / 'sources'
+
+        if bouns in self.BONUS and self.BONUS[bouns].exists():
+            self.FILE = FileInfo(self.BONUS[bouns], preset=[PresetBD, PresetAAC])
+
+        if episode in self.EPISODE and self.EPISODE[episode].exists():
+            self.FILE = FileInfo(self.EPISODE[episode], preset=[PresetBD, PresetAAC])
+
+
+    def get_file(self):
+        assert self.FILE
+        return self.FILE
 
 
     def get_source(self, pattern):
