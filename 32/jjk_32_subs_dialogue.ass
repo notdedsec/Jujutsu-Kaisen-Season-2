@@ -171,16 +171,16 @@ Dialogue: 0,0:10:28.23,0:10:29.98,Default,Yuji,0,0,0,,Uh, you're a grasshopper c
 Dialogue: 0,0:10:39.91,0:10:42.08,Cursed,Ko-guy,0,0,0,,{\i1}This guy...{\alpha&HFF&} is smart!
 Dialogue: 0,0:10:42.08,0:10:44.04,Cursed,Ko-guy,0,0,0,,{\i1}This guy... is smart!
 Comment: 0,0:10:49.05,0:10:49.09,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:10:54.05,0:10:55.51,Default,Narration,0,0,0,,Locust plague.
-Dialogue: 0,0:10:55.84,0:10:59.72,Default,Narration,0,0,0,,A large-scale disaster arising from an outbreak of locusts.
-Dialogue: 0,0:11:00.22,0:11:07.27,Default,Narration,0,0,0,,They consume not just crops,\N but paper, clothes, huts, and anything plant-based.
-Dialogue: 0,0:11:07.77,0:11:12.65,Default,Narration,0,0,0,,A fully-grown locust eats\N its own weight in food in a single day.
-Dialogue: 0,0:11:12.65,0:11:19.87,Default,Narration,0,0,0,,A swarm of locusts weighing a ton will consume\N 2,500 people's worth of food each day.
-Dialogue: 0,0:11:20.20,0:11:23.37,Default,Narration,0,0,0,,Grotesque mastication sounds echo unrelentingly.
-Dialogue: 0,0:11:23.37,0:11:25.87,Default,Narration,0,0,0,,Once the swarm has passed,
-Dialogue: 0,0:11:25.87,0:11:30.17,Default,Narration,0,0,0,,what remains is a wasteland\N covered in black mucus excreted by the locusts,
-Dialogue: 0,0:11:30.17,0:11:33.59,Default,Narration,0,0,0,,creating a sight that is far from tranquil.
-Dialogue: 0,0:11:34.38,0:11:40.60,Default,Narration,0,0,0,,Mankind has long feared,\N hated, and cursed such demonic pests.
+Dialogue: 0,0:10:54.05,0:10:55.51,Default,Narrator,0,0,0,,Locust plague.
+Dialogue: 0,0:10:55.84,0:10:59.72,Default,Narrator,0,0,0,,A large-scale disaster arising from an outbreak of locusts.
+Dialogue: 0,0:11:00.22,0:11:07.27,Default,Narrator,0,0,0,,They consume not just crops,\N but paper, clothes, huts, and anything plant-based.
+Dialogue: 0,0:11:07.77,0:11:12.65,Default,Narrator,0,0,0,,A fully-grown locust eats\N its own weight in food in a single day.
+Dialogue: 0,0:11:12.65,0:11:19.87,Default,Narrator,0,0,0,,A swarm of locusts weighing a ton will consume\N 2,500 people's worth of food each day.
+Dialogue: 0,0:11:20.20,0:11:23.37,Default,Narrator,0,0,0,,Grotesque mastication sounds echo unrelentingly.
+Dialogue: 0,0:11:23.37,0:11:25.87,Default,Narrator,0,0,0,,Once the swarm has passed,
+Dialogue: 0,0:11:25.87,0:11:30.17,Default,Narrator,0,0,0,,what remains is a wasteland\N covered in black mucus excreted by the locusts,
+Dialogue: 0,0:11:30.17,0:11:33.59,Default,Narrator,0,0,0,,creating a sight that is far from tranquil.
+Dialogue: 0,0:11:34.38,0:11:40.60,Default,Narrator,0,0,0,,Mankind has long feared,\N hated, and cursed such demonic pests.
 Dialogue: 0,0:11:46.69,0:11:48.98,Default,Yuji,0,0,0,,{\i1}It jumps around quick and bites down hard.
 Dialogue: 0,0:11:48.98,0:11:52.61,Default,Yuji,0,0,0,,{\i1}The fact that it can communicate\N means it's not your average curse.
 Dialogue: 0,0:12:39.45,0:12:41.37,Cursed,Ko-guy,0,0,0,,You just keep running away...
@@ -198,15 +198,15 @@ Dialogue: 0,0:13:53.56,0:13:59.28,Cursed,Ko-guy,0,0,0,,{\i1}My arms, jaw, and ey
 Dialogue: 0,0:13:59.28,0:14:01.40,Cursed,Ko-guy,0,0,0,,{\i1}So why? {why is the ghosting so bad im crying}
 Dialogue: 0,0:14:07.87,0:14:11.83,Cursed,Ko-guy,0,0,0,,{\i1}Why am I the only one getting hit?
 Dialogue: 0,0:14:34.10,0:14:36.94,Cursed,Ko-guy,0,0,0,,Still, I am the smarter one!
-Dialogue: 0,0:14:37.40,0:14:40.07,Default,Narration,0,0,0,,Locusts lay their eggs underground.
-Dialogue: 0,0:14:40.07,0:14:43.53,Default,Narration,0,0,0,,To facilitate this, they're capable of \Nextending their abdomen
-Dialogue: 0,0:14:43.53,0:14:47.28,Default,Narration,0,0,0,,which has a hard tip and can stretch up to\N three times its normal length.
+Dialogue: 0,0:14:37.40,0:14:40.07,Default,Narrator,0,0,0,,Locusts lay their eggs underground.
+Dialogue: 0,0:14:40.07,0:14:43.53,Default,Narrator,0,0,0,,To facilitate this, they're capable of \Nextending their abdomen
+Dialogue: 0,0:14:43.53,0:14:47.28,Default,Narrator,0,0,0,,which has a hard tip and can stretch up to\N three times its normal length.
 Dialogue: 0,0:14:50.20,0:14:51.75,Cursed,Ko-guy,0,0,0,,I win!
-Dialogue: 0,0:14:57.54,0:14:59.71,Default,Narration,0,0,0,,It did have a trick.
-Dialogue: 0,0:15:00.13,0:15:02.22,Default,Narration,0,0,0,,However, it didn't matter.
+Dialogue: 0,0:14:57.54,0:14:59.71,Default,Narrator,0,0,0,,It did have a trick.
+Dialogue: 0,0:15:00.13,0:15:02.22,Default,Narrator,0,0,0,,However, it didn't matter.
 Dialogue: 0,0:15:02.22,0:15:04.47,Default,Yuji,0,0,0,,You've eaten people.
 Dialogue: 0,0:15:05.34,0:15:07.47,Default,Yuji,0,0,0,,Ready to face the consequences?
-Dialogue: 0,0:15:08.01,0:15:14.48,Default,Narration,0,0,0,,The gap in their strength\N was one that no trick could overcome.
+Dialogue: 0,0:15:08.01,0:15:14.48,Default,Narrator,0,0,0,,The gap in their strength\N was one that no trick could overcome.
 Dialogue: 0,0:15:18.77,0:15:19.77,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}.
 Dialogue: 0,0:15:20.19,0:15:21.32,Default,Mei,0,0,0,,Yeah.
 Dialogue: 0,0:15:21.32,0:15:23.65,Default,Mei,0,0,0,,The Veil has been lifted.
