@@ -20,10 +20,10 @@ Audio File: jjk_36_premux.mkv
 Video File: jjk_36_premux.mkv
 Keyframes File: jjk_36_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 184
-Active Line: 199
-Video Position: 22130
+Video Zoom Percent: 0.500000
+Scroll Position: 243
+Active Line: 247
+Video Position: 30838
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,293 +34,271 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.85,0:00:08.11,Default,Nanami,0,0,0,,{\i1\an8}Getting irritated at my own failings
-Dialogue: 0,0:00:08.92,0:00:10.07,Default,Nanami,0,0,0,,{\i1\an8}never has been
-Dialogue: 0,0:00:10.36,0:00:12.07,Default,Nanami,0,0,0,,{\i1\an8}and never will be
-Dialogue: 0,0:00:12.95,0:00:15.49,Default,Nanami,0,0,0,,{\i1\an8}a part of my life.
-Dialogue: 0,0:00:22.08,0:00:24.00,Default,Nanami,0,0,0,,{\i1}I will simply
-Dialogue: 0,0:00:25.33,0:00:29.17,Default,Nanami,0,0,0,,{\i1}confront the evils that force this reality upon us,
-Dialogue: 0,0:00:29.17,0:00:30.84,Default,Nanami,0,0,0,,{\i1}and I will simply...
-Dialogue: 0,0:00:42.22,0:00:44.02,Default,Nanami,0,0,0,,Arrogant bastards.
+Dialogue: 0,0:00:03.90,0:00:08.57,Default,Nanami,0,0,0,,{\i1\an8}Getting irritated at my own failings
+Dialogue: 0,0:00:08.99,0:00:12.08,Default,Nanami,0,0,0,,{\i1\an8}never has been and never will be
+Dialogue: 0,0:00:12.99,0:00:15.50,Default,Nanami,0,0,0,,{\i1\an8}a part of my life.
+Dialogue: 0,0:00:22.17,0:00:24.00,Default,Nanami,0,0,0,,{\i1}I will simply
+Dialogue: 0,0:00:25.42,0:00:29.30,Default,Nanami,0,0,0,,{\i1}confront the evils that force this reality upon us,
+Dialogue: 0,0:00:29.30,0:00:30.84,Default,Nanami,0,0,0,,{\i1}and I will simply...
+Dialogue: 0,0:00:42.27,0:00:44.02,Default,Nanami,0,0,0,,How dare they.
 Comment: 0,0:00:47.03,0:00:47.07,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:02:16.99,0:02:17.03,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:02:19.56,0:02:23.16,Default,Mei,0,0,0,,You know my technique, right?
-Dialogue: 0,0:02:23.56,0:02:25.29,Default,Mei,0,0,0,,Manipulating crows.
-Dialogue: 0,0:02:25.29,0:02:26.62,Default,Mei,0,0,0,,That's it.
-Dialogue: 0,0:02:27.54,0:02:29.62,Default,Mei,0,0,0,,{\an8}Weak, right?
-Dialogue: 0,0:02:29.62,0:02:32.95,Default,Mei,0,0,0,,{\an8}That's why I trained myself so desperately when I was young.
-Dialogue: 0,0:02:32.95,0:02:35.88,Default,Mei,0,0,0,,{\an8}That way, I could fight without my technique.
-Dialogue: 0,0:02:36.46,0:02:38.61,Default,Mei,0,0,0,,It wasn't a waste, either.
-Dialogue: 0,0:02:38.61,0:02:42.32,Default,Mei,0,0,0,,Being able to overwhelm you like this proves that to me.
-Dialogue: 0,0:02:42.32,0:02:43.32,Default,CurseUser,0,0,0,,Stop!
-Dialogue: 0,0:02:43.32,0:02:45.52,Default,CurseUser,0,0,0,,I'll pull out of this incident now!
-Dialogue: 0,0:02:45.52,0:02:47.10,Default,CurseUser,0,0,0,,So please, spare me!
-Dialogue: 0,0:02:46.39,0:02:47.10,Default,Ui,0,0,0,,Quiet.
-Dialogue: 0,0:02:48.14,0:02:51.69,Default,Ui,0,0,0,,Nee-sama is still in the middle of talking.
-Dialogue: 0,0:02:52.52,0:02:54.86,Default,Mei,0,0,0,,So I used to convince myself
-Dialogue: 0,0:02:54.86,0:02:58.04,Default,Mei,0,0,0,,that a sorcerer's true value wasn't their technique.
-Dialogue: 0,0:02:58.04,0:02:59.02,Default,Mei,0,0,0,,But you know,
-Dialogue: 0,0:02:59.04,0:03:01.00,Default,Mei,0,0,0,,I hit my limit.
-Dialogue: 0,0:03:01.00,0:03:04.18,Default,Mei,0,0,0,,I couldn't keep improving my physical abilities
-Dialogue: 0,0:03:04.18,0:03:06.53,Default,Mei,0,0,0,,and the ability to enhance them with cursed energy forever.
-Dialogue: 0,0:03:06.54,0:03:08.04,Default,Mei,0,0,0,,I was crushed.
-Dialogue: 0,0:03:08.70,0:03:10.48,Default,Mei,0,0,0,,I had lost heart,
-Dialogue: 0,0:03:10.48,0:03:13.78,Default,Mei,0,0,0,,so I decided to confront my own technique once more,
-Dialogue: 0,0:03:13.78,0:03:18.34,Default,Mei,0,0,0,,and that's when I came into full bloom as a grade 1 sorcerer.
-Dialogue: 0,0:03:26.12,0:03:27.24,Default,Ui,0,0,0,,Applause.
-Dialogue: 0,0:03:33.02,0:03:34.72,Default,Mei,0,0,0,,Now I'll kill you.
-Dialogue: 0,0:03:34.72,0:03:35.10,Default,CurseUser,0,0,0,,Huh?!
-Dialogue: 0,0:03:35.19,0:03:38.23,Default,Mei,0,0,0,,I just wanted to kill time chatting, anyway.
-Dialogue: 0,0:03:38.23,0:03:39.87,Default,CurseUser,0,0,0,,I'm sorry!
-Dialogue: 0,0:03:39.87,0:03:41.36,Default,CurseUser,0,0,0,,I won't do anything bad ever again!
-Dialogue: 0,0:03:41.36,0:03:44.30,Default,CurseUser,0,0,0,,So please! Please spare my life!
-Dialogue: 0,0:03:44.30,0:03:48.27,Default,Mei,0,0,0,,Ui Ui, tell me the value of a life.
-Dialogue: 0,0:03:48.27,0:03:51.86,Default,Mei,0,0,0,,How would you measure the weight of a life?
-Dialogue: 0,0:03:51.86,0:03:53.27,Default,Ui,0,0,0,,Of course!
-Dialogue: 0,0:03:53.28,0:03:56.83,Default,Ui,0,0,0,,It's how valuable they are to you, Nee-sama!
-Dialogue: 0,0:03:58.50,0:03:59.56,Default,Mei,0,0,0,,Thank you.
-Dialogue: 0,0:03:59.88,0:04:00.92,Default,Mei,0,0,0,,And you?
-Dialogue: 0,0:04:00.92,0:04:05.36,Default,CurseUser,0,0,0,,Huh? I-I, u-uh...
-Dialogue: 0,0:04:07.19,0:04:11.52,Default,Mei,0,0,0,,You can't immediately describe the scale you use to measure the lives you hunt down.
-Dialogue: 0,0:04:12.12,0:04:15.12,Default,Mei,0,0,0,,That's why you lost.
-Dialogue: 0,0:04:16.03,0:04:22.07,Default,Mei,0,0,0,,Coincidentally, I measure lives by their potential assets.
-Dialogue: 0,0:04:36.67,0:04:37.67,Default,Yuji,0,0,0,,Huh?
-Dialogue: 0,0:04:38.13,0:04:41.77,Default,Yuji,0,0,0,,Only the Veil keeping sorcerers out just lifted, right?
-Dialogue: 0,0:04:41.77,0:04:45.51,Default,Yuji,0,0,0,,Even though we just broke three of these with Ino{**-san}?
-Dialogue: 0,0:04:46.02,0:04:49.12,Default,Fushiguro,0,0,0,,{\an8}Either they used all three to lower one Veil,
-Dialogue: 0,0:04:49.12,0:04:51.53,Default,Fushiguro,0,0,0,,{\an8}or two were dummies.
-Dialogue: 0,0:04:51.53,0:04:55.21,Default,Fushiguro,0,0,0,,{\an8}Either way, now sorcerers can act freely in Shibuya.
-Dialogue: 0,0:04:55.95,0:04:58.80,Default,Fushiguro,0,0,0,,That just leaves the Veil trapping Gojo{*}{*-sensei} in,
-Dialogue: 0,0:04:58.80,0:05:01.56,Default,Fushiguro,0,0,0,,and the Veil trapping ordinary people in.
-Dialogue: 0,0:05:02.12,0:05:05.32,Default,Fushiguro,0,0,0,,I wanted to ask this geezer all kinds of questions, but he won't wake up soon.
-Dialogue: 0,0:05:05.32,0:05:06.80,Default,Fushiguro,0,0,0,,We should rejoin Ino{**-san} and—
-Dialogue: 0,0:05:08.32,0:05:09.48,Default,Fushiguro,0,0,0,,Ino{**-san}!
-Dialogue: 0,0:05:36.39,0:05:38.14,Default,Grandson/Toji,0,0,0,,The Veil's lifted.
-Dialogue: 0,0:05:38.68,0:05:41.10,Default,Grandson/Toji,0,0,0,,What now, Granny?
-Dialogue: 0,0:05:41.10,0:05:47.20,Default,Grandson/Toji,0,0,0,,Wh-Wh-Wh-Wh-Wh-What do we do now?
-Dialogue: 0,0:05:47.98,0:05:51.75,Default,Ogami,0,0,0,,It won't hurt to keep Gojo Satoru out of play.
-Dialogue: 0,0:05:52.03,0:05:55.14,Default,Ogami,0,0,0,,So go down below and kill sorcerers.
-Dialogue: 0,0:05:59.12,0:06:00.42,Default,Ogami,0,0,0,,Grandson?
-Dialogue: 0,0:06:05.40,0:06:09.80,Default,Toji,0,0,0,,Who the hell do you think you're ordering around, old hag?
-Dialogue: 0,0:06:13.56,0:06:15.41,Default,Ogami,0,0,0,,What's the meaning of this?!
-Dialogue: 0,0:06:15.41,0:06:19.27,Default,Ogami,0,0,0,,I only channeled the body's information!
-Dialogue: 0,0:06:19.92,0:06:21.28,Default,Toji,0,0,0,,Channeled?
-Dialogue: 0,0:06:21.28,0:06:23.47,Default,Toji,0,0,0,,Oh, so that's why.
-Dialogue: 0,0:06:24.52,0:06:28.11,Default,Ogami,0,0,0,,Yes. I've always made it a point not to channel the soul's information
-Dialogue: 0,0:06:28.11,0:06:31.34,Default,Ogami,0,0,0,,in order to prevent accidents like this ahead of time.
-Dialogue: 0,0:06:32.28,0:06:34.60,Default,Toji,0,0,0,,I don't really get it,
-Dialogue: 0,0:06:34.60,0:06:37.02,Default,Toji,0,0,0,,but my body's special.
-Dialogue: 0,0:06:37.02,0:06:40.87,Default,Toji,0,0,0,,I guess it just means this guy's soul couldn't win against my body.
-Dialogue: 0,0:06:40.88,0:06:43.78,Default,Ogami,0,0,0,,A soul losing to a body?!
-Dialogue: 0,0:06:43.78,0:06:45.22,Default,Ogami,0,0,0,,No!
-Dialogue: 0,0:06:45.56,0:06:47.22,Default,Ogami,0,0,0,,That's impossible!
-Dialogue: 0,0:06:47.92,0:06:49.72,Default,Toji,0,0,0,,Kill sorcerers, huh?
-Dialogue: 0,0:06:54.19,0:06:56.29,Default,Toji,0,0,0,,You're a sorcerer, too, right?
-Dialogue: 0,0:07:00.63,0:07:01.93,Default,Maki,0,0,0,,They hit Ijichi{**-san}?
-Dialogue: 0,0:07:07.59,0:07:10.20,Default,Kugisaki,0,0,0,,It sounded like he got attacked while on the phone with Nitta{**-chan},
-Dialogue: 0,0:07:10.63,0:07:13.19,Default,Kugisaki,0,0,0,,so it probably happened after he left Fushiguro's group.
-Dialogue: 0,0:07:13.19,0:07:15.05,Default,Kugisaki,0,0,0,,He might be in trouble by himself right now.
-Dialogue: 0,0:07:16.00,0:07:18.55,Default,Maki,0,0,0,,Nobara, go with Akari{**-san} to Ijichi{**-san}.
-Dialogue: 0,0:07:19.37,0:07:21.62,Default,Maki,0,0,0,,We can't use our cell phones in here,
-Dialogue: 0,0:07:21.62,0:07:24.13,Default,Maki,0,0,0,,so we won't get anywhere without the assistant supervisors.
-Dialogue: 0,0:07:24.96,0:07:27.33,Default,Maki,0,0,0,,{\i1}I doubt that idiot would ever lose,
-Dialogue: 0,0:07:27.33,0:07:29.70,Default,Maki,0,0,0,,{\i1}but this whole situation is smelling even fishier.
-Dialogue: 0,0:07:30.74,0:07:32.88,Default,Maki,0,0,0,,I'll take care of things here for now.
-Dialogue: 0,0:07:34.36,0:07:37.02,Default,Maki,0,0,0,,That old man is slacking off too much.
-Dialogue: 0,0:07:37.85,0:07:39.23,Default,Naobito,0,0,0,,Hey, booze.
-Dialogue: 0,0:07:39.24,0:07:40.22,Default,Maki,0,0,0,,Ignore him.
-Dialogue: 0,0:07:40.75,0:07:41.88,Default,Maki,0,0,0,,Now go.
-Dialogue: 0,0:07:41.88,0:07:43.04,Default,Both,0,0,0,,Right!
-Dialogue: 0,0:07:45.31,0:07:47.20,Default,Maki,0,0,0,,Once they're outside the Veil,
-Dialogue: 0,0:07:47.48,0:07:49.88,Default,Maki,0,0,0,,they'll be able to run if the worst happens.
-Dialogue: 0,0:07:52.91,0:07:54.08,Default,Yuji,0,0,0,,How's Ino{**-san}?
-Dialogue: 0,0:07:54.32,0:07:56.87,Default,Fushiguro,0,0,0,,He's not... okay,
-Dialogue: 0,0:07:56.88,0:07:58.32,Default,Fushiguro,0,0,0,,but he's not dead.
-Dialogue: 0,0:07:58.61,0:08:00.32,Default,Yuji,0,0,0,,I'm going to punch them.
-Dialogue: 0,0:08:00.32,0:08:01.45,Default,Fushiguro,0,0,0,,Itadori!
-Dialogue: 0,0:08:01.45,0:08:03.68,Default,Fushiguro,0,0,0,,I understand how you feel, but hold back!
-Dialogue: 0,0:08:03.69,0:08:05.64,Default,Fushiguro,0,0,0,,What's our highest priority right now?
-Dialogue: 0,0:08:06.77,0:08:08.33,Default,Yuji,0,0,0,,Gojo{*}{*-sensei}.
-Dialogue: 0,0:08:08.33,0:08:09.95,Default,Fushiguro,0,0,0,,The Veil was lifted.
-Dialogue: 0,0:08:09.95,0:08:12.76,Default,Fushiguro,0,0,0,,The people at the top might have escaped already anyway.
-Dialogue: 0,0:08:12.76,0:08:14.98,Default,Fushiguro,0,0,0,,I'll take Ino{**-san} with me and head outside the Veil for a bit.
-Dialogue: 0,0:08:20.18,0:08:21.80,Default,Yuji,0,0,0,,Take care of Ino{**-san} for me.
-Dialogue: 0,0:08:21.80,0:08:23.64,Default,Yuji,0,0,0,,I'll go on ahead to the station.
-Dialogue: 0,0:08:23.64,0:08:26.00,Default,Fushiguro,0,0,0,,{\i1}That's right. That's the best course.
-Dialogue: 0,0:08:26.00,0:08:28.81,Default,Fushiguro,0,0,0,,{\i1}Though operating alone in Shibuya right now isn't...
-Dialogue: 0,0:08:29.93,0:08:32.02,Default,Fushiguro,0,0,0,,All right. But...
-Dialogue: 0,0:08:32.02,0:08:34.59,Default,Yuji,0,0,0,,If I die, you'll kill me, right?
-Dialogue: 0,0:08:37.91,0:08:39.71,Default,Yuji,0,0,0,,Don't worry!
-Dialogue: 0,0:08:39.71,0:08:41.61,Default,Yuji,0,0,0,,I have Mechamaru with me!
-Dialogue: 0,0:08:41.61,0:08:44.87,Default,Yuji,0,0,0,,{\i1}Though I haven't heard any response from Mechamaru for a while now...
-Dialogue: 0,0:08:46.15,0:08:47.57,Default,Fushiguro,0,0,0,,So long as you understand.
-Dialogue: 0,0:08:49.67,0:08:50.84,Default,Fushiguro,0,0,0,,See you later.
-Dialogue: 0,0:08:51.72,0:08:52.81,Default,Yuji,0,0,0,,Yeah!
-Dialogue: 0,0:08:56.03,0:08:56.84,Default,Ui,0,0,0,,Nee-sama.
-Dialogue: 0,0:08:56.84,0:08:59.18,Default,Mei,0,0,0,,Looks like the Veil has lifted.
-Dialogue: 0,0:08:59.18,0:09:04.80,Default,Mei,0,0,0,,The thought of how much I'll get for making Gojo Satoru owe me a favor
-Dialogue: 0,0:09:05.77,0:09:08.02,Default,Mei,0,0,0,,is making me excited.
-Dialogue: 0,0:09:08.44,0:09:11.48,Default,Geto,0,0,0,,That was faster than expected.
-Dialogue: 0,0:09:17.78,0:09:19.53,Default,Kugisaki,0,0,0,,Nitta{**-chan}, stop.
-Dialogue: 0,0:09:19.54,0:09:25.12,Default,Shigemo,0,0,0,,{\an8}Oh, it's a woman in a suit!
-Dialogue: 0,0:09:25.12,0:09:27.24,Default,Shigemo,0,0,0,,I'm so happy!
-Dialogue: 0,0:09:27.24,0:09:30.68,Default,Shigemo,0,0,0,,I was getting sick of them all being men.
-Dialogue: 0,0:09:31.76,0:09:33.68,Default,Kugisaki,0,0,0,,Nitta{**-chan}, hide.
-Dialogue: 0,0:09:34.12,0:09:35.70,Default,Kugisaki,0,0,0,,I'll finish this quickly.
-Dialogue: 0,0:09:45.68,0:09:48.01,Default,Kugisaki,0,0,0,,Pretend to hide in Bunkamura,
-Dialogue: 0,0:09:48.01,0:09:49.99,Default,Kugisaki,0,0,0,,then keep going and slip through Tokyu.
-Dialogue: 0,0:09:51.23,0:09:54.48,Default,Kugisaki,0,0,0,,From the way he's talking, he probably took out Ijichi{**-san}.
-Dialogue: 0,0:09:54.48,0:09:56.39,Default,Kugisaki,0,0,0,,Which means we need to hurry.
-Dialogue: 0,0:09:56.39,0:09:57.24,Default,Nitta,0,0,0,,Right!
-Dialogue: 0,0:09:57.94,0:10:00.22,Default,Nitta,0,0,0,,Kugisaki{**-san}, don't push yourself too hard, either.
-Dialogue: 0,0:10:00.66,0:10:02.40,Default,Shigemo,0,0,0,,Whispering to each other?
-Dialogue: 0,0:10:02.40,0:10:04.45,Default,Shigemo,0,0,0,,You've got me curious now.
-Dialogue: 0,0:10:08.20,0:10:11.72,Default,Shigemo,0,0,0,,Aw, she went and hid.
-Dialogue: 0,0:10:17.45,0:10:18.43,Default,Shigemo,0,0,0,,Close one!
-Dialogue: 0,0:10:19.65,0:10:22.19,Default,Kugisaki,0,0,0,,Coming at me unarmed? You throwing the match?
-Dialogue: 0,0:10:24.30,0:10:25.97,Default,Shigemo,0,0,0,,I met you before, right?
-Dialogue: 0,0:10:30.45,0:10:33.40,Default,Kugisaki,0,0,0,,Most who rely on cursed tools are mid- or long-range fighters.
-Dialogue: 0,0:10:33.40,0:10:35.32,Default,Kugisaki,0,0,0,,So keep up the attack!
-Dialogue: 0,0:10:36.16,0:10:38.20,Default,Kugisaki,0,0,0,,Who are you again?
-Dialogue: 0,0:10:52.25,0:10:54.21,Default,Shigemo,0,0,0,,Shooting nails is dangerous, you know.
-Dialogue: 0,0:10:54.82,0:10:56.96,Default,Kugisaki,0,0,0,,I'll make it even more dangerous!
-Dialogue: 0,0:11:02.15,0:11:04.14,Default,Nitta,0,0,0,,Ow!
-Dialogue: 0,0:11:05.96,0:11:09.39,Default,Shigemo,0,0,0,,Hey, so she wasn't hiding!
-Dialogue: 0,0:11:15.48,0:11:16.36,Default,Kugisaki,0,0,0,,Nitta{**-chan}!
-Dialogue: 0,0:11:18.86,0:11:20.32,Default,Shigemo,0,0,0,,Shoot!
-Dialogue: 0,0:11:23.12,0:11:25.25,Default,Kugisaki,0,0,0,,Why, you!
-Dialogue: 0,0:11:31.93,0:11:33.80,Default,Kugisaki,0,0,0,,{\i1}The sword he dropped earlier?!
-Dialogue: 0,0:11:34.89,0:11:36.00,Default,Kugisaki,0,0,0,,{\i1}How is it above me?!
-Dialogue: 0,0:11:42.76,0:11:44.21,Default,Shigemo,0,0,0,,Too bad.
-Dialogue: 0,0:11:44.88,0:11:45.98,Default,Kugisaki,0,0,0,,Hairpin!
-Dialogue: 0,0:12:02.05,0:12:03.20,Default,Kugisaki,0,0,0,,Nitta{**-chan}!
+Dialogue: 0,0:02:19.62,0:02:23.16,Default,Mei,0,0,0,,You know my technique, right?
+Dialogue: 0,0:02:23.62,0:02:25.42,Default,Mei,0,0,0,,Manipulating crows.
+Dialogue: 0,0:02:25.42,0:02:26.63,Default,Mei,0,0,0,,That's it.
+Dialogue: 0,0:02:27.59,0:02:29.30,Default,Mei,0,0,0,,{\an8}Weak, isn't it?
+Dialogue: 0,0:02:29.71,0:02:33.05,Default,Mei,0,0,0,,{\an8}That's why I trained hard when I was young,
+Dialogue: 0,0:02:33.05,0:02:35.89,Default,Mei,0,0,0,,{\an8}so I could fight even without a technique.
+Dialogue: 0,0:02:36.64,0:02:42.48,Default,Mei,0,0,0,,Being able to dominate you like this\N tells me that my efforts were not in vain.
+Dialogue: 0,0:02:42.48,0:02:45.65,Default,CurseUser,0,0,0,,Wait! I'll pull out right now!
+Dialogue: 0,0:02:45.65,0:02:46.69,Default,CurseUser,0,0,0,,So please, spare me!
+Dialogue: 0,0:02:46.69,0:02:47.81,Default,Ui,0,0,0,,Quiet.
+Dialogue: 0,0:02:48.27,0:02:51.69,Default,Ui,0,0,0,,{*}Sister{*Nee-sama} is not done talking.
+Dialogue: 0,0:02:52.65,0:02:58.03,Default,Mei,0,0,0,,I always told myself that techniques\N don't decide a sorcerer's worth.
+Dialogue: 0,0:02:58.03,0:02:59.03,Default,Mei,0,0,0,,But you know what?
+Dialogue: 0,0:02:59.03,0:03:01.12,Default,Mei,0,0,0,,I had hit my limit.
+Dialogue: 0,0:03:01.12,0:03:06.54,Default,Mei,0,0,0,,Physical abilities and cursed energy\N enhancements only go so far.
+Dialogue: 0,0:03:06.79,0:03:08.04,Default,Mei,0,0,0,,I was crushed!
+Dialogue: 0,0:03:08.79,0:03:13.92,Default,Mei,0,0,0,,And because of that, I decided to give\N my technique another shot,
+Dialogue: 0,0:03:13.92,0:03:18.47,Default,Mei,0,0,0,,and bloomed into the \Nfirst-grade sorcerer that I am today.
+Dialogue: 0,0:03:26.31,0:03:27.52,Default,Ui,0,0,0,,Applaud.
+Dialogue: 0,0:03:33.11,0:03:35.11,Default,Mei,0,0,0,,Now I'll kill you.
+Dialogue: 0,0:03:35.61,0:03:38.45,Default,Mei,0,0,0,,I just wanted to kill some time chatting.
+Dialogue: 0,0:03:38.45,0:03:40.12,Default,CurseUser,0,0,0,,Please forgive me!
+Dialogue: 0,0:03:40.12,0:03:41.53,Default,CurseUser,0,0,0,,I'll never do it again!
+Dialogue: 0,0:03:41.53,0:03:44.16,Default,CurseUser,0,0,0,,So please! Please spare my life!
+Dialogue: 0,0:03:44.50,0:03:45.75,Default,Mei,0,0,0,,Ui Ui,
+Dialogue: 0,0:03:46.79,0:03:51.88,Default,Mei,0,0,0,,can you tell me what is the value of a life\N and how would you measure it?
+Dialogue: 0,0:03:51.88,0:03:53.46,Default,Ui,0,0,0,,Of course!
+Dialogue: 0,0:03:53.46,0:03:56.84,Default,Ui,0,0,0,,The answer is how useful that life is to you! {the value of like for HIM is how useful that life is to HER}
+Dialogue: 0,0:03:58.59,0:03:59.55,Default,Mei,0,0,0,,Thank you.
+Dialogue: 0,0:04:00.05,0:04:01.18,Default,Mei,0,0,0,,And you?
+Dialogue: 0,0:04:02.81,0:04:05.35,Default,CurseUser,0,0,0,,I think... u-uh...
+Dialogue: 0,0:04:07.27,0:04:12.36,Default,Mei,0,0,0,,You can't even describe the scale you use\N to measure the lives you hunt down.
+Dialogue: 0,0:04:12.36,0:04:15.07,Default,Mei,0,0,0,,That's why you lost.
+Dialogue: 0,0:04:16.03,0:04:22.28,Default,Mei,0,0,0,,Coincidentally, I do measure lives\N by their potential usefulness. {"coincidentally" and "do" because it's the same logic as Ui Ui} {she's also like "potential usefulness is life itself" but sounds weird}
+Dialogue: 0,0:04:36.92,0:04:37.67,Default,Yuji,0,0,0,,Wait.
+Dialogue: 0,0:04:38.22,0:04:41.93,Default,Yuji,0,0,0,,The anti-sorcerer Veil is \Nthe only one that got lifted, right?
+Dialogue: 0,0:04:41.93,0:04:45.52,Default,Yuji,0,0,0,,But didn't we break three of these,\N including the one Ino{**-san} broke?
+Dialogue: 0,0:04:46.10,0:04:51.65,Default,Fushiguro,0,0,0,,{\an8}Either they used all three to lower one Veil,\N or the other two were dummies.
+Dialogue: 0,0:04:51.65,0:04:55.32,Default,Fushiguro,0,0,0,,{\an8}Either way, sorcerers are now free\N to move into Shibuya.
+Dialogue: 0,0:04:56.11,0:05:01.57,Default,Fushiguro,0,0,0,,{\an8}That just leaves the Veil trapping {*}Mr. Gojo{*Gojo-sensei},\N and the Veil trapping civilians.
+Dialogue: 0,0:05:02.28,0:05:05.54,Default,Fushiguro,0,0,0,,I wanted to interrogate this geezer,\N but he'll be out for a while.
+Dialogue: 0,0:05:05.54,0:05:06.95,Default,Fushiguro,0,0,0,,We should rejoin Ino{**-san} and{\fscx180}—{\fscx}
+Dialogue: 0,0:05:08.37,0:05:09.50,Default,Fushiguro,0,0,0,,Ino{**-san}!
+Dialogue: 0,0:05:36.61,0:05:38.82,Default,Grandson/Toji,0,0,0,,The Veil's lifted.
+Dialogue: 0,0:05:38.82,0:05:41.36,Default,Grandson/Toji,0,0,0,,What now, Granny?
+Dialogue: 0,0:05:41.36,0:05:47.66,Default,Grandson/Toji,0,0,0,,Wh-Wh-Wh-Wh-Wh-What do we do now?
+Dialogue: 0,0:05:48.12,0:05:51.83,Default,Ogami,0,0,0,,With Gojo Satoru out of the play,\N it matters little.
+Dialogue: 0,0:05:51.83,0:05:55.21,Default,Ogami,0,0,0,,Go down and kill the sorcerers.
+Dialogue: 0,0:05:59.17,0:06:00.55,Default,Ogami,0,0,0,,Grandson?
+Dialogue: 0,0:06:05.64,0:06:09.81,Default,Toji,0,0,0,,Who the hell do you think\N you're ordering around, old hag?
+Dialogue: 0,0:06:13.73,0:06:15.52,Default,Ogami,0,0,0,,What is going on?!
+Dialogue: 0,0:06:15.52,0:06:19.28,Default,Ogami,0,0,0,,I only summoned the body's information!
+Dialogue: 0,0:06:20.07,0:06:21.49,Default,Toji,0,0,0,,Summoned?
+Dialogue: 0,0:06:21.49,0:06:23.57,Default,Toji,0,0,0,,Oh, so that's why.
+Dialogue: 0,0:06:24.57,0:06:28.20,Default,Ogami,0,0,0,,{\i1}I've always made it a point\N not to summon the soul's information
+Dialogue: 0,0:06:28.20,0:06:31.41,Default,Ogami,0,0,0,,{\i1}precisely to prevent accidents like this.
+Dialogue: 0,0:06:32.29,0:06:37.21,Default,Toji,0,0,0,,I'm not exactly sure what's going on,\N but my body's special.
+Dialogue: 0,0:06:37.21,0:06:40.88,Default,Toji,0,0,0,,I'd say this guy's soul lost to my body.
+Dialogue: 0,0:06:40.88,0:06:45.22,Default,Ogami,0,0,0,,The soul lost to the body?! Impossible!
+Dialogue: 0,0:06:45.64,0:06:46.89,Default,Ogami,0,0,0,,That is absurd!
+Dialogue: 0,0:06:48.05,0:06:49.72,Default,Toji,0,0,0,,I gotta kill sorcerers, huh?
+Dialogue: 0,0:06:54.31,0:06:56.35,Default,Toji,0,0,0,,Let's start with you.
+Dialogue: 0,0:07:00.73,0:07:02.11,Default,Maki,0,0,0,,{*}Mr. Ijichi{*Ijichi-san} got attacked?
+Dialogue: 0,0:07:07.74,0:07:10.20,Default,Kugisaki,0,0,0,,That's what it sounded like on the phone with Nitta{**-chan}.
+Dialogue: 0,0:07:10.20,0:07:13.20,Default,Kugisaki,0,0,0,,It must have happened\N after he left Fushiguro's group.
+Dialogue: 0,0:07:13.20,0:07:15.46,Default,Kugisaki,0,0,0,,We shouldn't leave him alone right now.
+Dialogue: 0,0:07:16.08,0:07:18.96,Default,Maki,0,0,0,,Nobara, you take Akari{**-san} to {*}Mr. Ijichi{*Ijichi-san}'s location.
+Dialogue: 0,0:07:19.42,0:07:24.13,Default,Maki,0,0,0,,{\i1}We can't use our phones.\N The assistant supervisors are critical. {Without any signal, the assistant supervisors\N are our last line of communication.} {the voice actor made it sound like this line is an internal thought but it's supposed to be said out loud...}
+Dialogue: 0,0:07:25.01,0:07:30.14,Default,Maki,0,0,0,,{\i1}I doubt that dumbass would ever lose,\N but this whole situation is smelling even fishier.
+Dialogue: 0,0:07:30.81,0:07:33.06,Default,Maki,0,0,0,,I'll handle things over here.
+Dialogue: 0,0:07:34.73,0:07:37.40,Default,Maki,0,0,0,,Damn geezer's totally useless. {slacking off too much}
+Dialogue: 0,0:07:38.10,0:07:39.40,Default,Naobito,0,0,0,,Get me some booze!
+Dialogue: 0,0:07:39.40,0:07:40.23,Default,Maki,0,0,0,,Ignore him.
+Dialogue: 0,0:07:40.94,0:07:42.11,Default,Maki,0,0,0,,Now go.
+Dialogue: 0,0:07:42.11,0:07:43.23,Default,Both,0,0,0,,Right!
+Dialogue: 0,0:07:45.49,0:07:50.16,Default,Maki,0,0,0,,{\i1}Once they're outside the Veil,\N they'll be able to run if the worst happens.
+Dialogue: 0,0:07:52.99,0:07:54.33,Default,Yuji,0,0,0,,How's Ino{**-san}?
+Dialogue: 0,0:07:54.33,0:07:57.08,Default,Fushiguro,0,0,0,,Can't say he's okay,
+Dialogue: 0,0:07:57.08,0:07:58.33,Default,Fushiguro,0,0,0,,but he's not dead.
+Dialogue: 0,0:07:58.79,0:08:00.50,Default,Yuji,0,0,0,,I'm gonna go beat them up.
+Dialogue: 0,0:08:00.50,0:08:01.79,Default,Fushiguro,0,0,0,,Itadori!
+Dialogue: 0,0:08:01.79,0:08:03.88,Default,Fushiguro,0,0,0,,I understand how you feel, \Nbut calm down!
+Dialogue: 0,0:08:03.88,0:08:05.63,Default,Fushiguro,0,0,0,,What's our priority right now?
+Dialogue: 0,0:08:06.97,0:08:08.55,Default,Yuji,0,0,0,,{*}Mr. Gojo{*Gojo-sensei}.
+Dialogue: 0,0:08:08.55,0:08:10.09,Default,Fushiguro,0,0,0,,The Veil has been lifted.
+Dialogue: 0,0:08:10.09,0:08:12.93,Default,Fushiguro,0,0,0,,Those guys up there might have escaped already.
+Dialogue: 0,0:08:12.93,0:08:15.06,Default,Fushiguro,0,0,0,,Let's get Ino{**-san} out of here.
+Dialogue: 0,0:08:20.35,0:08:22.02,Default,Yuji,0,0,0,,Take care of Ino{**-san} for me.
+Dialogue: 0,0:08:22.02,0:08:23.65,Default,Yuji,0,0,0,,I'll head to the station.
+Dialogue: 0,0:08:23.90,0:08:26.24,Default,Fushiguro,0,0,0,,{\i1}Right, that's actually the best move.
+Dialogue: 0,0:08:26.24,0:08:29.07,Default,Fushiguro,0,0,0,,{\i1}But operating alone in Shibuya right now...
+Dialogue: 0,0:08:29.99,0:08:32.03,Default,Fushiguro,0,0,0,,All right. But...
+Dialogue: 0,0:08:32.03,0:08:34.99,Default,Yuji,0,0,0,,If I die, you'll kill me, right?
+Dialogue: 0,0:08:38.21,0:08:39.87,Default,Yuji,0,0,0,,Don't worry!
+Dialogue: 0,0:08:39.87,0:08:41.63,Default,Yuji,0,0,0,,I've got Mechamaru with me!
+Dialogue: 0,0:08:41.63,0:08:45.09,Default,Yuji,0,0,0,,{\i1}Though I haven't heard from him in a while...
+Dialogue: 0,0:08:46.30,0:08:47.67,Default,Fushiguro,0,0,0,,So long as you understand.
+Dialogue: 0,0:08:49.76,0:08:50.89,Default,Fushiguro,0,0,0,,See you later.
+Dialogue: 0,0:08:51.89,0:08:52.89,Default,Yuji,0,0,0,,Right!
+Dialogue: 0,0:08:56.22,0:08:56.97,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}.
+Dialogue: 0,0:08:56.97,0:08:59.35,Default,Mei,0,0,0,,Looks like the Veil has been lifted.
+Dialogue: 0,0:08:59.35,0:09:04.82,Default,Mei,0,0,0,,Just the thought of how much \Nthis favor is going to cost Gojo Satoru
+Dialogue: 0,0:09:05.86,0:09:08.03,Default,Mei,0,0,0,,gets my heart racing!
+Dialogue: 0,0:09:08.53,0:09:11.49,Default,Geto,0,0,0,,That was faster than expected.
+Dialogue: 0,0:09:17.87,0:09:19.54,Default,Kugisaki,0,0,0,,Nitta{**-chan}, stop.
+Dialogue: 0,0:09:19.87,0:09:25.13,Default,Shigemo,0,0,0,,{\an8}Oh, it's a girl in the suit this time!
+Dialogue: 0,0:09:25.13,0:09:27.34,Default,Shigemo,0,0,0,,I'm so happy!
+Dialogue: 0,0:09:27.34,0:09:30.67,Default,Shigemo,0,0,0,,I was getting sick of them all being guys.
+Dialogue: 0,0:09:31.93,0:09:33.72,Default,Kugisaki,0,0,0,,Nitta{**-chan}, hide.
+Dialogue: 0,0:09:34.35,0:09:35.81,Default,Kugisaki,0,0,0,,I'll wrap this up quick.
+Dialogue: 0,0:09:45.98,0:09:50.61,Default,Kugisaki,0,0,0,,Pretend to hide in Bunkamura,\N then keep going and slip through Tokyu.
+Dialogue: 0,0:09:51.24,0:09:54.70,Default,Kugisaki,0,0,0,,Judging by what he said, he might be \Nthe one who took out {*}Mr. Ijichi{*Ijichi-san}.
+Dialogue: 0,0:09:54.70,0:09:56.62,Default,Kugisaki,0,0,0,,Which means we need to hurry.
+Dialogue: 0,0:09:56.62,0:09:57.24,Default,Nitta,0,0,0,,Gotcha!
+Dialogue: 0,0:09:58.08,0:10:00.37,Default,Nitta,0,0,0,,Don't push yourself too hard, Kugisaki{**-san}.
+Dialogue: 0,0:10:00.87,0:10:02.79,Default,Shigemo,0,0,0,,Whispering now, are we?
+Dialogue: 0,0:10:02.79,0:10:04.46,Default,Shigemo,0,0,0,,You've got me curious now!
+Dialogue: 0,0:10:08.21,0:10:11.84,Default,Shigemo,0,0,0,,Aw, she went and hid.
+Dialogue: 0,0:10:17.76,0:10:18.43,Default,Shigemo,0,0,0,,Close!
+Dialogue: 0,0:10:19.77,0:10:22.69,Default,Kugisaki,0,0,0,,Throwing the match like \Nyou threw away your weapon? {Coming at me unarmed? You throwing the match?}
+Dialogue: 0,0:10:23.19,0:10:26.06,Default,Shigemo,0,0,0,,Oh, we've met before, haven't we?
+Dialogue: 0,0:10:30.61,0:10:33.61,Default,Kugisaki,0,0,0,,{\i1}Cursed tool users prefer fighting from a distance.
+Dialogue: 0,0:10:33.61,0:10:35.41,Default,Kugisaki,0,0,0,,{\i1}I gotta get in close!
+Dialogue: 0,0:10:36.37,0:10:38.20,Default,Kugisaki,0,0,0,,Who are you again?
+Dialogue: 0,0:10:52.34,0:10:54.88,Default,Shigemo,0,0,0,,Shooting nails is dangerous, you know!
+Dialogue: 0,0:10:54.88,0:10:56.97,Default,Kugisaki,0,0,0,,I can make it even more dangerous.
+Dialogue: 0,0:11:02.14,0:11:03.60,Default,Nitta,0,0,0,,Ow!
+Dialogue: 0,0:11:06.02,0:11:09.06,Default,Shigemo,0,0,0,,Hey, so she wasn't hiding!
+Dialogue: 0,0:11:15.61,0:11:16.36,Default,Kugisaki,0,0,0,,Nitta{**-chan}!
+Dialogue: 0,0:11:18.87,0:11:20.28,Default,Shigemo,0,0,0,,Shoot!
+Dialogue: 0,0:11:23.50,0:11:24.50,Default,Kugisaki,0,0,0,,Why, you!
+Dialogue: 0,0:11:32.13,0:11:34.09,Default,Kugisaki,0,0,0,,{\i1}The sword he dropped outside?!
+Dialogue: 0,0:11:34.92,0:11:36.01,Default,Kugisaki,0,0,0,,{\i1}How did it get here?!
+Dialogue: 0,0:11:42.77,0:11:44.22,Default,Shigemo,0,0,0,,Whoops! You missed!
+Dialogue: 0,0:11:44.98,0:11:45.98,Default,Kugisaki,0,0,0,,Hairpin!
+Dialogue: 0,0:12:02.24,0:12:03.20,Default,Kugisaki,0,0,0,,Nitta{**-chan}!
 Dialogue: 0,0:12:22.72,0:12:27.23,Default,Shigemo,0,0,0,,Man, you really are dangerous.
-Dialogue: 0,0:12:27.60,0:12:30.12,Default,Shigemo,0,0,0,,Oh, did it hit your chin?
-Dialogue: 0,0:12:30.12,0:12:31.73,Default,Shigemo,0,0,0,,Can't stand?
-Dialogue: 0,0:12:31.73,0:12:33.42,Default,Shigemo,0,0,0,,Hey, can you stand?
-Dialogue: 0,0:12:33.97,0:12:36.91,Default,Shigemo,0,0,0,,Hey, come on...
-Dialogue: 0,0:12:38.44,0:12:39.98,Default,Shigemo,0,0,0,,You know,
-Dialogue: 0,0:12:39.98,0:12:43.50,Default,Shigemo,0,0,0,,you've gotten an awful lot stronger since we last met.
-Dialogue: 0,0:12:43.50,0:12:45.95,Default,Shigemo,0,0,0,,I didn't even recognize you at first.
-Dialogue: 0,0:12:46.74,0:12:48.38,Default,Shigemo,0,0,0,,Though, you know,
-Dialogue: 0,0:12:48.38,0:12:51.91,Default,Shigemo,0,0,0,,being strong isn't enough to win in this world.
-Dialogue: 0,0:12:51.91,0:12:55.16,Default,Shigemo,0,0,0,,Especially when my technique is involved.
-Dialogue: 0,0:12:55.16,0:13:01.02,Default,Shigemo,0,0,0,,Though, I don't really understand my own technique all that well.
-Dialogue: 0,0:13:05.89,0:13:09.94,Default,Shigemo,0,0,0,,Now, which of you should I kill first?
-Dialogue: 0,0:13:10.75,0:13:13.39,Default,Kugisaki,0,0,0,,Wh-What...
-Dialogue: 0,0:13:15.06,0:13:17.04,Default,Kugisaki,0,0,0,,{\i1}Work, mouth, work!
-Dialogue: 0,0:13:17.48,0:13:20.12,Default,Kugisaki,0,0,0,,...are you after?
-Dialogue: 0,0:13:20.12,0:13:22.52,Default,Kugisaki,0,0,0,,{\i1}Buy as much time as possible!
-Dialogue: 0,0:13:22.52,0:13:27.28,Default,Shigemo,0,0,0,,Oh, they said something about wanting to seal Gojo Satoru.
-Dialogue: 0,0:13:27.28,0:13:30.45,Default,Kugisaki,0,0,0,,I was asking you!
-Dialogue: 0,0:13:30.45,0:13:34.71,Default,Shigemo,0,0,0,,Oh, me? Hmm...
-Dialogue: 0,0:13:35.51,0:13:38.82,Default,Shigemo,0,0,0,,What do you think someone with a great talent and love
-Dialogue: 0,0:13:38.82,0:13:42.60,Default,Shigemo,0,0,0,,for soccer would do if they were born in a world without soccer?
-Dialogue: 0,0:13:43.80,0:13:44.71,Default,Shigemo,0,0,0,,That's not right.
-Dialogue: 0,0:13:44.71,0:13:47.10,Default,Shigemo,0,0,0,,I can't explain it well.
-Dialogue: 0,0:13:47.10,0:13:51.02,Default,Shigemo,0,0,0,,Though, is the reason all that important?
-Dialogue: 0,0:13:51.95,0:13:53.80,Default,Shigemo,0,0,0,,Who cares?
-Dialogue: 0,0:13:53.80,0:13:55.68,Default,Shigemo,0,0,0,,It's fun, right?
-Dialogue: 0,0:13:55.68,0:13:59.91,Default,Shigemo,0,0,0,,As long as I have fun, what else matters?!
-Dialogue: 0,0:14:01.06,0:14:03.11,Default,Shigemo,0,0,0,,Don't you think so, too?
-Dialogue: 0,0:14:03.11,0:14:05.12,Default,Kugisaki,0,0,0,,Stop it!
-Dialogue: 0,0:14:13.75,0:14:16.49,Default,Shigemo,0,0,0,,Make me stop.
-Dialogue: 0,0:14:16.50,0:14:20.00,Default,Shigemo,0,0,0,,Don't let me commit anymore cli—
-Dialogue: 0,0:14:20.75,0:14:22.76,Default,Shigemo,0,0,0,,Ah, I flubbed it.
-Dialogue: 0,0:14:24.93,0:14:25.92,Default,Shigemo,0,0,0,,It's full of phlegm...
-Dialogue: 0,0:14:27.67,0:14:28.82,Default,Shigemo,0,0,0,,Whoa.
-Dialogue: 0,0:14:35.84,0:14:37.68,Default,Shigemo,0,0,0,,You're totally wobbling!
-Dialogue: 0,0:14:46.52,0:14:47.83,Default,Shigemo,0,0,0,,Yeah, yeah.
-Dialogue: 0,0:15:12.38,0:15:14.26,Default,Shigemo,0,0,0,,It was okay, right?
-Dialogue: 0,0:15:15.42,0:15:17.97,Default,Shigemo,0,0,0,,To kill people in suits that aren't black, too?
+Dialogue: 0,0:12:27.64,0:12:30.23,Default,Shigemo,0,0,0,,Oh, did it hit your chin?
+Dialogue: 0,0:12:30.23,0:12:31.73,Default,Shigemo,0,0,0,,Can't stand?
+Dialogue: 0,0:12:31.73,0:12:33.98,Default,Shigemo,0,0,0,,Hey, can you stand?
+Dialogue: 0,0:12:33.98,0:12:36.86,Default,Shigemo,0,0,0,,C'mon, I'm talking to you!
+Dialogue: 0,0:12:38.61,0:12:43.66,Default,Shigemo,0,0,0,,You know, you've gotten an \Nawful lot stronger since we last met.
+Dialogue: 0,0:12:43.66,0:12:46.04,Default,Shigemo,0,0,0,,I almost didn't recognize you.
+Dialogue: 0,0:12:46.75,0:12:48.50,Default,Shigemo,0,0,0,,But y'know what?
+Dialogue: 0,0:12:48.50,0:12:51.92,Default,Shigemo,0,0,0,,Being strong isn't enough to win in this world!
+Dialogue: 0,0:12:51.92,0:12:55.46,Default,Shigemo,0,0,0,,Especially against my technique.
+Dialogue: 0,0:12:55.46,0:13:01.09,Default,Shigemo,0,0,0,,Though, I don't really \Nunderstand it all that well either.
+Dialogue: 0,0:13:05.97,0:13:10.02,Default,Shigemo,0,0,0,,Now, which of you should I kill first?
+Dialogue: 0,0:13:10.94,0:13:13.56,Default,Kugisaki,0,0,0,,Wh-What...
+Dialogue: 0,0:13:15.07,0:13:17.07,Default,Kugisaki,0,0,0,,{\i1}Keep talking! {Work, mouth, work!}
+Dialogue: 0,0:13:17.65,0:13:20.28,Default,Kugisaki,0,0,0,,...are you after?
+Dialogue: 0,0:13:20.28,0:13:22.53,Default,Kugisaki,0,0,0,,{\i1}Buy as much time as possible!
+Dialogue: 0,0:13:22.53,0:13:27.54,Default,Shigemo,0,0,0,,Oh, I think they said something \Nabout sealing Gojo Satoru.
+Dialogue: 0,0:13:27.54,0:13:30.46,Default,Kugisaki,0,0,0,,I'm asking you!
+Dialogue: 0,0:13:30.46,0:13:33.13,Default,Shigemo,0,0,0,,Oh, me?
+Dialogue: 0,0:13:35.79,0:13:39.09,Default,Shigemo,0,0,0,,If someone who loves and excels at soccer
+Dialogue: 0,0:13:39.09,0:13:42.97,Default,Shigemo,0,0,0,,was born in a world without soccer,\N what would they want?
+Dialogue: 0,0:13:43.97,0:13:47.01,Default,Shigemo,0,0,0,,Never mind. I can't explain it.
+Dialogue: 0,0:13:47.39,0:13:51.02,Default,Shigemo,0,0,0,,I mean, do I even {\i1}need{\i0} a reason?
+Dialogue: 0,0:13:52.23,0:13:56.02,Default,Shigemo,0,0,0,,Who cares as long as it's fun, right?
+Dialogue: 0,0:13:56.02,0:13:59.90,Default,Shigemo,0,0,0,,Nothing else matters as long as I'm having fun!
+Dialogue: 0,0:14:01.28,0:14:03.11,Default,Shigemo,0,0,0,,Wouldn't you agree?
+Dialogue: 0,0:14:03.49,0:14:05.12,Default,Kugisaki,0,0,0,,Stop it!
+Dialogue: 0,0:14:13.75,0:14:16.50,Default,Shigemo,0,0,0,,Make me stop!
+Dialogue: 0,0:14:16.92,0:14:19.92,Default,Shigemo,0,0,0,,Stop me from committing any more cli{\fscx180}—{\fscx}
+Dialogue: 0,0:14:20.76,0:14:22.76,Default,Shigemo,0,0,0,,Ah, I flubbed it.
+Dialogue: 0,0:14:24.93,0:14:25.93,Default,Shigemo,0,0,0,,It's full of phlegm...
+Dialogue: 0,0:14:28.01,0:14:28.93,Default,Shigemo,0,0,0,,Whoa!
+Dialogue: 0,0:14:35.85,0:14:37.69,Default,Shigemo,0,0,0,,You can't even stand. {You're totally wobbling!}
+Dialogue: 0,0:14:46.62,0:14:48.12,Default,Shigemo,0,0,0,,Yeah, yeah.
+Dialogue: 0,0:15:12.39,0:15:14.48,Default,Shigemo,0,0,0,,I wonder if it's okay...
+Dialogue: 0,0:15:15.14,0:15:17.98,Default,Shigemo,0,0,0,,to kill people in suits that aren't black? {ayo he meant black SUITS okay!}
 Comment: 0,0:15:22.99,0:15:23.03,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:15:31.99,0:15:34.91,Default,Kugisaki,0,0,0,,{\i1}He came to Shibuya with Fushiguro, right?
-Dialogue: 0,0:15:36.41,0:15:37.99,Default,Kugisaki,0,0,0,,{\i1}Nanami{**-san}?
-Dialogue: 0,0:15:45.92,0:15:48.51,Default,Shigemo,0,0,0,,Come on now, look around you.
-Dialogue: 0,0:15:48.51,0:15:50.68,Default,Shigemo,0,0,0,,Why are you strutting this way?
-Dialogue: 0,0:15:50.68,0:15:53.69,Default,Shigemo,0,0,0,,Can't you see I'm holding a woman hostage here?
-Dialogue: 0,0:15:56.32,0:15:57.42,Default,Shigemo,0,0,0,,Huh?
-Dialogue: 0,0:15:57.86,0:15:58.94,Default,Shigemo,0,0,0,,Huh?
-Dialogue: 0,0:15:58.94,0:16:00.43,Default,Shigemo,0,0,0,,She ran away.
-Dialogue: 0,0:16:04.10,0:16:07.94,Default,Nanami,0,0,0,,What's the number and locations of your allies?
-Dialogue: 0,0:16:10.69,0:16:12.52,Default,Shigemo,0,0,0,,I don't know.
-Dialogue: 0,0:16:16.03,0:16:17.69,Default,Shigemo,0,0,0,,{\i1}Huh? A wall?
-Dialogue: 0,0:16:19.73,0:16:23.23,Default,Shigemo,0,0,0,,{\i1}It didn't cut him?!
-Dialogue: 0,0:16:23.58,0:16:27.51,Default,Nanami,0,0,0,,What's the number and locations of your allies?!
-Dialogue: 0,0:16:31.80,0:16:32.80,Default,Smallpox,0,0,0,,I don't—
-Dialogue: 0,0:16:47.38,0:16:49.32,Default,Shigemo,0,0,0,,{\i1}Huh? I died?
-Dialogue: 0,0:16:49.32,0:16:51.79,Default,Shigemo,0,0,0,,{\i1}I would have died without my technique?!
-Dialogue: 0,0:16:53.11,0:16:55.16,Default,Shigemo,0,0,0,,{\i1}I-I have to run!
-Dialogue: 0,0:17:06.61,0:17:11.75,Default,Nanami,0,0,0,,What's the number and locations of your allies?
-Dialogue: 0,0:17:12.21,0:17:13.97,Default,Shigemo,0,0,0,,I told you, I don't—
-Dialogue: 0,0:17:38.07,0:17:39.57,Default,Kugisaki,0,0,0,,I won't let you!
-Dialogue: 0,0:17:39.57,0:17:41.89,Default,Shigemo,0,0,0,,Read the room!
-Dialogue: 0,0:17:49.08,0:17:50.94,Default,Nanami,0,0,0,,On my way here,
-Dialogue: 0,0:17:50.94,0:17:54.48,Default,Nanami,0,0,0,,I found several of our assistant supervisors dead.
-Dialogue: 0,0:17:56.20,0:17:58.08,Default,Nanami,0,0,0,,That was you, wasn't it?
-Dialogue: 0,0:18:02.22,0:18:04.95,Default,Shigemo,0,0,0,,I-I'm sorry.
-Dialogue: 0,0:18:25.49,0:18:27.40,Default,Kugisaki,0,0,0,,{\i1}He's on a different level.
-Dialogue: 0,0:18:27.40,0:18:30.52,Default,Kugisaki,0,0,0,,{\i1}So this is a grade 1 sorcerer!
-Dialogue: 0,0:18:32.60,0:18:35.12,Default,Nanami,0,0,0,,Let's make our way to Nitta{**-san}.
-Dialogue: 0,0:18:37.31,0:18:39.93,Default,Mei,0,0,0,,Well, now. You, huh?
-Dialogue: 0,0:18:41.48,0:18:44.78,Default,Geto,0,0,0,,Mei{**-san}, long time no see.
-Dialogue: 0,0:18:45.66,0:18:49.87,Default,Mei,0,0,0,,Quite the thing to say after sending an assassin after me, Geto{**-kun}.
-Dialogue: 0,0:18:50.64,0:18:52.48,Default,Mei,0,0,0,,{\i1}How is he alive?
-Dialogue: 0,0:18:52.48,0:18:54.85,Default,Mei,0,0,0,,{\i1}Did Gojo{**-kun} screw up last year?
-Dialogue: 0,0:18:55.52,0:19:00.02,Default,Mei,0,0,0,,{\i1}Were Gojo{**-kun} and Geto{**-kun} in on this whole commotion together?
-Dialogue: 0,0:19:00.90,0:19:02.46,Default,Mei,0,0,0,,{\i1}No, definitely not.
-Dialogue: 0,0:19:02.46,0:19:07.17,Default,Mei,0,0,0,,{\i1}Gojo{**-kun} could kill every person in this country all on his own.
-Dialogue: 0,0:19:07.17,0:19:09.00,Default,Mei,0,0,0,,{\i1}There would be no need and no point in
-Dialogue: 0,0:19:09.00,0:19:11.57,Default,Mei,0,0,0,,{\i1}setting up these tricks or getting anyone else involved.
-Dialogue: 0,0:19:13.05,0:19:16.68,Default,Mei,0,0,0,,I actually held you in higher regard than Gojo{**-kun}, you know.
-Dialogue: 0,0:19:16.68,0:19:19.54,Default,Mei,0,0,0,,Your nihilistic smile was quite charming.
-Dialogue: 0,0:19:20.48,0:19:26.09,Default,Mei,0,0,0,,It's a bitter shame that I'll have to kill you now.
-Dialogue: 0,0:19:26.55,0:19:29.08,Default,Mei,0,0,0,,It really is quite a shame.
-Dialogue: 0,0:19:29.08,0:19:32.10,Default,Mei,0,0,0,,{\i1}This Geto{**-kun} is most likely a fake.
-Dialogue: 0,0:19:32.51,0:19:35.54,Default,Geto,0,0,0,,Mei{**-san}, I think it's a shame, too...
-Dialogue: 0,0:19:36.60,0:19:39.63,Default,Geto,0,0,0,,that I have to go after my former upperclassman.
-Dialogue: 0,0:19:43.40,0:19:45.09,Default,Mei,0,0,0,,{\i1}Curse manipulation?!
-Dialogue: 0,0:19:45.53,0:19:47.74,Default,Mei,0,0,0,,{\i1}Did I read this wrong?
-Dialogue: 0,0:19:48.03,0:19:51.67,Default,Geto,0,0,0,,The Special-Grade Disease Curse, Smallpox Deity.
-Dialogue: 0,0:19:51.67,0:19:55.16,Default,Geto,0,0,0,,I did use up my stock of cursed spirits last year,
-Dialogue: 0,0:19:55.16,0:19:57.13,Default,Geto,0,0,0,,but they haven't lost their quality.
-Dialogue: 0,0:19:58.22,0:20:02.46,Default,Geto,0,0,0,,Just to be safe, I want to keep the humans on B5F.
-Dialogue: 0,0:20:02.46,0:20:04.32,Default,Geto,0,0,0,,I'll be waiting down this line.
-Dialogue: 0,0:20:04.32,0:20:06.88,Default,Geto,0,0,0,,If you manage to exorcise that, I'll take you on.
-Dialogue: 0,0:20:12.70,0:20:14.21,Default,Mei,0,0,0,,{\i1}Domain Expansion?!
-Dialogue: 0,0:20:14.85,0:20:17.58,Default,Mei,0,0,0,,{\i1}This is a little troublesome.
-Dialogue: 0,0:20:23.24,0:20:24.80,Default,Mei,0,0,0,,{\i1}I've been trapped?
-Dialogue: 0,0:20:25.51,0:20:27.65,Default,Mei,0,0,0,,In a coffin, I suppose?
-Dialogue: 0,0:20:27.65,0:20:29.16,Default,Ui,0,0,0,,Nee-sama!
-Dialogue: 0,0:20:32.82,0:20:35.30,Default,Smallpox,0,0,0,,Three, two...
-Dialogue: 0,0:20:39.84,0:20:42.24,Default,Mei,0,0,0,,How many years has it been...
-Dialogue: 0,0:20:42.24,0:20:45.22,Default,Mei,0,0,0,,since something threatened my life?
-Dialogue: 0,0:20:45.22,0:20:47.20,Default,Ui,0,0,0,,Nee-sama!
-Dialogue: 0,0:20:52.84,0:20:54.64,Default,Yuji,0,0,0,,{\i1}There's absolutely no one here!
-Dialogue: 0,0:20:54.64,0:20:58.23,Default,Yuji,0,0,0,,{\i1}I thought there was a huge crowd trapped inside the station?
-Dialogue: 0,0:21:00.05,0:21:02.84,Default,Nitta,0,0,0,,So Ijichi{**-san}'s okay, then?
-Dialogue: 0,0:21:03.69,0:21:10.12,Default,Nanami,0,0,0,,I did what I could, and he was originally aiming to be a sorcerer.
-Dialogue: 0,0:21:12.08,0:21:17.08,Default,Nanami,0,0,0,,Though it looks you all really haven't heard about Gojo{**-san} yet.
-Dialogue: 0,0:21:17.09,0:21:21.96,Default,Nitta,0,0,0,,We entered the building right away, so that was probably why.
-Dialogue: 0,0:21:21.96,0:21:25.90,Default,Kugisaki,0,0,0,,The fact that he's still holding out after being sealed makes it sound real.
-Dialogue: 0,0:21:25.90,0:21:28.80,Default,Nanami,0,0,0,,You two, please wait here for rescue.
-Dialogue: 0,0:21:28.80,0:21:31.84,Default,Nanami,0,0,0,,I'll join Zenin{**-san}, and we'll head down to B5F.
-Dialogue: 0,0:21:33.30,0:21:33.97,Default,Kugisaki,0,0,0,,I'll go, too!
-Dialogue: 0,0:21:33.97,0:21:35.11,Default,Nanami,0,0,0,,No, you won't.
-Dialogue: 0,0:21:37.26,0:21:41.02,Default,Nanami,0,0,0,,I'm the minimum level required for the fights ahead.
-Dialogue: 0,0:21:41.73,0:21:44.13,Default,Nanami,0,0,0,,You would hinder me, and be in the way.
-Dialogue: 0,0:21:44.52,0:21:46.17,Default,Nanami,0,0,0,,Please wait here.
-Dialogue: 0,0:21:58.85,0:22:00.89,Default,Choso,0,0,0,,Itadori Yuji!
-Dialogue: 0,0:22:03.39,0:22:07.60,Default,Choso,0,0,0,,I'll avenge my brothers!
+Dialogue: 0,0:15:32.41,0:15:34.91,Default,Kugisaki,0,0,0,,{\i1}He came to Shibuya with Fushiguro...
+Dialogue: 0,0:15:36.42,0:15:38.00,Default,Kugisaki,0,0,0,,{\i1}{*}Mr. Nanami{*Nanami-san}?
+Dialogue: 0,0:15:46.13,0:15:48.64,Default,Shigemo,0,0,0,,Come on now, look around you!
+Dialogue: 0,0:15:48.64,0:15:50.76,Default,Shigemo,0,0,0,,Why are you strutting this way?
+Dialogue: 0,0:15:50.76,0:15:53.85,Default,Shigemo,0,0,0,,Can't you see I've got this girl hostage?!
+Comment: 0,0:15:56.44,0:15:57.44,Default,Shigemo,0,0,0,,Huh?
+Dialogue: 0,0:15:57.90,0:15:58.94,Default,Shigemo,0,0,0,,No!
+Dialogue: 0,0:15:58.94,0:16:00.44,Default,Shigemo,0,0,0,,She ran away.
+Dialogue: 0,0:16:04.23,0:16:07.95,Default,Nanami,0,0,0,,How many allies do you have and where?
+Dialogue: 0,0:16:10.70,0:16:12.20,Default,Shigemo,0,0,0,,I dunno!
+Dialogue: 0,0:16:16.04,0:16:18.00,Default,Shigemo,0,0,0,,{\i1}Huh? Did I hit a wall?
+Dialogue: 0,0:16:19.79,0:16:23.21,Default,Shigemo,0,0,0,,{\i1}It didn't cut him?!
+Dialogue: 0,0:16:23.63,0:16:27.67,Default,Nanami,0,0,0,,How many allies and where?
+Dialogue: 0,0:16:32.14,0:16:32.76,Default,Smallpox,0,0,0,,I dun{\fscx180}—{\fscx}
+Dialogue: 0,0:16:48.11,0:16:49.49,Default,Shigemo,0,0,0,,{\i1}I'd be dead!
+Dialogue: 0,0:16:49.49,0:16:51.87,Default,Shigemo,0,0,0,,{\i1}If it weren't for my technique, I'd be dead!
+Dialogue: 0,0:16:53.24,0:16:55.16,Default,Shigemo,0,0,0,,{\i1}I-I need to run!
+Dialogue: 0,0:17:06.76,0:17:12.22,Default,Nanami,0,0,0,,How many and where?!
+Dialogue: 0,0:17:12.59,0:17:13.97,Default,Shigemo,0,0,0,,I told you, I don't{\fscx180}—{\fscx}
+Dialogue: 0,0:17:38.45,0:17:39.58,Default,Kugisaki,0,0,0,,Not on my watch! {I won't let you!}
+Dialogue: 0,0:17:39.58,0:17:41.83,Default,Shigemo,0,0,0,,Outta my way, dammit! {Read the room}
+Dialogue: 0,0:17:49.09,0:17:55.10,Default,Nanami,0,0,0,,On my way here, I found several of our\N assistant supervisors dead.
+Dialogue: 0,0:17:56.26,0:17:58.10,Default,Nanami,0,0,0,,That was you, wasn't it?
+Dialogue: 0,0:18:02.44,0:18:03.94,Default,Shigemo,0,0,0,,I-I'm sorry.
+Dialogue: 0,0:18:25.67,0:18:27.71,Default,Kugisaki,0,0,0,,{\i1}He's in a different league.
+Dialogue: 0,0:18:27.71,0:18:30.59,Default,Kugisaki,0,0,0,,{\i1}That's a first-grade sorcerer for you.
+Dialogue: 0,0:18:32.72,0:18:35.26,Default,Nanami,0,0,0,,Let's make our way to {*}Miss Nitta{*Nitta-san}. {"miss" again because nanami is also the kinda guy who would use honorifics with juniors}
+Dialogue: 0,0:18:37.39,0:18:39.97,Default,Mei,0,0,0,,Oh my, who do we have here?
+Dialogue: 0,0:18:41.56,0:18:44.73,Default,Geto,0,0,0,,It's been a while, {*}Miss Mei{*Mei-san}.
+Dialogue: 0,0:18:45.69,0:18:50.36,Default,Mei,0,0,0,,Quite the thing to say after sending \Nassassins after me, Geto{**-kun}. {was there just one assassin?}
+Dialogue: 0,0:18:50.86,0:18:52.69,Default,Mei,0,0,0,,{\i1}How is he still alive?
+Dialogue: 0,0:18:52.69,0:18:54.86,Default,Mei,0,0,0,,{\i1}Did Gojo{**-kun} mess up last year?
+Dialogue: 0,0:18:55.66,0:19:00.29,Default,Mei,0,0,0,,{\i1}Were Gojo{**-kun} and Geto{**-kun} in on this whole commotion together?
+Dialogue: 0,0:19:01.16,0:19:02.70,Default,Mei,0,0,0,,{\i1}No, definitely not.
+Dialogue: 0,0:19:02.70,0:19:07.38,Default,Mei,0,0,0,,{\i1}Gojo{**-kun} could kill every human in this country all by himself.
+Dialogue: 0,0:19:07.38,0:19:11.84,Default,Mei,0,0,0,,{\i1}He doesn't need anyone's help or any petty tricks.
+Dialogue: 0,0:19:13.13,0:19:16.80,Default,Mei,0,0,0,,For the record, I had my money on you over Gojo{**-kun}.
+Dialogue: 0,0:19:16.80,0:19:19.55,Default,Mei,0,0,0,,Your nihilistic smile was quite charming.
+Dialogue: 0,0:19:20.56,0:19:26.10,Default,Mei,0,0,0,,That I have to kill you is a bitter shame.
+Dialogue: 0,0:19:26.65,0:19:28.81,Default,Mei,0,0,0,,It really is.
+Dialogue: 0,0:19:29.36,0:19:32.61,Default,Mei,0,0,0,,{\i1}This Geto{**-kun} is most likely a fake.
+Dialogue: 0,0:19:32.61,0:19:35.65,Default,Geto,0,0,0,,The feeling is mutual, {*}Miss Mei{*Mei-san}.
+Dialogue: 0,0:19:36.61,0:19:39.62,Default,Geto,0,0,0,,To think I must kill a former upperclassman. {senpai T_T}
+Dialogue: 0,0:19:43.62,0:19:45.25,Default,Mei,0,0,0,,{\i1}Curse Manipulation?!
+Dialogue: 0,0:19:45.71,0:19:47.75,Default,Mei,0,0,0,,{\i1}Did I read this wrong?
+Dialogue: 0,0:19:48.08,0:19:51.88,Default,Geto,0,0,0,,Special-Grade Disease Curse: Smallpox Deity.
+Dialogue: 0,0:19:51.88,0:19:57.13,Default,Geto,0,0,0,,I used up my stock of curses last year,\N but I assure you, the quality hasn't suffered.
+Dialogue: 0,0:19:58.43,0:20:02.35,Default,Geto,0,0,0,,I think I'll keep the humans on B5\Njust for good measure.
+Dialogue: 0,0:20:02.72,0:20:04.52,Default,Geto,0,0,0,,I'll be waiting down this line.
+Dialogue: 0,0:20:04.52,0:20:06.89,Default,Geto,0,0,0,,If you manage to exorcise that,\N I'll take you on.
+Dialogue: 0,0:20:12.77,0:20:14.40,Default,Mei,0,0,0,,{\i1}Domain Expansion?!
+Dialogue: 0,0:20:14.94,0:20:17.61,Default,Mei,0,0,0,,{\i1}This could be troublesome.
+Dialogue: 0,0:20:23.41,0:20:24.79,Default,Mei,0,0,0,,{\i1}I'm trapped?
+Dialogue: 0,0:20:25.54,0:20:27.66,Default,Mei,0,0,0,,Is this a coffin?
+Dialogue: 0,0:20:27.96,0:20:29.17,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}!
+Dialogue: 0,0:20:32.88,0:20:35.30,Cursed,Smallpox,0,0,0,,Three, two...
+Dialogue: 0,0:20:40.01,0:20:45.43,Default,Mei,0,0,0,,How many years has it been\N since something threatened my life?
+Dialogue: 0,0:20:45.43,0:20:47.18,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}!
+Dialogue: 0,0:20:52.90,0:20:54.73,Default,Yuji,0,0,0,,{\i1}There's nobody here!
+Dialogue: 0,0:20:54.73,0:20:58.24,Default,Yuji,0,0,0,,{\i1}Weren't there supposed to be a ton of\N people trapped down here?
+Dialogue: 0,0:21:00.11,0:21:03.20,Default,Nitta,0,0,0,,So {*}Mr. Ijichi{*Ijichi-san}'s okay, then?
+Dialogue: 0,0:21:03.78,0:21:10.58,Default,Nanami,0,0,0,,I did what I could. Don't forget,\N he once trained to be a sorcerer as well.
+Dialogue: 0,0:21:12.08,0:21:17.09,Default,Nanami,0,0,0,,Anyway, it seems you all\N really haven't heard about Gojo{**-san} yet.
+Dialogue: 0,0:21:17.42,0:21:21.97,Default,Nitta,0,0,0,,Probably because we went indoors right away.
+Dialogue: 0,0:21:21.97,0:21:26.18,Default,Kugisaki,0,0,0,,Holding out even after being sealed\N sounds like him all right. {The fact that he's still holding out\N after being sealed makes it sound real.}
+Dialogue: 0,0:21:26.18,0:21:29.02,Default,Nanami,0,0,0,,You two, please wait here for the rescue.
+Dialogue: 0,0:21:29.02,0:21:31.85,Default,Nanami,0,0,0,,I'll join the Zenins and head down to B5. {idk how to add honorifics to this one}
+Dialogue: 0,0:21:33.36,0:21:33.98,Default,Kugisaki,0,0,0,,I'll go, too!
+Dialogue: 0,0:21:33.98,0:21:35.11,Default,Nanami,0,0,0,,No, you won't.
+Dialogue: 0,0:21:37.36,0:21:41.03,Default,Nanami,0,0,0,,I'm the minimum level required for the fights ahead.
+Dialogue: 0,0:21:41.74,0:21:44.53,Default,Nanami,0,0,0,,You would only get in the way.
+Dialogue: 0,0:21:44.53,0:21:46.16,Default,Nanami,0,0,0,,Please wait here.
+Dialogue: 0,0:21:58.88,0:22:00.88,Default,Choso,0,0,0,,Itadori Yuji!
+Dialogue: 0,0:22:03.47,0:22:07.60,Default,Choso,0,0,0,,I'll avenge my brothers!
 Comment: 0,0:22:10.02,0:22:10.06,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:40.02,0:23:40.07,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.56,0:23:42.24,Default,Yuji,0,0,0,,Ijichi{**-san}! I'll help you with work!
-Dialogue: 0,0:23:42.25,0:23:43.63,Default,Ijichi,0,0,0,,It's fine. I'm fine.
-Dialogue: 0,0:23:43.63,0:23:44.75,Default,Kugisaki,0,0,0,,Don't be shy!
-Dialogue: 0,0:23:44.75,0:23:46.55,Default,Kugisaki,0,0,0,,We're from the digital native generation!
-Dialogue: 0,0:23:46.55,0:23:47.98,Default,Kugisaki,0,0,0,,Excel, Power Point, they're nothing!
-Dialogue: 0,0:23:47.98,0:23:49.98,Default,Ijichi,0,0,0,,I mean it. I'm really fine.
-Dialogue: 0,0:23:49.98,0:23:51.06,Default,Fushiguro,0,0,0,,Next time, "Red Scale."
-Dialogue: 0,0:23:51.06,0:23:52.34,Default,Yuji,0,0,0,,What's "merge cells"?
-Dialogue: 0,0:23:52.34,0:23:53.24,Default,Kugisaki,0,0,0,,Do it, do it!
-Dialogue: 0,0:23:53.24,0:23:54.69,Default,Ijichi,0,0,0,,Seriously, go away!
+Dialogue: 0,0:23:40.57,0:23:42.36,Default,Yuji,0,0,0,,{\an8}{*}Mr. Ijichi{*Ijichi-san}, we'll help you with work!
+Dialogue: 0,0:23:42.36,0:23:43.82,Default,Ijichi,0,0,0,,{\an8}It's fine. I'm fine.
+Dialogue: 0,0:23:43.82,0:23:44.90,Default,Kugisaki,0,0,0,,{\an8}Don't be shy!
+Dialogue: 0,0:23:44.90,0:23:46.61,Default,Kugisaki,0,0,0,,{\an8}We're from the digital native generation!
+Dialogue: 0,0:23:46.61,0:23:48.16,Default,Kugisaki,0,0,0,,{\an8}Excel, PowerPoint, we know it all!
+Dialogue: 0,0:23:48.16,0:23:49.99,Default,Ijichi,0,0,0,,{\an8}I mean it. I really am fine.
+Dialogue: 0,0:23:49.99,0:23:51.24,Default,Fushiguro,0,0,0,,{\an8}Next time, Red Scale.
+Dialogue: 0,0:23:51.24,0:23:52.49,Default,Yuji,0,0,0,,{\an8}What's "merge cells"?
+Dialogue: 0,0:23:52.49,0:23:53.33,Default,Kugisaki,0,0,0,,{\an8}Just click it.
+Dialogue: 0,0:23:53.33,0:23:54.91,Default,Ijichi,0,0,0,,{\an8}Please, just go away!
