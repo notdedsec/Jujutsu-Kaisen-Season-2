@@ -19,13 +19,13 @@ SRC = src.replace('common/ED4.mkv', repl_start=2137, main_start=ED+2137, duratio
 
 flt = Filter(
     SRC,
-    NO_AA_RANGES = [(ED, ED+2157)],
+    NO_AA_RANGES = [(ED, ED+2157), (0, 117)],
     NO_RESCALE_RANGES = [(ED+1973, ED+2134), (27282, 27305)],
-    NO_DENOISE_RANGES = [(ED+1973, ED+2134), (OP, OP+2157), (27282, 27305)],
-    STRONG_DEBAND_RANGES = [(ED+1522, ED+1535), (ED+1552, ED+1567), (ED+1598, ED+1612), (ED+2137, ED+2157)],
+    NO_DENOISE_RANGES = [(ED+1973, ED+2134), (OP, OP+2157), (27282, 27305), (0, 117)],
+    STRONG_DEBAND_RANGES = [(ED+1522, ED+1535), (ED+1552, ED+1567), (ED+1598, ED+1612), (ED+2137, ED+2157), (9214, 9405), (14116, 14130)],
     DIMMED_SCENES = {
-        (7549, 7596): 1.4,
-        (7765, 7788): 2,
+        (7549, 7596): 1.55,
+        (7765, 7788): 2.55,
         (10076, 10233): 1.15,
         (14493, 14522): 1.15,
         (14523, 14552): 1.05,

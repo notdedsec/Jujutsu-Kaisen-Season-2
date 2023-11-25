@@ -21,9 +21,9 @@ Video File: jjk_36_premux.mkv
 Keyframes File: jjk_36_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 243
-Active Line: 247
-Video Position: 30838
+Scroll Position: 81
+Active Line: 103
+Video Position: 12513
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -44,8 +44,7 @@ Dialogue: 0,0:00:42.27,0:00:44.02,Default,Nanami,0,0,0,,How dare they.
 Comment: 0,0:00:47.03,0:00:47.07,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:02:16.99,0:02:17.03,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:02:19.62,0:02:23.16,Default,Mei,0,0,0,,You know my technique, right?
-Dialogue: 0,0:02:23.62,0:02:25.42,Default,Mei,0,0,0,,Manipulating crows.
-Dialogue: 0,0:02:25.42,0:02:26.63,Default,Mei,0,0,0,,That's it.
+Dialogue: 0,0:02:23.62,0:02:26.63,Default,Mei,0,0,0,,I can manipulate crows. That's it.
 Dialogue: 0,0:02:27.59,0:02:29.30,Default,Mei,0,0,0,,{\an8}Weak, isn't it?
 Dialogue: 0,0:02:29.71,0:02:33.05,Default,Mei,0,0,0,,{\an8}That's why I trained hard when I was young,
 Dialogue: 0,0:02:33.05,0:02:35.89,Default,Mei,0,0,0,,{\an8}so I could fight even without a technique.
@@ -76,7 +75,7 @@ Dialogue: 0,0:04:00.05,0:04:01.18,Default,Mei,0,0,0,,And you?
 Dialogue: 0,0:04:02.81,0:04:05.35,Default,CurseUser,0,0,0,,I think... u-uh...
 Dialogue: 0,0:04:07.27,0:04:12.36,Default,Mei,0,0,0,,You can't even describe the scale you use\N to measure the lives you hunt down.
 Dialogue: 0,0:04:12.36,0:04:15.07,Default,Mei,0,0,0,,That's why you lost.
-Dialogue: 0,0:04:16.03,0:04:22.28,Default,Mei,0,0,0,,Coincidentally, I do measure lives\N by their potential usefulness. {"coincidentally" and "do" because it's the same logic as Ui Ui} {she's also like "potential usefulness is life itself" but sounds weird}
+Dialogue: 0,0:04:16.03,0:04:22.03,Default,Mei,0,0,0,,Coincidentally, I measure lives\N by their potential assets. {"by how useful they can be" is too simplified which isnt intended here} {she's also like "potential usefulness is life itself" but sounds weird} {maybe cr was right all along}
 Dialogue: 0,0:04:36.92,0:04:37.67,Default,Yuji,0,0,0,,Wait.
 Dialogue: 0,0:04:38.22,0:04:41.93,Default,Yuji,0,0,0,,The anti-sorcerer Veil is \Nthe only one that got lifted, right?
 Dialogue: 0,0:04:41.93,0:04:45.52,Default,Yuji,0,0,0,,But didn't we break three of these,\N including the one Ino{**-san} broke?
@@ -101,7 +100,7 @@ Dialogue: 0,0:06:24.57,0:06:28.20,Default,Ogami,0,0,0,,{\i1}I've always made it 
 Dialogue: 0,0:06:28.20,0:06:31.41,Default,Ogami,0,0,0,,{\i1}precisely to prevent accidents like this.
 Dialogue: 0,0:06:32.29,0:06:37.21,Default,Toji,0,0,0,,I'm not exactly sure what's going on,\N but my body's special.
 Dialogue: 0,0:06:37.21,0:06:40.88,Default,Toji,0,0,0,,I'd say this guy's soul lost to my body.
-Dialogue: 0,0:06:40.88,0:06:45.22,Default,Ogami,0,0,0,,The soul lost to the body?! Impossible!
+Dialogue: 0,0:06:41.21,0:06:45.22,Default,Ogami,0,0,0,,The soul lost to the body?! Impossible!
 Dialogue: 0,0:06:45.64,0:06:46.89,Default,Ogami,0,0,0,,That is absurd!
 Dialogue: 0,0:06:48.05,0:06:49.72,Default,Toji,0,0,0,,I gotta kill sorcerers, huh?
 Dialogue: 0,0:06:54.31,0:06:56.35,Default,Toji,0,0,0,,Let's start with you.
@@ -110,7 +109,7 @@ Dialogue: 0,0:07:07.74,0:07:10.20,Default,Kugisaki,0,0,0,,That's what it sounded
 Dialogue: 0,0:07:10.20,0:07:13.20,Default,Kugisaki,0,0,0,,It must have happened\N after he left Fushiguro's group.
 Dialogue: 0,0:07:13.20,0:07:15.46,Default,Kugisaki,0,0,0,,We shouldn't leave him alone right now.
 Dialogue: 0,0:07:16.08,0:07:18.96,Default,Maki,0,0,0,,Nobara, you take Akari{**-san} to {*}Mr. Ijichi{*Ijichi-san}'s location.
-Dialogue: 0,0:07:19.42,0:07:24.13,Default,Maki,0,0,0,,{\i1}We can't use our phones.\N The assistant supervisors are critical. {Without any signal, the assistant supervisors\N are our last line of communication.} {the voice actor made it sound like this line is an internal thought but it's supposed to be said out loud...}
+Dialogue: 0,0:07:19.42,0:07:24.13,Default,Maki,0,0,0,,{\i1}Without any signal, the assistant supervisors\N are critical for communication. {the voice actor made it sound like this line is an internal thought but it's supposed to be said out loud...}
 Dialogue: 0,0:07:25.01,0:07:30.14,Default,Maki,0,0,0,,{\i1}I doubt that dumbass would ever lose,\N but this whole situation is smelling even fishier.
 Dialogue: 0,0:07:30.81,0:07:33.06,Default,Maki,0,0,0,,I'll handle things over here.
 Dialogue: 0,0:07:34.73,0:07:37.40,Default,Maki,0,0,0,,Damn geezer's totally useless. {slacking off too much}
@@ -138,7 +137,7 @@ Dialogue: 0,0:08:29.99,0:08:32.03,Default,Fushiguro,0,0,0,,All right. But...
 Dialogue: 0,0:08:32.03,0:08:34.99,Default,Yuji,0,0,0,,If I die, you'll kill me, right?
 Dialogue: 0,0:08:38.21,0:08:39.87,Default,Yuji,0,0,0,,Don't worry!
 Dialogue: 0,0:08:39.87,0:08:41.63,Default,Yuji,0,0,0,,I've got Mechamaru with me!
-Dialogue: 0,0:08:41.63,0:08:45.09,Default,Yuji,0,0,0,,{\i1}Though I haven't heard from him in a while...
+Dialogue: 0,0:08:41.88,0:08:45.09,Default,Yuji,0,0,0,,{\i1}Though I haven't heard from him in a while.
 Dialogue: 0,0:08:46.30,0:08:47.67,Default,Fushiguro,0,0,0,,So long as you understand.
 Dialogue: 0,0:08:49.76,0:08:50.89,Default,Fushiguro,0,0,0,,See you later.
 Dialogue: 0,0:08:51.89,0:08:52.89,Default,Yuji,0,0,0,,Right!
@@ -146,7 +145,7 @@ Dialogue: 0,0:08:56.22,0:08:56.97,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}.
 Dialogue: 0,0:08:56.97,0:08:59.35,Default,Mei,0,0,0,,Looks like the Veil has been lifted.
 Dialogue: 0,0:08:59.35,0:09:04.82,Default,Mei,0,0,0,,Just the thought of how much \Nthis favor is going to cost Gojo Satoru
 Dialogue: 0,0:09:05.86,0:09:08.03,Default,Mei,0,0,0,,gets my heart racing!
-Dialogue: 0,0:09:08.53,0:09:11.49,Default,Geto,0,0,0,,That was faster than expected.
+Dialogue: 0,0:09:08.53,0:09:11.07,Default,Geto,0,0,0,,That was faster than expected.
 Dialogue: 0,0:09:17.87,0:09:19.54,Default,Kugisaki,0,0,0,,Nitta{**-chan}, stop.
 Dialogue: 0,0:09:19.87,0:09:25.13,Default,Shigemo,0,0,0,,{\an8}Oh, it's a girl in the suit this time!
 Dialogue: 0,0:09:25.13,0:09:27.34,Default,Shigemo,0,0,0,,I'm so happy!
@@ -159,10 +158,10 @@ Dialogue: 0,0:09:54.70,0:09:56.62,Default,Kugisaki,0,0,0,,Which means we need to
 Dialogue: 0,0:09:56.62,0:09:57.24,Default,Nitta,0,0,0,,Gotcha!
 Dialogue: 0,0:09:58.08,0:10:00.37,Default,Nitta,0,0,0,,Don't push yourself too hard, Kugisaki{**-san}.
 Dialogue: 0,0:10:00.87,0:10:02.79,Default,Shigemo,0,0,0,,Whispering now, are we?
-Dialogue: 0,0:10:02.79,0:10:04.46,Default,Shigemo,0,0,0,,You've got me curious now!
+Dialogue: 0,0:10:02.79,0:10:04.46,Default,Shigemo,0,0,0,,You've got me curious!
 Dialogue: 0,0:10:08.21,0:10:11.84,Default,Shigemo,0,0,0,,Aw, she went and hid.
 Dialogue: 0,0:10:17.76,0:10:18.43,Default,Shigemo,0,0,0,,Close!
-Dialogue: 0,0:10:19.77,0:10:22.69,Default,Kugisaki,0,0,0,,Throwing the match like \Nyou threw away your weapon? {Coming at me unarmed? You throwing the match?}
+Dialogue: 0,0:10:19.77,0:10:22.69,Default,Kugisaki,0,0,0,,Throwing the fight like\N you threw away your weapon? {Coming at me unarmed? You throwing the match?}
 Dialogue: 0,0:10:23.19,0:10:26.06,Default,Shigemo,0,0,0,,Oh, we've met before, haven't we?
 Dialogue: 0,0:10:30.61,0:10:33.61,Default,Kugisaki,0,0,0,,{\i1}Cursed tool users prefer fighting from a distance.
 Dialogue: 0,0:10:33.61,0:10:35.41,Default,Kugisaki,0,0,0,,{\i1}I gotta get in close!
@@ -192,13 +191,13 @@ Dialogue: 0,0:12:51.92,0:12:55.46,Default,Shigemo,0,0,0,,Especially against my t
 Dialogue: 0,0:12:55.46,0:13:01.09,Default,Shigemo,0,0,0,,Though, I don't really \Nunderstand it all that well either.
 Dialogue: 0,0:13:05.97,0:13:10.02,Default,Shigemo,0,0,0,,Now, which of you should I kill first?
 Dialogue: 0,0:13:10.94,0:13:13.56,Default,Kugisaki,0,0,0,,Wh-What...
-Dialogue: 0,0:13:15.07,0:13:17.07,Default,Kugisaki,0,0,0,,{\i1}Keep talking! {Work, mouth, work!}
+Dialogue: 0,0:13:15.07,0:13:17.07,Default,Kugisaki,0,0,0,,{\i1}Gotta keep talking!
 Dialogue: 0,0:13:17.65,0:13:20.28,Default,Kugisaki,0,0,0,,...are you after?
 Dialogue: 0,0:13:20.28,0:13:22.53,Default,Kugisaki,0,0,0,,{\i1}Buy as much time as possible!
 Dialogue: 0,0:13:22.53,0:13:27.54,Default,Shigemo,0,0,0,,Oh, I think they said something \Nabout sealing Gojo Satoru.
 Dialogue: 0,0:13:27.54,0:13:30.46,Default,Kugisaki,0,0,0,,I'm asking you!
 Dialogue: 0,0:13:30.46,0:13:33.13,Default,Shigemo,0,0,0,,Oh, me?
-Dialogue: 0,0:13:35.79,0:13:39.09,Default,Shigemo,0,0,0,,If someone who loves and excels at soccer
+Dialogue: 0,0:13:35.79,0:13:39.09,Default,Shigemo,0,0,0,,If someone who loves soccer and excels at it
 Dialogue: 0,0:13:39.09,0:13:42.97,Default,Shigemo,0,0,0,,was born in a world without soccer,\N what would they want?
 Dialogue: 0,0:13:43.97,0:13:47.01,Default,Shigemo,0,0,0,,Never mind. I can't explain it.
 Dialogue: 0,0:13:47.39,0:13:51.02,Default,Shigemo,0,0,0,,I mean, do I even {\i1}need{\i0} a reason?
@@ -209,7 +208,7 @@ Dialogue: 0,0:14:03.49,0:14:05.12,Default,Kugisaki,0,0,0,,Stop it!
 Dialogue: 0,0:14:13.75,0:14:16.50,Default,Shigemo,0,0,0,,Make me stop!
 Dialogue: 0,0:14:16.92,0:14:19.92,Default,Shigemo,0,0,0,,Stop me from committing any more cli{\fscx180}—{\fscx}
 Dialogue: 0,0:14:20.76,0:14:22.76,Default,Shigemo,0,0,0,,Ah, I flubbed it.
-Dialogue: 0,0:14:24.93,0:14:25.93,Default,Shigemo,0,0,0,,It's full of phlegm...
+Dialogue: 0,0:14:24.93,0:14:26.35,Default,Shigemo,0,0,0,,And my throat's blocked... {It's full of phlegm...}
 Dialogue: 0,0:14:28.01,0:14:28.93,Default,Shigemo,0,0,0,,Whoa!
 Dialogue: 0,0:14:35.85,0:14:37.69,Default,Shigemo,0,0,0,,You can't even stand. {You're totally wobbling!}
 Dialogue: 0,0:14:46.62,0:14:48.12,Default,Shigemo,0,0,0,,Yeah, yeah.
@@ -218,7 +217,7 @@ Dialogue: 0,0:15:15.14,0:15:17.98,Default,Shigemo,0,0,0,,to kill people in suits
 Comment: 0,0:15:22.99,0:15:23.03,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:15:32.41,0:15:34.91,Default,Kugisaki,0,0,0,,{\i1}He came to Shibuya with Fushiguro...
 Dialogue: 0,0:15:36.42,0:15:38.00,Default,Kugisaki,0,0,0,,{\i1}{*}Mr. Nanami{*Nanami-san}?
-Dialogue: 0,0:15:46.13,0:15:48.64,Default,Shigemo,0,0,0,,Come on now, look around you!
+Dialogue: 0,0:15:46.13,0:15:48.64,Default,Shigemo,0,0,0,,Come on now, read the room! {look around you}
 Dialogue: 0,0:15:48.64,0:15:50.76,Default,Shigemo,0,0,0,,Why are you strutting this way?
 Dialogue: 0,0:15:50.76,0:15:53.85,Default,Shigemo,0,0,0,,Can't you see I've got this girl hostage?!
 Comment: 0,0:15:56.44,0:15:57.44,Default,Shigemo,0,0,0,,Huh?
@@ -248,7 +247,7 @@ Dialogue: 0,0:18:41.56,0:18:44.73,Default,Geto,0,0,0,,It's been a while, {*}Miss
 Dialogue: 0,0:18:45.69,0:18:50.36,Default,Mei,0,0,0,,Quite the thing to say after sending \Nassassins after me, Geto{**-kun}. {was there just one assassin?}
 Dialogue: 0,0:18:50.86,0:18:52.69,Default,Mei,0,0,0,,{\i1}How is he still alive?
 Dialogue: 0,0:18:52.69,0:18:54.86,Default,Mei,0,0,0,,{\i1}Did Gojo{**-kun} mess up last year?
-Dialogue: 0,0:18:55.66,0:19:00.29,Default,Mei,0,0,0,,{\i1}Were Gojo{**-kun} and Geto{**-kun} in on this whole commotion together?
+Dialogue: 0,0:18:55.66,0:19:00.29,Default,Mei,0,0,0,,{\i1}Were Gojo{-kun} and Geto{**-kun} in on \Nthis whole commotion together?
 Dialogue: 0,0:19:01.16,0:19:02.70,Default,Mei,0,0,0,,{\i1}No, definitely not.
 Dialogue: 0,0:19:02.70,0:19:07.38,Default,Mei,0,0,0,,{\i1}Gojo{**-kun} could kill every human in this country all by himself.
 Dialogue: 0,0:19:07.38,0:19:11.84,Default,Mei,0,0,0,,{\i1}He doesn't need anyone's help or any petty tricks.
@@ -256,9 +255,9 @@ Dialogue: 0,0:19:13.13,0:19:16.80,Default,Mei,0,0,0,,For the record, I had my mo
 Dialogue: 0,0:19:16.80,0:19:19.55,Default,Mei,0,0,0,,Your nihilistic smile was quite charming.
 Dialogue: 0,0:19:20.56,0:19:26.10,Default,Mei,0,0,0,,That I have to kill you is a bitter shame.
 Dialogue: 0,0:19:26.65,0:19:28.81,Default,Mei,0,0,0,,It really is.
-Dialogue: 0,0:19:29.36,0:19:32.61,Default,Mei,0,0,0,,{\i1}This Geto{**-kun} is most likely a fake.
-Dialogue: 0,0:19:32.61,0:19:35.65,Default,Geto,0,0,0,,The feeling is mutual, {*}Miss Mei{*Mei-san}.
-Dialogue: 0,0:19:36.61,0:19:39.62,Default,Geto,0,0,0,,To think I must kill a former upperclassman. {senpai T_T}
+Dialogue: 0,0:19:29.36,0:19:32.11,Default,Mei,0,0,0,,{\i1}This Geto{**-kun} is most likely a fake.
+Dialogue: 0,0:19:32.57,0:19:35.65,Default,Geto,0,0,0,,The feeling is mutual, {*}Miss Mei{*Mei-san}.
+Dialogue: 0,0:19:36.61,0:19:39.62,Default,Geto,0,0,0,,To think I must kill someone I looked up to. {senpai T_T} {honestly the upperclassman part isnt even relevant, it only serves to inform us that geto looked up to her}
 Dialogue: 0,0:19:43.62,0:19:45.25,Default,Mei,0,0,0,,{\i1}Curse Manipulation?!
 Dialogue: 0,0:19:45.71,0:19:47.75,Default,Mei,0,0,0,,{\i1}Did I read this wrong?
 Dialogue: 0,0:19:48.08,0:19:51.88,Default,Geto,0,0,0,,Special-Grade Disease Curse: Smallpox Deity.
@@ -268,11 +267,14 @@ Dialogue: 0,0:20:02.72,0:20:04.52,Default,Geto,0,0,0,,I'll be waiting down this 
 Dialogue: 0,0:20:04.52,0:20:06.89,Default,Geto,0,0,0,,If you manage to exorcise that,\N I'll take you on.
 Dialogue: 0,0:20:12.77,0:20:14.40,Default,Mei,0,0,0,,{\i1}Domain Expansion?!
 Dialogue: 0,0:20:14.94,0:20:17.61,Default,Mei,0,0,0,,{\i1}This could be troublesome.
+Dialogue: 0,0:20:21.83,0:20:22.91,Cursed,Smallpox,0,0,0,,Grave.
 Dialogue: 0,0:20:23.41,0:20:24.79,Default,Mei,0,0,0,,{\i1}I'm trapped?
 Dialogue: 0,0:20:25.54,0:20:27.66,Default,Mei,0,0,0,,Is this a coffin?
 Dialogue: 0,0:20:27.96,0:20:29.17,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}!
-Dialogue: 0,0:20:32.88,0:20:35.30,Cursed,Smallpox,0,0,0,,Three, two...
-Dialogue: 0,0:20:40.01,0:20:45.43,Default,Mei,0,0,0,,How many years has it been\N since something threatened my life?
+Dialogue: 0,0:20:33.00,0:20:34.42,Cursed,Smallpox,0,0,0,,Three.
+Dialogue: 0,0:20:34.42,0:20:35.30,Cursed,Smallpox,0,0,0,,Two.
+Dialogue: 0,0:20:40.01,0:20:42.39,Default,Mei,0,0,0,,I wonder how many years it has been
+Dialogue: 0,0:20:42.39,0:20:45.43,Default,Mei,0,0,0,,since something actually threatened my life.
 Dialogue: 0,0:20:45.43,0:20:47.18,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}!
 Dialogue: 0,0:20:52.90,0:20:54.73,Default,Yuji,0,0,0,,{\i1}There's nobody here!
 Dialogue: 0,0:20:54.73,0:20:58.24,Default,Yuji,0,0,0,,{\i1}Weren't there supposed to be a ton of\N people trapped down here?
