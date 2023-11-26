@@ -21,31 +21,31 @@ subs {
 
         from(getList("typesets"))
 
-        if(propertyExists("OP")) {
+        if(propertyExists("opsync")) {
             from(get("OP")) {
                 syncTargetTime(getAs<Duration>("opsync"))
             }
         }
 
-        if(propertyExists("EC")) {
+        if(propertyExists("ecsync")) {
             from(get("EC")) {
                 syncTargetTime(getAs<Duration>("ecsync"))
             }
         }
 
-        if(propertyExists("EX")) {
+        if(propertyExists("exsync")) {
             from(get("EX")) {
                 syncTargetTime(getAs<Duration>("exsync"))
             }
         }
 
-        if(propertyExists("ED")) {
+        if(propertyExists("edsync")) {
             from(get("ED")) {
                 syncTargetTime(getAs<Duration>("edsync"))
             }
         }
 
-        if(propertyExists("IN")) {
+        if(propertyExists("insync")) {
             from(get("IN")) {
                 syncTargetTime(getAs<Duration>("insync"))
             }
