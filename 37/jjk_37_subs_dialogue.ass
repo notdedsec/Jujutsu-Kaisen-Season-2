@@ -20,10 +20,10 @@ Audio File: jjk_37_premux.mkv
 Video File: jjk_37_premux.mkv
 Keyframes File: jjk_37_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 97
-Active Line: 100
-Video Position: 14962
+Video Zoom Percent: 0.625000
+Scroll Position: 127
+Active Line: 139
+Video Position: 22381
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,208 +34,186 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:34.84,0:00:36.85,Default,Yuji,0,0,0,,There are so many of them!
-Dialogue: 0,0:00:37.35,0:00:39.12,Default,Yuji,0,0,0,,I can't just ignore them!
-Dialogue: 0,0:00:39.12,0:00:41.46,Default,Yuji,0,0,0,,But I don't have time to rescue everyone!
-Dialogue: 0,0:00:41.46,0:00:43.40,Default,Yuji,0,0,0,,What do I do?!
-Dialogue: 0,0:00:43.40,0:00:47.07,Default,Yuji,0,0,0,,The station... and Gojo{*}{*-sensei}... are just up ahead, too!
-Dialogue: 0,0:00:47.07,0:00:48.14,Default,Toge,0,0,0,,Roe!
-Dialogue: 0,0:00:48.14,0:00:49.36,Default,Yuji,0,0,0,,That vocabulary!
-Dialogue: 0,0:00:50.83,0:00:52.16,Default,Yuji,0,0,0,,Inumaki{**-senpai}!
-Dialogue: 0,0:00:52.16,0:00:52.94,Default,Toge,0,0,0,,Salmon!
-Dialogue: 0,0:00:52.94,0:00:53.77,Default,Yuji,0,0,0,,Please help!
-Dialogue: 0,0:00:53.77,0:00:55.00,Default,Toge,0,0,0,,Salmon, salmon.
-Dialogue: 0,0:01:03.98,0:01:05.43,Default,Toge,0,0,0,,{\an8}Don't move!
-Comment: 0,0:01:06.96,0:01:07.01,Default,chptr,0,0,0,,{Opening}
+Dialogue: 0,0:00:34.85,0:00:36.85,Default,Yuji,0,0,0,,There's so many of them!
+Dialogue: 0,0:00:37.52,0:00:39.31,Default,Yuji,0,0,0,,I can't just ignore them!
+Dialogue: 0,0:00:39.31,0:00:41.60,Default,Yuji,0,0,0,,But I don't have time to save everyone!
+Dialogue: 0,0:00:41.60,0:00:43.56,Default,Yuji,0,0,0,,Dammit! What do I do?!
+Dialogue: 0,0:00:43.56,0:00:47.11,Default,Yuji,0,0,0,,The station... {*}Mr. Gojo{*Gojo-sensei}... is so close!
+Dialogue: 0,0:00:47.11,0:00:48.15,Default,Toge,0,0,0,,Pollack roe!
+Dialogue: 0,0:00:48.15,0:00:49.36,Default,Yuji,0,0,0,,I know those words!
+Dialogue: 0,0:00:50.95,0:00:52.28,Default,Yuji,0,0,0,,Inumaki{**-senpai}!
+Dialogue: 0,0:00:52.28,0:00:52.95,Default,Toge,0,0,0,,Salmon!
+Dialogue: 0,0:00:52.95,0:00:53.91,Default,Yuji,0,0,0,,I'll leave you to it!
+Dialogue: 0,0:00:53.91,0:00:54.99,Default,Toge,0,0,0,,Salmon, salmon.
+Dialogue: 0,0:01:03.96,0:01:07.01,Default,Toge,0,0,0,,{\an8}Don't move!
+Dialogue: 1,0:01:03.96,0:01:05.50,Default,Toge,0,0,0,,{\fade(600,400)\an5\pos(960,97)\bord0\t(500,1000,\be8)\c&HF5FFEB&}Don't move!
 Comment: 0,0:02:37.01,0:02:37.05,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:03:30.68,0:03:32.32,Default,Choso,0,0,0,,{\i1}Itadori Yuji!
-Dialogue: 0,0:03:32.64,0:03:34.32,Default,Choso,0,0,0,,{\i1}My brothers' killer!
-Dialogue: 0,0:03:37.81,0:03:38.82,Default,Choso,0,0,0,,Convergence!
-Dialogue: 0,0:03:40.30,0:03:43.20,Default,Narration,0,0,0,,Blood Manipulation: "Convergence"
-Dialogue: 0,0:03:43.95,0:03:48.45,Default,Narration,0,0,0,,is a skill that involves applying pressure to blood in order to compress it to its limit.
-Dialogue: 0,0:03:50.45,0:03:52.92,Default,Narration,0,0,0,,The blood compressed with Convergence
-Dialogue: 0,0:03:52.92,0:03:55.10,Default,Narration,0,0,0,,is then released through a single point.
-Dialogue: 0,0:03:55.10,0:03:59.60,Default,Narration,0,0,0,,The initial speed of this blood enhanced with cursed energy
-Dialogue: 0,0:03:59.60,0:04:01.56,Default,Narration,0,0,0,,well exceeds the speed of sound when released.
-Dialogue: 0,0:04:02.34,0:04:06.43,Default,Narration,0,0,0,,This secret art of Blood Manipulation is called...
-Dialogue: 0,0:04:08.18,0:04:09.44,Default,Choso,0,0,0,,Piercing Blood.
-Dialogue: 0,0:04:23.24,0:04:25.09,Default,Choso,0,0,0,,{\i1}A double impact?
-Dialogue: 0,0:04:25.09,0:04:26.77,Default,Choso,0,0,0,,{\i1}What an odd technique.
-Dialogue: 0,0:04:42.74,0:04:43.76,Default,Choso,0,0,0,,There's something
-Dialogue: 0,0:04:44.79,0:04:46.78,Default,Choso,0,0,0,,I have to ask you.
-Dialogue: 0,0:04:47.76,0:04:51.40,Default,Choso,0,0,0,,Did my little brothers leave behind any last words?
-Dialogue: 0,0:04:51.82,0:04:52.89,Default,Yuji,0,0,0,,Brothers?
-Dialogue: 0,0:04:52.89,0:04:53.82,Default,Choso,0,0,0,,Tsk.
-Dialogue: 0,0:04:54.15,0:04:57.15,Default,Choso,0,0,0,,I'm talking about the ones you two killed.
-Dialogue: 0,0:04:59.65,0:05:01.83,Default,Yuji,0,0,0,,No, not really.
-Dialogue: 0,0:05:03.15,0:05:04.32,Default,Yuji,0,0,0,,But...
-Dialogue: 0,0:05:06.71,0:05:07.74,Default,Yuji,0,0,0,,They were crying.
-Dialogue: 0,0:05:11.75,0:05:12.74,Default,Choso,0,0,0,,Eso!
-Dialogue: 0,0:05:12.97,0:05:14.17,Default,Choso,0,0,0,,Kechizu!
-Dialogue: 0,0:05:17.74,0:05:19.09,Default,Choso,0,0,0,,Watch over me...
-Dialogue: 0,0:05:19.48,0:05:25.01,Default,Choso,0,0,0,,This is your older brother!
-Dialogue: 0,0:06:42.81,0:06:44.56,Default,Yuji,0,0,0,,{\i1}Shit...
-Dialogue: 0,0:06:45.54,0:06:48.14,Default,Yuji,0,0,0,,{\i1}He got distance on me again.
-Dialogue: 0,0:06:48.62,0:06:50.86,Default,Yuji,0,0,0,,{\i1}That beam of blood is too fast.
-Dialogue: 0,0:06:50.86,0:06:52.64,Default,Yuji,0,0,0,,{\i1}I have a 50/50 chance to dodge.
-Dialogue: 0,0:06:52.64,0:06:55.40,Default,Yuji,0,0,0,,{\i1}If my intuition is off and it hits my head...
-Dialogue: 0,0:06:55.89,0:06:57.44,Default,Yuji,0,0,0,,{\i1}I'm dead.
-Dialogue: 0,0:06:59.99,0:07:01.89,Default,Yuji,0,0,0,,{\i1}Then I should at least...
-Dialogue: 0,0:07:07.93,0:07:11.91,Default,Yuji,0,0,0,,{\i1}determine when he fires it myself.
-Dialogue: 0,0:07:11.91,0:07:14.10,Default,Choso,0,0,0,,{\i1}He's luring me out.
-Dialogue: 0,0:07:14.10,0:07:15.52,Default,Choso,0,0,0,,{\i1}Fine, then.
-Dialogue: 0,0:07:35.43,0:07:36.92,Default,Yuji,0,0,0,,{\i1}I knew it!
-Dialogue: 0,0:07:36.92,0:07:39.73,Default,Yuji,0,0,0,,{\i1}That attack is only fast when first fired.
-Dialogue: 0,0:07:39.73,0:07:41.95,Default,Yuji,0,0,0,,{\i1}Once I avoid it, I can lay on the pressure!
-Dialogue: 0,0:07:43.52,0:07:45.19,Default,Choso,0,0,0,,Supernova.
-Dialogue: 0,0:08:17.13,0:08:18.00,Default,Choso,0,0,0,,{\i1}Tsk.
-Dialogue: 0,0:08:18.54,0:08:20.09,Default,Choso,0,0,0,,{\i1}I got hasty.
-Dialogue: 0,0:08:21.53,0:08:23.87,Default,Choso,0,0,0,,{\i1}It wasn't compressed enough.
-Dialogue: 0,0:08:26.14,0:08:28.64,Default,Yuji,0,0,0,,{\i1}Shit! This bastard...
-Dialogue: 0,0:08:31.65,0:08:32.97,Default,Yuji,0,0,0,,{\i1}is strong!
-Dialogue: 0,0:08:32.97,0:08:33.96,Default,Mechamaru,0,0,0,,{\i1}Hey!
-Dialogue: 0,0:08:34.88,0:08:37.65,Default,Mechamaru,0,0,0,,{\i1}Hey! What's the situation?
-Dialogue: 0,0:08:37.65,0:08:39.80,Default,Yuji,0,0,0,,Mechamaru! What have you been—
-Dialogue: 0,0:08:39.80,0:08:40.66,Default,Mechamaru,0,0,0,,{\i1}Conserving energy.
-Dialogue: 0,0:08:40.66,0:08:42.78,Default,Mechamaru,0,0,0,,{\i1}There's still a lot I need to do.
-Dialogue: 0,0:08:42.78,0:08:45.38,Default,Mechamaru,0,0,0,,{\i1}Choso! Blood Manipulation, huh?
-Dialogue: 0,0:08:45.38,0:08:46.18,Default,Yuji,0,0,0,,You know about it?
-Dialogue: 0,0:08:46.18,0:08:48.05,Default,Mechamaru,0,0,0,,{\i1}He's using the same cursed technique as Kamo.
-Dialogue: 0,0:08:49.74,0:08:51.62,Default,Yuji,0,0,0,,That thin-eyed third year, huh?
-Dialogue: 0,0:08:51.62,0:08:52.90,Default,Yuji,0,0,0,,Which means...
-Dialogue: 0,0:08:52.90,0:08:54.60,Default,Mechamaru,0,0,0,,{\i1}I don't know its weakness.
-Dialogue: 0,0:08:54.60,0:08:55.30,Default,Yuji,0,0,0,,Geh!
-Dialogue: 0,0:08:55.30,0:09:00.84,Default,Mechamaru,0,0,0,,{\i1}Blood Manipulation is treasured as one of the Kamo clan's hereditary techniques.
-Dialogue: 0,0:09:00.84,0:09:04.25,Default,Mechamaru,0,0,0,,{\i1}The reason for that is "Convergence," which compresses blood with high pressure,
-Dialogue: 0,0:09:04.25,0:09:08.04,Default,Mechamaru,0,0,0,,{\i1}plus "Piercing Blood" and "Blood Blade," which are derived from that,
-Dialogue: 0,0:09:08.04,0:09:11.32,Default,Mechamaru,0,0,0,,{\i1}giving it a well-balanced response in close, mid, and long range.
-Dialogue: 0,0:09:11.78,0:09:14.22,Default,Mechamaru,0,0,0,,{\i1}Since Choso won't bleed out, he has no openings.
-Dialogue: 0,0:09:14.22,0:09:15.82,Default,Yuji,0,0,0,,Thanks for the critical infor—
-Dialogue: 0,0:09:17.32,0:09:20.66,Default,Mechamaru,0,0,0,,{\i1}I don't know its weakness, but I do have an idea.
-Dialogue: 0,0:09:20.66,0:09:22.12,Default,Yuji,0,0,0,,What is it?
-Dialogue: 0,0:09:22.12,0:09:24.01,Default,Mechamaru,0,0,0,,{\i1}First, flee into the restroom.
-Dialogue: 0,0:09:24.01,0:09:25.64,Default,Yuji,0,0,0,,The restroom?! Why?!
-Dialogue: 0,0:09:25.64,0:09:27.67,Default,Mechamaru,0,0,0,,{\i1}I'll explain later.
-Dialogue: 0,0:09:27.67,0:09:29.93,Default,Mechamaru,0,0,0,,{\i1}There's maybe a 10% chance this works.
-Dialogue: 0,0:09:29.93,0:09:32.68,Default,Mechamaru,0,0,0,,{\i1}Sorry, but if this fails, brace yourself for death.
-Dialogue: 0,0:09:32.68,0:09:33.87,Default,Yuji,0,0,0,,That's cruel.
-Dialogue: 0,0:09:33.87,0:09:36.54,Default,Mechamaru,0,0,0,,{\i1}At this rate, you'll just get worn down until you're killed anyway.
-Dialogue: 0,0:09:45.73,0:09:47.31,Default,Choso,0,0,0,,{\i1}Idiot.
-Dialogue: 0,0:09:47.31,0:09:50.48,Default,Choso,0,0,0,,{\i1}That only leads to the restrooms and the elevator.
-Dialogue: 0,0:09:50.48,0:09:53.49,Default,Choso,0,0,0,,{\i1}No matter which you run to, you're trapped like a rat.
-Dialogue: 0,0:09:57.57,0:09:59.02,Default,Choso,0,0,0,,{\i1}What's that sound?
-Dialogue: 0,0:09:59.78,0:10:02.38,Default,Choso,0,0,0,,{\i1}This guy has beaten my brothers before.
-Dialogue: 0,0:10:02.38,0:10:04.55,Default,Choso,0,0,0,,{\i1}Those two wouldn't lose to some idiot.
-Dialogue: 0,0:10:04.96,0:10:08.30,Default,Choso,0,0,0,,{\i1}There's also that second voice that suddenly appeared.
-Dialogue: 0,0:10:09.52,0:10:12.16,Default,Choso,0,0,0,,{\i1}It would be right to assume he's planning something.
-Dialogue: 0,0:10:12.16,0:10:13.31,Default,Choso,0,0,0,,{\i1}Don't let your guard down.
-Dialogue: 0,0:10:13.31,0:10:14.50,Default,Mechamaru,0,0,0,,{\i1}What's wrong?
-Dialogue: 0,0:10:14.50,0:10:16.04,Default,Mechamaru,0,0,0,,{\i1}Not coming?
-Dialogue: 0,0:10:16.91,0:10:19.00,Default,Mechamaru,0,0,0,,{\i1}You're a coward, huh?
-Dialogue: 0,0:10:19.00,0:10:21.24,Default,Mechamaru,0,0,0,,{\i1}Just like your brothers.
-Dialogue: 0,0:10:22.31,0:10:23.77,Default,Choso,0,0,0,,{\i1}I'll kill you!
+Dialogue: 0,0:03:30.69,0:03:32.73,Default,Choso,0,0,0,,{\i1}Itadori Yuji!
+Dialogue: 0,0:03:32.73,0:03:34.32,Default,Choso,0,0,0,,{\i1}I'll avenge my brothers!
+Dialogue: 0,0:03:37.82,0:03:38.82,Default,Choso,0,0,0,,Convergence!
+Dialogue: 0,0:03:40.58,0:03:43.62,Default,Narrator,0,0,0,,Blood Manipulation: Convergence.
+Dialogue: 0,0:03:44.00,0:03:48.46,Default,Narrator,0,0,0,,By applying pressure on blood,\N it is compressed to its limit.
+Dialogue: 0,0:03:50.46,0:03:55.26,Default,Narrator,0,0,0,,The compressed blood is then released\N through a single point.
+Dialogue: 0,0:03:55.26,0:04:01.55,Default,Narrator,0,0,0,,When enhanced with cursed energy,\N its initial speed well exceeds the speed of sound.
+Dialogue: 0,0:04:02.35,0:04:06.43,Default,Narrator,0,0,0,,This name of this Blood Manipulation technique is {secret?}
+Dialogue: 0,0:04:08.19,0:04:09.44,Default,Choso,0,0,0,,Piercing Blood.
+Dialogue: 0,0:04:23.41,0:04:27.04,Default,Choso,0,0,0,,{\i1}Double impact? What an odd technique.
+Dialogue: 0,0:04:42.76,0:04:46.77,Default,Choso,0,0,0,,There's something I have to ask you.
+Dialogue: 0,0:04:47.77,0:04:51.40,Default,Choso,0,0,0,,Did my little brothers leave any last words?
+Dialogue: 0,0:04:51.90,0:04:52.90,Default,Yuji,0,0,0,,Brothers?
+Comment: 0,0:04:52.90,0:04:54.19,Default,Choso,0,0,0,,Tsk.
+Dialogue: 0,0:04:54.19,0:04:57.15,Default,Choso,0,0,0,,I'm talking about the two you killed. {smh cr smh}
+Dialogue: 0,0:04:59.82,0:05:01.82,Default,Yuji,0,0,0,,No, they didn't.
+Dialogue: 0,0:05:03.28,0:05:04.33,Default,Yuji,0,0,0,,But...
+Dialogue: 0,0:05:06.79,0:05:07.75,Default,Yuji,0,0,0,,They did cry.
+Dialogue: 0,0:05:11.75,0:05:14.50,Default,Choso,0,0,0,,Eso! Kechizu!
+Dialogue: 0,0:05:17.84,0:05:19.63,Default,Choso,0,0,0,,{\pos(999,1020)}Watch me.
+Dialogue: 0,0:05:19.63,0:05:25.01,Default,Choso,0,0,0,,Watch your older brother!
+Dialogue: 0,0:06:42.92,0:06:44.47,Default,Yuji,0,0,0,,{\i1}Damn it.
+Dialogue: 0,0:06:45.63,0:06:48.18,Default,Yuji,0,0,0,,{\i1}He got distance on me again.
+Dialogue: 0,0:06:48.72,0:06:51.01,Default,Yuji,0,0,0,,{\i1}That beam of blood is too fast.
+Dialogue: 0,0:06:51.01,0:06:52.85,Default,Yuji,0,0,0,,{\i1}Chances of dodging it are fifty-fifty.
+Dialogue: 0,0:06:52.85,0:06:55.89,Default,Yuji,0,0,0,,{\i1}If I make the wrong guess and take one to the head...
+Dialogue: 0,0:06:55.89,0:06:57.48,Default,Yuji,0,0,0,,{\i1}I'm dead.
+Dialogue: 0,0:07:00.11,0:07:01.90,Default,Yuji,0,0,0,,{\i1}Then at the very least...
+Dialogue: 0,0:07:07.91,0:07:11.91,Default,Yuji,0,0,0,,{\i1}I get to decide when he fires his shot.
+Dialogue: 0,0:07:12.33,0:07:14.33,Default,Choso,0,0,0,,{\i1}Trying to get me to attack?
+Dialogue: 0,0:07:14.33,0:07:15.91,Default,Choso,0,0,0,,{\i1}I'll play along.
+Dialogue: 0,0:07:35.77,0:07:36.94,Default,Yuji,0,0,0,,{\i1}I knew it!
+Dialogue: 0,0:07:36.94,0:07:39.73,Default,Yuji,0,0,0,,{\i1}That attack only starts off fast.
+Dialogue: 0,0:07:39.73,0:07:41.69,Default,Yuji,0,0,0,,{\i1}Once I dodge it, I can get in close!
+Dialogue: 0,0:07:43.69,0:07:45.19,Default,Choso,0,0,0,,Supernova.
+Dialogue: 0,0:08:17.14,0:08:18.14,Default,Choso,0,0,0,,Tch.
+Dialogue: 0,0:08:18.64,0:08:20.15,Default,Choso,0,0,0,,I got hasty.
+Dialogue: 0,0:08:21.69,0:08:23.90,Default,Choso,0,0,0,,{\i1}It wasn't compressed enough.
+Dialogue: 0,0:08:26.15,0:08:28.65,Default,Yuji,0,0,0,,{\i1}This bastard...
+Dialogue: 0,0:08:31.66,0:08:33.07,Default,Yuji,0,0,0,,{\i1}He's strong!
+Dialogue: 0,0:08:33.07,0:08:33.91,Default,Mechamaru,0,0,0,,Hey!
+Dialogue: 0,0:08:34.99,0:08:37.66,Default,Mechamaru,0,0,0,,What's the situation now?
+Dialogue: 0,0:08:37.66,0:08:39.83,Default,Yuji,0,0,0,,Mechamaru! What have you been{\fscx180}—{\fscx}
+Dialogue: 0,0:08:39.83,0:08:43.00,Default,Mechamaru,0,0,0,,Conserving energy.\N There are things I have yet to do.
+Dialogue: 0,0:08:43.00,0:08:45.50,Default,Mechamaru,0,0,0,,Choso! Is that Blood Manipulation?
+Dialogue: 0,0:08:45.50,0:08:46.30,Default,Yuji,0,0,0,,You know it?
+Dialogue: 0,0:08:46.30,0:08:48.09,Default,Mechamaru,0,0,0,,Kamo uses the same technique.
+Dialogue: 0,0:08:49.88,0:08:51.80,Default,Yuji,0,0,0,,That third-year with the narrow eyes? {bro just described every third-year in the east}
+Dialogue: 0,0:08:51.80,0:08:53.09,Default,Yuji,0,0,0,,Does that mean...
+Dialogue: 0,0:08:53.09,0:08:54.76,Default,Mechamaru,0,0,0,,I don't know its weakness.
+Dialogue: 0,0:08:54.76,0:08:55.31,Default,Yuji,0,0,0,,Geh!
+Dialogue: 0,0:08:55.31,0:09:00.85,Default,Mechamaru,0,0,0,,Blood Manipulation is treasured as one of the Kamo clan's hereditary techniques.
+Dialogue: 0,0:09:00.85,0:09:08.23,Default,Mechamaru,0,0,0,,It's because the blood compressed with Convergence\N can be used for Piercing Blood and Blood Blade,
+Dialogue: 0,0:09:08.23,0:09:11.99,Default,Mechamaru,0,0,0,,making it extremely well-balanced at any range.
+Dialogue: 0,0:09:11.99,0:09:14.37,Default,Mechamaru,0,0,0,,It's perfect for Choso\N since he won't bleed out.
+Dialogue: 0,0:09:14.37,0:09:15.83,Default,Yuji,0,0,0,,Thanks for the critical info{\fscx180}—{\fscx}
+Dialogue: 0,0:09:17.49,0:09:20.87,Default,Mechamaru,0,0,0,,I don't know its weakness, but I do have an idea.
+Dialogue: 0,0:09:20.87,0:09:22.29,Default,Yuji,0,0,0,,What is it?
+Dialogue: 0,0:09:22.29,0:09:24.08,Default,Mechamaru,0,0,0,,Start with fleeing into the restroom.
+Dialogue: 0,0:09:24.08,0:09:25.67,Default,Yuji,0,0,0,,The restroom?! Why?!
+Dialogue: 0,0:09:25.67,0:09:27.67,Default,Mechamaru,0,0,0,,I'll explain later.
+Dialogue: 0,0:09:27.67,0:09:30.13,Default,Mechamaru,0,0,0,,There's maybe a ten percent chance of success.
+Dialogue: 0,0:09:30.13,0:09:32.80,Default,Mechamaru,0,0,0,,I apologize in advance in case it fails\N and you end up dead.
+Dialogue: 0,0:09:32.80,0:09:33.97,Default,Yuji,0,0,0,,Not cool!
+Dialogue: 0,0:09:33.97,0:09:36.68,Default,Mechamaru,0,0,0,,Or you can continue to\N drag this out until you're killed.
+Dialogue: 0,0:09:45.73,0:09:47.06,Default,Choso,0,0,0,,What an idiot.
+Dialogue: 0,0:09:47.48,0:09:50.48,Default,Choso,0,0,0,,{\i1}That only leads to the restrooms and the elevator. {escalator}
+Dialogue: 0,0:09:50.48,0:09:53.49,Default,Choso,0,0,0,,{\i1}No matter which you run to, you're trapped like a rat. {like shooting fish in a barrel}
+Dialogue: 0,0:09:57.70,0:09:59.49,Default,Choso,0,0,0,,{\i1}What's that sound?
+Dialogue: 0,0:09:59.91,0:10:04.54,Default,Choso,0,0,0,,{\i1}This guy defeated my brothers.\N Those two wouldn't lose to some idiot.
+Dialogue: 0,0:10:05.12,0:10:08.42,Default,Choso,0,0,0,,{\i1}And what's the deal with that other voice?
+Dialogue: 0,0:10:09.50,0:10:13.38,Default,Choso,0,0,0,,{\i1}Something's going on. I bettter stay on my toes.
+Dialogue: 0,0:10:13.38,0:10:16.51,Default,Mechamaru,0,0,0,,What's wrong? Getting cold feet?
+Dialogue: 0,0:10:17.05,0:10:19.01,Default,Mechamaru,0,0,0,,You are such a coward.
+Dialogue: 0,0:10:19.01,0:10:21.27,Default,Mechamaru,0,0,0,,Just like your brothers.
+Dialogue: 0,0:10:22.39,0:10:23.60,Default,Choso,0,0,0,,Now you've done it. {I'll kill you!} {You're dead meat.}
 Comment: 0,0:10:24.02,0:10:24.06,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:10:30.28,0:10:32.40,Default,Mechamaru,0,0,0,,{\i1}You really are just like them.
-Dialogue: 0,0:10:36.48,0:10:39.49,Default,Mechamaru,0,0,0,,{\i1}All three of you care so much for each other.
-Dialogue: 0,0:10:39.49,0:10:41.61,Default,Mechamaru,0,0,0,,{\i1}It makes you easy to manipulate.
-Dialogue: 0,0:10:48.76,0:10:50.83,Default,Mechamaru,0,0,0,,{\i1}It's all gone well so far.
-Dialogue: 0,0:10:50.83,0:10:52.25,Default,Mechamaru,0,0,0,,{\i1}Now it's up to chance,
-Dialogue: 0,0:10:52.25,0:10:53.54,Default,Mechamaru,0,0,0,,{\i1}Itadori Yuji!
-Dialogue: 0,0:11:05.83,0:11:07.66,Default,Choso,0,0,0,,Too bad.
-Dialogue: 0,0:11:08.73,0:11:11.19,Default,Choso,0,0,0,,{\i1}That was your last chance.
-Dialogue: 0,0:11:11.19,0:11:14.27,Default,Choso,0,0,0,,{\i1}You're the one with nowhere to run now!
-Dialogue: 0,0:11:20.28,0:11:22.60,Default,Choso,0,0,0,,{\i1}Convergence dissolved?!
-Dialogue: 0,0:11:23.71,0:11:27.33,Default,Narration,0,0,0,,In order to enhance the effects of the Blood Manipulation Technique,
-Dialogue: 0,0:11:27.33,0:11:31.28,Default,Narration,0,0,0,,users constantly have the coagulation properties of their blood turned off.
-Dialogue: 0,0:11:31.96,0:11:37.29,Default,Narration,0,0,0,,As a result, Choso's blood dissolves in water more easily than that of others.
-Dialogue: 0,0:11:37.57,0:11:40.96,Default,Narration,0,0,0,,On top of that, once exposed to water,
-Dialogue: 0,0:11:40.96,0:11:46.41,Default,Narration,0,0,0,,the osmotic pressure causes the red blood cells to expand and rupture their cell walls.
-Dialogue: 0,0:11:47.37,0:11:53.84,Default,Narration,0,0,0,,This left him unable to control the blood cells that comprise 45% of his blood,
-Dialogue: 0,0:11:53.84,0:11:56.31,Default,Narration,0,0,0,,breaking his Convergence.
-Dialogue: 0,0:11:57.16,0:11:59.76,Default,Narration,0,0,0,,Mechamaru's aim was on the mark.
-Dialogue: 0,0:12:00.19,0:12:02.16,Default,Narration,0,0,0,,In that situation,
-Dialogue: 0,0:12:02.16,0:12:06.71,Default,Narration,0,0,0,,it was impossible for Choso to use Blood Manipulation outside his own body.
-Dialogue: 0,0:12:12.80,0:12:16.77,Default,Choso,0,0,0,,{\i1}Flowing Red Scale - Stack.
-Dialogue: 0,0:12:16.77,0:12:19.58,Default,Narration,0,0,0,,Choso lacked combat experience,
-Dialogue: 0,0:12:19.58,0:12:22.84,Default,Narration,0,0,0,,so he couldn't comprehend what was happening to him.
-Dialogue: 0,0:12:23.29,0:12:25.46,Default,Narration,0,0,0,,He just coldly accepted the new reality
-Dialogue: 0,0:12:25.46,0:12:28.88,Default,Narration,0,0,0,,and conducted his blood manipulation within his body.
-Dialogue: 0,0:12:30.21,0:12:32.28,Default,Yuji,0,0,0,,{\i1}I don't understand the reasoning.
-Dialogue: 0,0:12:32.28,0:12:35.04,Default,Yuji,0,0,0,,{\i1}There wasn't any opportunity for me to ask.
-Dialogue: 0,0:12:35.04,0:12:37.86,Default,Yuji,0,0,0,,{\i1}But I do know one thing.
-Dialogue: 0,0:12:38.40,0:12:40.62,Default,Yuji,0,0,0,,{\i1}I've dragged him into my turf!
-Dialogue: 0,0:13:49.30,0:13:50.52,Default,Yuji,0,0,0,,{\i1}I can win!
-Dialogue: 0,0:13:52.39,0:13:57.09,Default,Narration,0,0,0,,Choso had been keeping a clot of blood from being exposed and dissolving
-Dialogue: 0,0:13:57.09,0:14:00.75,Default,Narration,0,0,0,,in the water as he strengthened said clot with cursed energy
-Dialogue: 0,0:14:00.75,0:14:03.96,Default,Narration,0,0,0,,and compressed the coagulated lump to its limit,
-Dialogue: 0,0:14:05.82,0:14:08.62,Default,Narration,0,0,0,,so the moment Itadori Yuji was convinced of victory,
-Dialogue: 0,0:14:08.62,0:14:10.37,Default,Narration,0,0,0,,it pierced his liver.
-Dialogue: 0,0:14:11.32,0:14:15.32,Default,Choso,0,0,0,,{\i1}Blood Manipulation: Blood Meteorite.
-Dialogue: 0,0:14:15.32,0:14:18.36,Default,Yuji,0,0,0,,{\i1}I screwed up! I assumed he couldn't use any more projectiles!
-Dialogue: 0,0:14:18.92,0:14:21.04,Default,Yuji,0,0,0,,{\i1}What now? Where was I hit?
-Dialogue: 0,0:14:21.33,0:14:24.32,Default,Yuji,0,0,0,,{\i1}This isn't the same as when I had a hole in my stomach!
-Dialogue: 0,0:14:24.32,0:14:26.92,Default,Yuji,0,0,0,,{\i1}It destroyed something that shouldn't be broken!
-Dialogue: 0,0:14:27.34,0:14:28.48,Default,Yuji,0,0,0,,{\i1}I'm going to lose...
-Dialogue: 0,0:14:29.00,0:14:29.93,Default,Yuji,0,0,0,,{\i1}and die!
-Dialogue: 0,0:14:36.36,0:14:39.85,Default,Yuji,0,0,0,,{\i1}I understand what my role is.
-Dialogue: 0,0:14:39.85,0:14:42.68,Default,Yuji,0,0,0,,{\i1}Fushiguro, Kugisaki,
-Dialogue: 0,0:14:42.68,0:14:46.20,Default,Yuji,0,0,0,,{\i1}the other upperclassmen, all of them
-Dialogue: 0,0:14:46.20,0:14:49.62,Default,Yuji,0,0,0,,{\i1}will pass through here on their way to Gojo{*}{*-sensei}.
-Dialogue: 0,0:14:49.62,0:14:53.12,Default,Yuji,0,0,0,,{\i1}So even if I die, I'm taking this guy out.
-Dialogue: 0,0:14:53.49,0:14:58.08,Default,Yuji,0,0,0,,{\i1}I don't have to be the one to rescue Gojo{*}{*-sensei}.
-Dialogue: 0,0:14:59.28,0:15:00.96,Default,Choso,0,0,0,,{\i1}Three hits.
-Dialogue: 0,0:15:00.96,0:15:03.11,Default,Choso,0,0,0,,{\i1}A mere three hits,
-Dialogue: 0,0:15:03.11,0:15:05.29,Default,Choso,0,0,0,,{\i1}not counting the ones I guarded against.
-Dialogue: 0,0:15:05.76,0:15:09.80,Default,Choso,0,0,0,,{\i1}Those blows I took from Itadori dealt this much damage to me...
-Dialogue: 0,0:15:10.66,0:15:12.79,Default,Choso,0,0,0,,{\i1}Blood Meteorite's only strength is its hardness.
-Dialogue: 0,0:15:12.79,0:15:15.60,Default,Choso,0,0,0,,{\i1}It doesn't have the speed or impact of Piercing Blood.
-Dialogue: 0,0:15:15.60,0:15:20.31,Default,Choso,0,0,0,,{\i1}If I hadn't caught him by surprise, it wouldn't have been able to pierce him.
-Dialogue: 0,0:15:20.92,0:15:23.17,Default,Narration,0,0,0,,Normally, Blood Manipulation sorcerers
-Dialogue: 0,0:15:23.17,0:15:26.40,Default,Narration,0,0,0,,never coagulate blood like he did for Blood Meteorite.
-Dialogue: 0,0:15:26.40,0:15:29.54,Default,Narration,0,0,0,,Even Blood Blade only solidifies the outline and
-Dialogue: 0,0:15:29.54,0:15:33.24,Default,Narration,0,0,0,,circulates blood at high speeds to heighten its lethality.
-Dialogue: 0,0:15:33.24,0:15:36.04,Default,Narration,0,0,0,,Even those sorcerers with Blood Manipulation can't
-Dialogue: 0,0:15:36.04,0:15:39.08,Default,Narration,0,0,0,,extend their concentration to every blood vessel at once.
-Dialogue: 0,0:15:39.08,0:15:41.88,Default,Narration,0,0,0,,So when they strongly coagulate their blood,
-Dialogue: 0,0:15:41.88,0:15:46.09,Default,Narration,0,0,0,,it always poses the risk of causing spontaneous thrombosis.
-Dialogue: 0,0:15:46.49,0:15:47.49,Default,Choso,0,0,0,,Bring it.
-Dialogue: 0,0:15:48.48,0:15:55.85,Default,Narration,0,0,0,,However, Choso decided the risk posed by Itadori Yuji was far greater.
-Dialogue: 0,0:16:21.80,0:16:22.41,Default,Yuji,0,0,0,,{\i1}He's strong!
-Dialogue: 0,0:16:32.36,0:16:33.60,Default,Yuji,0,0,0,,{\i1}A tooth?!
-Dialogue: 0,0:16:37.23,0:16:39.03,Default,Yuji,0,0,0,,{\i1}It was a feint?!
+Dialogue: 0,0:10:30.40,0:10:32.94,Default,Mechamaru,0,0,0,,You really are just like them.
+Dialogue: 0,0:10:36.74,0:10:39.49,Default,Mechamaru,0,0,0,,You three care so much for each other.
+Dialogue: 0,0:10:39.49,0:10:41.62,Default,Mechamaru,0,0,0,,Makes you easy to manipulate.
+Dialogue: 0,0:10:48.75,0:10:50.84,Default,Mechamaru,0,0,0,,It's all gone well so far.
+Dialogue: 0,0:10:51.09,0:10:53.46,Default,Mechamaru,0,0,0,,Now it's a gamble, Itadori Yuji!
+Dialogue: 0,0:11:05.93,0:11:07.64,Default,Choso,0,0,0,,What a pity.
+Dialogue: 0,0:11:08.81,0:11:11.27,Default,Choso,0,0,0,,{\i1}That was your last chance.
+Dialogue: 0,0:11:11.27,0:11:14.44,Default,Choso,0,0,0,,{\i1}You've got nowhere to run now!
+Dialogue: 0,0:11:20.28,0:11:22.70,Default,Choso,0,0,0,,{\i1}Convergence was dispelled?!
+Dialogue: 0,0:11:23.83,0:11:31.29,Default,Narrator,0,0,0,,In order to use Blood Manipulation effectively,\N the user halts the coagulation properties of their blood.
+Dialogue: 0,0:11:32.17,0:11:37.30,Default,Narrator,0,0,0,,As a result, Choso's blood dissolves in water\N more easily than normal blood.
+Dialogue: 0,0:11:37.72,0:11:46.43,Default,Narrator,0,0,0,,Additionally, the osmotic pressure causes the \Nred blood cells to expand and rupture their membranes.
+Dialogue: 0,0:11:47.52,0:11:53.98,Default,Narrator,0,0,0,,Unable to control the blood cells that make up\N close to forty-five percent of his blood, {With cells that make up close to forty-five percent\N of his blood now out of his control,}
+Dialogue: 0,0:11:53.98,0:11:56.32,Default,Narrator,0,0,0,,Convergence was dispelled.
+Dialogue: 0,0:11:57.28,0:11:59.82,Default,Narrator,0,0,0,,Mechamaru's intuition was correct.
+Dialogue: 0,0:12:00.32,0:12:06.83,Default,Narrator,0,0,0,,As things stand, Choso can no longer control\N the blood outside his body.
+Dialogue: 0,0:12:13.04,0:12:16.96,Default,Choso,0,0,0,,{\i1}Flowing Red Scale: Stack.
+Dialogue: 0,0:12:16.96,0:12:23.43,Default,Narrator,0,0,0,,Choso lacked combat experience, so he couldn't\N comprehend what was happening to him.
+Dialogue: 0,0:12:23.43,0:12:29.06,Default,Narrator,0,0,0,,He simply accepted the new reality and\N focused on manipulating blood inside his body.
+Dialogue: 0,0:12:30.39,0:12:32.44,Default,Yuji,0,0,0,,{\i1}I'm not sure what's going on.
+Dialogue: 0,0:12:32.44,0:12:36.02,Default,Yuji,0,0,0,,{\i1}Never got the chance to ask for an explanation.
+Dialogue: 0,0:12:36.02,0:12:37.86,Default,Yuji,0,0,0,,{\i1}All I know is...
+Dialogue: 0,0:12:38.53,0:12:40.74,Default,Yuji,0,0,0,,{\i1}I've dragged him into my turf!
+Dialogue: 0,0:13:49.64,0:13:50.68,Default,Yuji,0,0,0,,{\i1}I can win!
+Dialogue: 0,0:13:52.52,0:13:55.56,Default,Narrator,0,0,0,,The moment he was convinced of victory,
+Dialogue: 0,0:13:55.56,0:14:00.78,Default,Narrator,0,0,0,,coagulated and compressed to the extreme\N and reinforced with cursed energy,
+Dialogue: 0,0:14:00.78,0:14:02.65,Default,Narrator,0,0,0,,the clot of blood kept hidden from water
+Dialogue: 0,0:14:02.82,0:14:03.78,Default,Narrator,0,0,0,,{\fade(0,50)}the clot of blood kept hidden from water
+Dialogue: 0,0:14:05.95,0:14:10.33,Default,Narrator,0,0,0,,shot through Itadori Yuji's liver.
+Dialogue: 0,0:14:11.33,0:14:15.33,Default,Choso,0,0,0,,{\i1}Blood Manipulation: Blood Meteorite.
+Dialogue: 0,0:14:15.33,0:14:18.59,Default,Yuji,0,0,0,,{\i1}I screwed up! I assumed he couldn't use any projectiles!
+Dialogue: 0,0:14:19.00,0:14:21.34,Default,Yuji,0,0,0,,{\i1}Wait... Where did I get hit?
+Dialogue: 0,0:14:21.34,0:14:24.55,Default,Yuji,0,0,0,,{\i1}This is different from when I had that hole in my gut!
+Dialogue: 0,0:14:24.55,0:14:27.34,Default,Yuji,0,0,0,,{\i1}It broke something that shouldn't be broken!
+Dialogue: 0,0:14:27.34,0:14:29.05,Default,Yuji,0,0,0,,{\i1}I'm gonna lose...
+Dialogue: 0,0:14:29.05,0:14:30.35,Default,Yuji,0,0,0,,{\i1}and die!
+Dialogue: 0,0:14:36.35,0:14:39.86,Default,Yuji,0,0,0,,{\i1}I understand what my role is.
+Comment: 0,0:14:40.07,0:14:49.62,Default,Yuji,0,0,0,,{\i1}Fushiguro, Kugisaki, Nanamin, and my friends\N will all pass through here on their way to {*}Mr. Gojo{*Gojo-sensei}.
+Dialogue: 0,0:14:49.62,0:14:53.12,Default,Yuji,0,0,0,,{\i1}I'll take this guy out even if it kills me. {it's the last thing I do}
+Dialogue: 0,0:14:53.62,0:14:58.04,Default,Yuji,0,0,0,,{\i1}I don't have to be the one to rescue {*}Mr. Gojo{*Gojo-sensei}.
+Dialogue: 0,0:14:59.29,0:15:01.13,Default,Choso,0,0,0,,{\i1}Three hits.
+Dialogue: 0,0:15:01.13,0:15:05.30,Default,Choso,0,0,0,,{\i1}In just three hits, excluding the ones I blocked,
+Dialogue: 0,0:15:05.84,0:15:09.80,Default,Choso,0,0,0,,{\i1}he managed to deal this much damage to me...
+Dialogue: 0,0:15:10.80,0:15:12.89,Default,Choso,0,0,0,,{\i1}Blood Meteorite's only strength is its hardness.
+Dialogue: 0,0:15:12.89,0:15:15.81,Default,Choso,0,0,0,,{\i1}It doesn't have the speed or impact of Piercing Blood.
+Dialogue: 0,0:15:15.81,0:15:20.27,Default,Choso,0,0,0,,{\i1}It wouldn't have worked if I hadn't caught him by surprise.
+Dialogue: 0,0:15:21.02,0:15:26.61,Default,Narrator,0,0,0,,Blood Manipulation usually isn't used \Nto coagulate blood like with Blood Meteorite.
+Dialogue: 0,0:15:26.61,0:15:33.45,Default,Narrator,0,0,0,,Blood Blade solidifies only the edges and circulates\N the rest at high speeds for heightened lethality.
+Dialogue: 0,0:15:33.45,0:15:39.08,Default,Narrator,0,0,0,,Even sorcerers who use Blood Manipulation \Ncan't concentrate on every blood vessel at once.
+Dialogue: 0,0:15:39.50,0:15:46.09,Default,Narrator,0,0,0,,Coagulating their blood always poses the risk\N of spontaneous thrombosis.
+Dialogue: 0,0:15:46.59,0:15:47.59,Default,Choso,0,0,0,,Bring it.
+Dialogue: 0,0:15:48.63,0:15:55.85,Default,Narrator,0,0,0,,However, Choso decided the risk\N posed by Itadori Yuji was far greater.
+Dialogue: 0,0:16:21.79,0:16:22.29,Default,Yuji,0,0,0,,{\i1}Too strong!
+Dialogue: 0,0:16:32.59,0:16:33.60,Default,Yuji,0,0,0,,{\i1}Is that a tooth?!
+Dialogue: 0,0:16:37.22,0:16:38.18,Default,Yuji,0,0,0,,{\i1}It was a distraction!
+Dialogue: 0,0:16:38.35,0:16:38.85,Default,Yuji,0,0,0,,{\i1}It was a distraction!
 Dialogue: 0,0:17:47.59,0:17:48.59,Default,Yuji,0,0,0,,{\i1}Not yet!
-Dialogue: 0,0:17:52.09,0:17:55.08,Default,Yuji,0,0,0,,{\i1}I haven't used my left fist since the start.
-Dialogue: 0,0:17:56.54,0:17:59.35,Default,Yuji,0,0,0,,{\i1}He probably believes I can't use it anymore.
-Dialogue: 0,0:17:59.72,0:18:02.81,Default,Yuji,0,0,0,,{\i1}So this attack using my right fist as a distraction
-Dialogue: 0,0:18:06.22,0:18:07.39,Default,Yuji,0,0,0,,{\i1}will land!
-Dialogue: 0,0:18:11.45,0:18:14.44,Default,Yuji,0,0,0,,{\i1}What was that response I felt?
+Dialogue: 0,0:17:52.09,0:17:54.93,Default,Yuji,0,0,0,,{\i1}I haven't used my left fist since that first punch.
+Dialogue: 0,0:17:56.76,0:17:59.35,Default,Yuji,0,0,0,,{\i1}I bet he thinks I can't use it anymore.
+Comment: 0,0:17:59.89,0:18:02.81,Default,Yuji,0,0,0,,{\i1}That's why this attack using my right hand as a distraction
+Comment: 0,0:18:06.23,0:18:07.40,Default,Yuji,0,0,0,,{\i1}will land!
+Dialogue: 0,0:18:11.53,0:18:14.45,Default,Yuji,0,0,0,,{\i1}Wait, that didn't feel right.
 Dialogue: 0,0:18:30.75,0:18:32.21,Default,Choso,0,0,0,,Too bad.
-Dialogue: 0,0:18:47.88,0:18:50.83,Default,Choso,0,0,0,,He's still breathing.
-Dialogue: 0,0:19:00.99,0:19:02.75,Default,Choso,0,0,0,,Apologize...
-Dialogue: 0,0:19:03.49,0:19:06.01,Default,Choso,0,0,0,,to my brothers in the afterlife!
-Dialogue: 0,0:19:10.30,0:19:12.27,Default,Sukuna,0,0,0,,How worthless.
-Dialogue: 0,0:19:12.27,0:19:15.88,Default,Sukuna,0,0,0,,Losing to such riffraff.
-Dialogue: 0,0:20:02.33,0:20:04.20,Default,Choso,0,0,0,,What?
-Dialogue: 0,0:20:10.06,0:20:11.08,Default,Narration,0,0,0,,In that moment,
-Dialogue: 0,0:20:11.08,0:20:13.94,Default,Narration,0,0,0,,memories flooded Choso's mind.
-Dialogue: 0,0:20:13.94,0:20:17.02,Default,Narration,0,0,0,,Memories that didn't exist.
-Dialogue: 0,0:21:02.77,0:21:03.76,Default,Yuji,0,0,0,,Hey!
-Dialogue: 0,0:21:04.48,0:21:05.99,Default,Yuji,0,0,0,,You, too, Brother!
-Dialogue: 0,0:21:18.00,0:21:21.41,Default,Choso,0,0,0,,What's happening? You're...
-Comment: 0,0:21:44.03,0:21:44.08,Default,chptr,0,0,0,,{Ending}
-Comment: 0,0:23:14.00,0:23:14.04,Default,chptr,0,0,0,,{Part C}
-Dialogue: 0,0:23:22.42,0:23:23.32,Default,Nanako,0,0,0,,There he is.
-Dialogue: 0,0:23:31.24,0:23:33.60,Default,Mimiko,0,0,0,,He's alive, right?
-Dialogue: 0,0:23:33.60,0:23:34.48,Default,Nanako,0,0,0,,Yeah.
-Dialogue: 0,0:23:35.78,0:23:38.32,Default,Nanako,0,0,0,,Let's get this started, then.
-Comment: 0,0:23:40.02,0:23:40.07,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.84,0:23:42.24,Default,Kugisaki,0,0,0,,Moan-day?
-Dialogue: 0,0:23:42.24,0:23:43.25,Default,Fushiguro,0,0,0,,Monday.
-Dialogue: 0,0:23:43.25,0:23:44.20,Default,Kugisaki,0,0,0,,Tuesday!
-Dialogue: 0,0:23:44.20,0:23:45.20,Default,Yuji,0,0,0,,Mhmm!
-Dialogue: 0,0:23:45.20,0:23:46.64,Default,Kugisaki,0,0,0,,Weh-do-ness-day?
-Dialogue: 0,0:23:46.64,0:23:47.33,Default,Fushiguro,0,0,0,,Wednesday.
-Dialogue: 0,0:23:47.33,0:23:48.68,Default,Kugisaki,0,0,0,,Screw this!
-Dialogue: 0,0:23:48.68,0:23:49.89,Default,Yuji,0,0,0,,Next time, "Fluctuations."
-Dialogue: 0,0:23:49.89,0:23:52.13,Default,Kugisaki,0,0,0,,Who the hell came up with these readings?!
-Dialogue: 0,0:23:52.13,0:23:54.62,Default,Fushiguro,0,0,0,,Someone smarter than you, dummy.
+Dialogue: 0,0:18:47.98,0:18:50.81,Default,Choso,0,0,0,,He's still breathing.
+Dialogue: 0,0:19:00.99,0:19:02.87,Default,Choso,0,0,0,,When you're on the other side,
+Dialogue: 0,0:19:03.49,0:19:06.37,Default,Choso,0,0,0,,make sure you apologize to my brothers!
+Dialogue: 0,0:19:10.42,0:19:12.42,Default,Sukuna,0,0,0,,{\pos(960,908)}What a waste.
+Dialogue: 0,0:19:12.42,0:19:15.38,Default,Sukuna,0,0,0,,{\pos(960,908)}Losing to some nobody.
+Dialogue: 0,0:20:02.39,0:20:04.18,Default,Choso,0,0,0,,What?
+Dialogue: 0,0:20:10.06,0:20:13.94,Default,Narrator,0,0,0,,In that moment, Choso's mind was \Nflooded with memories.
+Dialogue: 0,0:20:13.94,0:20:16.94,Default,Narrator,0,0,0,,Memories that never happened.
+Dialogue: 0,0:21:02.78,0:21:03.74,Default,Yuji,0,0,0,,Come on!
+Dialogue: 0,0:21:04.49,0:21:05.99,Default,Yuji,0,0,0,,Have a bite, Brother!
+Dialogue: 0,0:21:17.88,0:21:19.38,Default,Choso,0,0,0,,What...
+Dialogue: 0,0:21:19.84,0:21:21.51,Default,Choso,0,0,0,,You're...
+Comment: 0,0:21:44.03,0:21:44.07,Default,chptr,0,0,0,,{Ending}
+Comment: 0,0:23:13.99,0:23:14.04,Default,chptr,0,0,0,,{Part C}
+Dialogue: 0,0:23:22.50,0:23:23.63,Default,Nanako,0,0,0,,There he is.
+Dialogue: 0,0:23:31.39,0:23:33.76,Default,Mimiko,0,0,0,,He's alive, right?
+Dialogue: 0,0:23:33.76,0:23:34.64,Default,Nanako,0,0,0,,Yeah.
+Dialogue: 0,0:23:35.89,0:23:38.44,Default,Nanako,0,0,0,,Let's get this started, then.
+Comment: 0,0:23:40.02,0:23:40.06,Default,chptr,0,0,0,,{Preview}
+Dialogue: 0,0:23:40.85,0:23:42.31,Default,Kugisaki,0,0,0,,{\an8}Moan-day?
+Dialogue: 0,0:23:42.31,0:23:43.40,Default,Fushiguro,0,0,0,,{\an8}Monday.
+Dialogue: 0,0:23:43.40,0:23:44.23,Default,Kugisaki,0,0,0,,{\an8}Tuesday!
+Dialogue: 0,0:23:44.23,0:23:45.32,Default,Yuji,0,0,0,,{\an8}Correct!
+Dialogue: 0,0:23:45.32,0:23:46.69,Default,Kugisaki,0,0,0,,{\an8}Weh-do-ness-day?
+Dialogue: 0,0:23:46.69,0:23:47.40,Default,Fushiguro,0,0,0,,{\an8}Wednesday.
+Dialogue: 0,0:23:47.40,0:23:48.86,Default,Kugisaki,0,0,0,,{\an8}Screw this!
+Dialogue: 0,0:23:48.86,0:23:49.95,Default,Yuji,0,0,0,,{\an8}Next time, Fluctuations.
+Dialogue: 0,0:23:49.95,0:23:52.16,Default,Kugisaki,0,0,0,,{\an8}Who the hell came up with these readings?!
+Dialogue: 0,0:23:52.16,0:23:54.62,Default,Fushiguro,0,0,0,,{\an8}Someone smarter than you, dummy.
