@@ -6,7 +6,7 @@ from vsmasktools import squaremask
 from awsmfunc import bbmod
 
 
-def letterbox_fix(clip: VideoNode, src: VideoNode, height: int, ranges: List[Tuple[int, int]], offset: int = 1, shift: int = 0) -> VideoNode:
+def letterbox_fix(clip: VideoNode, src: VideoNode, height: int, ranges: List[Tuple[int, int]], offset: int = 1, shift: int = 0, blur: int = 500) -> VideoNode:
     src = depth(src, get_depth(clip))
 
     src_shift = core.resize.Bicubic(src, src_top=shift)
@@ -21,8 +21,8 @@ def letterbox_fix(clip: VideoNode, src: VideoNode, height: int, ranges: List[Tup
     border_restore = core.std.MaskedMerge(clip_shift, src_shift, border_mask)
 
     crop = border_restore.std.Crop(top=height, bottom=height)
-    bb = bbmod(crop, top=offset, bottom=offset, blur=500)
-    revert_crop = bb.std.AddBorders(top=height, bottom=height)
+    edge_fix = bbmod(crop, top=offset, bottom=offset, blur=blur) if blur else crop
+    revert_crop = edge_fix.std.AddBorders(top=height, bottom=height)
 
     revert_shift = core.resize.Bicubic(revert_crop, src_top=-shift)
     fixed = replace_ranges(clip, revert_shift, ranges)
