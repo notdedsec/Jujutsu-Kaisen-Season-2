@@ -20,10 +20,9 @@ Audio File: jjk_37_premux.mkv
 Video File: jjk_37_premux.mkv
 Keyframes File: jjk_37_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 4
-Active Line: 887
-Video Position: 13219
+Video Zoom Percent: 0.625000
+Active Line: 163
+Video Position: 1534
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,6 +30,169 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:01.11,0:00:05.36,Signs,,0,0,0,,{=85}ONE WAY
+Dialogue: 0,0:00:00.39,0:00:00.43,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100\fscy100\c&H392120&\alpha&HFF&\1a&HFF&\pos(635.72,342.61)}ONE WAY
+Dialogue: 0,0:00:00.43,0:00:00.48,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.03\fscy100.03\c&H392120&\alpha&HFE&\1a&HFA&\pos(635.41,342.43)}ONE WAY
+Dialogue: 0,0:00:00.48,0:00:00.52,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.15\fscy100.15\c&H392120&\alpha&HFC&\1a&HF4&\pos(635.13,342.32)}ONE WAY
+Dialogue: 0,0:00:00.52,0:00:00.56,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.21\fscy100.21\c&H392120&\alpha&HFB&\1a&HEE&\pos(634.94,342.3)}ONE WAY
+Dialogue: 0,0:00:00.56,0:00:00.60,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.26\fscy100.26\c&H392120&\alpha&HFA&\1a&HE9&\pos(634.58,342.3)}ONE WAY
+Dialogue: 0,0:00:00.60,0:00:00.64,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.26\fscy100.26\c&H392120&\alpha&HF8&\1a&HE4&\pos(634.36,342.36)}ONE WAY
+Dialogue: 0,0:00:00.64,0:00:00.68,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.4\fscy100.4\c&H392120&\alpha&HF7&\1a&HDF&\pos(634.21,342.18)}ONE WAY
+Dialogue: 0,0:00:00.68,0:00:00.73,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.42\fscy100.42\c&H392120&\alpha&HF6&\1a&HDA&\pos(633.92,342.2)}ONE WAY
+Dialogue: 0,0:00:00.73,0:00:00.77,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.46\fscy100.46\c&H392120&\alpha&HF4&\1a&HD4&\pos(633.56,342.2)}ONE WAY
+Dialogue: 0,0:00:00.77,0:00:00.81,Signs,,0,0,0,,{=84}{\blur0.8\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.58\fscy100.58\c&H272424&\alpha&HF3&\1a&HCF&\pos(633.23,342.03)}ONE WAY
+Dialogue: 0,0:00:00.81,0:00:00.85,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.64\fscy100.64\c&H272424&\alpha&HF2&\1a&HC9&\pos(633.07,342.03)}ONE WAY
+Dialogue: 0,0:00:00.85,0:00:00.89,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.68\fscy100.68\c&H272424&\alpha&HF1&\1a&HC4&\pos(632.74,341.93)}ONE WAY
+Dialogue: 0,0:00:00.89,0:00:00.93,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.83\fscy100.83\c&H272424&\alpha&HEF&\1a&HBF&\pos(632.32,341.62)}ONE WAY
+Dialogue: 0,0:00:00.93,0:00:00.98,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.81\fscy100.81\c&H272424&\alpha&HEE&\1a&HBA&\pos(632.05,341.63)}ONE WAY
+Dialogue: 0,0:00:00.98,0:00:01.02,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx100.97\fscy100.97\c&H272424&\alpha&HEC&\1a&HB4&\pos(631.7,341.35)}ONE WAY
+Dialogue: 0,0:00:01.02,0:00:01.06,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx101.04\fscy101.04\c&H272424&\alpha&HEB&\1a&HAF&\pos(631.36,341.13)}ONE WAY
+Dialogue: 0,0:00:01.06,0:00:01.10,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx101.17\fscy101.17\c&H272424&\alpha&HEA&\1a&HAA&\pos(631.13,340.95)}ONE WAY
+Dialogue: 0,0:00:01.10,0:00:01.14,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx101.3\fscy101.3\c&H2C2B2B&\alpha&HE9&\1a&H00&\pos(630.64,340.71)}ONE WAY
+Dialogue: 0,0:00:01.14,0:00:01.18,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx101.36\fscy101.36\c&H3A3C3C&\alpha&HE7&\1a&H00&\pos(630.42,340.56)}ONE WAY
+Dialogue: 0,0:00:01.18,0:00:01.23,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx101.44\fscy101.44\c&H231E1C&\alpha&HE6&\1a&H00&\pos(630.36,340.41)}ONE WAY
+Dialogue: 0,0:00:01.23,0:00:01.27,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx101.61\fscy101.61\c&H2A2221&\alpha&HE5&\1a&H94&\pos(629.71,340.05)}ONE WAY
+Dialogue: 0,0:00:01.27,0:00:01.31,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx101.73\fscy101.73\c&H2A2221&\alpha&HE3&\1a&H8F&\pos(629.48,339.86)}ONE WAY
+Dialogue: 0,0:00:01.31,0:00:01.35,Signs,,0,0,0,,{=84}{\blur0.81\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx101.83\fscy101.83\c&H2A2221&\alpha&HE2&\1a&H8A&\pos(629.13,339.65)}ONE WAY
+Dialogue: 0,0:00:01.35,0:00:01.39,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx101.93\fscy101.93\c&H2A2221&\alpha&HE1&\1a&H85&\pos(628.79,339.46)}ONE WAY
+Dialogue: 0,0:00:01.39,0:00:01.43,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.01\fscy102.01\c&H2A2221&\alpha&HE0&\1a&H80&\pos(628.43,339.29)}ONE WAY
+Dialogue: 0,0:00:01.43,0:00:01.48,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.11\fscy102.11\c&H2A2221&\alpha&HDE&\1a&H7A&\pos(628.18,339.14)}ONE WAY
+Dialogue: 0,0:00:01.48,0:00:01.52,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.2\fscy102.2\c&H2A2221&\alpha&HDD&\1a&H74&\pos(627.88,338.95)}ONE WAY
+Dialogue: 0,0:00:01.52,0:00:01.56,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.31\fscy102.31\c&H2A2221&\alpha&HDB&\1a&H6F&\pos(627.5,338.72)}ONE WAY
+Dialogue: 0,0:00:01.56,0:00:01.60,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.44\fscy102.44\c&H2A2221&\alpha&HDA&\1a&H6A&\pos(627.24,338.48)}ONE WAY
+Dialogue: 0,0:00:01.60,0:00:01.64,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.44\fscy102.44\c&H494746&\alpha&HD9&\1a&H00&\pos(626.75,338.48)}ONE WAY
+Dialogue: 0,0:00:01.64,0:00:01.68,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.5\fscy102.5\c&H5C6061&\alpha&HD8&\1a&H00&\pos(626.48,338.36)}ONE WAY
+Dialogue: 0,0:00:01.68,0:00:01.73,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.61\fscy102.61\c&H372C2C&\alpha&HD6&\1a&H00&\pos(626.26,338.15)}ONE WAY
+Dialogue: 0,0:00:01.73,0:00:01.77,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.77\fscy102.77\c&H291614&\alpha&HD5&\1a&H00&\pos(625.78,337.86)}ONE WAY
+Dialogue: 0,0:00:01.77,0:00:01.81,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.85\fscy102.85\c&H525051&\alpha&HD4&\1a&H00&\pos(625.37,337.69)}ONE WAY
+Dialogue: 0,0:00:01.81,0:00:01.85,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx102.92\fscy102.92\c&H696C6D&\alpha&HD2&\1a&H00&\pos(625.1,337.57)}ONE WAY
+Dialogue: 0,0:00:01.85,0:00:01.89,Signs,,0,0,0,,{=84}{\blur0.82\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.03\fscy103.03\c&H3B3030&\alpha&HD1&\1a&H00&\pos(624.88,337.34)}ONE WAY
+Dialogue: 0,0:00:01.89,0:00:01.94,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.19\fscy103.19\c&H342120&\1a&H40&\pos(624.42,337.03)}ONE WAY
+Dialogue: 0,0:00:01.94,0:00:01.98,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.23\fscy103.23\c&H5C5A5A&\alpha&HCE&\1a&H00&\pos(623.98,336.93)}ONE WAY
+Dialogue: 0,0:00:01.98,0:00:02.02,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.3\fscy103.3\c&H8C9693&\alpha&HCD&\1a&H34&\pos(623.68,336.78)}ONE WAY
+Dialogue: 0,0:00:02.02,0:00:02.06,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.4\fscy103.4\c&H8C9693&\alpha&HCC&\1a&H2F&\pos(623.33,336.59)}ONE WAY
+Dialogue: 0,0:00:02.06,0:00:02.10,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.51\fscy103.51\c&H8C9693&\alpha&HCA&\1a&H2A&\pos(622.97,336.39)}ONE WAY
+Dialogue: 0,0:00:02.10,0:00:02.14,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.62\fscy103.62\c&H8C9693&\alpha&HC9&\1a&H25&\pos(622.62,336.18)}ONE WAY
+Dialogue: 0,0:00:02.14,0:00:02.19,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.72\fscy103.72\c&H8C9693&\alpha&HC8&\1a&H20&\pos(622.25,335.97)}ONE WAY
+Dialogue: 0,0:00:02.19,0:00:02.23,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.82\fscy103.82\c&H8C9693&\alpha&HC6&\1a&H1A&\pos(621.9,335.79)}ONE WAY
+Dialogue: 0,0:00:02.23,0:00:02.27,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx103.92\fscy103.92\c&H8C9693&\alpha&HC5&\1a&H14&\pos(621.55,335.59)}ONE WAY
+Dialogue: 0,0:00:02.27,0:00:02.31,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.02\fscy104.02\c&H8C9693&\alpha&HC4&\1a&H0F&\pos(621.2,335.4)}ONE WAY
+Dialogue: 0,0:00:02.31,0:00:02.35,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.13\fscy104.13\c&H8C9693&\alpha&HC3&\1a&H0A&\pos(620.81,335.19)}ONE WAY
+Dialogue: 0,0:00:02.35,0:00:02.39,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.24\fscy104.24\c&H8C9693&\alpha&HC1&\1a&H05&\pos(620.42,334.97)}ONE WAY
+Dialogue: 0,0:00:02.39,0:00:02.44,Signs,,0,0,0,,{=84}{\blur0.83\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.32\fscy104.32\c&H8C9693&\alpha&HC0&\1a&H00&\pos(620.01,334.82)}ONE WAY
+Dialogue: 0,0:00:02.44,0:00:02.48,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.43\fscy104.43\c&H504342&\alpha&HC0&\1a&H00&\pos(619.76,334.64)}ONE WAY
+Dialogue: 0,0:00:02.48,0:00:02.52,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.59\fscy104.59\c&H392120&\alpha&HC0&\1a&H00&\pos(619.23,334.33)}ONE WAY
+Dialogue: 0,0:00:02.52,0:00:02.56,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.65\fscy104.65\c&H737071&\alpha&HC0&\1a&H00&\pos(618.82,334.21)}ONE WAY
+Dialogue: 0,0:00:02.56,0:00:02.60,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.72\fscy104.72\c&H8C9293&\alpha&HC0&\1a&H00&\pos(618.54,334.08)}ONE WAY
+Dialogue: 0,0:00:02.60,0:00:02.64,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.8\fscy104.8\c&H4F4141&\alpha&HC0&\1a&H00&\pos(618.25,333.91)}ONE WAY
+Dialogue: 0,0:00:02.64,0:00:02.69,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx104.94\fscy104.94\c&H392120&\alpha&HC0&\1a&H00&\pos(617.82,333.66)}ONE WAY
+Dialogue: 0,0:00:02.69,0:00:02.73,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.02\fscy105.02\c&H73706F&\alpha&HC0&\1a&H00&\pos(617.4,333.47)}ONE WAY
+Dialogue: 0,0:00:02.73,0:00:02.77,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.13\fscy105.13\c&H8D9294&\alpha&HC0&\1a&H00&\pos(616.99,333.26)}ONE WAY
+Dialogue: 0,0:00:02.77,0:00:02.81,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.23\fscy105.23\c&H8D9294&\alpha&HC0&\1a&H00&\pos(616.63,333.05)}ONE WAY
+Dialogue: 0,0:00:02.81,0:00:02.85,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.34\fscy105.34\c&H8D9294&\alpha&HC0&\1a&H00&\pos(616.27,332.85)}ONE WAY
+Dialogue: 0,0:00:02.85,0:00:02.89,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.45\fscy105.45\c&H8D9294&\alpha&HC0&\1a&H00&\pos(615.89,332.64)}ONE WAY
+Dialogue: 0,0:00:02.89,0:00:02.94,Signs,,0,0,0,,{=84}{\blur0.84\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.55\fscy105.55\c&H8D9294&\alpha&HC0&\1a&H00&\pos(615.52,332.44)}ONE WAY
+Dialogue: 0,0:00:02.94,0:00:02.98,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.66\fscy105.66\c&H8D9294&\alpha&HC0&\1a&H00&\pos(615.15,332.22)}ONE WAY
+Dialogue: 0,0:00:02.98,0:00:03.02,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.77\fscy105.77\c&H8D9294&\alpha&HC0&\1a&H00&\pos(614.77,331.99)}ONE WAY
+Dialogue: 0,0:00:03.02,0:00:03.06,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.87\fscy105.87\c&H8D9294&\alpha&HC0&\1a&H00&\pos(614.41,331.8)}ONE WAY
+Dialogue: 0,0:00:03.06,0:00:03.10,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx105.99\fscy105.99\c&H8D9294&\alpha&HC0&\1a&H00&\pos(614.04,331.58)}ONE WAY
+Dialogue: 0,0:00:03.10,0:00:03.14,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx106.1\fscy106.1\c&H8D9294&\alpha&HC0&\1a&H00&\pos(613.65,331.36)}ONE WAY
+Dialogue: 0,0:00:03.14,0:00:03.19,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx106.21\fscy106.21\c&H8D9294&\alpha&HC0&\1a&H00&\pos(613.28,331.14)}ONE WAY
+Dialogue: 0,0:00:03.19,0:00:03.23,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx106.31\fscy106.31\c&H8D9294&\alpha&HC0&\1a&H00&\pos(612.91,330.93)}ONE WAY
+Dialogue: 0,0:00:03.23,0:00:03.27,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx106.43\fscy106.43\c&H8D9294&\alpha&HC0&\1a&H00&\pos(612.53,330.71)}ONE WAY
+Dialogue: 0,0:00:03.27,0:00:03.31,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx106.53\fscy106.53\c&H8D9294&\alpha&HC0&\1a&H00&\pos(612.16,330.5)}ONE WAY
+Dialogue: 0,0:00:03.31,0:00:03.35,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx106.65\fscy106.65\c&H8D9294&\alpha&HC0&\1a&H00&\pos(611.77,330.27)}ONE WAY
+Dialogue: 0,0:00:03.35,0:00:03.39,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx106.75\fscy106.75\c&H8D9294&\alpha&HC0&\1a&H00&\pos(611.4,330.07)}ONE WAY
+Dialogue: 0,0:00:03.39,0:00:03.44,Signs,,0,0,0,,{=84}{\blur0.85\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx106.86\fscy106.86\c&H8D9294&\alpha&HC0&\1a&H00&\pos(611,329.85)}ONE WAY
+Dialogue: 0,0:00:03.44,0:00:03.48,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx106.97\fscy106.97\c&H8D9294&\alpha&HC0&\1a&H00&\pos(610.63,329.63)}ONE WAY
+Dialogue: 0,0:00:03.48,0:00:03.52,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx107.08\fscy107.08\c&H8D9294&\alpha&HC0&\1a&H00&\pos(610.25,329.42)}ONE WAY
+Dialogue: 0,0:00:03.52,0:00:03.56,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx107.18\fscy107.18\c&H8D9294&\alpha&HC0&\1a&H00&\pos(609.87,329.21)}ONE WAY
+Dialogue: 0,0:00:03.56,0:00:03.60,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx107.31\fscy107.31\c&H8D9294&\alpha&HC0&\1a&H00&\pos(609.49,328.97)}ONE WAY
+Dialogue: 0,0:00:03.60,0:00:03.65,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx107.42\fscy107.42\c&H8D9294&\alpha&HC0&\1a&H00&\pos(609.1,328.74)}ONE WAY
+Dialogue: 0,0:00:03.65,0:00:03.69,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx107.53\fscy107.53\c&H8D9294&\alpha&HC0&\1a&H00&\pos(608.72,328.53)}ONE WAY
+Dialogue: 0,0:00:03.69,0:00:03.73,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx107.63\fscy107.63\c&H8D9294&\alpha&HC0&\1a&H00&\pos(608.34,328.33)}ONE WAY
+Dialogue: 0,0:00:03.73,0:00:03.77,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx107.74\fscy107.74\c&H8D9294&\alpha&HC0&\1a&H00&\pos(607.94,328.12)}ONE WAY
+Dialogue: 0,0:00:03.77,0:00:03.81,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx107.85\fscy107.85\c&H8D9294&\alpha&HC0&\1a&H00&\pos(607.55,327.89)}ONE WAY
+Dialogue: 0,0:00:03.81,0:00:03.85,Signs,,0,0,0,,{=84}{\blur0.86\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx107.96\fscy107.96\c&H8D9294&\alpha&HC0&\1a&H00&\pos(607.17,327.69)}ONE WAY
+Dialogue: 0,0:00:03.85,0:00:03.90,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx108.13\fscy108.13\c&H392120&\alpha&HC0&\1a&H00&\pos(606.77,327.37)}ONE WAY
+Dialogue: 0,0:00:03.90,0:00:03.94,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx108.25\fscy108.25\c&H392120&\alpha&HC0&\1a&H00&\pos(606.42,327.12)}ONE WAY
+Dialogue: 0,0:00:03.94,0:00:03.98,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx108.32\fscy108.32\c&H8E9294&\alpha&HC0&\1a&H00&\pos(605.99,326.99)}ONE WAY
+Dialogue: 0,0:00:03.98,0:00:04.02,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx108.42\fscy108.42\c&H8E9294&\alpha&HC0&\1a&H00&\pos(605.6,326.82)}ONE WAY
+Dialogue: 0,0:00:04.02,0:00:04.06,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx108.59\fscy108.59\c&H392120&\alpha&HC0&\1a&H00&\pos(605.15,326.46)}ONE WAY
+Dialogue: 0,0:00:04.06,0:00:04.10,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx108.73\fscy108.73\c&H392120&\alpha&HC0&\1a&H00&\pos(604.77,326.2)}ONE WAY
+Dialogue: 0,0:00:04.10,0:00:04.15,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx108.87\fscy108.87\c&H392120&\alpha&HC0&\1a&H00&\pos(604.32,325.9)}ONE WAY
+Dialogue: 0,0:00:04.15,0:00:04.19,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx109\fscy109\c&H392120&\alpha&HC0&\1a&H00&\pos(603.93,325.67)}ONE WAY
+Dialogue: 0,0:00:04.19,0:00:04.23,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx109.11\fscy109.11\c&H392120&\alpha&HC0&\1a&H00&\pos(603.53,325.44)}ONE WAY
+Dialogue: 0,0:00:04.23,0:00:04.27,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx109.2\fscy109.2\c&H392120&\alpha&HC0&\1a&H00&\pos(603.14,325.28)}ONE WAY
+Dialogue: 0,0:00:04.27,0:00:04.31,Signs,,0,0,0,,{=84}{\blur0.87\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx109.31\fscy109.31\c&H392120&\alpha&HC0&\1a&H00&\pos(602.73,325.04)}ONE WAY
+Dialogue: 0,0:00:04.31,0:00:04.35,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx109.4\fscy109.4\c&H392120&\alpha&HC0&\1a&H00&\pos(602.37,324.85)}ONE WAY
+Dialogue: 0,0:00:04.35,0:00:04.40,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx109.46\fscy109.46\c&H8E9294&\alpha&HC0&\1a&H00&\pos(601.94,324.78)}ONE WAY
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx109.57\fscy109.57\c&H8E9294&\alpha&HC0&\1a&H00&\pos(601.54,324.57)}ONE WAY
+Dialogue: 0,0:00:04.44,0:00:04.48,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx109.77\fscy109.77\c&H392120&\alpha&HC0&\1a&H00&\pos(601.09,324.13)}ONE WAY
+Dialogue: 0,0:00:04.48,0:00:04.52,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx109.89\fscy109.89\c&H392120&\alpha&HC0&\1a&H00&\pos(600.71,323.89)}ONE WAY
+Dialogue: 0,0:00:04.52,0:00:04.56,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx110\fscy110\c&H392120&\alpha&HC0&\1a&H00&\pos(600.26,323.68)}ONE WAY
+Dialogue: 0,0:00:04.56,0:00:04.60,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx110.14\fscy110.14\c&H392120&\alpha&HC0&\1a&H00&\pos(599.87,323.4)}ONE WAY
+Dialogue: 0,0:00:04.60,0:00:04.65,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx110.27\fscy110.27\c&H392120&\alpha&HC0&\1a&H00&\pos(599.44,323.15)}ONE WAY
+Dialogue: 0,0:00:04.65,0:00:04.69,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx110.38\fscy110.38\c&H392120&\alpha&HC0&\1a&H00&\pos(599.04,322.93)}ONE WAY
+Dialogue: 0,0:00:04.69,0:00:04.73,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx110.52\fscy110.52\c&H392120&\alpha&HC0&\1a&H00&\pos(598.64,322.66)}ONE WAY
+Dialogue: 0,0:00:04.73,0:00:04.77,Signs,,0,0,0,,{=84}{\blur0.88\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx110.61\fscy110.61\c&H392120&\alpha&HC0&\1a&H00&\pos(598.24,322.51)}ONE WAY
+Dialogue: 0,0:00:04.77,0:00:04.81,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx110.77\fscy110.77\c&H392120&\alpha&HC0&\1a&H00&\pos(597.8,322.18)}ONE WAY
+Dialogue: 0,0:00:04.81,0:00:04.85,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx110.88\fscy110.88\c&H392120&\alpha&HC0&\1a&H00&\pos(597.4,321.95)}ONE WAY
+Dialogue: 0,0:00:04.85,0:00:04.90,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111\fscy111\c&H8E9294&\alpha&HC0&\1a&H00&\pos(597.01,321.74)}ONE WAY
+Dialogue: 0,0:00:04.90,0:00:04.94,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111.1\fscy111.1\c&H8E9294&\alpha&HC0&\1a&H00&\pos(596.6,321.55)}ONE WAY
+Dialogue: 0,0:00:04.94,0:00:04.98,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111.25\fscy111.25\c&H392120&\alpha&HC0&\1a&H00&\pos(596.19,321.2)}ONE WAY
+Dialogue: 0,0:00:04.98,0:00:05.02,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111.34\fscy111.34\c&H392120&\alpha&HC0&\1a&H00&\pos(595.77,321.04)}ONE WAY
+Dialogue: 0,0:00:05.02,0:00:05.06,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111.44\fscy111.44\c&H8E9294&\alpha&HC0&\1a&H00&\pos(595.37,320.87)}ONE WAY
+Dialogue: 0,0:00:05.06,0:00:05.10,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111.54\fscy111.54\c&H8E9294&\alpha&HC0&\1a&H00&\pos(594.96,320.68)}ONE WAY
+Dialogue: 0,0:00:05.10,0:00:05.15,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111.64\fscy111.64\c&H8E9294&\alpha&HC0&\1a&H00&\pos(594.54,320.46)}ONE WAY
+Dialogue: 0,0:00:05.15,0:00:05.19,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111.74\fscy111.74\c&H8E9294&\alpha&HC0&\1a&H00&\pos(594.13,320.25)}ONE WAY
+Dialogue: 0,0:00:05.19,0:00:05.23,Signs,,0,0,0,,{=84}{\blur0.89\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111.84\fscy111.84\c&H8E9294&\alpha&HC0&\1a&H00&\pos(593.72,320.05)}ONE WAY
+Dialogue: 0,0:00:05.23,0:00:05.27,Signs,,0,0,0,,{=84}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx111.97\fscy111.97\c&H8E9294&\alpha&HC0&\1a&H00&\pos(593.29,319.79)}ONE WAY
+Dialogue: 0,0:00:05.27,0:00:05.31,Signs,,0,0,0,,{=84}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx112.09\fscy112.09\c&H8E9294&\alpha&HC0&\1a&H00&\pos(592.89,319.55)}ONE WAY
+Dialogue: 0,0:00:05.31,0:00:05.36,Signs,,0,0,0,,{=84}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs30\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(592.5,319.33)}ONE WAY
+Dialogue: 0,0:00:05.31,0:00:05.36,Signs,,0,0,0,,{=84=86}
+Comment: 0,0:04:00.59,0:04:00.67,Signs,,0,0,0,,{=89=90}RIP ONE WAY
+Dialogue: 0,0:04:00.59,0:04:00.67,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.5,344.33)}ONE WAY
+Dialogue: 0,0:04:00.67,0:04:00.72,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(636.66,339.85)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:00.72,0:04:00.76,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(638.57,347.49)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:00.76,0:04:00.80,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(638.11,340.47)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:00.80,0:04:00.84,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(636.82,347.15)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:00.84,0:04:00.88,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(636.84,341.58)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:00.88,0:04:00.92,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(638.01,346.1)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:00.92,0:04:00.97,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.85,343.22)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:00.97,0:04:01.01,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.27,345.47)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.01,0:04:01.05,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H3D2220&\alpha&HC0&\1a&H00&\pos(637.3,344.15)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.05,0:04:01.09,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.65,344.3)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.09,0:04:01.13,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.58,344.02)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.13,0:04:01.17,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H38211F&\alpha&HC0&\1a&H00&\pos(637.63,343.55)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.17,0:04:01.22,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.71,343.82)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.22,0:04:01.26,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.7,343.83)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.26,0:04:01.38,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.71,343.84)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.38,0:04:01.42,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.71,343.83)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.42,0:04:01.47,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.7,343.84)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.47,0:04:01.51,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.67,343.97)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.51,0:04:01.55,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.63,344.1)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.55,0:04:01.59,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H38211F&\alpha&HC0&\1a&H00&\pos(637.82,343.78)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.59,0:04:01.63,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.86,344.12)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.63,0:04:01.67,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H38211F&\alpha&HC0&\1a&H00&\pos(637.87,343.84)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.67,0:04:01.84,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H8E9294&\alpha&HC0&\1a&H00&\pos(637.93,343.87)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.84,0:04:01.92,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H39211F&\alpha&HC0&\1a&H00&\pos(637.88,343.83)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:01.92,0:04:02.01,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H39211F&\alpha&HC0&\1a&H00&\pos(637.86,343.76)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:02.01,0:04:02.09,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H39211F&\alpha&HC0&\1a&H00&\pos(637.76,343.73)\clip(m 576.68 341.96 l 580 341.81 585.57 339.24 587.99 336.53 586.48 332.91 580.75 331.7 697.14 329.59 698.5 363.37 573.36 358.24)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:02.09,0:04:02.34,Signs,,0,0,0,,{=89}{\blur0.9\fnFOT Gaku Maru Gothic Pro Strp\fs27\fscx112.19\fscy112.19\c&H39211F&\alpha&HC0&\1a&H00&\pos(637.71,343.73)}ONE W{\1a&HFF&}AY
+Dialogue: 0,0:04:02.09,0:04:02.34,Signs,,0,0,0,,{=89=91}
+Comment: 0,0:03:59.09,0:04:00.60,Signs,,0,0,0,,{=92}LEFT TURN ONE WAY
+Dialogue: 0,0:03:59.09,0:04:00.39,Signs,,0,0,0,,{\blur0.8\fs44\fscx66.25\fscy128.61\frx-8.7402\fry-5.6526\frz23.6525\fax-1.306339\c&H07050C&\pos(1568.92,496.8)\org(1550.88,494.8)}       LEFT TURN
+Dialogue: 0,0:03:59.09,0:04:00.39,Signs,,0,0,0,,{\blur0.8\fs44\fscx63.92\fscy117.62\frx2.6907\fry-17.8496\frz6.8301\fax-0.538052\c&H07050C&\pos(1516.24,735.05)\org(1510.64,728.05)}     ONE WAY
+Dialogue: 0,0:04:00.39,0:04:00.43,Signs,,0,0,0,,{\blur0.8\fs44\fscx66.25\fscy128.61\frx-8.7402\fry-5.6526\frz23.6525\fax-1.306339\c&H030306&\pos(1568.92,496.8)\org(1550.88,494.8)}       LEFT TURN
+Dialogue: 0,0:04:00.39,0:04:00.43,Signs,,0,0,0,,{\blur0.8\fs44\fscx63.92\fscy117.62\frx2.6907\fry-17.8496\frz6.8301\fax-0.538052\c&H030306&\pos(1516.24,735.05)\org(1510.64,728.05)}     ONE WAY
+Dialogue: 0,0:04:00.43,0:04:00.51,Signs,,0,0,0,,{\blur0.8\fs44\fscx66.25\fscy128.61\frx-8.7402\fry-5.6526\frz23.6525\fax-1.306339\c&H07050C&\pos(1568.92,496.8)\org(1550.88,494.8)}       LEFT TURN
+Dialogue: 0,0:04:00.43,0:04:00.51,Signs,,0,0,0,,{\blur0.8\fs44\fscx63.92\fscy117.62\frx2.6907\fry-17.8496\frz6.8301\fax-0.538052\c&H07050C&\pos(1516.24,735.05)\org(1510.64,728.05)}     ONE WAY
+Dialogue: 0,0:04:00.51,0:04:00.55,Signs,,0,0,0,,{\blur0.8\fs44\fscx66.25\fscy128.61\frx-8.7402\fry-5.6526\frz23.6525\fax-1.306339\c&H030306&\pos(1568.92,496.8)\org(1550.88,494.8)}       LEFT TURN
+Dialogue: 0,0:04:00.51,0:04:00.55,Signs,,0,0,0,,{\blur0.8\fs44\fscx63.92\fscy117.62\frx2.6907\fry-17.8496\frz6.8301\fax-0.538052\c&H030306&\pos(1516.24,735.05)\org(1510.64,728.05)}     ONE WAY
+Dialogue: 0,0:04:00.55,0:04:00.60,Signs,,0,0,0,,{\blur0.8\fs44\fscx66.25\fscy128.61\frx-8.7402\fry-5.6526\frz23.6525\fax-1.306339\c&H07050C&\pos(1568.92,496.8)\org(1550.88,494.8)}       LEFT TURN
+Dialogue: 0,0:04:00.55,0:04:00.60,Signs,,0,0,0,,{\blur0.8\fs44\fscx63.92\fscy117.62\frx2.6907\fry-17.8496\frz6.8301\fax-0.538052\c&H07050C&\pos(1516.24,735.05)\org(1510.64,728.05)}     ONE WAY
+Dialogue: 0,0:03:59.09,0:04:00.60,Signs,,0,0,0,,{=93}
 Dialogue: 0,0:01:03.96,0:01:06.96,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 37\N{\fs70}Red Scale
 Comment: 0,0:02:40.01,0:02:42.52,Signs,,0,0,0,,{=0}Inside Shibuya Station
 Dialogue: 1,0:02:40.01,0:02:42.52,Signs,Screen,0,0,0,,{\an7\fscx20\fscy80\pos(293.48,225.86)\p1}m 677 880 l 1840 880 1840 999 677 999 677 900
@@ -40,25 +202,25 @@ Dialogue: 3,0:02:40.01,0:02:42.52,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Gro
 Dialogue: 0,0:02:40.01,0:02:42.52,Signs,,0,0,0,,{=1}
 Comment: 0,0:02:49.52,0:02:53.02,Signs,Sign,0,0,0,,{=2}Notice
 Dialogue: 1,0:02:49.52,0:02:51.53,Signs,Sign,0,0,0,,{\an7\blur4\be2\fscx100\fscy100\c&H0D0F13&\pos(3,0)\p1}m 679.71 180.8 l 690.91 167.01 1234.6 173.43 1244.11 183.07 1243.85 291.7 679.44 291.64
-Dialogue: 4,0:02:49.52,0:02:51.53,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs60\c&H5F686A&\pos(960,235)\b1}NOTICE
-Dialogue: 4,0:02:49.52,0:02:51.53,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(956,994)}It is dangerous to run inside the station
 Dialogue: 1,0:02:51.53,0:02:51.57,Signs,Sign,0,0,0,,{\an7\blur4\be2\fscx100\fscy100\c&H0D0F13&\pos(4,-1)\p1}m 679.71 180.8 l 690.91 167.01 1234.6 173.43 1244.11 183.07 1243.85 291.7 679.44 291.64
-Dialogue: 4,0:02:51.53,0:02:51.57,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs60\c&H5F686A&\pos(961,234)\b1}NOTICE
-Dialogue: 4,0:02:51.53,0:02:51.57,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(957,993)}It is dangerous to run inside the station
 Dialogue: 1,0:02:51.57,0:02:51.61,Signs,Sign,0,0,0,,{\an7\blur4\be2\fscx100\fscy100\c&H0D0F13&\pos(0,4)\p1}m 679.71 180.8 l 690.91 167.01 1234.6 173.43 1244.11 183.07 1243.85 291.7 679.44 291.64
-Dialogue: 4,0:02:51.57,0:02:51.61,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs60\c&H5F686A&\pos(957,239)\b1}NOTICE
-Dialogue: 4,0:02:51.57,0:02:51.61,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(954,997)}It is dangerous to run inside the station
-Dialogue: 4,0:02:51.61,0:02:51.65,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(954,991)}It is dangerous to run inside the station
-Dialogue: 4,0:02:51.65,0:02:51.69,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(964,1000)}It is dangerous to run inside the station
 Dialogue: 1,0:02:51.69,0:02:51.73,Signs,Sign,0,0,0,,{\an7\blur4\be2\fscx100\fscy100\c&H0D0F13&\pos(7,-5)\p1}m 679.71 180.8 l 690.91 167.01 1234.6 173.43 1244.11 183.07 1243.85 291.7 679.44 291.64
-Dialogue: 4,0:02:51.69,0:02:51.73,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs60\c&H5F686A&\pos(964,230)\b1}NOTICE
-Dialogue: 1,0:02:51.69,0:02:51.73,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(959,990)}It is dangerous to run inside the station
-Dialogue: 4,0:02:51.73,0:02:51.78,Signs,Sign,0,0,0,,{\an7\blur4\be2\fscx100\fscy100\c&H0D0F13&\pos(1,1)\p1}m 679.71 180.8 l 690.91 167.01 1234.6 173.43 1244.11 183.07 1243.85 291.7 679.44 291.64
-Dialogue: 4,0:02:51.73,0:02:51.78,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs60\c&H5F686A&\pos(958,236)\b1}NOTICE
-Dialogue: 4,0:02:51.73,0:02:51.78,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(954,995)}It is dangerous to run inside the station
+Dialogue: 1,0:02:51.73,0:02:51.78,Signs,Sign,0,0,0,,{\an7\blur4\be2\fscx100\fscy100\c&H0D0F13&\pos(1,1)\p1}m 679.71 180.8 l 690.91 167.01 1234.6 173.43 1244.11 183.07 1243.85 291.7 679.44 291.64
 Dialogue: 1,0:02:51.78,0:02:53.03,Signs,Sign,0,0,0,,{\an7\blur4\be2\fscx100\fscy100\c&H0D0F13&\pos(3,0)\p1}m 679.71 180.8 l 690.91 167.01 1234.6 173.43 1244.11 183.07 1243.85 291.7 679.44 291.64
-Dialogue: 4,0:02:51.78,0:02:53.03,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs60\c&H5F686A&\pos(960,235)\b1}NOTICE
-Dialogue: 4,0:02:51.78,0:02:53.03,Signs,Sign,0,0,0,,{\blur0.6\fnBahnschrift SemiLight SemiConde\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(956,994)}It is dangerous to run inside the station
+Dialogue: 2,0:02:49.52,0:02:51.53,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs60\c&H5F686A&\pos(960,235)\b1}NOTICE
+Dialogue: 2,0:02:51.53,0:02:51.57,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs60\c&H5F686A&\pos(961,234)\b1}NOTICE
+Dialogue: 2,0:02:51.57,0:02:51.61,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs60\c&H5F686A&\pos(957,239)\b1}NOTICE
+Dialogue: 2,0:02:51.69,0:02:51.73,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs60\c&H5F686A&\pos(964,232)\b1}NOTICE
+Dialogue: 2,0:02:51.73,0:02:51.78,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs60\c&H5F686A&\pos(958,236)\b1}NOTICE
+Dialogue: 2,0:02:51.78,0:02:53.03,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs60\c&H5F686A&\pos(960,235)\b1}NOTICE
+Dialogue: 4,0:02:49.52,0:02:51.53,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(956,994)}It is dangerous to run inside the station
+Dialogue: 4,0:02:51.53,0:02:51.57,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(957,993)}It is dangerous to run inside the station
+Dialogue: 4,0:02:51.57,0:02:51.61,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(953,997)}It is dangerous to run inside the station
+Dialogue: 4,0:02:51.61,0:02:51.65,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(954,989)}It is dangerous to run inside the station
+Dialogue: 4,0:02:51.65,0:02:51.69,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(961,995)}It is dangerous to run inside the station
+Dialogue: 4,0:02:51.69,0:02:51.73,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(960,990)}It is dangerous to run inside the station
+Dialogue: 4,0:02:51.73,0:02:51.78,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(954,995)}It is dangerous to run inside the station
+Dialogue: 4,0:02:51.78,0:02:53.03,Signs,Sign,0,0,0,,{\blur0.6\fnArial\fs33\c&H0A0E0E&\alpha&H30&\1a&H0A&\pos(956,994)}It is dangerous to run inside the station
 Dialogue: 0,0:02:49.52,0:02:53.03,Signs,Sign,0,0,0,,{=3}
 Comment: 0,0:03:37.82,0:03:38.82,Signs,,0,0,0,,{=15}Blood Manipulation
 Dialogue: 0,0:03:37.82,0:03:38.82,Signs,,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
@@ -917,12 +1079,25 @@ Dialogue: 2,0:09:11.19,0:09:11.23,Signs,Screen,-999,0,0,,{=47}{\blur0.8\an4\alph
 Dialogue: 2,0:09:11.23,0:09:11.27,Signs,Screen,-999,0,0,,{=47}{\blur0.8\an4\alpha&H20&\fnFOT-NewRodin ProN UB\fs40\pos(-444.86,328.26)}Blood Manipulation                        Convergence                            Piercing Blood                             Blood Blade                                 Supernova                               Slicing Exorcism
 Dialogue: 2,0:09:11.27,0:09:11.32,Signs,Screen,-999,0,0,,{=47}{\blur0.8\an4\alpha&H20&\fnFOT-NewRodin ProN UB\fs40\pos(-451.03,328.26)}Blood Manipulation                        Convergence                            Piercing Blood                             Blood Blade                                 Supernova                               Slicing Exorcism
 Dialogue: 0,0:08:55.31,0:09:11.32,Signs,Screen,0,0,0,,{=50}
-Comment: 1,0:09:11.32,0:09:15.83,Signs,Screen,-999,0,0,,{=72}Blood Manipulation (side)
-Dialogue: 1,0:09:11.32,0:09:15.83,Signs,Screen,-999,0,0,,{\alpha&H60&\blur9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(916.88,379.04)}Blo-tion     {\blur8}Convegnce        {\blur7}Piercing Blood                 Blood Blade\h\h
-Dialogue: 2,0:09:11.32,0:09:15.83,Signs,Screen,-999,0,0,,{\blur0.9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(916.88,379.04)}Blo-tion     {\blur0.8}Convegnce        {\blur0.7}Piercing Blood                 Blood Blade\h\h
-Dialogue: 1,0:09:11.32,0:09:15.83,Signs,Screen,-999,0,0,,{\alpha&H50&\blur9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1284.65,216.65)}\h\h\hSupernova
-Dialogue: 2,0:09:11.32,0:09:15.83,Signs,Screen,-999,0,0,,{\blur1\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1284.65,216.65)}\h\h\hSupern{\blur1.2}o{\blur1.3}v{\blur1.4}a
-Dialogue: 1,0:09:11.32,0:09:15.83,Signs,Screen,-999,0,0,,{=73}
+Comment: 1,0:09:11.32,0:09:15.83,Signs,Screen,-999,0,0,,{=78}Blood Manipulation (side)
+Dialogue: 1,0:09:11.32,0:09:15.78,Signs,Screen,-999,0,0,,{\alpha&H60&\blur9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(916.88,379.04)}Blo-tion     {\blur8}Convegnce        {\blur7}Piercing Blood                 Blood Blade\h\h
+Dialogue: 2,0:09:11.32,0:09:15.78,Signs,Screen,-999,0,0,,{\blur0.9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(916.88,379.04)}Blo-tion     {\blur0.8}Convegnce        {\blur0.7}Piercing Blood                 Blood Blade\h\h
+Dialogue: 1,0:09:11.32,0:09:15.78,Signs,Screen,-999,0,0,,{\alpha&H50&\blur9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1284.65,216.65)}\h\h\hSupernova
+Dialogue: 2,0:09:11.32,0:09:15.78,Signs,Screen,-999,0,0,,{\blur1\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1284.65,216.65)}\h\h\hSupern{\blur1.2}o{\blur1.3}v{\blur1.4}a
+Dialogue: 1,0:09:15.78,0:09:15.83,Signs,Screen,-999,0,0,,{\alpha&H60&\blur9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(937.88,384.04)}Blo-tion     {\blur8}Convegnce      {\blur7}Piercing Blood              Blood Blade\h\h
+Dialogue: 2,0:09:15.78,0:09:15.83,Signs,Screen,-999,0,0,,{\blur0.9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(937.88,384.04)}Blo-tion     {\blur0.8}Convegnce      {\blur0.7}Piercing Blood              Blood Blade\h\h
+Dialogue: 1,0:09:15.78,0:09:15.83,Signs,Screen,-999,0,0,,{\alpha&H50&\blur9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1292.65,222.65)}\h\h\hSupernova
+Dialogue: 2,0:09:15.78,0:09:15.83,Signs,Screen,-999,0,0,,{\blur1\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.331244\fscx244.72\fscy281.59\frz15.1015\frx0.6145\fry-21.8722\org(1577.76,218.59)\pos(1290.63,220.59)}\h\h\hSupern{\blur1.2}o{\blur1.3}v{\blur1.4}a
+Dialogue: 2,0:09:15.95,0:09:15.99,Signs,Screen,-999,0,0,,{\blur0.9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(919.88,384.04)\c&H959595&\1a&HFF&}Blo-tion     {\blur0.8}Convegnce        {\blur0.7}Piercing Blood                 {\1a&H96&}Blood Blade\h\h
+Dialogue: 2,0:09:15.99,0:09:16.03,Signs,Screen,-999,0,0,,{\blur0.9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(919.88,378.04)\c&H959595&\1a&HFF&\clip(m 1207.21 293.84 l 1244.9 349.28 1251.55 350.94 1255.43 340.41 1222.17 284.97 1368.5 254.48 1366.28 400.84 985.5 472.36 1001.57 349.28)}Blo-tion     {\blur0.8}Convegnce        {\1a&H96&\blur0.7} Piercing Blood                Blood Blade\h\h
+Dialogue: 2,0:09:16.03,0:09:16.08,Signs,Screen,-999,0,0,,{\blur0.9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(916.88,379.04)\c&H959595&\1a&H96&\clip(m 1201.66 298.28 l 1239.91 353.16 1244.9 351.5 1249.88 344.85 1219.4 292.18 1361.85 263.35 1360.74 404.17 993.81 446.3 1001.57 360.37)}Blo-tion     {\blur0.8}Convegnce        {\blur0.7}Piercing Blood                 Blood Blade\h\h
+Dialogue: 2,0:09:16.08,0:09:16.95,Signs,Screen,-999,0,0,,{\blur0.9\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.797199\fscx39.46\fscy156.98\frz10.6074\frx-0.3773\fry-45.9544\org(1108.84,379.04)\pos(916.88,379.04)\c&H959595&\1a&H96&}Blo-tion     {\blur0.8}Convegnce        {\blur0.7}Piercing Blood                 Blood Blade\h\h
+Dialogue: 2,0:09:15.91,0:09:15.95,Signs,Screen,-999,0,0,,{\blur1\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1286.65,187.65)\c&H969696&\1a&H96&}\h\h\hSupern{\blur1.2}o{\blur1.3}v{\blur1.4}a
+Dialogue: 2,0:09:15.95,0:09:15.99,Signs,Screen,-999,0,0,,{\blur1\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1292.65,220.65)\c&H969696&\1a&H96&\clip(m 1604.8 188.8 l 1609.6 208 1614.4 233.6 1608 267.2 1592 304 1368 347.2 1368 174.4 1648 148.8 1820.8 120 1782.4 297.6 1678.4 296 1656 240 1638.4 187.2)}\h\h\hSupern{\blur1.2}o{\blur1.3}v{\blur1.4}a
+Dialogue: 2,0:09:15.99,0:09:16.03,Signs,Screen,-999,0,0,,{\blur1\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1288.65,214.65)\c&H969696&\1a&H96&\clip(m 1416 193.6 l 1545.6 316.8 1364.8 379.2 1364.8 153.6 1788.8 84.8 1774.4 310.4 1593.6 297.6 1534.4 177.6)}\h\h\hSupern{\blur1.2}o{\blur1.3}v{\blur1.4}a
+Dialogue: 2,0:09:16.03,0:09:16.08,Signs,Screen,-999,0,0,,{\blur1\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1282.65,216.65)\c&H969696&\1a&H96&\clip(m 1412.8 200 l 1539.2 318.4 1364.8 379.2 1364.8 153.6 1788.8 84.8 1774.4 310.4 1593.6 297.6 1524.8 179.2)}\h\h\hSupern{\blur1.2}o{\blur1.3}v{\blur1.4}a
+Dialogue: 2,0:09:16.08,0:09:16.95,Signs,Screen,-999,0,0,,{\blur1\an4\fnFOT-NewRodin ProN UB\fs40\fax-0.340113\fscx242.55\fscy281.75\frz15.3620\frx0.5891\fry-21.3332\org(1568.8,216.65)\pos(1282.65,216.65)\c&H969696&\1a&H96&}\h\h\hSupern{\blur1.2}o{\blur1.3}v{\blur1.4}a
+Dialogue: 1,0:09:11.32,0:09:15.83,Signs,Screen,-999,0,0,,{=79}
 Comment: 0,0:23:23.63,0:23:23.67,Signs,Screen,0,0,0,,{=65}Restroom Map(s)
 Dialogue: 0,0:09:50.49,0:09:53.49,Signs,Screen,0,0,0,,{=67}{\blur0.8\fsp1\fnFOT-Rodin ProN DB vL\fs32\c&HBEC3BE&\move(821,854,820.91,807.96,15,2976)}Restroom Map
 Dialogue: 0,0:19:54.92,0:19:57.43,Signs,Screen,0,0,0,,{\blur0.69\fsp1\fnFOT-Rodin ProN DB vL\fs18\c&HA9B88D&\pos(889,562)}Restroom Map
@@ -970,7 +1145,21 @@ Data: 50,_aegi_folddata,e1;1;6
 Data: 65,_aegi_folddata,e0;1;9
 Data: 66,_aegi_folddata,e1;1;9
 Data: 67,a-mo,e{"uuid"#3A"2f567171-86c0-4917-8e46-3f2513d08d70"#2C"originalText"#3A"{\\blur0.8\\fsp1\\fnFOT-Rodin ProN DB vL\\fs32\\c&HBEC3BE&\\pos(821#2C854)}Restroom Map"}
-Data: 70,_aegi_folddata,e0;0;7
-Data: 71,_aegi_folddata,e1;0;7
-Data: 72,_aegi_folddata,e0;1;7
-Data: 73,_aegi_folddata,e1;1;7
+Data: 78,_aegi_folddata,e0;1;7
+Data: 79,_aegi_folddata,e1;1;7
+Data: 84,a-mo,e{"uuid"#3A"ab6a1e5d-ed77-4137-8bb2-830d95b9f74c"#2C"originalText"#3A"{\\fade(2000#2C0)\\blur0.8\\fnFOT Gaku Maru Gothic Pro Strp\\fs30\\c&H392120&\\alpha&HC0&\\1a&H00&\\pos(635.72#2C342.61)}ONE WAY"}
+Data: 85,_aegi_folddata,e0;1;10
+Data: 86,_aegi_folddata,e1;1;10
+Data: 89,a-mo,e{"uuid"#3A"e37d65b9-29c3-4a76-b260-f81c6373f4a1"#2C"originalText"#3A"{\\fscx112.19\\fscy112.19\\blur0.9\\fnFOT Gaku Maru Gothic Pro Strp\\fs28\\c&H8E9294&\\alpha&HC0&\\1a&H00&\\pos(639.5#2C344.33)}ONE WAY"}
+Data: 90,_aegi_folddata,e0;1;11
+Data: 91,_aegi_folddata,e1;1;11
+Data: 92,_aegi_folddata,e0;1;12
+Data: 93,_aegi_folddata,e1;1;12
+Data: 96,_aegi_folddata,e0;0;2
+Data: 97,_aegi_folddata,e1;0;2
+Data: 98,_aegi_folddata,e0;0;10
+Data: 99,_aegi_folddata,e1;0;10
+Data: 100,_aegi_folddata,e0;0;12
+Data: 101,_aegi_folddata,e1;0;12
+Data: 102,_aegi_folddata,e0;0;11
+Data: 103,_aegi_folddata,e1;0;11
