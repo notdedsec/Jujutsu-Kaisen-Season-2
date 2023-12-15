@@ -78,11 +78,11 @@ class Source:
         return SRC
 
 
-    def merge(self, complex_ranges: List[Tuple[int, int]] = []):
+    def merge(self, complex_ranges: List[Tuple[int, int]] = [], use_amzn: bool = False):
         CR = self.get_source('*SubsPlease*.mkv')
         BB = self.get_source('*ToonsHub*.mkv')
         AZ = self.get_source('*AMZN*.mkv')
-        DP = self.get_source('*DSNP*.mkv')
+        DP = self.get_source('*DSNP*.mkv' if not use_amzn else '*AMZN*.mkv')
 
         cr, bb, dp = [src.clip_cut for src in [CR, BB, DP]]
         bb = SSIM(sigmoid=True, kernel=BicubicDidee()).scale(bb, 1920, 1080)
