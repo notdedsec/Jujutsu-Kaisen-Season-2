@@ -1,12 +1,12 @@
 from typing import List, Tuple
 
 from vapoursynth import VideoNode
-from vstools import replace_ranges, depth, get_depth, core
+from vstools import core, depth, get_depth, get_y, iterate, replace_ranges
 from vsmasktools import squaremask
 from awsmfunc import bbmod
 
 
-def letterbox_fix(clip: VideoNode, src: VideoNode, height: int, ranges: List[Tuple[int, int]], offset: int = 1, shift: int = 0, blur: int = 500) -> VideoNode:
+def letterbox_fix(clip: VideoNode, src: VideoNode, height: int, ranges: List[Tuple[int, int]], offset: int = 1, shift: int = 0, blur: int = 500):
     src = depth(src, get_depth(clip))
 
     src_shift = core.resize.Bicubic(src, src_top=shift)
@@ -28,4 +28,11 @@ def letterbox_fix(clip: VideoNode, src: VideoNode, height: int, ranges: List[Tup
     fixed = replace_ranges(clip, revert_shift, ranges)
 
     return fixed
+
+
+def circle_mask(clip: VideoNode, bzr: int = 4444, inflate: int = 4):
+    mask = get_y(clip).std.Binarize(bzr)
+    mask = iterate(mask, core.std.Inflate, inflate)
+
+    return mask
 

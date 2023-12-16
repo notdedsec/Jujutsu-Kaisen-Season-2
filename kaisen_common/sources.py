@@ -7,6 +7,8 @@ from vsrgtools import lehmer_diff_merge
 from vstools import initialize_clip, replace_ranges, core
 from vardautomation import FileInfo, VPath, Preset, PresetType, PresetBD, PresetEAC3, PresetAAC
 
+from kaisen_common.utils import circle_mask
+
 
 PresetWEB = Preset(
     idx=core.ffms2.Source,
@@ -78,7 +80,7 @@ class Source:
         return SRC
 
 
-    def merge(self, complex_ranges: List[Tuple[int, int]] = [], use_amzn: bool = False):
+    def merge(self, complex_ranges: List[Tuple[int, int]] = [], black_frame: int = 0, use_amzn: bool = False):
         CR = self.get_source('*SubsPlease*.mkv')
         BB = self.get_source('*ToonsHub*.mkv')
         AZ = self.get_source('*AMZN*.mkv')
@@ -86,6 +88,10 @@ class Source:
 
         cr, bb, dp = [src.clip_cut for src in [CR, BB, DP]]
         bb = SSIM(sigmoid=True, kernel=BicubicDidee()).scale(bb, 1920, 1080)
+
+        if black_frame:
+            cr = core.std.MaskedMerge(cr, dp, circle_mask(cr)[black_frame])
+            dp = core.std.MaskedMerge(dp, cr, circle_mask(dp)[black_frame])
 
         src_a = lehmer_diff_merge(cr, dp)
         src_b = lehmer_diff_merge(cr, bb)
