@@ -21,9 +21,9 @@ Video File: jjk_39_premux.mkv
 Keyframes File: jjk_39_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 122
-Active Line: 136
-Video Position: 21291
+Scroll Position: 12
+Active Line: 27
+Video Position: 2988
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,245 +34,221 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.48,0:00:02.78,Default,Fushiguro,0,0,0,,Nanami{**-san}!
-Dialogue: 0,0:00:04.50,0:00:09.80,Default,Fushiguro,0,0,0,,That octopus currently thinks our domains are pushing for control.
-Dialogue: 0,0:00:09.80,0:00:12.04,Default,Fushiguro,0,0,0,,But my goal is different.
-Dialogue: 0,0:00:13.44,0:00:15.99,Default,Fushiguro,0,0,0,,I'll open a small hole
-Dialogue: 0,0:00:16.89,0:00:19.05,Default,Fushiguro,0,0,0,,in the barrier of this domain!
-Dialogue: 0,0:00:19.54,0:00:22.30,Default,Fushiguro,0,0,0,,The hole I entered through is already sealed.
-Dialogue: 0,0:00:22.30,0:00:24.41,Default,Fushiguro,0,0,0,,It's harder to open one from inside than outside,
-Dialogue: 0,0:00:24.41,0:00:29.07,Default,Fushiguro,0,0,0,,but I can open a hole large enough for someone to pass through for a few seconds.
-Dialogue: 0,0:00:29.07,0:00:31.14,Default,Fushiguro,0,0,0,,The edge of his domain is beneath my feet.
-Dialogue: 0,0:00:31.14,0:00:33.57,Default,Fushiguro,0,0,0,,I can tell, since I touched it when I entered.
-Dialogue: 0,0:00:33.57,0:00:34.86,Default,Fushiguro,0,0,0,,I'm ready to go at any time!
-Dialogue: 0,0:00:34.86,0:00:36.97,Default,Fushiguro,0,0,0,,If all three of you jump in at once...
-Dialogue: 0,0:00:38.38,0:00:41.42,Default,Nanami,0,0,0,,None of this leaving yourself behind alone, all right?
-Dialogue: 0,0:00:42.21,0:00:43.82,Default,Fushiguro,0,0,0,,I'm risking my life,
-Dialogue: 0,0:00:44.80,0:00:46.74,Default,Fushiguro,0,0,0,,but I don't intend to throw it away.
-Dialogue: 0,0:00:54.50,0:00:55.74,Default,Nanami,0,0,0,,You two!
+Dialogue: 0,0:00:01.48,0:00:02.77,Default,Fushiguro,0,0,0,,{*}Mr. Nanami{*Nanami-san}!
+Dialogue: 0,0:00:04.61,0:00:09.95,Default,Fushiguro,0,0,0,,That octopus thinks our domains are pushing for control.
+Dialogue: 0,0:00:09.95,0:00:11.99,Default,Fushiguro,0,0,0,,But that's not what I'm after.
+Dialogue: 0,0:00:13.54,0:00:19.00,Default,Fushiguro,0,0,0,,I'm going to open a hole in the barrier of this domain!
+Dialogue: 0,0:00:19.54,0:00:22.46,Default,Fushiguro,0,0,0,,The one I entered through is already sealed.
+Dialogue: 0,0:00:22.46,0:00:24.46,Default,Fushiguro,0,0,0,,It's harder to open one from the inside,
+Dialogue: 0,0:00:24.46,0:00:29.05,Default,Fushiguro,0,0,0,,but I can make it large enough for someone\N to pass through for a few seconds.
+Dialogue: 0,0:00:29.05,0:00:31.22,Default,Fushiguro,0,0,0,,The edge of this barrier is right below me.
+Dialogue: 0,0:00:31.22,0:00:33.60,Default,Fushiguro,0,0,0,,I know because I touched it when I entered.
+Dialogue: 0,0:00:33.60,0:00:34.93,Default,Fushiguro,0,0,0,,I'm ready to go at any time!
+Dialogue: 0,0:00:34.93,0:00:37.14,Default,Fushiguro,0,0,0,,All three of you need to jump in at once!
+Dialogue: 0,0:00:38.48,0:00:41.90,Default,Nanami,0,0,0,,You don't intend to stay behind, right?
+Dialogue: 0,0:00:42.19,0:00:44.02,Default,Fushiguro,0,0,0,,{\pos(969,1020)}I'm risking my life.
+Dialogue: 0,0:00:44.77,0:00:46.73,Default,Fushiguro,0,0,0,,{\pos(969,1020)}I don't plan to throw it away.
+Dialogue: 0,0:00:54.49,0:00:55.74,Default,Nanami,0,0,0,,You two!
 Dialogue: 0,0:00:59.00,0:01:00.25,Default,Nanami,0,0,0,,Gather 'round!
-Dialogue: 0,0:01:03.44,0:01:05.63,Default,Narrator,0,0,0,,They faced an enemy that understood language.
-Dialogue: 0,0:01:06.26,0:01:11.18,Default,Narrator,0,0,0,,And with faith in their fellow grade-1 indirectly conveying his intentions,
-Dialogue: 0,0:01:12.52,0:01:14.98,Default,Narrator,0,0,0,,the previously excluded possibility
-Dialogue: 0,0:01:15.86,0:01:20.00,Default,Narrator,0,0,0,,of escaping the domain became an option once more.
-Dialogue: 0,0:01:20.94,0:01:24.21,Default,Dagon,0,0,0,,{\i1}They're bolstering their defense of the boy?
-Dialogue: 0,0:01:24.21,0:01:26.94,Default,Dagon,0,0,0,,{\i1}That just groups them up for me to—
-Dialogue: 0,0:01:27.23,0:01:27.95,Default,Dagon,0,0,0,,{\i1}No!
-Dialogue: 0,0:01:28.39,0:01:30.56,Default,Nanami,0,0,0,,{\i1}He figured it out?! But it's too late!
-Dialogue: 0,0:01:30.88,0:01:32.82,Default,Nanami,0,0,0,,To Fushiguro{**-kun}'s feet!
-Dialogue: 0,0:01:48.04,0:01:51.76,Default,Narrator,0,0,0,,One who had inherited the curse of the Zenin clan from birth,
-Dialogue: 0,0:01:54.25,0:01:57.85,Default,Narrator,0,0,0,,and one who could not completely cast off that curse,
-Dialogue: 0,0:01:58.47,0:02:00.63,Default,Narrator,0,0,0,,both stood in witness
-Dialogue: 0,0:02:03.27,0:02:05.86,Default,Narrator,0,0,0,,to the one who cast it all off
-Dialogue: 0,0:02:06.37,0:02:08.86,Default,Narrator,0,0,0,,now manifested in raw flesh...
-Dialogue: 0,0:02:10.20,0:02:12.36,Default,Narrator,0,0,0,,and taking action.
-Dialogue: 0,0:02:13.89,0:02:14.86,Default,Fushiguro,0,0,0,,{\i1}Who's that?!
-Dialogue: 0,0:02:15.24,0:02:16.30,Default,Maki,0,0,0,,{\i1}A person?
-Dialogue: 0,0:02:17.00,0:02:18.37,Default,Maki,0,0,0,,{\i1}A sorcerer?
-Dialogue: 0,0:02:20.04,0:02:24.38,Default,Dagon,0,0,0,,{\i1}They brought a new sorcerer in instead of escaping?
-Dialogue: 0,0:02:29.38,0:02:32.39,Default,Maki,0,0,0,,{\i1}He's fast! He was just in mid-air!
-Dialogue: 0,0:02:32.73,0:02:34.76,Default,Maki,0,0,0,,{\i1}That's not all, either!
-Dialogue: 0,0:02:34.76,0:02:37.02,Default,Maki,0,0,0,,{\i1}What's with his strength?!
-Dialogue: 0,0:02:40.90,0:02:42.22,Default,Fushiguro,0,0,0,,Maki{**-san}!
-Dialogue: 0,0:02:42.95,0:02:45.44,Default,Maki,0,0,0,,{\i1}I didn't feel any cursed energy from him!
-Dialogue: 0,0:02:45.44,0:02:47.44,Default,Maki,0,0,0,,{\i1}Did I just lose a contest of pure strength?!
-Dialogue: 0,0:02:47.44,0:02:48.74,Default,Maki,0,0,0,,{\i1}Me, of all people?!
-Dialogue: 0,0:02:49.85,0:02:51.23,Default,Nanami,0,0,0,,Fushiguro{**-kun}?
-Dialogue: 0,0:02:51.42,0:02:52.36,Default,Fushiguro,0,0,0,,It's no good.
-Dialogue: 0,0:02:52.36,0:02:54.14,Default,Fushiguro,0,0,0,,The hole has been sealed.
-Dialogue: 0,0:02:54.14,0:02:56.75,Default,Fushiguro,0,0,0,,To make things worse, it just figured out our goal.
-Dialogue: 0,0:02:57.24,0:03:00.24,Default,Fushiguro,0,0,0,,It won't let us open a hole as easily again.
-Dialogue: 0,0:03:10.80,0:03:12.20,Default,Naobito,0,0,0,,Toji!
-Dialogue: 0,0:03:13.54,0:03:18.01,Default,Narrator,0,0,0,,Granny Ogami's seance technique still continued after her death.
-Dialogue: 0,0:03:18.59,0:03:21.66,Default,Narrator,0,0,0,,Her summoning of the dead should have ceased
-Dialogue: 0,0:03:21.66,0:03:24.70,Default,Narrator,0,0,0,,once her grandson, the vessel, ran out of cursed energy.
-Dialogue: 0,0:03:27.73,0:03:30.60,Default,Narrator,0,0,0,,But there was no cursed energy in the grandson's soul
-Dialogue: 0,0:03:30.60,0:03:32.81,Default,Narrator,0,0,0,,that was overwritten by Toji Zenin's body,
-Dialogue: 0,0:03:32.81,0:03:36.70,Default,Narrator,0,0,0,,and his body never expended cursed energy, either.
-Dialogue: 0,0:03:37.54,0:03:41.02,Default,Narrator,0,0,0,,Her technique had lost its chance to terminate.
-Dialogue: 0,0:03:41.78,0:03:46.44,Default,Narrator,0,0,0,,The compounding irregularities left her technique running rampant,
-Dialogue: 0,0:03:47.15,0:03:49.66,Default,Narrator,0,0,0,,and Toji Zenin was currently fighting as directed
-Dialogue: 0,0:03:49.66,0:03:52.96,Default,Narrator,0,0,0,,by his instincts until his vessel ultimately broke.
-Dialogue: 0,0:03:52.96,0:03:56.08,Default,Narrator,0,0,0,,He had become a murder machine.
-Dialogue: 0,0:03:57.02,0:03:58.72,Default,Dagon,0,0,0,,{\i1}This man...
-Dialogue: 0,0:03:59.08,0:04:00.88,Default,Dagon,0,0,0,,{\i1}has no cursed energy?
-Dialogue: 0,0:04:01.17,0:04:03.39,Default,Dagon,0,0,0,,Not worth my attention, then.
-Dialogue: 0,0:04:24.57,0:04:27.00,Default,Narrator,0,0,0,,His fangs were constantly
-Dialogue: 0,0:04:28.34,0:04:31.00,Default,Narrator,0,0,0,,directed toward the strongest.
+Dialogue: 0,0:01:03.42,0:01:06.34,Default,Narrator,0,0,0,,Since the enemy understood human speech,
+Dialogue: 0,0:01:06.34,0:01:11.18,Default,Narrator,0,0,0,,they trusted their fellow first-grade conveying his intention in a roundabout way.
+Dialogue: 0,0:01:12.59,0:01:20.10,Default,Narrator,0,0,0,,The previously excluded possibility of escaping\N the domain became an option once more.
+Dialogue: 0,0:01:20.94,0:01:24.23,Default,Dagon,0,0,0,,{\i1}They're bolstering their defense of the boy?
+Dialogue: 0,0:01:24.23,0:01:26.69,Default,Dagon,0,0,0,,{\i1}That just makes it easier for me to get all{\fscx180}—{\fscx}
+Dialogue: 0,0:01:27.36,0:01:28.19,Default,Dagon,0,0,0,,{\i1}No!
+Dialogue: 0,0:01:28.48,0:01:30.90,Default,Nanami,0,0,0,,{\i1}He figured it out. But it's too late!
+Dialogue: 0,0:01:30.90,0:01:32.82,Default,Nanami,0,0,0,,Right below Fushiguro{**-kun}!
+Dialogue: 0,0:01:48.05,0:01:51.76,Default,Narrator,0,0,0,,Those who inherited the curse of the Zenin clan,
+Dialogue: 0,0:01:54.30,0:01:57.85,Default,Narrator,0,0,0,,and those who could never truly cast it off.
+Dialogue: 0,0:01:58.56,0:02:00.85,Default,Narrator,0,0,0,,As he manifests once again,
+Dialogue: 0,0:02:03.35,0:02:08.86,Default,Narrator,0,0,0,,they would all bear witness to the one who cast it all off
+Dialogue: 0,0:02:10.28,0:02:12.36,Default,Narrator,0,0,0,,and his overwhelming intensity.
+Dialogue: 0,0:02:13.95,0:02:14.86,Default,Fushiguro,0,0,0,,{\i1}Who's that?!
+Dialogue: 0,0:02:15.28,0:02:16.37,Default,Maki,0,0,0,,{\i1}A human?
+Dialogue: 0,0:02:16.99,0:02:18.37,Default,Maki,0,0,0,,{\i1}Is he a sorcerer?
+Dialogue: 0,0:02:20.12,0:02:24.37,Default,Dagon,0,0,0,,{\i1}They brought another sorcerer in instead of escaping?
+Dialogue: 0,0:02:29.38,0:02:32.38,Default,Maki,0,0,0,,{\i1}He's fast! He was mid-air just now!
+Dialogue: 0,0:02:32.88,0:02:34.76,Default,Maki,0,0,0,,{\i1}And it's not just speed.
+Dialogue: 0,0:02:34.76,0:02:37.35,Default,Maki,0,0,0,,{\i1}What's with his strength?!
+Dialogue: 0,0:02:41.02,0:02:42.23,Default,Fushiguro,0,0,0,,Maki{**-san}!
+Dialogue: 0,0:02:43.02,0:02:45.48,Default,Maki,0,0,0,,{\i1}I didn't sense any cursed energy!
+Dialogue: 0,0:02:45.48,0:02:47.56,Default,Maki,0,0,0,,{\i1}Did I just lose a contest of strength?!
+Dialogue: 0,0:02:47.56,0:02:48.73,Default,Maki,0,0,0,,{\i1}Me, of all people?!
+Dialogue: 0,0:02:49.94,0:02:51.23,Default,Nanami,0,0,0,,Fushiguro{**-kun}?
+Dialogue: 0,0:02:51.48,0:02:54.24,Default,Fushiguro,0,0,0,,No dice. The hole has been sealed.
+Dialogue: 0,0:02:54.24,0:02:56.74,Default,Fushiguro,0,0,0,,To make things worse, it just figured out our goal.
+Dialogue: 0,0:02:57.41,0:03:00.24,Default,Fushiguro,0,0,0,,It won't let us open up another that easily.
+Dialogue: 0,0:03:10.88,0:03:12.21,Default,Naobito,0,0,0,,Toji!
+Dialogue: 0,0:03:13.59,0:03:18.01,Default,Narrator,0,0,0,,Granny Ogami's seance technique\N continued even after her death.
+Dialogue: 0,0:03:18.60,0:03:24.68,Default,Narrator,0,0,0,,It should have ceased once her grandson,\N the vessel, ran out of cursed energy.
+Dialogue: 0,0:03:27.73,0:03:36.70,Default,Narrator,0,0,0,,The soul overwritten by Zenin Toji's body never had any\N cursed energy, and his body never consumed any.
+Dialogue: 0,0:03:37.57,0:03:41.03,Default,Narrator,0,0,0,,Her technique had lost its chance to terminate.
+Dialogue: 0,0:03:41.78,0:03:46.71,Default,Narrator,0,0,0,,The compounding irregularities\N left her technique running rampant.
+Dialogue: 0,0:03:47.17,0:03:52.96,Default,Narrator,0,0,0,,Zenin Toji would now fight on instinct\N until the vessel broke.
+Dialogue: 0,0:03:52.96,0:03:56.47,Default,Narrator,0,0,0,,He had become a murder machine.
+Dialogue: 0,0:03:57.05,0:04:00.93,Default,Dagon,0,0,0,,{\i1}This man... has no cursed energy?
+Dialogue: 0,0:04:01.26,0:04:03.39,Default,Dagon,0,0,0,,{\pos(988,1020)}Not worth my time.
+Dialogue: 0,0:04:24.70,0:04:31.00,Default,Narrator,0,0,0,,Always baring his fangs at the strongest.
 Comment: 0,0:04:31.00,0:04:31.04,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:06:00.92,0:06:00.97,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:08:19.92,0:08:21.24,Default,Maki,0,0,0,,Old man,
-Dialogue: 0,0:08:22.64,0:08:24.19,Default,Maki,0,0,0,,who is that?
-Dialogue: 0,0:08:35.46,0:08:37.10,Default,Naobito,0,0,0,,A ghost.
-Dialogue: 0,0:08:40.76,0:08:43.63,Default,Nanami,0,0,0,,Fushiguro{**-kun}, can you hold out a little longer?
-Dialogue: 0,0:08:45.94,0:08:47.06,Default,Fushiguro,0,0,0,,Yes.
-Dialogue: 0,0:08:47.06,0:08:48.10,Default,Nanami,0,0,0,,I'm sorry.
-Dialogue: 0,0:08:48.62,0:08:50.22,Default,Nanami,0,0,0,,We're placing our bets on him.
-Dialogue: 0,0:09:01.94,0:09:04.48,Default,Fushiguro,0,0,0,,{\i1}He's smashing Playful Cloud against itself?
-Dialogue: 0,0:09:05.52,0:09:06.73,Default,Nanami,0,0,0,,He's changing its shape...
-Dialogue: 0,0:09:09.55,0:09:10.96,Default,Nanami,0,0,0,,{\i1}Is he sharpening it?!
-Dialogue: 0,0:09:19.50,0:09:22.80,Default,Dagon,0,0,0,,{\i1}Am I going to lose?
-Dialogue: 0,0:09:24.86,0:09:28.06,Default,Dagon,0,0,0,,{\i1}Against a human with no cursed energy?!
-Dialogue: 0,0:09:28.88,0:09:29.76,Default,Dagon,0,0,0,,{\i1}No!
-Dialogue: 0,0:09:29.76,0:09:32.64,Default,Dagon,0,0,0,,{\i1}I can feel that young boy's domain weakening!
-Dialogue: 0,0:09:32.64,0:09:36.27,Default,Dagon,0,0,0,,{\i1}If I can regain my guaranteed-hit effect, I can kill them all!
-Dialogue: 0,0:09:36.61,0:09:37.76,Default,Dagon,0,0,0,,{\i1}I need to...
-Dialogue: 0,0:09:38.16,0:09:39.52,Default,Dagon,0,0,0,,{\i1}buy time!
-Dialogue: 0,0:09:40.02,0:09:42.82,Default,Naobito,0,0,0,,Of course, you can hover, too, right?
-Dialogue: 0,0:09:44.22,0:09:46.52,Default,Naobito,0,0,0,,Do I need to say it again?
-Dialogue: 0,0:10:00.07,0:10:01.66,Default,Dagon,0,0,0,,It's not...
-Dialogue: 0,0:10:01.66,0:10:03.34,Default,Dagon,0,0,0,,over yet!
-Dialogue: 0,0:10:25.80,0:10:26.98,Default,Maki,0,0,0,,{\i1}The domain!
-Dialogue: 0,0:10:27.32,0:10:29.98,Default,Maki,0,0,0,,{\i1}He seriously exorcised that octopus all by himself!
-Dialogue: 0,0:10:35.39,0:10:37.78,Default,Nanami,0,0,0,,{\i1}If Fushiguro{**-kun} hadn't come,
-Dialogue: 0,0:10:37.78,0:10:40.27,Default,Nanami,0,0,0,,{\i1}we all would've been wiped out for sure.
-Dialogue: 0,0:10:40.99,0:10:43.86,Default,Nanami,0,0,0,,{\i1}Though problems still remain.
-Dialogue: 0,0:10:47.16,0:10:49.07,Default,Nanami,0,0,0,,{\i1}Is he an ally or not?
-Dialogue: 0,0:11:24.15,0:11:25.00,Default,Fushiguro,0,0,0,,Huh?
-Dialogue: 0,0:11:29.55,0:11:32.32,Default,Fushiguro,0,0,0,,{\i1}When did I get forced outside?
-Dialogue: 0,0:11:33.70,0:11:35.59,Default,Fushiguro,0,0,0,,{\i1}This goes beyond just fast!
-Dialogue: 0,0:11:35.85,0:11:37.59,Default,Fushiguro,0,0,0,,{\i1}He might be worse than Sukuna!
-Dialogue: 0,0:11:39.14,0:11:41.12,Default,Fushiguro,0,0,0,,{\i1}What is with this guy?!
-Dialogue: 0,0:11:42.10,0:11:43.55,Default,Maki,0,0,0,,Megumi!
-Dialogue: 0,0:11:50.98,0:11:53.92,Default,Jogo,0,0,0,,You've passed on, Dagon?
-Dialogue: 0,0:11:54.96,0:11:56.51,Default,Naobito,0,0,0,,{\i1}Hey, hey, hey!
-Dialogue: 0,0:11:56.51,0:11:57.87,Default,Naobito,0,0,0,,{\i1}You're kidding, right?
-Dialogue: 0,0:11:58.56,0:12:00.62,Default,Nanami,0,0,0,,{\i1}This one's another level stronger...
-Dialogue: 0,0:12:01.66,0:12:03.82,Default,Jogo,0,0,0,,Leave the rest to me.
-Dialogue: 0,0:12:03.82,0:12:05.62,Default,Nanami,0,0,0,,{\i1}...than that cursed spirit, Dagon!
-Dialogue: 0,0:12:05.62,0:12:10.39,Default,Jogo,0,0,0,,Our souls will reincarnate, even without relying on human beings.
-Dialogue: 0,0:12:11.21,0:12:14.42,Default,Jogo,0,0,0,,Let us meet again in the wasteland a century from now.
-Dialogue: 0,0:12:19.50,0:12:21.14,Default,Jogo,0,0,0,,Now, then.
-Dialogue: 0,0:12:25.96,0:12:27.39,Default,Jogo,0,0,0,,First one down.
-Dialogue: 0,0:12:28.80,0:12:29.64,Default,Maki,0,0,0,,Nana—
-Dialogue: 0,0:12:31.43,0:12:32.40,Default,Jogo,0,0,0,,Second one down.
-Dialogue: 0,0:12:57.12,0:12:59.13,Default,Jogo,0,0,0,,Third one down.
-Dialogue: 0,0:13:03.56,0:13:05.12,Default,Jogo,0,0,0,,Sukuna?
-Dialogue: 0,0:13:06.02,0:13:07.68,Default,Jogo,0,0,0,,{\i1}No, it's not!
-Dialogue: 0,0:13:07.68,0:13:08.80,Default,Jogo,0,0,0,,{\i1}The fingers!
-Dialogue: 0,0:13:09.13,0:13:13.06,Default,Jogo,0,0,0,,{\i1}Someone has released Sukuna's fingers somewhere here in Shibuya!
-Dialogue: 0,0:13:13.99,0:13:15.71,Default,Mimiko,0,0,0,,Let's hurry, Nanako.
-Dialogue: 0,0:13:17.09,0:13:18.91,Default,Mimiko,0,0,0,,The fingers might draw cursed spirits here.
-Dialogue: 0,0:13:19.28,0:13:20.57,Default,Nanako,0,0,0,,I know.
-Dialogue: 0,0:13:21.11,0:13:22.28,Default,Nanako,0,0,0,,Please,
-Dialogue: 0,0:13:23.08,0:13:24.18,Default,Nanako,0,0,0,,come out,
-Dialogue: 0,0:13:26.88,0:13:28.30,Default,Nanako,0,0,0,,Sukuna-sama.
-Dialogue: 0,0:13:41.09,0:13:44.43,Default,Jogo,0,0,0,,You two! How many fingers did you feed him?!
-Dialogue: 0,0:13:45.43,0:13:46.36,Default,Mimiko,0,0,0,,I won't tell!
-Dialogue: 0,0:13:46.77,0:13:47.43,Default,Nanako,0,0,0,,Mimiko!
-Dialogue: 0,0:13:47.43,0:13:49.44,Default,Jogo,0,0,0,,That so? Then die.
-Dialogue: 0,0:13:54.75,0:13:58.07,Default,Jogo,0,0,0,,{\i1}Good, the markings haven't disappeared.
-Dialogue: 0,0:13:58.07,0:14:02.58,Default,Jogo,0,0,0,,{\i1}This was an unexpected turn of events, but I'll make use of it to greatest effect.
-Dialogue: 0,0:14:03.42,0:14:07.95,Default,Geto,0,0,0,,Itadori Yuji probably wouldn't transfer control of his body to Sukuna
-Dialogue: 0,0:14:07.95,0:14:11.73,Default,Geto,0,0,0,,even after taking in all 20 fingers.
-Dialogue: 0,0:14:12.48,0:14:19.21,Default,Geto,0,0,0,,But that's only if he spent 20 days taking one in every day.
-Dialogue: 0,0:14:19.76,0:14:22.22,Default,Geto,0,0,0,,If he took in ten at once,
-Dialogue: 0,0:14:22.22,0:14:24.40,Default,Geto,0,0,0,,his body wouldn't be able to adapt quickly enough,
-Dialogue: 0,0:14:24.40,0:14:28.80,Default,Geto,0,0,0,,and control would transfer to Sukuna, even if only temporarily.
-Dialogue: 0,0:14:38.62,0:14:39.98,Default,Jogo,0,0,0,,Wake up,
+Dialogue: 0,0:08:20.02,0:08:21.69,Default,Maki,0,0,0,,Old man,
+Dialogue: 0,0:08:22.65,0:08:24.19,Default,Maki,0,0,0,,who is that?
+Dialogue: 0,0:08:35.45,0:08:37.00,Default,Naobito,0,0,0,,A ghost.
+Dialogue: 0,0:08:40.83,0:08:43.71,Default,Nanami,0,0,0,,Fushiguro{**-kun}, can you hold out a little longer?
+Dialogue: 0,0:08:46.01,0:08:47.05,Default,Fushiguro,0,0,0,,Yes.
+Dialogue: 0,0:08:47.05,0:08:48.09,Default,Nanami,0,0,0,,I'm sorry.
+Dialogue: 0,0:08:48.63,0:08:50.22,Default,Nanami,0,0,0,,We're placing our bets on him.
+Dialogue: 0,0:09:01.98,0:09:04.48,Default,Fushiguro,0,0,0,,{\i1}He's smashing Playful Cloud against itself?
+Dialogue: 0,0:09:05.53,0:09:06.73,Default,Nanami,0,0,0,,{\i1}Is he...
+Dialogue: 0,0:09:09.57,0:09:11.24,Default,Nanami,0,0,0,,{\i1}sharpening it?!
+Dialogue: 0,0:09:19.50,0:09:22.79,Default,Dagon,0,0,0,,{\i1}Am I going to lose?
+Dialogue: 0,0:09:24.92,0:09:28.26,Default,Dagon,0,0,0,,{\i1}Against a human with no cursed energy?!
+Dialogue: 0,0:09:28.97,0:09:29.80,Default,Dagon,0,0,0,,{\i1}No!
+Dialogue: 0,0:09:29.80,0:09:32.68,Default,Dagon,0,0,0,,{\i1}I can feel the boy's domain weakening.
+Dialogue: 0,0:09:32.68,0:09:36.26,Default,Dagon,0,0,0,,{\i1}If I can regain my sure-hit effect, I can kill them all!
+Dialogue: 0,0:09:36.72,0:09:39.56,Default,Dagon,0,0,0,,{\i1}I need to buy time!
+Dialogue: 0,0:09:40.02,0:09:42.81,Default,Naobito,0,0,0,,But of course, you can levitate!
+Dialogue: 0,0:09:44.36,0:09:46.52,Default,Naobito,0,0,0,,Need I say it again? {Do I need to say it again?}
+Dialogue: 0,0:10:00.12,0:10:01.54,Default,Dagon,0,0,0,,It's not...
+Dialogue: 0,0:10:01.54,0:10:03.08,Default,Dagon,0,0,0,,over yet!
+Dialogue: 0,0:10:25.86,0:10:27.40,Default,Maki,0,0,0,,{\i1}We're outside the domain!
+Dialogue: 0,0:10:27.40,0:10:30.32,Default,Maki,0,0,0,,{\i1}He really did exorcise that octopus all by himself!
+Dialogue: 0,0:10:35.45,0:10:40.25,Default,Nanami,0,0,0,,{\i1}If Fushiguro{**-kun} hadn't come,\N we all would've been wiped out for sure.
+Dialogue: 0,0:10:41.04,0:10:44.04,Default,Nanami,0,0,0,,{\i1}There's still one problem, though.
+Dialogue: 0,0:10:47.21,0:10:49.13,Default,Nanami,0,0,0,,{\i1}Is he on our side?
+Comment: 0,0:11:24.21,0:11:25.08,Default,Fushiguro,0,0,0,,Huh?
+Dialogue: 0,0:11:29.63,0:11:32.46,Default,Fushiguro,0,0,0,,{\i1}When did I get forced outside?
+Dialogue: 0,0:11:33.80,0:11:35.97,Default,Fushiguro,0,0,0,,{\i1}This goes beyond just fast!
+Dialogue: 0,0:11:35.97,0:11:38.09,Default,Fushiguro,0,0,0,,{\i1}He might be worse than Sukuna!
+Dialogue: 0,0:11:39.14,0:11:41.18,Default,Fushiguro,0,0,0,,{\i1}Who the hell is this guy?!
+Dialogue: 0,0:11:42.43,0:11:43.64,Default,Maki,0,0,0,,Megumi!
+Dialogue: 0,0:11:51.11,0:11:54.36,Default,Jogo,0,0,0,,So you have passed on, Dagon?
+Dialogue: 0,0:11:55.03,0:11:57.86,Default,Naobito,0,0,0,,{\i1}Oh, come on. What kind of joke is this? {Hey, hey, hey! You're kidding, right?}
+Dialogue: 0,0:11:58.57,0:12:00.62,Default,Nanami,0,0,0,,{\i1}Compared to that cursed spirit, Dagon...
+Dialogue: 0,0:12:01.70,0:12:03.87,Default,Jogo,0,0,0,,Leave the rest to me.
+Dialogue: 0,0:12:03.87,0:12:05.62,Default,Nanami,0,0,0,,{\i1}...this one's much stronger!
+Dialogue: 0,0:12:05.96,0:12:10.38,Default,Jogo,0,0,0,,Our souls will reincarnate, regardless of humanity's fate.
+Dialogue: 0,0:12:11.38,0:12:14.63,Default,Jogo,0,0,0,,Let us meet again in the dystopia \Ncenturies down the line.
+Dialogue: 0,0:12:19.64,0:12:21.14,Default,Jogo,0,0,0,,Now, then.
+Dialogue: 0,0:12:26.14,0:12:27.39,Default,Jogo,0,0,0,,One down.
+Dialogue: 0,0:12:28.90,0:12:29.69,Default,Maki,0,0,0,,Nana{\fscx180}—{\fscx}
+Dialogue: 0,0:12:31.48,0:12:32.40,Default,Jogo,0,0,0,,Two down.
+Dialogue: 0,0:12:57.26,0:12:59.43,Default,Jogo,0,0,0,,Three down.
+Dialogue: 0,0:13:03.64,0:13:05.14,Default,Jogo,0,0,0,,Sukuna?
+Dialogue: 0,0:13:06.10,0:13:08.89,Default,Jogo,0,0,0,,{\i1}No, it's the finger!
+Dialogue: 0,0:13:09.31,0:13:13.06,Default,Jogo,0,0,0,,{\i1}Sukuna's finger was released somewhere in Shibuya!
+Dialogue: 0,0:13:14.11,0:13:15.73,Default,Mimiko,0,0,0,,Let's hurry, Nanako.
+Dialogue: 0,0:13:17.24,0:13:19.07,Default,Mimiko,0,0,0,,The finger might attract curses.
+Dialogue: 0,0:13:19.40,0:13:20.57,Default,Nanako,0,0,0,,I know.
+Dialogue: 0,0:13:21.24,0:13:24.49,Default,Nanako,0,0,0,,Please, come out,
+Dialogue: 0,0:13:27.00,0:13:28.33,Default,Nanako,0,0,0,,{*}Lord Sukuna{*Sukuna-sama}.
+Dialogue: 0,0:13:41.43,0:13:44.43,Default,Jogo,0,0,0,,You! How many fingers did you feed him?!
+Dialogue: 0,0:13:45.31,0:13:46.43,Default,Mimiko,0,0,0,,We're not telling you!
+Dialogue: 0,0:13:46.81,0:13:47.43,Default,Nanako,0,0,0,,Mimiko!
+Dialogue: 0,0:13:47.43,0:13:49.43,Default,Jogo,0,0,0,,Is that so? Then die.
+Dialogue: 0,0:13:54.86,0:13:58.07,Default,Jogo,0,0,0,,{\i1}Good, the markings haven't disappeared.
+Dialogue: 0,0:13:58.44,0:14:02.57,Default,Jogo,0,0,0,,{\i1}This was an unexpected turn of events,\N but I'll make the best of it.
+Dialogue: 0,0:14:03.49,0:14:12.21,Default,Geto,0,0,0,,Itadori Yuji probably wouldn't transfer control of his body \Nto Sukuna even after consuming all twenty fingers. {Even if Itadori Yuji consumes all twenty fingers, he probably wouldn't transfer control of his body to Sukuna.} {Even after consuming all twenty fingers, Itadori Yuji probably wouldn't transfer control of his body to Sukuna.}
+Dialogue: 0,0:14:12.62,0:14:19.26,Default,Geto,0,0,0,,That is if he consumes one finger a day for twenty days.
+Dialogue: 0,0:14:19.84,0:14:24.47,Default,Geto,0,0,0,,If he were to take in ten at once,\N his body wouldn't have the time to adapt,
+Dialogue: 0,0:14:24.47,0:14:28.89,Default,Geto,0,0,0,,{\fade(0,350)}and although temporary, he would\N lose control of his body to Sukuna.
+Dialogue: 0,0:14:38.61,0:14:41.69,Default,Jogo,0,0,0,,Wake up, Sukuna!
 Comment: 0,0:14:47.99,0:14:48.03,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:14:40.34,0:14:41.55,Default,Jogo,0,0,0,,Sukuna!
-Dialogue: 0,0:15:09.41,0:15:11.88,Default,Jogo,0,0,0,,{\i1}I fed him all ten.
-Dialogue: 0,0:15:11.88,0:15:16.22,Default,Jogo,0,0,0,,{\i1}Now there should be at least 15 fingers inside Itadori.
-Dialogue: 0,0:15:26.33,0:15:28.32,Default,Jogo,0,0,0,,You're alive?
-Dialogue: 0,0:15:28.78,0:15:31.32,Default,Jogo,0,0,0,,{\i1}Must have been the technique of one of them.
-Dialogue: 0,0:15:31.32,0:15:35.46,Default,Jogo,0,0,0,,{\i1}But given how frightened they are, I doubt they can stop me that many times.
-Dialogue: 0,0:15:35.46,0:15:37.68,Default,Jogo,0,0,0,,Don't waste my time!
-Dialogue: 0,0:15:44.42,0:15:46.10,Default,Sukuna,0,0,0,,I'll give you one second.
-Dialogue: 0,0:15:48.39,0:15:49.59,Default,Sukuna,0,0,0,,Move.
-Dialogue: 0,0:15:56.69,0:15:58.61,Default,Jogo,0,0,0,,{\i1}This is Sukuna...
-Dialogue: 0,0:15:59.26,0:16:01.60,Default,Jogo,0,0,0,,{\i1}Strength of a different kind than Gojo Satoru!
-Dialogue: 0,0:16:01.60,0:16:04.10,Default,Jogo,0,0,0,,{\i1}Overwhelming evil!
-Dialogue: 0,0:16:04.52,0:16:09.62,Default,Jogo,0,0,0,,{\i1}Fear that even the slightest move could lead to death!
-Dialogue: 0,0:16:11.61,0:16:13.07,Default,Nanako,0,0,0,,{\i1}Breathe!
-Dialogue: 0,0:16:13.07,0:16:15.12,Default,Nanako,0,0,0,,{\i1}Breathe, breathe!
-Dialogue: 0,0:16:15.12,0:16:17.22,Default,Nanako,0,0,0,,{\i1}Breathe, breathe, breathe, breathe, breathe!
-Dialogue: 0,0:16:17.22,0:16:20.02,Default,Mimiko,0,0,0,,{\i1}It's okay to breathe, right?
-Dialogue: 0,0:16:20.57,0:16:22.10,Default,Mimiko,0,0,0,,{\i1}He won't kill us for that, right?
-Dialogue: 0,0:16:40.08,0:16:42.14,Default,Sukuna,0,0,0,,You hold your heads quite high.
-Dialogue: 0,0:16:52.33,0:16:55.16,Default,Sukuna,0,0,0,,Did you believe taking one knee was enough?
-Dialogue: 0,0:16:55.82,0:16:58.15,Default,Sukuna,0,0,0,,The greatest men bow the lowest, or so it goes.
-Dialogue: 0,0:16:58.15,0:17:00.79,Default,Sukuna,0,0,0,,I see you value your head quite lightly.
-Dialogue: 0,0:17:02.44,0:17:03.68,Default,Sukuna,0,0,0,,You brats,
-Dialogue: 0,0:17:04.12,0:17:05.93,Default,Sukuna,0,0,0,,I'll start with you.
-Dialogue: 0,0:17:06.42,0:17:09.17,Default,Sukuna,0,0,0,,You wished to speak to me, yes?
-Dialogue: 0,0:17:09.62,0:17:12.32,Default,Sukuna,0,0,0,,I'll grant you a finger's worth of audience.
-Dialogue: 0,0:17:12.32,0:17:13.68,Default,Sukuna,0,0,0,,Now speak.
-Dialogue: 0,0:17:18.83,0:17:26.42,Default,Nanako,0,0,0,,B-Below us, there's a man in monk's robes with a suture across his forehead.
-Dialogue: 0,0:17:27.90,0:17:34.16,Default,Nanako,0,0,0,,P-Please kill him.
-Dialogue: 0,0:17:36.44,0:17:41.34,Default,Mimiko,0,0,0,,Please free Geto-sama.
-Dialogue: 0,0:17:51.91,0:17:53.84,Default,Nanako,0,0,0,,Hey, Geto-sama?
-Dialogue: 0,0:17:54.44,0:17:56.50,Default,Nanako,0,0,0,,Who is Gojo Satoru?
-Dialogue: 0,0:17:57.02,0:17:58.50,Default,Nanako,0,0,0,,He's super strong, right?
-Dialogue: 0,0:17:59.61,0:18:00.48,Default,Geto,0,0,0,,Well...
-Dialogue: 0,0:18:01.05,0:18:02.91,Default,Geto,0,0,0,,He was my best friend.
-Dialogue: 0,0:18:02.91,0:18:05.44,Default,Geto,0,0,0,,But we had a fight and haven't spoken since.
-Dialogue: 0,0:18:07.60,0:18:08.80,Default,Nanako,0,0,0,,I love you.
-Dialogue: 0,0:18:10.20,0:18:11.38,Default,Mimiko,0,0,0,,I love you.
-Dialogue: 0,0:18:12.72,0:18:13.86,Default,Nanako,0,0,0,,I love you.
-Dialogue: 0,0:18:14.70,0:18:16.00,Default,Mimiko,0,0,0,,I love you.
-Dialogue: 0,0:18:21.06,0:18:26.38,Default,Nanako,0,0,0,,{\i1}We'll never forgive Gojo Satoru for killing Geto-sama, so long as we live.
-Dialogue: 0,0:18:26.66,0:18:29.88,Default,Mimiko,0,0,0,,{\i1}But we did feel that was appropriate.
-Dialogue: 0,0:18:30.50,0:18:31.60,Default,Nanako,0,0,0,,{\i1}After all,
-Dialogue: 0,0:18:31.60,0:18:35.64,Default,Nanako,0,0,0,,{\i1}Gojo Satoru was Geto-sama's one and only best friend.
-Dialogue: 0,0:18:36.63,0:18:38.64,Default,Mimiko,0,0,0,,{\i1}But you are different.
-Dialogue: 0,0:18:39.44,0:18:41.21,Default,Nanako,0,0,0,,{\i1}Go to hell!
-Dialogue: 0,0:18:41.81,0:18:43.73,Default,Nanako,0,0,0,,{\i1}We'll make you regret this!
-Dialogue: 0,0:18:45.22,0:18:48.84,Default,Nanako,0,0,0,,We know the location of one other finger.
-Dialogue: 0,0:18:50.64,0:18:52.66,Default,Nanako,0,0,0,,If you'll kill that man for us,
-Dialogue: 0,0:18:53.14,0:18:55.36,Default,Nanako,0,0,0,,we'll tell you where it is.
-Dialogue: 0,0:18:55.91,0:18:58.46,Default,Nanako,0,0,0,,So please...
-Dialogue: 0,0:18:58.46,0:19:00.12,Default,Sukuna,0,0,0,,Raise your heads.
+Dialogue: 0,0:15:09.47,0:15:11.89,Default,Jogo,0,0,0,,{\i1}I fed him all ten.
+Dialogue: 0,0:15:11.89,0:15:16.31,Default,Jogo,0,0,0,,{\i1}That means Itadori has consumed\N at least fifteen fingers. {Now there should be at least fifteen fingers inside Itadori.}
+Dialogue: 0,0:15:26.41,0:15:28.32,Default,Jogo,0,0,0,,You're alive?
+Dialogue: 0,0:15:28.83,0:15:31.41,Default,Jogo,0,0,0,,{\i1}Must have been the technique of one of them.
+Dialogue: 0,0:15:31.41,0:15:35.58,Default,Jogo,0,0,0,,{\i1}But given how frightened they are,\N I doubt they can pull it off one more time.
+Dialogue: 0,0:15:35.58,0:15:37.67,Default,Jogo,0,0,0,,Don't waste my time!
+Dialogue: 0,0:15:44.51,0:15:46.09,Default,Sukuna,0,0,0,,I'll give you one second.
+Dialogue: 0,0:15:48.47,0:15:49.60,Default,Sukuna,0,0,0,,Move.
+Dialogue: 0,0:15:56.77,0:15:58.61,Default,Jogo,0,0,0,,{\i1}This is Sukuna...
+Dialogue: 0,0:15:59.36,0:16:04.36,Default,Jogo,0,0,0,,{\i1}Strength like Gojo Satoru's, except overwhelming evil!
+Dialogue: 0,0:16:04.69,0:16:09.62,Default,Jogo,0,0,0,,{\i1}Fear that even the slightest move could mean death!
+Dialogue: 0,0:16:11.91,0:16:13.20,Default,Nanako,0,0,0,,{\i1}Breathe!
+Dialogue: 0,0:16:13.20,0:16:15.12,Default,Nanako,0,0,0,,{\i1}Breathe, breathe!
+Dialogue: 0,0:16:15.12,0:16:17.33,Default,Nanako,0,0,0,,{\i1}Breathe, breathe, breathe, breathe, breathe!
+Dialogue: 0,0:16:17.33,0:16:20.08,Default,Mimiko,0,0,0,,{\i1}Are we allowed to breathe?
+Dialogue: 0,0:16:20.63,0:16:22.38,Default,Mimiko,0,0,0,,{\i1}He won't kill us for breathing, right?
+Dialogue: 0,0:16:40.10,0:16:42.15,Default,Sukuna,0,0,0,,You hold your heads quite high.
+Dialogue: 0,0:16:52.45,0:16:55.16,Default,Sukuna,0,0,0,,Did you believe kneeling\N on one knee would be enough?
+Dialogue: 0,0:16:55.83,0:16:58.25,Default,Sukuna,0,0,0,,The greatest men bow the lowest, or so it goes. {The boughs that bear the most hang lowest.} {i prefer cr's version here tbh because it's straightforward and simple}
+Dialogue: 0,0:16:58.25,0:17:00.79,Default,Sukuna,0,0,0,,I see you value your head quite lightly. {It seems your head doesn't bear much.} {but unfortunately the wordplay doesn't have the same effect with this second line}
+Dialogue: 0,0:17:02.50,0:17:05.96,Default,Sukuna,0,0,0,,You brats, I'll start with you.
+Dialogue: 0,0:17:06.46,0:17:09.18,Default,Sukuna,0,0,0,,You wished to speak to me, yes?
+Dialogue: 0,0:17:09.68,0:17:12.43,Default,Sukuna,0,0,0,,I'll grant you a finger's worth of audience.
+Dialogue: 0,0:17:12.43,0:17:13.68,Default,Sukuna,0,0,0,,Now speak.
+Dialogue: 0,0:17:18.89,0:17:22.44,Default,Nanako,0,0,0,,B-Below us...
+Dialogue: 0,0:17:22.44,0:17:26.53,Default,Nanako,0,0,0,,Below us, there's a man with stitches\N on his forehead in a monk's robe.
+Dialogue: 0,0:17:27.94,0:17:34.20,Default,Nanako,0,0,0,,P-Please kill him.
+Dialogue: 0,0:17:36.49,0:17:41.37,Default,Mimiko,0,0,0,,Please free {*}Master Geto{*Geto-sama}.
+Dialogue: 0,0:17:52.01,0:17:53.85,Default,Nanako,0,0,0,,Hey, {*}Master Geto{*Geto-sama}?
+Dialogue: 0,0:17:54.51,0:17:56.60,Default,Nanako,0,0,0,,Who is Gojo Satoru?
+Dialogue: 0,0:17:57.10,0:17:58.56,Default,Nanako,0,0,0,,He's super strong, right?
+Dialogue: 0,0:17:59.64,0:18:00.73,Default,Geto,0,0,0,,Well...
+Dialogue: 0,0:18:01.10,0:18:03.06,Default,Geto,0,0,0,,He was my best friend.
+Dialogue: 0,0:18:03.06,0:18:05.69,Default,Geto,0,0,0,,But we had a fight and haven't spoken since.
+Dialogue: 0,0:18:07.65,0:18:08.78,Default,Nanako,0,0,0,,I love you.
+Dialogue: 0,0:18:10.28,0:18:11.45,Default,Mimiko,0,0,0,,I love you.
+Dialogue: 0,0:18:12.78,0:18:13.91,Default,Nanako,0,0,0,,I love you.
+Dialogue: 0,0:18:14.78,0:18:16.08,Default,Mimiko,0,0,0,,I love you.
+Dialogue: 0,0:18:21.12,0:18:26.38,Default,Nanako,0,0,0,,{\i1}We'll never forgive Gojo Satoru for killing {*}Master Geto{*Geto-sama}.
+Dialogue: 0,0:18:26.75,0:18:29.88,Default,Mimiko,0,0,0,,{\i1}But in a way, it did feel appropriate. {But we were okay with letting things be.}
+Dialogue: 0,0:18:30.51,0:18:31.76,Default,Nanako,0,0,0,,{\i1}After all,
+Dialogue: 0,0:18:31.76,0:18:35.64,Default,Nanako,0,0,0,,{\i1}Gojo Satoru was {*}Master Geto{*Geto-sama}'s one and only best friend.
+Dialogue: 0,0:18:36.72,0:18:38.64,Default,Mimiko,0,0,0,,{\i1}But you are different. {as in you're a different case}
+Dialogue: 0,0:18:39.52,0:18:41.60,Default,Nanako,0,0,0,,{\i1}You can go to hell.
+Dialogue: 0,0:18:41.94,0:18:43.85,Default,Nanako,0,0,0,,{\i1}We'll make you regret this!
+Dialogue: 0,0:18:45.31,0:18:48.98,Default,Nanako,0,0,0,,We know the location of one other finger.
+Dialogue: 0,0:18:50.65,0:18:55.37,Default,Nanako,0,0,0,,If you kill him, we'll tell you where it is.
+Dialogue: 0,0:18:55.99,0:18:58.49,Default,Nanako,0,0,0,,So please...
+Dialogue: 0,0:18:58.49,0:19:00.12,Default,Sukuna,0,0,0,,Raise your heads.
 Dialogue: 0,0:19:18.76,0:19:21.77,Default,Nanako,0,0,0,,Mimiko! Mimiko! Mimiko!
-Dialogue: 0,0:19:21.77,0:19:24.12,Default,Sukuna,0,0,0,,Did you think a measly one or two fingers
-Dialogue: 0,0:19:21.77,0:19:24.12,Default,Nanako,0,0,0,,{\an8}Mimiko! Mimiko!
-Dialogue: 0,0:19:24.12,0:19:26.72,Default,Sukuna,0,0,0,,would grant you the right to order me around?
-Dialogue: 0,0:19:24.12,0:19:26.73,Default,Nanako,0,0,0,,{\an8}No! Mimiko!
-Dialogue: 0,0:19:26.73,0:19:27.56,Default,Nanako,0,0,0,,No way, no way!
-Dialogue: 0,0:19:27.56,0:19:30.35,Default,Nanako,0,0,0,,Mimiko! Mimiko!
-Dialogue: 0,0:19:30.35,0:19:31.74,Default,Sukuna,0,0,0,,How offensive.
-Dialogue: 0,0:19:30.87,0:19:32.23,Default,Nanako,0,0,0,,{\an8}Mimiko!
-Dialogue: 0,0:19:32.49,0:19:33.69,Default,Nanako,0,0,0,,Sukuna!
-Dialogue: 0,0:19:33.97,0:19:35.40,Default,Nanako,0,0,0,,Die!
-Dialogue: 0,0:19:49.62,0:19:52.26,Default,Sukuna,0,0,0,,Hmm, a cell phone?
-Dialogue: 0,0:19:52.26,0:19:55.30,Default,Sukuna,0,0,0,,No, the photo function, huh?
-Dialogue: 0,0:19:55.30,0:20:00.05,Default,Sukuna,0,0,0,,It was probably some ability to do something to whatever was pictured in the photo.
-Dialogue: 0,0:20:00.82,0:20:01.60,Default,Sukuna,0,0,0,,Boring.
-Dialogue: 0,0:20:03.14,0:20:06.31,Default,Sukuna,0,0,0,,You're next, cursed spirit.
-Dialogue: 0,0:20:06.31,0:20:07.79,Default,Sukuna,0,0,0,,What do you want?
-Dialogue: 0,0:20:09.53,0:20:11.20,Default,Jogo,0,0,0,,I want...
-Dialogue: 0,0:20:12.22,0:20:13.30,Default,Jogo,0,0,0,,nothing!
-Dialogue: 0,0:20:15.94,0:20:17.24,Default,Sukuna,0,0,0,,What?
-Dialogue: 0,0:20:17.56,0:20:22.51,Default,Jogo,0,0,0,,Our objective, Sukuna, is your complete resurrection.
-Dialogue: 0,0:20:23.20,0:20:28.88,Default,Jogo,0,0,0,,Currently, you only have temporary freedom while Itadori struggles to adapt.
-Dialogue: 0,0:20:28.88,0:20:32.88,Default,Jogo,0,0,0,,I'm sure you're the most aware of that yourself.
-Dialogue: 0,0:20:34.80,0:20:39.58,Default,Jogo,0,0,0,,{\i1}Even if Sukuna's Reverse Cursed Technique is capable of healing others as well,
-Dialogue: 0,0:20:39.58,0:20:41.70,Default,Jogo,0,0,0,,{\i1}it can't do anything about the shape of
-Dialogue: 0,0:20:41.70,0:20:45.26,Default,Jogo,0,0,0,,{\i1}a soul once it's changed by Mahito's Idle Transfiguration.
-Dialogue: 0,0:20:47.40,0:20:51.78,Default,Jogo,0,0,0,,{\i1}It wasn't that he didn't forge a pact back then.
-Dialogue: 0,0:20:51.78,0:20:53.84,Default,Jogo,0,0,0,,{\i1}It was that he couldn't.
-Dialogue: 0,0:20:55.33,0:21:00.58,Default,Jogo,0,0,0,,Forge a pact with Itadori Yuji before he returns!
-Dialogue: 0,0:21:00.91,0:21:05.33,Default,Jogo,0,0,0,,A pact to grant you perpetual authority over his body!
-Dialogue: 0,0:21:06.47,0:21:10.14,Default,Jogo,0,0,0,,Many of Itadori's allies are already here.
-Dialogue: 0,0:21:10.14,0:21:13.18,Default,Jogo,0,0,0,,There are plenty of ways you could do it.
-Dialogue: 0,0:21:18.06,0:21:19.75,Default,Sukuna,0,0,0,,There's no need.
-Dialogue: 0,0:21:23.68,0:21:26.40,Default,Sukuna,0,0,0,,I already have my own plans.
-Dialogue: 0,0:21:26.40,0:21:28.80,Default,Sukuna,0,0,0,,But I see...
-Dialogue: 0,0:21:30.33,0:21:33.37,Default,Sukuna,0,0,0,,You all are desperate, too.
-Dialogue: 0,0:21:34.81,0:21:37.69,Default,Sukuna,0,0,0,,This is your reward for the fingers. Come at me.
-Dialogue: 0,0:21:38.25,0:21:40.94,Default,Sukuna,0,0,0,,If you manage to land even a single blow on me,
-Dialogue: 0,0:21:41.68,0:21:44.20,Default,Sukuna,0,0,0,,I'll work under you all.
-Dialogue: 0,0:21:49.04,0:21:53.20,Default,Sukuna,0,0,0,,For starters, how about I slaughter every human in Shibuya?
-Dialogue: 0,0:21:53.82,0:21:55.77,Default,Sukuna,0,0,0,,Except for one.
-Dialogue: 0,0:22:04.79,0:22:07.12,Default,Jogo,0,0,0,,You're true to your word, yes?
+Dialogue: 0,0:19:21.77,0:19:26.73,Default,Sukuna,0,0,0,,Did you think a measly finger or two\N would grant you the right to order me around?
+Dialogue: 0,0:19:21.77,0:19:24.10,Default,Nanako,0,0,0,,{\an8}Mimiko! Mimiko!
+Dialogue: 0,0:19:24.10,0:19:26.73,Default,Nanako,0,0,0,,{\an8}No! Mimiko!
+Dialogue: 0,0:19:26.73,0:19:27.65,Default,Nanako,0,0,0,,This can't be happening!
+Dialogue: 0,0:19:27.65,0:19:30.36,Default,Nanako,0,0,0,,Mimiko! Mimiko!
+Dialogue: 0,0:19:30.36,0:19:32.24,Default,Sukuna,0,0,0,,How offensive.
+Dialogue: 0,0:19:30.94,0:19:32.24,Default,Nanako,0,0,0,,{\an8}Mimiko!
+Dialogue: 0,0:19:32.61,0:19:34.20,Default,Nanako,0,0,0,,Sukuna!
+Dialogue: 0,0:19:34.20,0:19:35.15,Default,Nanako,0,0,0,,{\fade(0,40)}Die!
+Dialogue: 0,0:19:51.00,0:19:55.43,Default,Sukuna,0,0,0,,Was it the cell phone? No, maybe the camera. {"photo function" or just camera? is he supposed to know what that is? same with cell phone}
+Dialogue: 0,0:19:55.43,0:20:00.05,Default,Sukuna,0,0,0,,Probably something to do with\N manipulating the photographed subject.
+Dialogue: 0,0:20:00.93,0:20:02.10,Default,Sukuna,0,0,0,,Boring.
+Dialogue: 0,0:20:03.27,0:20:06.35,Default,Sukuna,0,0,0,,You're next, cursed spirit.
+Dialogue: 0,0:20:06.35,0:20:07.90,Default,Sukuna,0,0,0,,What do you want?
+Dialogue: 0,0:20:09.69,0:20:11.15,Default,Jogo,0,0,0,,Me?
+Dialogue: 0,0:20:12.36,0:20:13.74,Default,Jogo,0,0,0,,I want nothing.
+Dialogue: 0,0:20:15.99,0:20:17.24,Default,Sukuna,0,0,0,,What?
+Dialogue: 0,0:20:17.61,0:20:22.87,Default,Jogo,0,0,0,,Our objective is your complete resurrection. {did he just use kisama in a literal sense...}
+Dialogue: 0,0:20:23.33,0:20:28.88,Default,Jogo,0,0,0,,Your freedom as of now is only temporary \N while Itadori struggles to adapt.
+Dialogue: 0,0:20:28.88,0:20:32.88,Default,Jogo,0,0,0,,I'm sure you know that better than anyone.
+Dialogue: 0,0:20:34.96,0:20:39.64,Default,Jogo,0,0,0,,{\i1}Sukuna's reverse cursed technique\N might be capable of healing others,
+Dialogue: 0,0:20:39.64,0:20:45.39,Default,Jogo,0,0,0,,{\i1}but it still can't fix the souls transfigured\N with Mahito's Idle Transfiguration.
+Dialogue: 0,0:20:47.56,0:20:51.77,Default,Jogo,0,0,0,,{\i1}It's not that he didn't forge a Binding Vow back then.
+Dialogue: 0,0:20:51.77,0:20:53.94,Default,Jogo,0,0,0,,{\i1}It's that he couldn't.
+Dialogue: 0,0:20:55.40,0:21:00.57,Default,Jogo,0,0,0,,Forge a Binding Vow with Itadori Yuji\N before he regains control!
+Dialogue: 0,0:21:01.03,0:21:05.33,Default,Jogo,0,0,0,,One that grants you permanent control over his body!
+Dialogue: 0,0:21:06.58,0:21:10.17,Default,Jogo,0,0,0,,This place is crawling with Itadori's friends.
+Dialogue: 0,0:21:10.17,0:21:13.25,Default,Jogo,0,0,0,,Plenty of ways to get the job done.
+Dialogue: 0,0:21:18.13,0:21:20.18,Default,Sukuna,0,0,0,,There's no need.
+Dialogue: 0,0:21:23.76,0:21:26.56,Default,Sukuna,0,0,0,,I have my own plans.
+Dialogue: 0,0:21:26.56,0:21:28.81,Default,Sukuna,0,0,0,,I get the idea, though.
+Dialogue: 0,0:21:30.48,0:21:33.52,Default,Sukuna,0,0,0,,You lot sure are desperate.
+Dialogue: 0,0:21:34.82,0:21:37.86,Default,Sukuna,0,0,0,,This is your reward for the fingers. Come at me.
+Dialogue: 0,0:21:38.36,0:21:41.32,Default,Sukuna,0,0,0,,If you manage to land even a single hit on me,
+Dialogue: 0,0:21:41.78,0:21:44.33,Default,Sukuna,0,0,0,,I'll work under you all.
+Dialogue: 0,0:21:49.16,0:21:53.21,Default,Sukuna,0,0,0,,For starters, how about I slaughter\N every human in Shibuya?
+Dialogue: 0,0:21:53.96,0:21:56.46,Default,Sukuna,0,0,0,,All except for one, that is.
+Dialogue: 0,0:22:04.93,0:22:07.47,Default,Jogo,0,0,0,,Do we have ourselves a deal? {You're not going to back out, are you?} {You're true to your word, yes?}
 Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:40.02,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.44,0:23:44.48,Default,Naobito,0,0,0,,If you're going to use jujutsu, you should do it like this!
-Dialogue: 0,0:23:42.79,0:23:44.47,Default,Nanami,0,0,0,,{\an8}Um, there are minors present.
-Dialogue: 0,0:23:44.47,0:23:47.07,Default,Naobito,0,0,0,,Barrier! Technique! One, two, shoot!
-Dialogue: 0,0:23:45.55,0:23:47.52,Default,Nanami,0,0,0,,{\an8}Please, students are watching.
-Dialogue: 0,0:23:47.07,0:23:49.03,Default,Naobito,0,0,0,,I threw out paper, so all of you who threw scissors
-Dialogue: 0,0:23:49.03,0:23:51.07,Default,Naobito,0,0,0,,might see something good happening tomorrow!
-Dialogue: 0,0:23:50.36,0:23:52.35,Default,Nanami,0,0,0,,{\an8}Please don't suddenly try to make this kid-friendly.
-Dialogue: 0,0:23:52.35,0:23:53.45,Default,Maki,0,0,0,,{\an8}Next time, "Thunderclap."
-Dialogue: 0,0:23:53.45,0:23:54.86,Default,Naobito,0,0,0,,{\an8}I'm so drunk!
+Dialogue: 0,0:23:40.44,0:23:44.49,Default,Naobito,0,0,0,,{\an8}I'll show y'all how adults play rock-paper-scissors! {If you're gonna do jujutsu, do it like this!} {not sure what's going on here (jujutsu is not writting with its usual kanji; possible onomatopoeia?) but based on his next line, he starts teaching how to play strip rock paper scissors, but i dont see any way to convey that with the original line so we're gonna have to improvise}
+Dialogue: 0,0:23:42.82,0:23:44.49,Alt,Nanami,0,0,0,,{\an8}Um, there are minors present.
+Dialogue: 0,0:23:44.49,0:23:47.49,Default,Naobito,0,0,0,,{\an8}Rock! Paper! Scissor! Strip! {Barrier! Technique! Go!} {this doesnt make sense... but i think that's the point since he's drunk} {he was supposed to say sth like "rock, paper, scissors, go!" but he replaced those terms with jujutsu terms cause he's high, that explains the previous "jujutsu" change too} {h-o-w-e-v-e-r if i replace those terms in english, this whole thing wont make any sense at all}
+Dialogue: 0,0:23:45.78,0:23:47.49,Alt,Nanami,0,0,0,,{\an8}Please, students are watching.
+Dialogue: 0,0:23:47.49,0:23:50.54,Default,Naobito,0,0,0,,{\an8}I threw paper, so everyone who threw scissors\N might have a lucky day tomorrow!
+Dialogue: 0,0:23:50.54,0:23:52.16,Default,Nanami,0,0,0,,{\an8}Please don't suddenly\N try to make this kid-friendly.
+Dialogue: 0,0:23:52.16,0:23:53.45,Default,Maki,0,0,0,,{\an8}Next time, Thunderclap.
+Dialogue: 0,0:23:53.45,0:23:54.87,Default,Naobito,0,0,0,,{\an8}I'm so drunk!

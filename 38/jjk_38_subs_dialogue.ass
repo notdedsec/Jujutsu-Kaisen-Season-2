@@ -20,10 +20,10 @@ Audio File: jjk_38_premux.mkv
 Video File: jjk_38_premux.mkv
 Keyframes File: jjk_38_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 122
-Active Line: 143
-Video Position: 21770
+Video Zoom Percent: 0.750000
+Scroll Position: 203
+Active Line: 205
+Video Position: 30794
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,246 +34,226 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.25,0:00:09.45,Default,Ui,0,0,0,,Nee-sama!
-Dialogue: 0,0:00:26.06,0:00:27.14,Default,Mei,0,0,0,,So cramped.
-Dialogue: 0,0:00:30.14,0:00:31.53,Default,Mei,0,0,0,,{\i1}I get it now.
-Dialogue: 0,0:00:40.28,0:00:43.11,Default,Mei,0,0,0,,{\i1}Step 1, restrain me in a coffin.
-Dialogue: 0,0:00:43.62,0:00:46.03,Default,Mei,0,0,0,,{\i1}Step 2, bury me under a gravestone.
-Dialogue: 0,0:00:46.86,0:00:49.56,Default,Mei,0,0,0,,{\i1}Step 3, start a three count.
-Dialogue: 0,0:00:50.14,0:00:53.13,Default,Mei,0,0,0,,{\i1}And that's as far as this domain's guaranteed-hit effect applies.
-Dialogue: 0,0:00:53.13,0:00:55.29,Default,Mei,0,0,0,,{\i1}It is a special-grade disease curse.
-Dialogue: 0,0:00:55.88,0:00:59.89,Default,Mei,0,0,0,,{\i1}If I don't break out of the coffin before the count is up,
-Dialogue: 0,0:00:59.89,0:01:03.50,Default,Mei,0,0,0,,{\i1}I'll contract that disease and die.
-Dialogue: 0,0:01:16.94,0:01:19.14,Default,Mei,0,0,0,,{\i1}The real issue is that gravestone.
-Dialogue: 0,0:01:19.70,0:01:23.71,Default,Mei,0,0,0,,{\i1}If I eat that attack twice more, I'll no longer be able to move, as well.
-Dialogue: 0,0:01:23.71,0:01:27.21,Default,Mei,0,0,0,,{\i1}I wouldn't want to fight Geto{**-kun} in that state.
-Dialogue: 0,0:01:28.22,0:01:29.83,Default,Mei,0,0,0,,Ui Ui, are you all right?
-Dialogue: 0,0:01:30.50,0:01:32.25,Default,Ui,0,0,0,,Yes, Nee-sama.
-Dialogue: 0,0:01:35.52,0:01:38.60,Default,Mei,0,0,0,,It's probably reflexively targeting the person with
-Dialogue: 0,0:01:38.60,0:01:40.92,Default,Mei,0,0,0,,the strongest cursed energy in its domain.
-Dialogue: 0,0:01:42.72,0:01:46.37,Default,Mei,0,0,0,,Only two crows were sucked into the domain with me.
-Dialogue: 0,0:02:03.12,0:02:04.40,Default,Mei,0,0,0,,I was right.
-Dialogue: 0,0:02:06.09,0:02:07.61,Default,Mei,0,0,0,,{\i1}So in order to take it down,
-Dialogue: 0,0:02:07.85,0:02:10.88,Default,Mei,0,0,0,,{\i1}I'll have to shift its target to Ui Ui
-Dialogue: 0,0:02:10.88,0:02:14.27,Default,Mei,0,0,0,,{\i1}so he can buy me time to operate freely.
-Dialogue: 0,0:02:15.02,0:02:19.77,Default,Mei,0,0,0,,{\i1}But Ui Ui will die after taking one hit from that gravestone.
-Dialogue: 0,0:02:22.45,0:02:23.50,Default,Mei,0,0,0,,Ui Ui...
-Dialogue: 0,0:02:25.68,0:02:27.90,Default,Mei,0,0,0,,Will you die for me?
-Dialogue: 0,0:02:31.74,0:02:35.21,Default,Ui,0,0,0,,Are you sure that's all right? May I die for you?
-Dialogue: 0,0:02:54.66,0:02:57.38,Default,Ui,0,0,0,,{\i1}The moment I released my cursed energy,
-Dialogue: 0,0:02:57.38,0:02:59.47,Default,Ui,0,0,0,,{\i1}Nee-sama suppressed hers.
-Dialogue: 0,0:02:59.87,0:03:02.09,Default,Ui,0,0,0,,{\i1}I understand everything now,
-Dialogue: 0,0:03:02.09,0:03:03.33,Default,Ui,0,0,0,,{\i1}Nee-sama!
-Dialogue: 0,0:03:24.15,0:03:28.12,Default,Mei,0,0,0,,Did you think I only brought that boy to carry my things?
-Dialogue: 0,0:03:30.62,0:03:32.87,Default,Ui,0,0,0,,{\i1}Nee-sama's request that I risk my life
-Dialogue: 0,0:03:32.87,0:03:36.15,Default,Ui,0,0,0,,{\i1\an8}is the signal permitting me to use my cursed energy.
-Dialogue: 0,0:03:37.15,0:03:40.26,Default,Mei,0,0,0,,Ui Ui's role is dealing with domains.
-Dialogue: 0,0:03:40.77,0:03:44.35,Default,Mei,0,0,0,,It goes against my principles to owe anyone anything.
-Dialogue: 0,0:03:44.35,0:03:47.13,Default,Mei,0,0,0,,So I leave that aspect up to him.
-Dialogue: 0,0:04:25.33,0:04:32.70,Default,Mei,0,0,0,,What do you think is the greatest way to instantly boost a sorcerer's base power?
-Dialogue: 0,0:04:33.40,0:04:36.15,Default,Ui,0,0,0,,It's using a pact that puts your life on the line!
-Dialogue: 0,0:04:36.15,0:04:38.73,Default,Ui,0,0,0,,Right, Nee-sama?!
-Dialogue: 0,0:04:38.73,0:04:39.65,Default,Ui,0,0,0,,{\i1}Yes!
-Dialogue: 0,0:04:39.65,0:04:43.90,Default,Ui,0,0,0,,{\i1}The crowning attack of Nee-sama's cursed technique, Black Bird Manipulation,
-Dialogue: 0,0:04:43.90,0:04:45.52,Default,Ui,0,0,0,,{\i1}is Kamikaze: Bird Strike!
-Dialogue: 0,0:04:46.54,0:04:49.64,Default,Ui,0,0,0,,{\i1}She forces her crow to commit suicide, which in return
-Dialogue: 0,0:04:49.64,0:04:52.24,Default,Ui,0,0,0,,{\i1}removes the limit on a crow's normally feeble cursed energy,
-Dialogue: 0,0:04:52.24,0:04:54.04,Default,Ui,0,0,0,,{\i1}as she makes them slam into her opponent.
-Dialogue: 0,0:04:54.52,0:04:57.77,Default,Ui,0,0,0,,{\i1}No human is able to stop her Bird Strike,
-Dialogue: 0,0:04:57.77,0:05:00.74,Default,Ui,0,0,0,,{\i1}with the sole exception of Gojo Satoru.
-Dialogue: 0,0:05:09.06,0:05:11.89,Default,Mei,0,0,0,,Okay, everyone, it's the main event.
-Dialogue: 0,0:05:13.93,0:05:17.13,Default,Mei,0,0,0,,Will you die for me?
-Dialogue: 0,0:05:18.01,0:05:19.73,Default,Geto,0,0,0,,Not bad.
-Dialogue: 0,0:05:20.25,0:05:22.98,Default,Geto,0,0,0,,For a modern sorcerer.
+Dialogue: 0,0:00:08.24,0:00:09.45,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}!
+Dialogue: 0,0:00:26.05,0:00:27.30,Default,Mei,0,0,0,,So cramped.
+Dialogue: 0,0:00:30.13,0:00:31.51,Default,Mei,0,0,0,,{\i1}I get it now.
+Dialogue: 0,0:00:40.27,0:00:43.11,Default,Mei,0,0,0,,{\i1}Step 1: Restrain in a coffin.
+Dialogue: 0,0:00:43.61,0:00:46.03,Default,Mei,0,0,0,,{\i1}Step 2: Bury under a gravestone.
+Dialogue: 0,0:00:46.86,0:00:49.65,Default,Mei,0,0,0,,{\i1}Step 3: Start the three-second countdown.
+Dialogue: 0,0:00:50.15,0:00:53.12,Default,Mei,0,0,0,,{\i1}That's as far as this domain's sure-hit effect applies.
+Dialogue: 0,0:00:53.12,0:00:55.29,Default,Mei,0,0,0,,{\i1}It is a special-grade disease curse.
+Dialogue: 0,0:00:55.87,0:00:59.87,Default,Mei,0,0,0,,{\i1}If I don't break out of the coffin before the count is up,
+Dialogue: 0,0:00:59.87,0:01:03.50,Default,Mei,0,0,0,,{\i1}I'll contract that disease and die.
+Dialogue: 0,0:01:16.93,0:01:19.18,Default,Mei,0,0,0,,{\i1}The real issue is that gravestone.
+Dialogue: 0,0:01:19.73,0:01:23.69,Default,Mei,0,0,0,,{\i1}A couple more hits would seriously affect my movement.
+Dialogue: 0,0:01:23.69,0:01:27.19,Default,Mei,0,0,0,,{\i1}I'd rather not fight Geto{**-kun} in that state.
+Dialogue: 0,0:01:28.23,0:01:29.82,Default,Mei,0,0,0,,Ui Ui, are you all right?
+Dialogue: 0,0:01:30.49,0:01:32.24,Default,Ui,0,0,0,,Yes, {*}Sister{*Nee-sama}.
+Dialogue: 0,0:01:35.53,0:01:41.21,Default,Mei,0,0,0,,{\i1}Looks like it's reflexively targeting the person\N with the strongest cursed energy inside the domain.
+Dialogue: 0,0:01:42.75,0:01:46.38,Default,Mei,0,0,0,,{\i1}Only two of my crows were sucked into the domain. {ay! there was only one in the manage}
+Dialogue: 0,0:02:03.10,0:02:04.40,Default,Mei,0,0,0,,I was right.
+Dialogue: 0,0:02:06.15,0:02:14.28,Default,Mei,0,0,0,,{\i1}In order to take it down, I'll have to make Ui Ui \Nits target so he can buy me the time I need.
+Dialogue: 0,0:02:15.07,0:02:19.79,Default,Mei,0,0,0,,{\i1}But even a single hit from that gravestone\N would be enough to kill him.
+Dialogue: 0,0:02:22.46,0:02:23.50,Default,Mei,0,0,0,,Ui Ui...
+Dialogue: 0,0:02:25.67,0:02:27.88,Default,Mei,0,0,0,,Will you die for me?
+Dialogue: 0,0:02:31.76,0:02:35.18,Default,Ui,0,0,0,,You would allow me such an honor? {You would do me such an honor as to allow me to die for you?}
+Dialogue: 0,0:02:54.65,0:02:59.45,Default,Ui,0,0,0,,{\i1}The moment I released my cursed energy,\N {*}Sister{*Nee-sama} suppressed hers.
+Dialogue: 0,0:03:00.03,0:03:03.33,Default,Ui,0,0,0,,{\i1}I understand it all now, {*}Sister{*Nee-sama}!
+Dialogue: 0,0:03:24.18,0:03:28.27,Default,Mei,0,0,0,,Did you think I brought him along\N just to carry my things?
+Dialogue: 0,0:03:30.65,0:03:36.24,Default,Ui,0,0,0,,{\i1\an8}{*}Sister{*Nee-sama}'s request that I risk my life is the signal\N permitting me to use my technique.
+Dialogue: 0,0:03:37.20,0:03:40.24,Default,Mei,0,0,0,,Ui Ui is responsible for countering domains.
+Dialogue: 0,0:03:40.83,0:03:44.45,Default,Mei,0,0,0,,It goes against my principles to owe anyone anything.
+Dialogue: 0,0:03:44.45,0:03:47.12,Default,Mei,0,0,0,,So I leave that aspect up to him. {what. what the fuck did you mean by this gege??? isn't she's effectively owing him by having him deal with domains?? it might have made sense if she didn't want anyone to owe her anything but that goes against her character.} {unless countering domains somehow means owing a favor}
+Dialogue: 0,0:04:25.37,0:04:32.67,Default,Mei,0,0,0,,Do you know what's the fastest way\N to level up as a sorcerer?
+Dialogue: 0,0:04:33.54,0:04:36.13,Default,Ui,0,0,0,,By forging a Binding Vow \Nwith your life on the line!
+Dialogue: 0,0:04:36.63,0:04:38.88,Default,Ui,0,0,0,,Right, {*}Sister{*Nee-sama}?!
+Dialogue: 0,0:04:38.88,0:04:39.63,Default,Ui,0,0,0,,{\i1}Exactly!
+Comment: 0,0:04:39.63,0:04:46.02,Default,Ui,0,0,0,,{\i1}That's the idea behind the crowning attack of {*}Sister{*Nee-sama}'s\N Black Bird Manipulation: Bird Strike! {where did kamikaze come from} {actually let's leave it be lol}
+Dialogue: 0,0:04:39.63,0:04:42.64,Default,Ui,0,0,0,,{\i1}{*}Sister{*Nee-sama}'s technique is Black Bird Manipulation!
+Dialogue: 0,0:04:42.64,0:04:46.02,Default,Ui,0,0,0,,{\i1}Its crowning attack is Bird Strike! {where did kamikaze come from} {actually let's leave it be lol} {No, it messes up the Technique Name: Attack Name formatting}
+Dialogue: 0,0:04:46.72,0:04:54.61,Default,Ui,0,0,0,,{\i1}In return for the crow's life, the limit on its usually feeble cursed energy is removed, as it slams into her opponent!\h {By forcing her crow to commit suicide,\N it removes the limit on its usually feeble cursed energy,\N as she makes them slam into her opponent.}
+Dialogue: 0,0:04:54.61,0:04:57.82,Default,Ui,0,0,0,,{\i1}No one has managed to stop her Bird Strike.
+Dialogue: 0,0:04:57.82,0:05:00.74,Default,Ui,0,0,0,,{\i1}No one except Gojo Satoru.
+Dialogue: 0,0:05:09.04,0:05:11.87,Default,Mei,0,0,0,,All right, everyone, time for the main event.
+Dialogue: 0,0:05:13.92,0:05:17.09,Default,Mei,0,0,0,,Will you die for me?
+Dialogue: 0,0:05:18.09,0:05:19.72,Default,Geto,0,0,0,,Not bad.
+Dialogue: 0,0:05:20.38,0:05:22.97,Default,Geto,0,0,0,,At least for a sorcerer of this era. {> sorcerers these days}
 Comment: 0,0:05:25.97,0:05:26.01,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:06:55.98,0:06:56.02,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:06:56.38,0:06:59.54,Default,Naobito,0,0,0,,Gojo Satoru has been sealed, huh?
-Dialogue: 0,0:06:59.54,0:07:01.75,Default,Naobito,0,0,0,,I feel like I've been bushwhacked.
-Dialogue: 0,0:07:01.75,0:07:03.46,Default,Nanami,0,0,0,,Me, too.
-Dialogue: 0,0:07:03.46,0:07:07.59,Default,Nanami,0,0,0,,Geto{**-san} is involved, though, even if he is a fake.
-Dialogue: 0,0:07:07.59,0:07:10.22,Default,Nanami,0,0,0,,I imagine the trick lies there.
-Dialogue: 0,0:07:10.94,0:07:16.76,Default,Naobito,0,0,0,,I'd be happy to toast the fall of the Gojo clan.
-Dialogue: 0,0:07:18.66,0:07:21.13,Default,Maki,0,0,0,,Go home if you're not going to help!
-Dialogue: 0,0:07:21.43,0:07:23.66,Default,Naobito,0,0,0,,Go home, huh?
-Dialogue: 0,0:07:23.66,0:07:26.82,Default,Naobito,0,0,0,,That's what you should be doing, Maki.
-Dialogue: 0,0:07:27.37,0:07:30.15,Default,Naobito,0,0,0,,Right, grade 1 sorcerer, Nanami-dono?
-Dialogue: 0,0:07:30.15,0:07:31.54,Default,Nanami,0,0,0,,Maki{**-san},
-Dialogue: 0,0:07:32.26,0:07:35.44,Default,Nanami,0,0,0,,you should do what he says in this regard.
-Dialogue: 0,0:07:35.44,0:07:37.91,Default,Maki,0,0,0,,I'll be far more useful than some drunkard.
-Dialogue: 0,0:07:38.80,0:07:40.33,Default,Nanami,0,0,0,,{\an8}Have you been drinking?
-Dialogue: 0,0:07:40.78,0:07:42.46,Default,Naobito,0,0,0,,{\an8}No, I hafn'h been dwinking.
-Dialogue: 0,0:07:45.51,0:07:49.02,Default,Nanami,0,0,0,,{\i1}I guess there's never been a case where I was better off alone.
-Dialogue: 0,0:08:00.59,0:08:01.57,Default,Maki,0,0,0,,Nanami{**-san}.
-Dialogue: 0,0:08:02.05,0:08:02.81,Default,Nanami,0,0,0,,Yes.
-Dialogue: 0,0:08:10.50,0:08:11.82,Default,Nanami,0,0,0,,I'll take this one.
-Dialogue: 0,0:08:20.98,0:08:27.13,Default,Naobito,0,0,0,,You guys are a bit too slow.
-Dialogue: 0,0:08:36.13,0:08:37.42,Default,Maki,0,0,0,,Did you see that?
-Dialogue: 0,0:08:37.83,0:08:38.72,Default,Nanami,0,0,0,,No.
-Dialogue: 0,0:08:39.30,0:08:41.72,Default,Nanami,0,0,0,,{\i1}It must be his technique.
-Dialogue: 0,0:08:57.85,0:09:02.87,Default,Naobito,0,0,0,,How many people have you eaten?
-Dialogue: 0,0:09:08.43,0:09:10.52,Default,Dagon,0,0,0,,Jogo...
-Dialogue: 0,0:09:14.89,0:09:17.08,Default,Dagon,0,0,0,,Mahito...
-Dialogue: 0,0:09:18.29,0:09:20.22,Default,Dagon,0,0,0,,Hanami...
-Dialogue: 0,0:09:21.90,0:09:26.99,Default,Dagon,0,0,0,,Hanami!
-Dialogue: 0,0:09:28.91,0:09:30.70,Default,Dagon,0,0,0,,How dare...
-Dialogue: 0,0:09:30.70,0:09:33.69,Default,Dagon,0,0,0,,How dare you kill Hanami?!
-Dialogue: 0,0:09:33.69,0:09:36.10,Default,Dagon,0,0,0,,...kill Hanami?!
-Dialogue: 0,0:09:37.20,0:09:40.78,Default,Naobito,0,0,0,,I see. No wonder you were weak.
-Dialogue: 0,0:09:42.14,0:09:45.87,Default,Naobito,0,0,0,,You were still only a Curse Womb, then.
-Dialogue: 0,0:09:53.21,0:09:54.46,Default,Maki,0,0,0,,Water?!
-Dialogue: 0,0:10:04.87,0:10:06.86,Default,Maki,0,0,0,,And such a vast amount of it!
-Dialogue: 0,0:10:12.05,0:10:13.78,Default,Naobito,0,0,0,,Cursed spirit,
-Dialogue: 0,0:10:14.53,0:10:20.20,Default,Naobito,0,0,0,,do you know how many frames there are in one second of animation?
-Dialogue: 0,0:10:20.20,0:10:23.03,Default,Dagon,0,0,0,,It's not "cursed spirit." I am Dagon.
-Dialogue: 0,0:10:23.03,0:10:27.80,Default,Naobito,0,0,0,,There's a modern tendency to raise resolutions and frame rates.
-Dialogue: 0,0:10:27.80,0:10:31.62,Default,Dagon,0,0,0,,There's Hanami, Jogo, and Mahito, too.
-Dialogue: 0,0:10:31.62,0:10:37.11,Default,Naobito,0,0,0,,Upscaling to 4K, and 60fps frame interpolation...
-Dialogue: 0,0:10:37.11,0:10:38.63,Default,Dago,0,0,0,,We all...
-Dialogue: 0,0:10:38.63,0:10:43.23,Default,Naobito,0,0,0,,They don't cause anyone any trouble when done for personal use, so that's fine.
-Dialogue: 0,0:10:43.23,0:10:49.27,Default,Naobito,0,0,0,,However, modern TVs have their damn frame interpolation set to "on" by default!
-Dialogue: 0,0:10:49.27,0:10:54.30,Default,Naobito,0,0,0,,It's not like "unwanted favor" has become a dead phrase already!
-Dialogue: 0,0:10:54.30,0:10:56.92,Default,Naobito,0,0,0,,Nothing is more lamentable than that!
-Dialogue: 0,0:10:56.92,0:10:58.48,Default,Naobito,0,0,0,,Creating that soap opera effect...
-Dialogue: 0,0:10:58.48,0:11:01.03,Default,Dagon,0,0,0,,We all have names!
-Dialogue: 0,0:11:01.03,0:11:04.61,Default,Naobito,0,0,0,,Don't you agree that's uncultured?!
-Dialogue: 0,0:11:19.84,0:11:21.10,Default,Naobito,0,0,0,,Whoa there.
-Dialogue: 0,0:11:40.58,0:11:42.42,Default,Nanami,0,0,0,,{\i1}No damage.
-Dialogue: 0,0:11:42.42,0:11:46.47,Default,Nanami,0,0,0,,{\i1}Or rather, it feels more like he has endless HP.
-Dialogue: 0,0:11:58.88,0:12:02.30,Default,Naobito,0,0,0,,I can't believe two grade 1s like us couldn't exorcise it together.
-Dialogue: 0,0:12:02.30,0:12:04.89,Default,Naobito,0,0,0,,What dire straits.
-Dialogue: 0,0:12:04.89,0:12:06.01,Default,Maki,0,0,0,,{\i1}Shit!
-Dialogue: 0,0:12:06.01,0:12:08.53,Default,Maki,0,0,0,,{\i1}If the old man hadn't used his technique,
-Dialogue: 0,0:12:08.53,0:12:10.81,Default,Maki,0,0,0,,{\i1}I would have died there.
-Dialogue: 0,0:12:11.81,0:12:13.14,Default,Maki,0,0,0,,{\i1}I'm ashamed.
-Dialogue: 0,0:12:13.14,0:12:15.65,Default,Naobito,0,0,0,,A defensive barrier of water, huh?
-Dialogue: 0,0:12:15.65,0:12:18.66,Default,Naobito,0,0,0,,Can you produce large-scale attacks at the same time, too?
-Dialogue: 0,0:12:18.66,0:12:20.14,Default,Naobito,0,0,0,,You have too much cursed energy.
-Dialogue: 0,0:12:20.14,0:12:22.90,Default,Naobito,0,0,0,,You still have several techniques left, right?
-Dialogue: 0,0:12:22.90,0:12:24.92,Default,Naobito,0,0,0,,So what should I do?
-Dialogue: 0,0:12:25.99,0:12:27.74,Default,Naobito,0,0,0,,That's easy.
-Dialogue: 0,0:12:27.74,0:12:29.74,Default,Naobito,0,0,0,,I'll kill you quickly,
-Dialogue: 0,0:12:32.01,0:12:33.75,Default,Naobito,0,0,0,,before you can use your technique!
-Dialogue: 0,0:12:37.52,0:12:38.84,Default,Dagon,0,0,0,,{\i1}Impossible!
-Dialogue: 0,0:12:47.05,0:12:49.97,Default,Naobito,0,0,0,,Of course, you can hover, too, right?
-Dialogue: 0,0:12:49.97,0:12:52.58,Default,Naobito,0,0,0,,I'd escape upward, too.
-Dialogue: 0,0:12:56.56,0:12:58.81,Default,Dagon,0,0,0,,{\i1}I can't activate my technique!
-Dialogue: 0,0:13:06.36,0:13:08.20,Default,Dagon,0,0,0,,{\i1}It's this man!
-Dialogue: 0,0:13:08.88,0:13:11.22,Default,Dagon,0,0,0,,{\i1}It's this man's fault!
-Dialogue: 0,0:13:20.48,0:13:21.99,Default,Dagon,0,0,0,,{\i1}He's fast!
-Dialogue: 0,0:13:21.99,0:13:24.41,Default,Dagon,0,0,0,,{\i1}Probably faster than Jogo!
-Dialogue: 0,0:13:31.51,0:13:33.11,Default,Narrator,0,0,0,,Projection Sorcery.
-Dialogue: 0,0:13:33.11,0:13:35.88,Default,Narrator,0,0,0,,The cursed technique of Naobito Zenin.
-Dialogue: 0,0:13:35.88,0:13:40.56,Default,Narrator,0,0,0,,It splits one second into 24 frames from his field of view,
-Dialogue: 0,0:13:40.56,0:13:45.27,Default,Narrator,0,0,0,,and allows him to trace the actions created in those frames at the start.
-Dialogue: 0,0:13:45.27,0:13:46.94,Default,Narrator,0,0,0,,While the technique is active,
-Dialogue: 0,0:13:46.94,0:13:49.56,Default,Narrator,0,0,0,,anyone Naobito touches with his hand must also
-Dialogue: 0,0:13:49.57,0:13:53.87,Default,Narrator,0,0,0,,define their actions within 1/24th of a second.
-Dialogue: 0,0:13:53.87,0:13:56.53,Default,Narrator,0,0,0,,If they fail to do so, then their action hangs,
-Dialogue: 0,0:13:56.53,0:13:59.19,Default,Narrator,0,0,0,,and they remain frozen for one second.
-Dialogue: 0,0:14:01.99,0:14:03.71,Default,Narrator,0,0,0,,There are risks.
-Dialogue: 0,0:14:04.48,0:14:08.16,Default,Narrator,0,0,0,,The actions defined cannot be edited halfway through.
-Dialogue: 0,0:14:08.16,0:14:12.14,Default,Narrator,0,0,0,,Creating actions that excessively ignore physics and paths of motion
-Dialogue: 0,0:14:12.14,0:14:15.27,Default,Narrator,0,0,0,,will result in him freezing, as well.
-Dialogue: 0,0:14:25.94,0:14:30.85,Default,Narrator,0,0,0,,Still, with his innate sense for frame beats and time,
-Dialogue: 0,0:14:30.85,0:14:36.73,Default,Narrator,0,0,0,,he's managed to become the fastest sorcerer, aside from Gojo Satoru.
-Dialogue: 0,0:14:41.07,0:14:42.66,Default,Naobito,0,0,0,,I won't let you.
+Dialogue: 0,0:06:56.44,0:06:59.61,Default,Naobito,0,0,0,,Gojo Satoru has been sealed, huh?
+Dialogue: 0,0:06:59.61,0:07:02.07,Default,Naobito,0,0,0,,I can hardly believe it. {I feel like I've been bushwhacked.}
+Dialogue: 0,0:07:02.07,0:07:03.61,Default,Nanami,0,0,0,,Me, too.
+Dialogue: 0,0:07:03.61,0:07:07.74,Default,Nanami,0,0,0,,However, even if he is a fake, Geto{**-san} is involved.
+Dialogue: 0,0:07:07.74,0:07:10.20,Default,Nanami,0,0,0,,I imagine the trick lies there.
+Dialogue: 0,0:07:11.04,0:07:16.75,Default,Naobito,0,0,0,,I'd be happy to toast the fall of the Gojo clan.
+Dialogue: 0,0:07:18.71,0:07:21.13,Default,Maki,0,0,0,,Go home if you're not gonna help!
+Dialogue: 0,0:07:21.46,0:07:23.80,Default,Naobito,0,0,0,,You're telling me to go home?
+Dialogue: 0,0:07:23.80,0:07:26.80,Default,Naobito,0,0,0,,That's what you should be doing, Maki.
+Dialogue: 0,0:07:27.43,0:07:30.14,Default,Naobito,0,0,0,,Wouldn't you agree,\N first-grade sorcerer, Nanami{**-dono}?
+Dialogue: 0,0:07:30.51,0:07:31.56,Default,Nanami,0,0,0,,Maki{**-san},
+Dialogue: 0,0:07:32.43,0:07:35.43,Default,Nanami,0,0,0,,you should do what he says in this regard.
+Dialogue: 0,0:07:35.43,0:07:37.90,Default,Maki,0,0,0,,I'll be far more useful than some drunkard.
+Dialogue: 0,0:07:38.94,0:07:40.36,Default,Nanami,0,0,0,,{\an8}Have you been drinking?
+Dialogue: 0,0:07:40.86,0:07:42.53,Default,Naobito,0,0,0,,{\an8}No, I hafn'h been dwinking.
+Dialogue: 0,0:07:45.70,0:07:49.07,Default,Nanami,0,0,0,,{\i1}Being alone couldn't have been worse, right?
+Dialogue: 0,0:08:00.67,0:08:01.59,Default,Maki,0,0,0,,{*}Mr. Nanami{*Nanami-san}.
+Dialogue: 0,0:08:02.13,0:08:02.80,Default,Nanami,0,0,0,,Yes.
+Dialogue: 0,0:08:10.59,0:08:11.80,Default,Nanami,0,0,0,,I'll take this one.
+Dialogue: 0,0:08:21.06,0:08:27.11,Default,Naobito,0,0,0,,You two are a little too slow.
+Dialogue: 0,0:08:36.12,0:08:37.58,Default,Maki,0,0,0,,Did you see what happened?
+Dialogue: 0,0:08:37.91,0:08:38.71,Default,Nanami,0,0,0,,No.
+Dialogue: 0,0:08:39.46,0:08:41.71,Default,Nanami,0,0,0,,{\i1}It must be his technique.
+Dialogue: 0,0:08:57.98,0:08:59.85,Default,Naobito,0,0,0,,You little...
+Dialogue: 0,0:08:59.85,0:09:02.73,Default,Naobito,0,0,0,,How many did you eat?
+Dialogue: 0,0:09:08.57,0:09:10.74,Cursed,Dagon,0,0,0,,Jogo...
+Dialogue: 0,0:09:14.95,0:09:17.16,Cursed,Dagon,0,0,0,,Mahito...
+Dialogue: 0,0:09:18.37,0:09:20.21,Cursed,Dagon,0,0,0,,Hanami...
+Dialogue: 0,0:09:21.96,0:09:23.96,Cursed,Dagon,0,0,0,,Hana... {\alpha&HFF&}mi!
+Dialogue: 0,0:09:25.38,0:09:26.96,Cursed,Dagon,0,0,0,,Hana... mi!
+Dialogue: 0,0:09:29.01,0:09:30.13,Cursed,Dagon,0,0,0,,How dare...
+Dialogue: 0,0:09:30.76,0:09:33.59,Cursed,Dagon,0,0,0,,How dare you kill Hanami?!
+Dialogue: 0,0:09:33.59,0:09:34.64,Cursed,Dagon,0,0,0,,You killed Hanami!
+Dialogue: 0,0:09:37.39,0:09:40.73,Default,Naobito,0,0,0,,I see. No wonder it was so weak.
+Dialogue: 0,0:09:41.94,0:09:45.86,Default,Naobito,0,0,0,,It was only a Cursed Womb until just now.
+Dialogue: 0,0:09:53.20,0:09:54.45,Default,Maki,0,0,0,,Water?!
+Dialogue: 0,0:10:04.92,0:10:06.88,Default,Maki,0,0,0,,And so much of it!
+Dialogue: 0,0:10:12.22,0:10:13.93,Default,Naobito,0,0,0,,Tell me, cursed spirit,
+Dialogue: 0,0:10:14.76,0:10:20.18,Default,Naobito,0,0,0,,do you know how many frames\N there are in one second of animation?
+Dialogue: 0,0:10:20.18,0:10:23.02,Default,Dagon,0,0,0,,It's not "cursed spirit." I am Dagon.
+Dialogue: 0,0:10:23.02,0:10:27.61,Default,Naobito,0,0,0,,These days it's all about the highest\N resolutions and frame rates.
+Dialogue: 0,0:10:27.61,0:10:31.61,Default,Dagon,0,0,0,,There's Hanami, Jogo, and Mahito, too.
+Dialogue: 0,0:10:31.61,0:10:37.16,Default,Naobito,0,0,0,,4K upscales and 60fps interpolation.
+Dialogue: 0,0:10:37.16,0:10:38.62,Default,Dago,0,0,0,,We all...
+Dialogue: 0,0:10:38.62,0:10:43.37,Default,Naobito,0,0,0,,Some people like it and that's fine,\N as long as it doesn't cause trouble for others.
+Dialogue: 0,0:10:43.37,0:10:49.42,Default,Naobito,0,0,0,,TVs these days, however, come with their\N stupid frame interpolation enabled by default!
+Dialogue: 0,0:10:49.42,0:10:54.47,Default,Naobito,0,0,0,,It's not like "unwanted favor"\N has become a dead phrase already! {lowkey tempted to change "unwanted favor" to "who asked" because it is kinda dead and is mostly used in context of translating arigata-meiwaku} {i remember i did change it to something like "i never asked for this" back in episode 2 or 3}
+Dialogue: 0,0:10:54.47,0:10:56.97,Default,Naobito,0,0,0,,How utterly lamentable!
+Dialogue: 0,0:10:56.97,0:10:58.55,Default,Naobito,0,0,0,,The soap opera effect...
+Dialogue: 0,0:10:58.55,0:11:01.02,Default,Dagon,0,0,0,,We have names!
+Dialogue: 0,0:11:01.02,0:11:04.60,Default,Naobito,0,0,0,,Don't you agree that's uncultured?!
+Dialogue: 0,0:11:19.83,0:11:21.37,Default,Naobito,0,0,0,,Easy there.
+Dialogue: 0,0:11:40.55,0:11:42.56,Default,Nanami,0,0,0,,{\i1}Not a scratch.
+Dialogue: 0,0:11:42.56,0:11:46.48,Default,Nanami,0,0,0,,{\i1}Or rather, it feels like he has endless HP.
+Dialogue: 0,0:11:58.86,0:12:02.33,Default,Naobito,0,0,0,,Even two first-grades aren't enough to exorcise it?
+Dialogue: 0,0:12:02.33,0:12:04.87,Default,Naobito,0,0,0,,What dire straits.
+Dialogue: 0,0:12:04.87,0:12:06.12,Default,Maki,0,0,0,,{\i1}Shit!
+Dialogue: 0,0:12:06.12,0:12:08.58,Default,Maki,0,0,0,,{\i1}If the old man hadn't used his technique,
+Dialogue: 0,0:12:08.58,0:12:10.79,Default,Maki,0,0,0,,{\i1}I would have died there.
+Dialogue: 0,0:12:11.88,0:12:13.13,Default,Maki,0,0,0,,{\i1}It's humiliating.
+Dialogue: 0,0:12:13.38,0:12:15.71,Default,Naobito,0,0,0,,A defensive barrier of water, huh?
+Dialogue: 0,0:12:15.71,0:12:18.80,Default,Naobito,0,0,0,,And you can use it alongside strong attacks?
+Dialogue: 0,0:12:18.80,0:12:22.89,Default,Naobito,0,0,0,,You have too much cursed energy and \Nyou're still hiding techniques up your sleeve.
+Dialogue: 0,0:12:22.89,0:12:24.93,Default,Naobito,0,0,0,,So what should I do?
+Dialogue: 0,0:12:26.06,0:12:27.73,Default,Naobito,0,0,0,,That's simple.
+Dialogue: 0,0:12:27.73,0:12:30.40,Default,Naobito,0,0,0,,Before you can use your technique,
+Dialogue: 0,0:12:32.11,0:12:33.52,Default,Naobito,0,0,0,,I'll crush you with speed!
+Dialogue: 0,0:12:37.65,0:12:38.82,Default,Dagon,0,0,0,,{\i1}Not a chance!
+Dialogue: 0,0:12:47.12,0:12:49.96,Default,Naobito,0,0,0,,But of course, you can levitate!
+Dialogue: 0,0:12:49.96,0:12:52.58,Default,Naobito,0,0,0,,I'd flee up high, too. {he doesn't move his mouth but he's def supposed to be speaking this out loud because he mentions it later} {or maybe only the previous line was said out loud}
+Dialogue: 0,0:12:56.55,0:12:58.80,Default,Dagon,0,0,0,,{\i1}I can't activate my technique!
+Dialogue: 0,0:13:06.77,0:13:08.18,Default,Dagon,0,0,0,,{\i1}This man...
+Dialogue: 0,0:13:08.98,0:13:11.02,Default,Dagon,0,0,0,,{\i1}It's this man's fault!
+Dialogue: 0,0:13:20.49,0:13:22.03,Default,Dagon,0,0,0,,{\i1}He's fast!
+Dialogue: 0,0:13:22.03,0:13:24.41,Default,Dagon,0,0,0,,{\i1}Faster than Jogo, even!
+Dialogue: 0,0:13:31.54,0:13:33.25,Default,Narrator,0,0,0,,Projection Sorcery.
+Dialogue: 0,0:13:33.25,0:13:36.00,Default,Narrator,0,0,0,,Zenin Naobito's cursed technique.
+Dialogue: 0,0:13:36.00,0:13:40.76,Default,Narrator,0,0,0,,By splitting one second into 24 frames\N projected from his field of view, {based on his own field of view,}
+Dialogue: 0,0:13:40.76,0:13:44.89,Default,Narrator,0,0,0,,he can pre-define his actions for those frames.
+Dialogue: 0,0:13:45.43,0:13:47.06,Default,Narrator,0,0,0,,While activating the technique,
+Dialogue: 0,0:13:47.06,0:13:54.06,Default,Narrator,0,0,0,,anyone touched by Naobito's hand must also define their actions in steps of 1/24th of a second.
+Dialogue: 0,0:13:54.06,0:13:59.15,Default,Narrator,0,0,0,,Failing to do so would cause their movement to stutter,\N freezing them for one second.
+Dialogue: 0,0:14:02.11,0:14:03.78,Default,Narrator,0,0,0,,It does have its risks.
+Dialogue: 0,0:14:04.57,0:14:08.28,Default,Narrator,0,0,0,,The actions defined cannot be edited halfway through. {Once started, the defined\N course of actions cannot be edited.}
+Dialogue: 0,0:14:08.28,0:14:15.25,Default,Narrator,0,0,0,,Actions that violate the laws of physics or ignore the trajectory of motion will cause him to freeze as well.
+Dialogue: 0,0:14:25.72,0:14:30.89,Default,Narrator,0,0,0,,Still, with his innate sense for timing and storyboarding,
+Dialogue: 0,0:14:30.89,0:14:36.73,Default,Narrator,0,0,0,,he's managed to become the fastest sorcerer, \Naside from Gojo Satoru.
+Dialogue: 0,0:14:41.15,0:14:42.65,Default,Naobito,0,0,0,,Don't bother. {I won't let you}
 Comment: 0,0:15:07.97,0:15:08.01,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:15:19.32,0:15:21.33,Default,Dagon,0,0,0,,Domain Expansion:
-Dialogue: 0,0:15:26.38,0:15:28.63,Default,Dagon,0,0,0,,Horizon of the Captivating Skandha.
-Dialogue: 0,0:15:32.50,0:15:35.54,Default,Maki,0,0,0,,{\i1}Shikigami?! So this is the domain's guaranteed-hit attack?
-Dialogue: 0,0:15:35.54,0:15:37.14,Default,Maki,0,0,0,,{\i1}I didn't notice them until they struck.
-Dialogue: 0,0:15:37.58,0:15:40.79,Default,Maki,0,0,0,,{\i1}No, they didn't even exist until they hit.
-Dialogue: 0,0:15:42.67,0:15:44.81,Default,Naobito,0,0,0,,Secret Art: Falling Blossom Emotion.
-Dialogue: 0,0:15:45.23,0:15:48.74,Default,Narrator,0,0,0,,An anti-domain technique passed down among the big three clans.
-Dialogue: 0,0:15:48.74,0:15:52.82,Default,Narrator,0,0,0,,Like Simple Domain, the user does not activate their own domain,
-Dialogue: 0,0:15:52.82,0:15:55.99,Default,Narrator,0,0,0,,and instead, the moment the domain's guaranteed-hit attack activates,
-Dialogue: 0,0:15:55.99,0:15:59.74,Default,Narrator,0,0,0,,it protects the user by countering with their own cursed energy.
-Dialogue: 0,0:16:00.37,0:16:02.80,Default,Dagon,0,0,0,,{\i1}I knew that man was different from the others.
-Dialogue: 0,0:16:02.80,0:16:04.66,Default,Dagon,0,0,0,,{\i1}I'm done testing their strength.
-Dialogue: 0,0:16:04.66,0:16:09.56,Default,Dagon,0,0,0,,{\i1}I'll split my power, 70% to the mustached man, and 30% to the man in a suit.
-Dialogue: 0,0:16:09.56,0:16:13.88,Default,Dagon,0,0,0,,Activate technique: Death Swarm!
-Dialogue: 0,0:16:18.62,0:16:19.66,Default,Nanami,0,0,0,,Maki{**-san}!
-Dialogue: 0,0:16:19.66,0:16:23.35,Default,Nanami,0,0,0,,The shikigami aren't heading straight for us!
-Dialogue: 0,0:16:23.35,0:16:27.36,Default,Nanami,0,0,0,,They'll be gouging out our flesh in the next instant!
-Dialogue: 0,0:16:27.36,0:16:28.79,Default,Nanami,0,0,0,,Don't think about it!
-Dialogue: 0,0:16:28.79,0:16:32.57,Default,Nanami,0,0,0,,The moment you feel contact, cut them down one after another!
-Dialogue: 0,0:16:32.57,0:16:35.74,Default,Nanami,0,0,0,,That's the best you can manage with your scant cursed en—
-Dialogue: 0,0:16:38.99,0:16:40.14,Default,Maki,0,0,0,,Nanami{**-san}!
-Dialogue: 0,0:16:48.92,0:16:52.18,Default,Naobito,0,0,0,,{\i1}The surge of shikigami isn't abating at all.
-Dialogue: 0,0:16:52.18,0:16:55.59,Default,Naobito,0,0,0,,{\i1}Is it possible the technique embedded into this domain is—
-Dialogue: 0,0:17:05.10,0:17:05.69,Default,Naobito,0,0,0,,Falling—
-Dialogue: 0,0:17:05.69,0:17:10.94,Default,Dagon,0,0,0,,The sea is the source of all life.
-Dialogue: 0,0:17:14.53,0:17:15.74,Default,Dagon,0,0,0,,Weak.
-Dialogue: 0,0:17:15.74,0:17:17.74,Default,Dagon,0,0,0,,You're first.
-Dialogue: 0,0:17:20.96,0:17:26.16,Default,Dagon,0,0,0,,Death Swarm is a swarm of endlessly emerging shikigami.
-Dialogue: 0,0:17:34.62,0:17:36.88,Default,Maki,0,0,0,,If you're gonna call me weak,
-Dialogue: 0,0:17:37.27,0:17:39.31,Default,Maki,0,0,0,,then kill me in a single blow,
-Dialogue: 0,0:17:40.70,0:17:42.02,Default,Maki,0,0,0,,Octobitch.
-Dialogue: 0,0:17:43.29,0:17:46.39,Default,Dagon,0,0,0,,Then I'll devour you...
-Dialogue: 0,0:17:46.93,0:17:47.92,Default,Maki,0,0,0,,{\i1}Shit!
-Dialogue: 0,0:17:49.05,0:17:51.61,Default,Dagon,0,0,0,,...just like the other two.
-Dialogue: 0,0:17:57.32,0:17:58.48,Default,Fushiguro,0,0,0,,Maki{**-san}!
-Dialogue: 0,0:17:59.16,0:18:00.29,Default,Maki,0,0,0,,Megumi!
-Dialogue: 0,0:18:05.42,0:18:08.46,Default,Maki,0,0,0,,{\i1}You really are...
-Dialogue: 0,0:18:10.64,0:18:13.21,Default,Maki,0,0,0,,{\i1}one hell of a cheeky underclassman!
-Dialogue: 0,0:18:14.08,0:18:15.12,Default,Fushiguro,0,0,0,,It's him!
-Dialogue: 0,0:18:15.81,0:18:17.26,Default,Fushiguro,0,0,0,,{\i1}That octopus!
-Dialogue: 0,0:18:17.26,0:18:19.13,Default,Fushiguro,0,0,0,,{\i1}He's the source of this domain!
-Dialogue: 0,0:18:19.72,0:18:23.89,Default,Dagon,0,0,0,,{\i1}You dare infiltrate my domain on your own?
-Dialogue: 0,0:18:25.70,0:18:27.14,Default,Dagon,0,0,0,,How foolish.
-Dialogue: 0,0:18:28.98,0:18:30.29,Default,Dagon,0,0,0,,What?!
-Dialogue: 0,0:18:45.49,0:18:49.86,Default,Dagon,0,0,0,,{\i1}The guaranteed-hit effect of my domain is gone!
-Dialogue: 0,0:18:50.56,0:18:54.46,Default,Dagon,0,0,0,,{\i1}That boy is deploying his domain.
-Dialogue: 0,0:18:54.46,0:18:58.81,Default,Dagon,0,0,0,,{\i1}Right now, his domain and mine are playing tug-of-war.
-Dialogue: 0,0:18:58.81,0:19:01.41,Default,Dagon,0,0,0,,{\i1}In order to regain my guaranteed-hit effect,
-Dialogue: 0,0:19:01.41,0:19:05.10,Default,Dagon,0,0,0,,{\i1}I'll have to crush his domain first.
-Dialogue: 0,0:19:05.41,0:19:07.65,Default,Dagon,0,0,0,,Easily done!
-Dialogue: 0,0:19:28.78,0:19:29.82,Default,Nanami,0,0,0,,The other two?
-Dialogue: 0,0:19:30.18,0:19:31.80,Default,Fushiguro,0,0,0,,Ino{**-san} tapped out.
-Dialogue: 0,0:19:31.80,0:19:33.50,Default,Fushiguro,0,0,0,,Itadori's acting on his own.
-Dialogue: 0,0:19:33.74,0:19:36.10,Default,Nanami,0,0,0,,I'll protect you.
-Dialogue: 0,0:19:36.10,0:19:38.63,Default,Nanami,0,0,0,,Please focus on your domain.
-Dialogue: 0,0:19:41.63,0:19:43.00,Default,Dagon,0,0,0,,{\i1}That man...
-Dialogue: 0,0:19:43.00,0:19:47.08,Default,Dagon,0,0,0,,{\i1}He endured Death Swarm for roughly a minute?
-Dialogue: 0,0:19:48.14,0:19:50.02,Default,Dagon,0,0,0,,{\i1}The mustachioed man, too!
-Dialogue: 0,0:20:03.62,0:20:06.44,Default,Naobito,0,0,0,,You only took one measly right arm.
-Dialogue: 0,0:20:07.76,0:20:11.08,Default,Naobito,0,0,0,,But it had 71 years in it.
-Dialogue: 0,0:20:11.08,0:20:13.09,Default,Naobito,0,0,0,,That's going to cost you!
-Dialogue: 0,0:20:20.94,0:20:23.80,Default,Nanami,0,0,0,,{\i1}If this state keeps up, we have a chance.
-Dialogue: 0,0:20:24.90,0:20:26.50,Default,Nanami,0,0,0,,{\i1\i0}If{\i1} it keeps up.
-Dialogue: 0,0:20:31.88,0:20:33.33,Default,Fushiguro,0,0,0,,Nanami{**-san}!
-Dialogue: 0,0:20:35.10,0:20:40.37,Default,Fushiguro,0,0,0,,That octopus currently thinks our domains are pushing for control.
-Dialogue: 0,0:20:40.37,0:20:42.53,Default,Fushiguro,0,0,0,,But my goal is different.
-Dialogue: 0,0:20:44.02,0:20:47.06,Default,Fushiguro,0,0,0,,I'll open a small hole
-Dialogue: 0,0:20:47.06,0:20:49.22,Default,Fushiguro,0,0,0,,in the barrier of this domain!
-Dialogue: 0,0:20:50.09,0:20:52.90,Default,Fushiguro,0,0,0,,The hole I entered through is already sealed.
-Dialogue: 0,0:20:52.90,0:20:54.94,Default,Fushiguro,0,0,0,,It's harder to open one from inside than outside,
-Dialogue: 0,0:20:54.94,0:20:59.63,Default,Fushiguro,0,0,0,,but I can open a hole large enough for someone to pass through for a few seconds.
-Dialogue: 0,0:21:00.00,0:21:01.78,Default,Fushiguro,0,0,0,,That thing isn't Gojo{*}{*-sensei}.
-Dialogue: 0,0:21:01.78,0:21:05.53,Default,Fushiguro,0,0,0,,It shouldn't be able to use Domain Expansion multiple times in one day.
-Dialogue: 0,0:21:05.53,0:21:08.64,Default,Fushiguro,0,0,0,,Once we're all out of this domain, we can win.
-Dialogue: 0,0:21:08.64,0:21:10.71,Default,Fushiguro,0,0,0,,The edge of his domain is beneath my feet.
-Dialogue: 0,0:21:10.71,0:21:13.04,Default,Fushiguro,0,0,0,,I can tell, since I touched it when I entered.
-Dialogue: 0,0:21:13.04,0:21:14.30,Default,Fushiguro,0,0,0,,I'm ready to go at any time!
-Dialogue: 0,0:21:14.30,0:21:16.54,Default,Fushiguro,0,0,0,,If all three of you jump in once...
-Dialogue: 0,0:21:17.98,0:21:21.00,Default,Nanami,0,0,0,,None of this leaving yourself behind alone, all right?
-Dialogue: 0,0:21:21.48,0:21:23.31,Default,Fushiguro,0,0,0,,I'm risking my life,
-Dialogue: 0,0:21:24.27,0:21:26.30,Default,Fushiguro,0,0,0,,but I don't intend to throw it away.
-Dialogue: 0,0:21:27.94,0:21:30.34,Default,Nanami,0,0,0,,You two!
-Dialogue: 0,0:21:30.34,0:21:33.00,Default,Nanami,0,0,0,,Gather 'round!
-Dialogue: 0,0:21:39.20,0:21:42.26,Default,Dagon,0,0,0,,{\i1}They're bolstering their defense of the boy?
-Dialogue: 0,0:21:42.26,0:21:44.21,Default,Dagon,0,0,0,,{\i1}That just groups them up for me to—
-Dialogue: 0,0:21:46.20,0:21:47.34,Default,Dagon,0,0,0,,{\i1}No!
-Dialogue: 0,0:21:47.34,0:21:49.66,Default,Nanami,0,0,0,,{\i1}He figured it out?! But it's too late!
-Dialogue: 0,0:21:49.66,0:21:51.97,Default,Nanami,0,0,0,,To Fushiguro{**-kun}'s feet!
+Dialogue: 0,0:15:19.40,0:15:21.36,Default,Dagon,0,0,0,,Domain Expansion:
+Dialogue: 0,0:15:26.36,0:15:28.61,Default,Dagon,0,0,0,,Horizon of the Captivating Skandha.
+Dialogue: 0,0:15:32.66,0:15:33.74,Default,Maki,0,0,0,,{\i1}Cursed beast?!
+Dialogue: 0,0:15:33.74,0:15:35.62,Default,Maki,0,0,0,,{\i1}Is this the domain's sure-hit attack?
+Dialogue: 0,0:15:35.62,0:15:37.71,Default,Maki,0,0,0,,{\i1}I didn't notice it until I was hit.
+Dialogue: 0,0:15:37.71,0:15:40.79,Default,Maki,0,0,0,,{\i1}No, it didn't even exist until it hit.
+Dialogue: 0,0:15:42.79,0:15:44.80,Default,Naobito,0,0,0,,Secret Art: Falling Blossom Emotion.
+Dialogue: 0,0:15:45.34,0:15:48.88,Default,Narrator,0,0,0,,An anti-domain technique passed down\N among the Three Great Clans.
+Dialogue: 0,0:15:48.88,0:15:52.80,Default,Narrator,0,0,0,,Unlike Simple Domain,\N it does not require a domain activation.
+Dialogue: 0,0:15:52.80,0:15:59.73,Default,Narrator,0,0,0,,Instead, it counters the sure-hit attack\N with cursed energy the moment it's about to hit. {this is such a hack}
+Dialogue: 0,0:16:00.35,0:16:02.94,Default,Dagon,0,0,0,,{\i1}I knew something's up with that man.
+Dialogue: 0,0:16:02.94,0:16:04.82,Default,Dagon,0,0,0,,{\i1}I'm done testing their strength.
+Dialogue: 0,0:16:04.82,0:16:09.70,Default,Dagon,0,0,0,,{\i1}I'll split my power, 70% to the mustached man,\N and 30% to the man in the suit. {I'll split my power seventy-thirty between\N the mustached man and the man in the suit.}
+Dialogue: 0,0:16:09.70,0:16:13.87,Default,Dagon,0,0,0,,Cursed Technique: Death Swarm! {yeah i think i'll the realease/activation word beecause it's implied}
+Dialogue: 0,0:16:18.75,0:16:19.83,Default,Nanami,0,0,0,,Listen, Maki{**-san}!
+Dialogue: 0,0:16:19.83,0:16:23.34,Default,Nanami,0,0,0,,Those cursed beasts can attack from any direction!
+Dialogue: 0,0:16:23.34,0:16:27.34,Default,Nanami,0,0,0,,If they make contact, they'll be gouging our flesh the next instant!
+Dialogue: 0,0:16:27.34,0:16:28.84,Default,Nanami,0,0,0,,There won't be time to think!
+Dialogue: 0,0:16:28.84,0:16:32.72,Default,Nanami,0,0,0,,The moment you feel something, cut it down!
+Dialogue: 0,0:16:32.72,0:16:35.35,Default,Nanami,0,0,0,,It's all you can do with your scant cursed en{\fscx180}—{\fscx}
+Dialogue: 0,0:16:38.98,0:16:40.23,Default,Maki,0,0,0,,{*}Mr. Nanami{*Nanami-san}!
+Dialogue: 0,0:16:48.90,0:16:52.28,Default,Naobito,0,0,0,,{\i1}The surge of cursed beasts isn't abating at all.
+Dialogue: 0,0:16:52.28,0:16:55.58,Default,Naobito,0,0,0,,{\i1}Is the technique embedded into the domain itself? {the og line "Is it possible the technique embedded into this domain is..." implies the existence of another technique which is powering death swarm but that doesn't actually seem to be the case}
+Comment: 0,0:17:03.25,0:17:03.92,Default,,0,0,0,,Tch.
+Dialogue: 0,0:17:05.09,0:17:05.67,Default,Naobito,0,0,0,,Falling{\fscx180}—{\fscx}
+Dialogue: 0,0:17:05.67,0:17:10.93,Default,Dagon,0,0,0,,The sea is the source of all life.
+Dialogue: 0,0:17:14.51,0:17:17.72,Default,Dagon,0,0,0,,You are the weakest of the bunch.
+Dialogue: 0,0:17:21.06,0:17:26.15,Default,Dagon,0,0,0,,Death Swarm is an endless stream of cursed beasts.
+Dialogue: 0,0:17:34.70,0:17:42.04,Default,Maki,0,0,0,,If you're gonna call me weak,\N then at least kill me in one hit, Octopussy.
+Dialogue: 0,0:17:43.37,0:17:46.38,Default,Dagon,0,0,0,,Then I shall grant you \Nthe same fate as the other two.
+Dialogue: 0,0:17:47.04,0:17:48.00,Default,Maki,0,0,0,,{\i1}Shit!
+Dialogue: 0,0:17:49.13,0:17:51.63,Default,Dagon,0,0,0,,By devouring you.
+Dialogue: 0,0:17:57.39,0:17:58.56,Default,Fushiguro,0,0,0,,Maki{**-san}!
+Dialogue: 0,0:17:59.14,0:18:00.35,Default,Maki,0,0,0,,Megumi!
+Dialogue: 0,0:18:05.44,0:18:13.20,Default,Maki,0,0,0,,{\i1}Really, you're one cocky little brat! {underclassman}
+Dialogue: 0,0:18:14.07,0:18:15.36,Default,Fushiguro,0,0,0,,{\i1}It's that thing!
+Dialogue: 0,0:18:15.91,0:18:19.12,Default,Fushiguro,0,0,0,,{\i1}That octopus is the source of this domain!
+Dialogue: 0,0:18:19.99,0:18:23.87,Default,Dagon,0,0,0,,You dare voluntarily invade my domain?
+Dialogue: 0,0:18:25.75,0:18:27.13,Default,Dagon,0,0,0,,How foolish.
+Dialogue: 0,0:18:29.25,0:18:30.13,Default,Dagon,0,0,0,,What?!
+Dialogue: 0,0:18:45.56,0:18:49.86,Default,Dagon,0,0,0,,{\i1}My domain's sure-hit effect has been neutralized.
+Dialogue: 0,0:18:50.61,0:18:54.65,Default,Dagon,0,0,0,,{\i1}That boy is deploying his own domain.
+Dialogue: 0,0:18:54.65,0:18:58.95,Default,Dagon,0,0,0,,{\i1}Right now, our domains are in a tug-of-war.
+Dialogue: 0,0:18:58.95,0:19:05.08,Default,Dagon,0,0,0,,{\i1}In order to restore my sure-hit effect,\N I'll have to crush his domain.
+Dialogue: 0,0:19:05.62,0:19:07.29,Default,Dagon,0,0,0,,No matter!
+Dialogue: 0,0:19:28.94,0:19:30.36,Default,Nanami,0,0,0,,What about the other two?
+Dialogue: 0,0:19:30.36,0:19:33.49,Default,Fushiguro,0,0,0,,Ino{**-san} tapped out. Itadori is acting on his own.
+Dialogue: 0,0:19:33.86,0:19:38.62,Default,Nanami,0,0,0,,I'll cover you. Please focus on your domain.
+Dialogue: 0,0:19:41.62,0:19:46.62,Default,Dagon,0,0,0,,{\i1}He managed to endure Death Swarm\N for nearly a whole minute?
+Dialogue: 0,0:19:48.13,0:19:50.00,Default,Dagon,0,0,0,,{\i1}The mustachioed man too! {did he say sth after this?} {nah, just ku-uh}
+Dialogue: 0,0:20:03.77,0:20:11.06,Default,Naobito,0,0,0,,That one measly right arm\N had seventy-one years of history.
+Dialogue: 0,0:20:11.06,0:20:13.32,Default,Naobito,0,0,0,,It's gonna cost you!
+Dialogue: 0,0:20:21.03,0:20:23.91,Default,Nanami,0,0,0,,{\i1}If this keeps up, we have a chance.
+Dialogue: 0,0:20:25.04,0:20:26.79,Default,Nanami,0,0,0,,{\i1\i0}If{\i1} it keeps up.
+Dialogue: 0,0:20:31.96,0:20:33.34,Default,Fushiguro,0,0,0,,{*}Mr. Nanami{*Nanami-san}!
+Dialogue: 0,0:20:35.17,0:20:40.51,Default,Fushiguro,0,0,0,,That octopus thinks our domains are pushing for control.
+Dialogue: 0,0:20:40.51,0:20:42.55,Default,Fushiguro,0,0,0,,But that's not what I'm after.
+Dialogue: 0,0:20:44.14,0:20:49.31,Default,Fushiguro,0,0,0,,I'm going to open a hole in the barrier of this domain!
+Dialogue: 0,0:20:50.10,0:20:53.02,Default,Fushiguro,0,0,0,,The one I entered through is already sealed.
+Dialogue: 0,0:20:53.02,0:20:55.03,Default,Fushiguro,0,0,0,,It's harder to open one from the inside,
+Dialogue: 0,0:20:55.03,0:20:59.61,Default,Fushiguro,0,0,0,,but I can make it large enough for someone\N to pass through for a few seconds.
+Dialogue: 0,0:21:00.03,0:21:01.91,Default,Fushiguro,0,0,0,,That thing isn't {*}Mr. Gojo{*Gojo-sensei}.
+Dialogue: 0,0:21:01.91,0:21:05.70,Default,Fushiguro,0,0,0,,There's a good chance it can't use\N Domain Expansion multiple times in one day.
+Dialogue: 0,0:21:05.70,0:21:08.62,Default,Fushiguro,0,0,0,,If we all escape the domain, we can win.
+Dialogue: 0,0:21:08.62,0:21:10.79,Default,Fushiguro,0,0,0,,The edge of this barrier is right below me.
+Dialogue: 0,0:21:10.79,0:21:13.17,Default,Fushiguro,0,0,0,,I know because I touched it when I entered.
+Dialogue: 0,0:21:13.17,0:21:14.50,Default,Fushiguro,0,0,0,,I'm ready to go at any time!
+Dialogue: 0,0:21:14.50,0:21:16.71,Default,Fushiguro,0,0,0,,All three of you need to jump in at once!
+Dialogue: 0,0:21:18.05,0:21:21.47,Default,Nanami,0,0,0,,You don't intend to stay behind, right?
+Dialogue: 0,0:21:21.76,0:21:23.60,Default,Fushiguro,0,0,0,,{\pos(969,1020)}I'm risking my life.
+Dialogue: 0,0:21:24.35,0:21:26.31,Default,Fushiguro,0,0,0,,{\pos(969,1020)}I don't plan to throw it away.
+Dialogue: 0,0:21:28.06,0:21:30.35,Default,Nanami,0,0,0,,You two!
+Dialogue: 0,0:21:30.35,0:21:32.98,Default,Nanami,0,0,0,,Gather 'round!
+Dialogue: 0,0:21:39.28,0:21:42.41,Default,Dagon,0,0,0,,{\i1}They're bolstering their defense of the boy?
+Dialogue: 0,0:21:42.41,0:21:43.99,Default,Dagon,0,0,0,,{\i1}That just makes it easier for me to get all{\fscx180}—{\fscx}
+Dialogue: 0,0:21:46.37,0:21:47.33,Default,Dagon,0,0,0,,{\i1}No!
+Dialogue: 0,0:21:47.33,0:21:49.37,Default,Nanami,0,0,0,,{\i1}He figured it out. But it's too late!
+Dialogue: 0,0:21:49.83,0:21:51.96,Default,Nanami,0,0,0,,Right below Fushiguro{**-kun}!
 Comment: 0,0:22:10.02,0:22:10.06,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:40.02,0:23:40.07,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.28,0:23:43.75,Default,Mei,0,0,0,,Don't you think sibling relationships tend to show through in a person's character?
-Dialogue: 0,0:23:43.75,0:23:45.74,Default,Ui,0,0,0,,Nee-sama, that could encourage the discriminatory
-Dialogue: 0,0:23:45.74,0:23:47.28,Default,Ui,0,0,0,,idea that all only children are selfish!
-Dialogue: 0,0:23:47.28,0:23:48.44,Default,Yuji,0,0,0,,You're right, that's not good!
-Dialogue: 0,0:23:48.44,0:23:49.68,Default,Ui,0,0,0,,Are you refuting Nee-sama?
-Dialogue: 0,0:23:49.68,0:23:50.28,Default,Yuji,0,0,0,,Huh?!
-Dialogue: 0,0:23:50.28,0:23:51.72,Default,Mei,0,0,0,,Next time, "Fluctuations, Part 2."
-Dialogue: 0,0:23:51.72,0:23:53.04,Default,Ui,0,0,0,,What about Gojo Satoru?
-Dialogue: 0,0:23:53.04,0:23:54.76,Default,Both,0,0,0,,He's an only child, of course.
+Dialogue: 0,0:23:40.44,0:23:43.82,Default,Mei,0,0,0,,{\an8}Don't you think sibling relationships\N tend to show through in a person's character?
+Dialogue: 0,0:23:43.82,0:23:47.36,Default,Ui,0,0,0,,{\an8}{*}Sister{*Nee-sama}, that might reinforce the\N stereotype that only children are selfish!
+Dialogue: 0,0:23:47.36,0:23:48.62,Default,Yuji,0,0,0,,{\an8}You're right, that's not good!
+Dialogue: 0,0:23:48.62,0:23:49.74,Default,Ui,0,0,0,,{\an8}Are you refuting {*}Sister{*Nee-sama}?
+Dialogue: 0,0:23:49.74,0:23:50.12,Default,Yuji,0,0,0,,{\an8}Huh?!
+Dialogue: 0,0:23:50.12,0:23:51.74,Default,Mei,0,0,0,,{\an8}Next time, Fluctuations, Part 2.
+Dialogue: 0,0:23:51.74,0:23:53.08,Default,Ui,0,0,0,,{\an8}What about Gojo Satoru?
+Dialogue: 0,0:23:53.08,0:23:54.75,Default,Both,0,0,0,,{\an8}He's an only child, of course.
