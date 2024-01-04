@@ -38,7 +38,7 @@ Comment: 1,0:00:26.01,0:00:29.30,ED4,main,0,0,0,kara,I think over and over again
 Comment: 1,0:00:30.30,0:00:37.73,ED4,main,0,0,0,kara,At some point I got used to picking what was the "right" answer
 Comment: 1,0:00:37.73,0:00:41.44,ED4,main,0,0,0,kara,Telling them what they want to hear
 Comment: 1,0:00:41.44,0:00:44.65,ED4,main,0,0,0,kara,Hiding how I truly feel
-Comment: 1,0:00:45.07,0:00:50.32,ED4,main,0,0,0,kara,'Cause when you feel the walls closing in on you
+Comment: 1,0:00:45.07,0:00:50.28,ED4,main,0,0,0,kara,'Cause when you feel the walls closing in on you
 Comment: 1,0:00:51.16,0:00:59.62,ED4,main,0,0,0,kara,I want you to know that you can still believe in yourself
 Comment: 1,0:00:59.96,0:01:05.34,ED4,main,0,0,0,kara,I know because I've been there too
 Comment: 1,0:01:05.75,0:01:09.22,ED4,main,0,0,0,kara,If the nights get too dark
@@ -70,10 +70,10 @@ Dialogue: 0,0:00:41.44,0:00:44.65,ED4,main,0,0,0,fx,{\fad(180,120)\blur5.5\bord3
 Dialogue: 1,0:00:41.44,0:00:44.65,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\xshad-0.4\yshad0.2\c&HFFFFFF&\4c&H00FF20&\1a&H64&\4a&H55&\t(0,120,\blur0.7)}Hiding how I truly feel
 Dialogue: 2,0:00:41.44,0:00:44.65,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\xshad0.6\yshad0\c&HFFFFFF&\4c&H6C00FF&\1a&H64&\4a&H64&\t(0,120,\blur0.7)}Hiding how I truly feel
 Dialogue: 3,0:00:41.44,0:00:44.65,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\c&HFFFFFF&\1a&H10&\t(0,120,\blur0.7)}Hiding how I truly feel
-Dialogue: 0,0:00:45.07,0:00:50.32,ED4,main,0,0,0,fx,{\fad(180,120)\blur5.5\bord3.5\c&H000000&\3c&H000000&}'Cause when you feel the walls closing in on you
-Dialogue: 1,0:00:45.07,0:00:50.32,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\xshad-0.4\yshad0.2\c&HFFFFFF&\4c&H00FF20&\1a&H64&\4a&H55&\t(0,120,\blur0.7)}'Cause when you feel the walls closing in on you
-Dialogue: 2,0:00:45.07,0:00:50.32,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\xshad0.6\yshad0\c&HFFFFFF&\4c&H6C00FF&\1a&H64&\4a&H64&\t(0,120,\blur0.7)}'Cause when you feel the walls closing in on you
-Dialogue: 3,0:00:45.07,0:00:50.32,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\c&HFFFFFF&\1a&H10&\t(0,120,\blur0.7)}'Cause when you feel the walls closing in on you
+Dialogue: 0,0:00:45.07,0:00:50.28,ED4,main,0,0,0,fx,{\fad(180,120)\blur5.5\bord3.5\c&H000000&\3c&H000000&}'Cause when you feel the walls closing in on you
+Dialogue: 1,0:00:45.07,0:00:50.28,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\xshad-0.4\yshad0.2\c&HFFFFFF&\4c&H00FF20&\1a&H64&\4a&H55&\t(0,120,\blur0.7)}'Cause when you feel the walls closing in on you
+Dialogue: 2,0:00:45.07,0:00:50.28,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\xshad0.6\yshad0\c&HFFFFFF&\4c&H6C00FF&\1a&H64&\4a&H64&\t(0,120,\blur0.7)}'Cause when you feel the walls closing in on you
+Dialogue: 3,0:00:45.07,0:00:50.28,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\c&HFFFFFF&\1a&H10&\t(0,120,\blur0.7)}'Cause when you feel the walls closing in on you
 Dialogue: 0,0:00:51.16,0:00:59.62,ED4,main,0,0,0,fx,{\fad(180,120)\blur5.5\bord3.5\c&H000000&\3c&H000000&}I want you to know that you can still believe in yourself
 Dialogue: 1,0:00:51.16,0:00:59.62,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\xshad-0.4\yshad0.2\c&HFFFFFF&\4c&H00FF20&\1a&H64&\4a&H55&\t(0,120,\blur0.7)}I want you to know that you can still believe in yourself
 Dialogue: 2,0:00:51.16,0:00:59.62,ED4,main,0,0,0,fx,{\fad(220,100)\blur3\xshad0.6\yshad0\c&HFFFFFF&\4c&H6C00FF&\1a&H64&\4a&H64&\t(0,120,\blur0.7)}I want you to know that you can still believe in yourself
