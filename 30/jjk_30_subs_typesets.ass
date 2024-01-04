@@ -20,10 +20,10 @@ Audio File: jjk_30_premux.mkv
 Video File: jjk_30_premux.mkv
 Keyframes File: jjk_30_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
+Video Zoom Percent: 0.625000
 Scroll Position: 6
-Active Line: 1031
-Video Position: 34257
+Active Line: 1025
+Video Position: 29251
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1056,10 +1056,10 @@ Dialogue: 1,0:21:42.28,0:21:42.32,Signs,Counter,0,0,0,,{=95}{\fscx68.51\fscy68.5
 Dialogue: 1,0:21:42.32,0:21:42.36,Signs,Counter,0,0,0,,{=95}{\fscx68.28\fscy68.28\alpha&H00&\blur0.58\fnRagnar\fs30\c&HC6F8F2&\pos(1534.58,662.84)\b1}Days
 Dialogue: 0,0:21:37.36,0:21:42.37,Signs,Counter,0,0,0,,{=98}
 Comment: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{=101}Ultimate Mechamaru
-Dialogue: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord6\fnBrush Strokes\fs99\fscx85\c&HFFFFFF&\3c&HFFFFFF&\pos(960,725)}Ultimate Mechamaru, Mode{\fnBrush Stroke}:{\fnBrush Strokes} Absolute
-Dialogue: 1,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnBrush Strokes\fs99\fscx85\c&H000000&\4a&HFF&\pos(960,725)}Ultimate Mechamaru, Mode{\fnBrush Stroke}:{\fnBrush Strokes} Absolute
-Dialogue: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord6\fnBrush Strokes\fs99\fscx85\c&HFFFFFF&\3c&HFFFFFF&\pos(960,825)}Armored Puppet Ultimate Mechamaru Prototype{\fnBrush Stroke\fscy120} O
-Dialogue: 1,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnBrush Strokes\fs99\fscx85\c&H000000&\4a&HFF&\pos(960,825)}Armored Puppet Ultimate Mechamaru Prototype{\fnBrush Stroke\fscy120} O
+Dialogue: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord6\fnHOT-KyoMadoka Std R vL2\fs99\fscx85\c&HFFFFFF&\3c&HFFFFFF&\pos(960,735)}Ultimate Mechamaru, Mode: Absolute
+Dialogue: 1,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnHOT-KyoMadoka Std R vL2\fs99\fscx85\c&H000000&\4a&HFF&\pos(960,735)}Ultimate Mechamaru, Mode: Absolute
+Dialogue: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord6\fnHOT-KyoMadoka Std R vL2\fs99\fscx85\c&HFFFFFF&\3c&HFFFFFF&\pos(960,835)}Armored Puppet Ultimate Mechamaru Prototype O
+Dialogue: 1,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnHOT-KyoMadoka Std R vL2\fs99\fscx85\c&H000000&\4a&HFF&\pos(960,835)}Armored Puppet Ultimate Mechamaru Prototype O
 Dialogue: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{=102}
 Dialogue: 0,0:23:48.78,0:23:55.00,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Evening Festival
 Dialogue: 0,0:23:48.78,0:23:55.00,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Evening Festival
@@ -1093,3 +1093,5 @@ Data: 102,_aegi_folddata,e1;1;12
 Data: 105,_aegi_folddata,e1;0;1
 Data: 106,_aegi_folddata,e0;1;1
 Data: 107,_aegi_folddata,e1;1;1
+Data: 108,_aegi_folddata,e0;0;12
+Data: 109,_aegi_folddata,e1;0;12
