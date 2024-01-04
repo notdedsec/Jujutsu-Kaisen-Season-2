@@ -48,7 +48,19 @@ class Filter:
 
 
     def process(self, ED3: Optional[int] = None) -> VideoNode:
-        src = depth(self.SRC.clip_cut, 16)
+        clip = depth(self.SRC.clip_cut, 16)
+
+        unghosted = clip
+        for frame in self.NUKE_FRAMES:
+            unghosted = unghosted.std.DeleteFrames(abs(frame))
+            unghosted = unghosted.std.DuplicateFrames(frame if frame > 0 else abs(frame) - 1)
+
+        undimmed = unghosted
+        for ranges, strength in self.DIMMED_SCENES.items():
+            tweak = Tweak(undimmed, sat=strength, cont=strength)
+            undimmed = replace_ranges(undimmed, tweak, ranges)
+
+        src = undimmed
         src_y = get_y(src)
 
         descaled = Bicubic().descale(src_y, get_w(self.native_res), self.native_res)
@@ -79,24 +91,14 @@ class Filter:
         rescale = replace_ranges(restored, src_y, self.NO_RESCALE_RANGES)
         rescale = join(rescale, src)
 
-        unghosted = rescale
-        for frame in self.NUKE_FRAMES:
-            unghosted = unghosted.std.DeleteFrames(abs(frame))
-            unghosted = unghosted.std.DuplicateFrames(frame if frame > 0 else abs(frame) - 1)
-
-        undimmed = unghosted
-        for ranges, strength in self.DIMMED_SCENES.items():
-            tweak = Tweak(undimmed, sat=strength, cont=strength)
-            undimmed = replace_ranges(undimmed, tweak, ranges)
-
-        denoise_y = MVTools.denoise(get_y(undimmed), thSAD=48, block_size=32, overlap=16, prefilter=Prefilter.MINBLUR2, sad_mode=SADMode.SPATIAL.same_recalc)
+        denoise_y = MVTools.denoise(get_y(rescale), thSAD=48, block_size=32, overlap=16, prefilter=Prefilter.MINBLUR2, sad_mode=SADMode.SPATIAL.same_recalc)
         denoise_y = denoise_y.ttmpsm.TTempSmooth(maxr=1, thresh=1, mdiff=0, strength=1)
-        denoise_c = ccd(undimmed, thr=1, planes=[1, 2], matrix=Matrix.BT709)
+        denoise_c = ccd(rescale, thr=1, planes=[1, 2], matrix=Matrix.BT709)
         denoise = join(denoise_y, denoise_c)
-        denoise = replace_ranges(denoise, undimmed, self.NO_DENOISE_RANGES)
+        denoise = replace_ranges(denoise, rescale, self.NO_DENOISE_RANGES)
 
         dumb_deband_normal = dumb3kdb(denoise, radius=16, threshold=24, use_neo=True)
-        dumb_deband_strong = dumb3kdb(denoise, radius=16, threshold=42, use_neo=True)
+        dumb_deband_strong = dumb3kdb(denoise, radius=16, threshold=48, use_neo=True)
         dumb_deband = replace_ranges(dumb_deband_normal, dumb_deband_strong, self.STRONG_DEBAND_RANGES)
         deband = core.std.MaskedMerge(dumb_deband, denoise, retinex_mask)
 
@@ -118,9 +120,6 @@ class Filter:
         # set_output(denoise)
         # set_output(deband)
         set_output(final)
-
-        set_output(core.hist.Levels(depth(src, 8)))
-        set_output(core.hist.Levels(depth(undimmed, 8)))
 
         return final
 
