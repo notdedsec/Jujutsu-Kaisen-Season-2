@@ -18,10 +18,11 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Audio File: jjk_40_premux.mkv
 Video File: jjk_40_premux.mkv
-Keyframes File: jjk_40_keyframes.txt
+Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Video Position: 5049
+Video Zoom Percent: 0.625000
+Active Line: 17
+Video Position: 31508
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -30,27 +31,27 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{=4}Shibuya Stream
-Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fade(300,0)\an7\fscx21\fscy78\pos(-47.52,249.86)\p1}m 677 880 l 1840 880 1840 999 677 999 677 900
-Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fade(300,0)\an7\fscx60\fscy78\pos(32,251.26)\p1}m 684 880 l 1714 880 1714 999 684 999 684 900
-Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fade(300,0)\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(138.8,1024)\b1}23:01
-Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fade(300,0)\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(529.4,1023.4)\b1}Shibuya Stream
+Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fade(300,0)\an7\fscx22.5\fscy78\pos(-59.52,250)\p1}m 677 880 l 1840 880 1840 999 677 999 677 900
+Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fade(300,0)\an7\fscx60\fscy78\pos(-23,250)\p1}m 684 880 l 1714 880 1714 999 684 999 684 900
+Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fade(300,0)\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(144.8,1024)\b1}23:01
+Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fade(300,0)\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(472.4,1022.4)\b1}Shibuya Stream
 Dialogue: 0,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{=5}
 Comment: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{=6}Shuto Expressway
 Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an7\fscx25\fscy70\pos(-78.52,246.86)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
-Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an7\fscx77\fscy70\pos(-135.52,246.86)\p1}m 677 880 l 2036 880 2036 999 677 999 677 900
-Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an7\fscx77\fscy70\pos(-135.52,338.86)\p1}m 677 880 l 1337 880 1337 999 677 999 677 900
-Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an1\blur0.6\fnAribau Grotesk\fs70\c&H000000&\b1\pos(160,940)}22:51
-Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an1\blur0.6\fnAribau Grotesk\fs70\fscx96\c&H000000&\b1\pos(407,938)}Shuto Expressway Route 3, Shibuya Line
-Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an1\blur0.6\fnAribau Grotesk\fs70\fscx96\c&H000000&\b1\pos(407,1034)}Shibuya Toll Booth
+Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an7\fscx77\fscy70\pos(-135.52,246.86)\p1}m 677 880 l 1940 880 1940 999 677 999 677 900
+Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an7\fscx77\fscy70\pos(-135.52,338.86)\p1}m 677 880 l 1292 880 1292 999 677 999 677 900
+Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an1\blur0.6\fnAribau Grotesk\fs67\c&H000000&\b1\pos(164,939)}22:51
+Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an1\blur0.6\fnAribau Grotesk\fs66\fscx95\c&H000000&\b1\pos(405,938)}Shuto Expressway Route 3, Shibuya Line
+Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fade(0,300)\an1\blur0.6\fnAribau Grotesk\fs66\fscx95\c&H000000&\b1\pos(405,1031)}Shibuya Toll Booth
 Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{=7}
-Comment: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{=0}Shibuya 109
-Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an7\fscx23\fscy80\pos(-59.52,230.86)\p1}m 677 880 l 1840 880 1840 999 677 999 677 900
-Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an7\fscx90\fscy80\pos(-165,232.26)\p1}m 684 880 l 1714 880 1714 999 684 999 684 900
-Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs70\c&H000000&\pos(157.8,1020)\b1}23:07
-Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs70\fscx96\c&H000000&\pos(473.4,1020.4)\b1}Dogenzaka, In Front of Shibuya 109
+Comment: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{=10}Shibuya 109
+Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an7\fscx26\fscy80\pos(-81,231)\p1}m 677 880 l 1840 880 1840 999 677 999 677 900
+Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an7\fscx93\fscy80\pos(-212,231)\p1}m 684 880 l 1714 880 1714 999 684 999 684 900
+Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs75\c&H000000&\pos(168.8,1022)\b1}23:07
+Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs71\fscx96\c&H000000&\pos(455.4,1019.4)\b1}Dogenzaka, In Front of Shibuya 109
 Comment: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(147.8,1023)\b1}23:07
 Comment: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(586.4,1022.4)\b1}{Dogenzaka, }In Front of Shibuya 109
-Dialogue: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{=1}
+Dialogue: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{=11}
 Dialogue: 0,0:22:07.02,0:22:10.02,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 40\N{\fs70}Thunderclap
 Dialogue: 0,0:23:51.24,0:23:55.04,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Thunderclap II
 Dialogue: 1,0:23:51.24,0:23:55.04,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Thunderclap II
@@ -66,3 +67,5 @@ Data: 8,_aegi_folddata,e0;0;3
 Data: 9,_aegi_folddata,e1;0;3
 Data: 10,_aegi_folddata,e0;0;1
 Data: 11,_aegi_folddata,e1;0;1
+Data: 12,_aegi_folddata,e0;0;2
+Data: 13,_aegi_folddata,e1;0;2

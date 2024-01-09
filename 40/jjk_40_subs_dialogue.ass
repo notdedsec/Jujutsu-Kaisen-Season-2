@@ -20,10 +20,10 @@ Audio File: jjk_40_premux.mkv
 Video File: jjk_40_premux.mkv
 Keyframes File: jjk_40_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 196
-Active Line: 203
-Video Position: 28955
+Video Zoom Percent: 0.750000
+Scroll Position: 226
+Active Line: 233
+Video Position: 34152
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,7 +35,7 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.48,0:00:03.98,Default,Jogo,0,0,140,,{\i1}I knew it.
-Dialogue: 0,0:00:04.82,0:00:07.61,Default,Jogo,0,0,140,,{\i1}I knew he was stronger.
+Dialogue: 0,0:00:04.82,0:00:07.61,Default,Jogo,0,0,140,,{\i1}I knew it from the beginning.
 Dialogue: 0,0:00:10.28,0:00:13.33,Default,Jogo,0,0,140,,{\i1}But to think it was to this extent!
 Comment: 0,0:00:12.99,0:00:13.03,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:01:43.00,0:01:43.04,Default,chptr,0,0,0,,{Part A}
@@ -63,18 +63,18 @@ Dialogue: 0,0:04:09.27,0:04:13.19,Default,Kusakabe,0,0,0,,Imagine if it were som
 Dialogue: 0,0:04:13.19,0:04:16.03,Default,Kusakabe,0,0,0,,What if we overlooked them?
 Dialogue: 0,0:04:16.03,0:04:21.45,Default,Kusakabe,0,0,0,,We might as well be the ones \Nwho snuffed out such a bright future!
 Dialogue: 0,0:04:21.87,0:04:23.83,Default,Panda,0,0,0,,I-I guess you're right.
-Dialogue: 0,0:04:23.83,0:04:29.08,Default,Kusakabe,0,0,0,,If you understand, then get back to scouring every building,\N every floor, and behind every toilet, you silly panda! {doesn't feel right for a teacher to call a student dumbass but panda is also technically a sorcerer} {maybe a softer word like dummy but that prolly wont fit kusakabe} {silly goose?}
+Dialogue: 0,0:04:23.83,0:04:29.08,Default,Kusakabe,0,0,0,,Then get back to scouring every building,\N every floor, and behind every toilet, you goof! {doesn't feel right for a teacher to call a student dumbass but panda is also technically a sorcerer} {maybe a softer word like dummy but that prolly wont fit kusakabe} {silly goose?}
 Dialogue: 0,0:04:29.58,0:04:30.96,Default,Kusakabe,0,0,0,,{\i1}This is bad.
 Dialogue: 0,0:04:30.96,0:04:33.34,Default,Kusakabe,0,0,0,,{\i1}I'm running out of excuses.
 Dialogue: 0,0:04:33.92,0:04:36.88,Default,Kusakabe,0,0,0,,{\i1}I sure don't wanna go anywhere near B5.
-Dialogue: 0,0:04:36.88,0:04:40.09,Default,Kusakabe,0,0,0,,{\i1}I'd much prefer to wander around and waste time like this.
+Dialogue: 0,0:04:36.88,0:04:40.09,Default,Kusakabe,0,0,0,,{\i1}I'd much prefer to wander around\N and waste time like this.
 Dialogue: 0,0:04:40.09,0:04:42.60,Default,Kusakabe,0,0,0,,{\i1}'Cause I don't wanna die!
 Dialogue: 0,0:04:43.18,0:04:48.60,Default,Kusakabe,0,0,0,,{\i1}If Panda knew how to get to B5,\N he'd run off on his own. I can't have that either!
 Dialogue: 0,0:04:48.60,0:04:51.35,Default,Kusakabe,0,0,0,,{\i1}'Cause I don't wanna be left here alone right now!
 Dialogue: 0,0:04:51.77,0:04:56.03,Default,Kusakabe,0,0,0,,{\i1}He might be a panda, but he has\N more of a human heart than I do.
 Dialogue: 0,0:04:56.03,0:04:59.24,Default,Kusakabe,0,0,0,,{\i1}But because he's a panda,\N he's not familiar with Shibuya.
 Dialogue: 0,0:04:59.24,0:05:02.87,Default,Kusakabe,0,0,0,,{\i1}He doesn't realize that\N we're already super close to B5.
-Dialogue: 0,0:05:02.87,0:05:04.58,Default,Panda,0,0,0,,I'll go look over there!
+Dialogue: 0,0:05:02.87,0:05:04.74,Default,Panda,0,0,0,,Hey, I'll go look over there!
 Dialogue: 0,0:05:05.37,0:05:07.45,Default,Kusakabe,0,0,0,,Yeah, be thorough about it!
 Dialogue: 0,0:05:08.12,0:05:10.79,Default,Kusakabe,0,0,0,,{\i1}Maybe I'll pretend to be lost in the station next.
 Dialogue: 0,0:05:10.79,0:05:12.50,Default,Kusakabe,0,0,0,,{\i1}These guys sealed Gojo, after all.
@@ -107,7 +107,7 @@ Dialogue: 0,0:07:33.77,0:07:37.02,Default,Fushiguro,0,0,0,,{\i1}I need to limit 
 Dialogue: 0,0:07:40.23,0:07:41.73,Default,Fushiguro,0,0,0,,{\i1}I've narrowed down his options!
 Dialogue: 0,0:07:41.73,0:07:45.28,Default,Fushiguro,0,0,0,,{\i1}He's as fast as Sukuna. I can't rely on my eyes!
 Dialogue: 0,0:07:45.28,0:07:46.61,Default,Fushiguro,0,0,0,,{\i1}I need to focus on the timing!
-Dialogue: 0,0:07:47.16,0:07:49.24,Default,Fushiguro,0,0,0,,{\i1}If I mess up the timing, I'm dead.
+Dialogue: 0,0:07:47.15,0:07:49.24,Default,Fushiguro,0,0,0,,{\i1}If I mess up the timing, I'm dead.
 Dialogue: 0,0:07:49.87,0:07:51.66,Default,Fushiguro,0,0,0,,{\i1}If I mess up the timing,
 Dialogue: 0,0:07:53.91,0:07:55.25,Default,Fushiguro,0,0,0,,{\i1}I'm dead!
 Dialogue: 0,0:08:15.77,0:08:17.02,Default,Fushiguro,0,0,0,,{\i1}Damn it!
@@ -133,9 +133,9 @@ Dialogue: 0,0:10:07.80,0:10:09.84,Default,Shigemo,0,0,0,,See? This is what I'm t
 Dialogue: 0,0:10:09.84,0:10:12.34,Default,Shigemo,0,0,0,,This is what suits me the best!
 Comment: 0,0:10:13.01,0:10:13.05,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:10:19.77,0:10:21.81,Default,Nanako,0,0,0,,Cooperate with that thing?
-Dialogue: 0,0:10:21.81,0:10:25.65,Default,Nanako,0,0,0,,You mean for reclaiming {*}Master Geto{*Geto-sama}'s body, right?
+Dialogue: 0,0:10:21.81,0:10:25.65,Default,Nanako,0,0,0,,You mean for reclaiming {*}Master Geto{*Geto-sama}'s body, right? {...for reclaiming Geto's body, right?}
 Dialogue: 0,0:10:26.15,0:10:26.94,Default,Negi,0,0,0,,No.
-Dialogue: 0,0:10:27.57,0:10:31.11,Default,Negi,0,0,0,,The motives and identity of that impostor may be unclear,
+Dialogue: 0,0:10:27.57,0:10:31.11,Default,Negi,0,0,0,,The motives and identity \Nof that impostor may be unclear,
 Dialogue: 0,0:10:31.11,0:10:37.49,Default,Negi,0,0,0,,but if the world falls into chaos, the non-sorcerer\N monkeys will be the ones paying the price.
 Dialogue: 0,0:10:37.49,0:10:40.66,Default,Negi,0,0,0,,Being strong will be necessary for survival.
 Dialogue: 0,0:10:40.66,0:10:45.79,Default,Negi,0,0,0,,The monkeys will be culled, sorcerers will propagate,\N and cursed spirits will disappear.
@@ -144,19 +144,19 @@ Dialogue: 0,0:10:49.42,0:10:50.96,Default,Negi,0,0,0,,That's why we'll cooperate
 Dialogue: 0,0:10:51.51,0:10:54.05,Default,Negi,0,0,0,,His body is no concern of ours.
 Dialogue: 0,0:10:54.72,0:10:57.01,Default,Negi,0,0,0,,That's what it means to inherit his will.
 Dialogue: 0,0:10:57.30,0:11:00.10,Default,Nanako,0,0,0,,Stop trying to make this complicated.
-Dialogue: 0,0:11:00.10,0:11:04.89,Default,Nanako,0,0,0,,Like hell I'm gonna shut up and watch while \Nsomeone I loved is being manipulated like a zombie! {ayo cr not like that}
+Dialogue: 0,0:11:00.10,0:11:04.89,Default,Nanako,0,0,0,,Like hell I'm gonna shut up and watch \Nsomeone I loved be manipulated like a zombie! {ayo cr not like that}
 Dialogue: 0,0:11:05.48,0:11:08.31,Default,Nanako,0,0,0,,{*}Master Geto{*Geto-sama}'s story is finished. {it is so over}
 Dialogue: 0,0:11:08.31,0:11:10.48,Default,Nanako,0,0,0,,I won't let anyone tarnish it!
 Dialogue: 0,0:11:10.48,0:11:13.53,Default,Suda,0,0,0,,Grow up already, Nanako.
-Dialogue: 0,0:11:15.41,0:11:20.49,Default,Nanako,0,0,0,,If you're gonna start about grown-ups and children,\N then this conversation's over!
+Dialogue: 0,0:11:15.40,0:11:20.49,Default,Nanako,0,0,0,,If you're gonna start about grown-ups and children,\N then this conversation's over!
 Dialogue: 0,0:11:20.49,0:11:21.16,Default,Larue,0,0,0,,Hey!
 Dialogue: 0,0:11:26.58,0:11:28.75,Default,Larue,0,0,0,,Both of you, settle down.
-Dialogue: 0,0:11:30.30,0:11:35.30,Default,Larue,0,0,0,,The one thing Suguru{**-chan} wouldn't want\N is for us to hurt each other.
+Dialogue: 0,0:11:30.29,0:11:35.30,Default,Larue,0,0,0,,The one thing Suguru{**-chan} wouldn't want\N is for us to hurt each other.
 Dialogue: 0,0:11:36.26,0:11:39.01,Default,Larue,0,0,0,,Neither of you is wrong here.
-Dialogue: 0,0:11:39.97,0:11:41.81,Default,Larue,0,0,0,,So let's agree this is where we part ways.
+Dialogue: 0,0:11:40.01,0:11:41.81,Default,Larue,0,0,0,,So let's agree to part ways.
 Dialogue: 0,0:11:43.06,0:11:45.48,Default,Larue,0,0,0,,We can each do as we please.
 Dialogue: 0,0:11:46.06,0:11:47.81,Default,Nanako,0,0,0,,What'll you do, Larue?
-Dialogue: 0,0:11:48.86,0:11:50.90,Default,Larue,0,0,0,,I won't take either side.
+Dialogue: 0,0:11:48.85,0:11:50.90,Default,Larue,0,0,0,,I won't take either side.
 Dialogue: 0,0:11:50.90,0:11:57.61,Default,Larue,0,0,0,,Same as Miguel{**-chan}, I only wanted to \Nhelp Suguru{**-chan} become king.
 Dialogue: 0,0:11:58.28,0:12:01.58,Default,Larue,0,0,0,,But all of you, remember this.
 Dialogue: 0,0:12:02.62,0:12:04.50,Default,Larue,0,0,0,,We are family.
@@ -164,9 +164,9 @@ Dialogue: 0,0:12:05.83,0:12:11.04,Default,Larue,0,0,0,,{\fade(0,100)}The day wil
 Dialogue: 0,0:12:12.71,0:12:16.22,Default,Suda,0,0,0,,We are the ones carrying on the will of {*}Master Geto{*Geto-sama}.
 Dialogue: 0,0:12:16.22,0:12:20.43,Default,Suda,0,0,0,,Since you're from Jujutsu Tech,\N I imagine I don't need to say more.
 Dialogue: 0,0:12:20.43,0:12:23.18,Default,Suda,0,0,0,,Do you surrender or not?
-Dialogue: 0,0:12:23.18,0:12:25.48,Default,Suda,0,0,0,,I hate indecisive men.
+Dialogue: 0,0:12:23.18,0:12:25.47,Default,Suda,0,0,0,,I hate indecisive men.
 Dialogue: 0,0:12:26.14,0:12:28.81,Default,Panda,0,0,0,,I'm a panda so that doesn't apply to me.
-Dialogue: 0,0:12:28.81,0:12:32.32,Default,Kusakabe,0,0,0,,{\i1}They're done with the damn story already?!
+Dialogue: 0,0:12:28.81,0:12:32.31,Default,Kusakabe,0,0,0,,{\i1}They're done with the damn story already?!
 Dialogue: 0,0:12:33.40,0:12:37.49,Default,Kusakabe,0,0,0,,{\i1}Still, they are just a mediocre group.
 Dialogue: 0,0:12:37.86,0:12:39.24,Default,Kusakabe,0,0,0,,{\i1}It's perfect.
 Dialogue: 0,0:12:39.70,0:12:43.33,Default,Kusakabe,0,0,0,,{\i1}I'm gonna take my sweet time drawing this out.
@@ -175,14 +175,14 @@ Dialogue: 0,0:12:49.37,0:12:51.08,Default,Negi,0,0,0,,I see you've chosen your a
 Dialogue: 0,0:13:15.90,0:13:18.44,Default,Sukuna,0,0,140,,This is your reward for the fingers. Come at me.
 Dialogue: 0,0:13:18.44,0:13:22.57,Default,Sukuna,0,0,140,,If you manage to land even a single hit on me,\N I'll work under you all.
 Dialogue: 0,0:13:23.12,0:13:27.54,Default,Sukuna,0,0,140,,For starters, how about I slaughter\N every human in Shibuya? {should this be moved up since the letterboxing increases?} {it looks fine as is tbh and raising this would mean raising the next line even higher on a scene with no letterboxing}
-Dialogue: 0,0:13:27.95,0:13:30.12,Default,Sukuna,0,0,140,,All except for one, that is. {this one remains higher since it's part of the same convo}
-Dialogue: 0,0:13:30.12,0:13:33.50,Default,Sukuna,0,0,0,,Is that all you've got cursed spirit?!
-Dialogue: 0,0:13:32.13,0:13:33.50,Alt,Jogo,0,0,0,,I'm only getting started! {better than not yet and well he is in fact just getting started}
+Dialogue: 0,0:13:27.95,0:13:30.12,Default,Sukuna,0,0,0,,All except for one, that is. {this one remains higher since it's part of the same convo} {too distracting}
+Dialogue: 0,0:13:30.12,0:13:33.50,Default,Sukuna,0,0,0,,Is that all you've got, cursed spirit?!
+Dialogue: 0,0:13:32.12,0:13:33.50,Alt,Jogo,0,0,0,,I'm only getting started! {better than not yet and well he is in fact just getting started}
 Dialogue: 0,0:14:12.21,0:14:17.09,Default,Jogo,0,0,0,,Geto, how strong am I in terms of Sukuna's fingers?
 Dialogue: 0,0:14:17.09,0:14:20.59,Default,Geto,0,0,0,,Being generous, I'd say about eight or nine?
 Dialogue: 0,0:14:28.39,0:14:29.81,Default,Jogo,0,0,0,,{\i1}I knew it.
-Dialogue: 0,0:14:30.52,0:14:32.89,Default,Jogo,0,0,0,,{\i1}I knew he was stronger.
-Dialogue: 0,0:15:17.73,0:15:21.15,Default,Jogo,0,0,0,,{\i1}I knew there would be a difference in strength.
+Dialogue: 0,0:14:30.52,0:14:32.89,Default,Jogo,0,0,0,,{\i1}I knew it from the beginning.
+Dialogue: 0,0:15:17.77,0:15:21.15,Default,Jogo,0,0,0,,{\i1}I knew there would be a difference in strength.
 Dialogue: 0,0:15:21.15,0:15:23.15,Default,Jogo,0,0,0,,{\i1}But to think it was to this extent!
 Dialogue: 0,0:15:36.25,0:15:39.04,Default,Sukuna,0,0,0,,The moonlight's shining all the way through.
 Dialogue: 0,0:15:39.63,0:15:43.51,Default,Sukuna,0,0,0,,Helps me see your pathetic state.
@@ -198,56 +198,56 @@ Dialogue: 0,0:16:11.74,0:16:14.87,Default,Kusakabe,0,0,0,,I dunno why, but a cou
 Dialogue: 0,0:16:14.87,0:16:17.92,Default,Kusakabe,0,0,0,,It's like elephants tap-dancing over ants!
 Dialogue: 0,0:16:18.71,0:16:21.59,Default,Kusakabe,0,0,0,,And if it wasn't obvious, we're the ants!
 Dialogue: 0,0:16:18.71,0:16:21.59,Default,Panda,0,0,0,,{\an8}Hurry, hurry, hurry, hurry!
-Dialogue: 0,0:16:27.34,0:16:30.35,Default,Jogo,0,0,0,,Maximum: Meteor!
+Dialogue: 0,0:16:27.34,0:16:30.34,Default,Jogo,0,0,0,,Maximum: Meteor!
 Dialogue: 0,0:16:37.06,0:16:40.69,Default,Kusakabe,0,0,0,,New Shadow Style: Quick Draw!
 Dialogue: 0,0:16:41.15,0:16:42.65,Default,Kusakabe,0,0,0,,Come on, Panda!
-Dialogue: 0,0:16:42.65,0:16:43.86,Default,Kusakabe,0,0,0,,We're getting outta here! {increase the cps so the viewer barely gets time to read this}
-Dialogue: 0,0:16:43.86,0:16:45.40,Default,Sukuna,0,0,0,,No, you're not.
-Dialogue: 0,0:16:48.15,0:16:55.91,Default,Sukuna,0,0,0,,I hereby forbid every human in the area\N from moving until I say otherwise.
-Dialogue: 0,0:16:56.41,0:17:00.08,Default,Sukuna,0,0,0,,Obviously, if you violate that rule, I will kill you.
-Dialogue: 0,0:17:04.30,0:17:05.30,Default,Sukuna,0,0,0,,Hold on.
+Dialogue: 0,0:16:42.65,0:16:43.77,Default,Kusakabe,0,0,0,,We're getting outta here! {increase the cps so the viewer barely gets time to read this}
+Dialogue: 0,0:16:43.77,0:16:45.40,Default,Sukuna,0,0,0,,No, you're not.
+Dialogue: 0,0:16:48.15,0:16:55.91,Default,Sukuna,0,0,0,,I hereby forbid every human in the area\N from moving until I say otherwise. {but not pandas?}
+Dialogue: 0,0:16:56.41,0:17:00.08,Default,Sukuna,0,0,0,,If you violate that rule, I will kill you. {"obviously" kills the line}
+Dialogue: 0,0:17:04.29,0:17:05.30,Default,Sukuna,0,0,0,,Hold on.
 Dialogue: 0,0:17:07.01,0:17:08.42,Default,Sukuna,0,0,0,,Just a {\i1}little{\i0} longer.
-Dialogue: 0,0:17:14.31,0:17:15.06,Default,Sukuna,0,0,0,,{\fade(0,250)}Now!
+Dialogue: 0,0:17:14.30,0:17:15.06,Default,Sukuna,0,0,0,,{\fade(0,250)}Now!
 Dialogue: 0,0:17:32.53,0:17:37.08,Default,Jogo,0,0,0,,Even Sukuna wouldn't come out of that unscathed.
 Dialogue: 0,0:17:38.08,0:17:39.83,Default,Sukuna,0,0,0,,If it had hit.
-Dialogue: 0,0:17:41.67,0:17:44.59,Default,Sukuna,0,0,0,,Why won't you use your domain?
+Dialogue: 0,0:17:41.67,0:17:44.58,Default,Sukuna,0,0,0,,Why won't you use your domain?
 Dialogue: 0,0:17:46.59,0:17:50.72,Default,Jogo,0,0,0,,I know I can't win in a battle of domains. {"domain tug-of-war" while it is the literal translation, something like a "domain clash" or a "domain battle" sounds more natural, and the tug-of-war imagery has already been established in 38 when dagon said it}
 Dialogue: 0,0:17:51.13,0:17:54.05,Default,Sukuna,0,0,0,,Because that's how it went with Gojo Satoru?
 Dialogue: 0,0:17:54.85,0:17:57.89,Default,Sukuna,0,0,0,,That's some peak loser energy. {That's the epitome of a loser's spirit.}
 Dialogue: 0,0:17:59.10,0:18:03.06,Default,Sukuna,0,0,0,,Though you have managed to pique my interest.
 Dialogue: 0,0:18:03.06,0:18:05.69,Default,Sukuna,0,0,0,,So I'll fight you with your own specialty.
-Dialogue: 0,0:18:05.69,0:18:09.78,Default,Sukuna,0,0,0,,■, Open. {i wanna use "Ignite" but we dont have enough info on this technique, it might be something that stores other techniques which can be "opened"}
+Dialogue: 0,0:18:05.69,0:18:09.78,Default,Sukuna,0,0,0,,{\fnArial}■{\fn}, Open. {i wanna use "Ignite" but we dont have enough info on this technique, it might be something that stores other techniques which can be "opened"} {Like the prison realm?}
 Dialogue: 0,0:18:11.78,0:18:12.95,Default,Jogo,0,0,0,,Those are...
 Dialogue: 0,0:18:14.95,0:18:16.70,Default,Jogo,0,0,0,,flames?!
 Dialogue: 0,0:18:17.70,0:18:21.96,Default,Jogo,0,0,0,,{\i1}I thought Sukuna's technique involved \Nsevering and slicing...
 Dialogue: 0,0:18:22.75,0:18:30.01,Default,Sukuna,0,0,0,,Oh? I thought it was well-known,\N but I suppose you wouldn't know, cursed spirit.
 Dialogue: 0,0:18:30.01,0:18:34.59,Default,Sukuna,0,0,0,,Don't worry. I won't do anything petty\N like revealing my technique. {good, thanks}
-Dialogue: 0,0:18:35.89,0:18:37.31,Default,Sukuna,0,0,0,,Arm yourself.
+Dialogue: 0,0:18:35.89,0:18:37.30,Default,Sukuna,0,0,0,,Arm yourself.
 Dialogue: 0,0:18:39.93,0:18:42.56,Default,Sukuna,0,0,0,,Let's settle this with a clash of fire.
 Dialogue: 0,0:19:12.84,0:19:16.51,Default,Jogo,0,0,0,,{\fade(100,0)}Forgive me, Hanami, Dagon.
 Dialogue: 0,0:19:17.43,0:19:19.60,Default,Hanami,0,0,0,,Mahito is still out there.
-Dialogue: 0,0:19:21.72,0:19:24.69,Default,Hanami,0,0,0,,Death is something humans fear and loathe.
-Dialogue: 0,0:19:25.56,0:19:29.73,Default,Hanami,0,0,0,,Yet the ones standing behind that are also humans. {what the fuck did he mean by this}
+Dialogue: 0,0:19:21.72,0:19:24.68,Default,Hanami,0,0,0,,Death is something humans fear and loathe.
+Dialogue: 0,0:19:25.56,0:19:29.73,Default,Hanami,0,0,0,,Yet the ones who stand beyond it are also humans. {what the fuck did he mean by this} {yeah i don't get it}
 Dialogue: 0,0:19:30.23,0:19:32.86,Default,Hanami,0,0,0,,Death is like a mirror for humans.
 Dialogue: 0,0:19:32.86,0:19:36.49,Default,Hanami,0,0,0,,Mahito is that mirror.
 Dialogue: 0,0:19:37.99,0:19:41.08,Default,Hanami,0,0,0,,Mahito will continue to grow stronger still.
-Dialogue: 0,0:19:41.08,0:19:45.21,Default,Hanami,0,0,0,,That's why you propped him up as the leader, right?
+Dialogue: 0,0:19:41.08,0:19:45.21,Default,Hanami,0,0,0,,That's why you propped him up as the leader.
 Dialogue: 0,0:19:46.08,0:19:51.50,Default,Jogo,0,0,0,,We won't be the same as we are now once we're reborn.
 Dialogue: 0,0:19:51.50,0:19:55.76,Default,Jogo,0,0,0,,Even so, I'll eagerly await the day we meet again.
-Dialogue: 0,0:19:56.89,0:20:00.14,Default,Jogo,0,0,0,,We are the true humans.
+Dialogue: 0,0:19:56.88,0:20:00.14,Default,Jogo,0,0,0,,We are the true humans.
 Dialogue: 0,0:20:00.14,0:20:02.18,Default,Sukuna,0,0,0,,What's this now?
 Dialogue: 0,0:20:02.85,0:20:05.35,Default,Sukuna,0,0,0,,You wanted to become human?
-Dialogue: 0,0:20:07.65,0:20:10.11,Default,Sukuna,0,0,0,,Yeah, I know what you mean.
-Dialogue: 0,0:20:10.11,0:20:14.03,Default,Sukuna,0,0,0,,It's not about becoming a human {\i1}literally{\i0},\N but more like taking their place.
-Dialogue: 0,0:20:14.03,0:20:15.65,Default,Sukuna,0,0,0,,Do I understand it right?
-Dialogue: 0,0:20:16.07,0:20:19.37,Default,Sukuna,0,0,0,,Even when I do, I find it all too absurd.
+Dialogue: 0,0:20:07.64,0:20:10.11,Default,Sukuna,0,0,0,,Yeah, I know what you mean.
+Dialogue: 0,0:20:10.11,0:20:14.03,Default,Sukuna,0,0,0,,Not in a literal sense{\i0},\N but as in taking their place.
+Dialogue: 0,0:20:14.03,0:20:15.65,Default,Sukuna,0,0,0,,Do I understand that right?
+Dialogue: 0,0:20:16.07,0:20:19.36,Default,Sukuna,0,0,0,,Even when I do, I find it all too absurd.
 Dialogue: 0,0:20:20.16,0:20:24.41,Default,Sukuna,0,0,0,,Humans flocking together. Curses flocking together.
-Dialogue: 0,0:20:24.41,0:20:30.67,Default,Sukuna,0,0,0,,You measure yourselves against each other,\N making all of you weaker and preventing growth.
-Dialogue: 0,0:20:31.17,0:20:34.26,Default,Sukuna,0,0,0,,You should have burnt everything down.
-Dialogue: 0,0:20:34.26,0:20:37.93,Default,Sukuna,0,0,0,,No calculations or plots,\N just burn whatever you wanted to. {Everything around you, without calculations or plots.}
-Dialogue: 0,0:20:37.93,0:20:43.18,Default,Sukuna,0,0,0,,Without a care for the future or identity,\N until you reached the heights of Gojo Satoru. {race?? woke cr moment} {identity? idk bout that}
+Dialogue: 0,0:20:24.41,0:20:30.67,Default,Sukuna,0,0,0,,Measuring themselves against each other\Nand collectively growing weaker.
+Dialogue: 0,0:20:31.17,0:20:34.25,Default,Sukuna,0,0,0,,You should have burnt everything down.
+Dialogue: 0,0:20:34.25,0:20:37.92,Default,Sukuna,0,0,0,,Whatever you wanted to, without calculations or plots. {Everything around you, without calculations or plots.}
+Dialogue: 0,0:20:37.92,0:20:43.18,Default,Sukuna,0,0,0,,Without a care for the future or identity,\N until you reached the heights of Gojo Satoru. {race?? woke cr moment} {identity? idk bout that}
 Dialogue: 0,0:20:43.68,0:20:49.19,Default,Sukuna,0,0,0,,That hunger to seize your ideals\N is what you were lacking.
-Dialogue: 0,0:20:50.61,0:20:54.19,Default,Jogo,0,0,0,,Perhaps you're right.
+Dialogue: 0,0:20:50.60,0:20:54.19,Default,Jogo,0,0,0,,Perhaps you're right.
 Dialogue: 0,0:20:55.36,0:20:59.20,Default,Sukuna,0,0,0,,Still, you managed to entertain me a bit.
 Dialogue: 0,0:21:01.07,0:21:04.33,Default,Sukuna,0,0,0,,Among all the humans, sorcerers, and cursed spirits,
 Dialogue: 0,0:21:04.33,0:21:08.21,Default,Sukuna,0,0,0,,you were still one of the better ones \NI fought a thousand years ago.
@@ -260,14 +260,14 @@ Dialogue: 0,0:21:38.99,0:21:40.49,Default,Sukuna,0,0,0,,Who are you?
 Dialogue: 0,0:21:41.11,0:21:46.12,Default,Uraume,0,0,0,,I've come to welcome you, Lord Sukuna{*Sukuna-sama}.
 Dialogue: 0,0:21:49.79,0:21:51.29,Default,Sukuna,0,0,0,,Uraume!
 Dialogue: 0,0:21:51.29,0:21:53.54,Default,Uraume,0,0,0,,It's a pleasure to see you again.
-Dialogue: 0,0:21:56.84,0:21:58.63,Default,Shigemo,0,0,0,,{\an8}Oh, fuck you! {not my words, cr's, and i'm just gonna leave them be}
+Dialogue: 0,0:21:57.13,0:21:58.63,Default,Shigemo,0,0,0,,Oh, fuck you! {not my words, cr's, and i'm just gonna leave them be}
 Dialogue: 0,0:21:59.59,0:22:00.63,Default,Shigemo,0,0,0,,Damn it!
-Dialogue: 0,0:22:04.18,0:22:07.02,Default,Shigemo,0,0,0,,Wake up, you piece of shit! {"shitty sorcerer" cmon you dont have to spell it out every time}
+Dialogue: 0,0:22:04.18,0:22:07.01,Default,Shigemo,0,0,0,,Wake up, you piece of shit! {"shitty sorcerer" cmon you dont have to spell it out every time}
 Comment: 0,0:22:10.02,0:22:10.06,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:40.02,0:23:40.07,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.65,0:23:43.78,Default,Yuji,0,0,0,,{\an8}I saw a bunch of Mentos and cola \Nvideos online, but is it legit? {Mentos and cola is all over the Internet\N these days, but is it legit?} {Mentos and cola videos have been \Nall over the Internet lately, but is it legit?} {Lately I see the Internet talking about Mentos and soda, but is it really true?}
 Dialogue: 0,0:23:43.78,0:23:44.40,Default,Kugisaki,0,0,0,,{\an8}Why do you ask?
-Dialogue: 0,0:23:44.40,0:23:48.03,Default,Yuji,0,0,0,,{\an8}Pretty sure I happened to eat a Mentos \Nwhile drinking cola at least once when I was kid.
+Dialogue: 0,0:23:44.40,0:23:48.03,Default,Yuji,0,0,0,,{\an8}Pretty sure I happened to eat a Mentos \Nwhile drinking cola at least once when I was a kid.
 Dialogue: 0,0:23:48.03,0:23:50.41,Default,Yuji,0,0,0,,{\an8}The fact that I don't even remember \Nit means those videos must be fake!
 Dialogue: 0,0:23:50.41,0:23:51.24,Default,Kugisaki,0,0,0,,{\an8}Alright! Eat this!
 Dialogue: 0,0:23:51.24,0:23:52.41,Default,Yuji,0,0,0,,{\an8}Next time, Thunderclap, Part 2.
