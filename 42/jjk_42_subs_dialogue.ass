@@ -18,9 +18,12 @@ YCbCr Matrix: TV.709
 [Aegisub Project Garbage]
 Audio File: jjk_42_premux.mkv
 Video File: jjk_42_premux.mkv
+Keyframes File: jjk_42_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Video Position: 2494
+Video Zoom Percent: 0.750000
+Scroll Position: 37
+Active Line: 40
+Video Position: 7849
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,195 +34,178 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.57,0:00:04.26,Default,Yuji,0,0,0,,{\i1}I'm still wondering why I have to be executed.
-Dialogue: 0,0:00:04.26,0:00:06.49,Default,Sukuna,0,0,0,,{\i1}It's your fault!
-Dialogue: 0,0:00:06.49,0:00:08.66,Default,Yuji,0,0,0,,{\i1}I don't want to regret the way I lived!
-Dialogue: 0,0:00:08.66,0:00:13.74,Default,Fushiguro,0,0,0,,{\i1}But what are you going to do when someone you saved kills someone else in the future?
-Dialogue: 0,0:00:14.10,0:00:17.37,Default,Grandpa,0,0,0,,{\i1}When you die, you should be surrounded by people.
-Dialogue: 0,0:00:17.37,0:00:21.10,Default,Gojo,0,0,0,,{\i1}It's been decided that you'll be secretly executed.
-Dialogue: 0,0:00:21.10,0:00:24.52,Default,Yuji,0,0,0,,{\i1}I've already decided how I'm going to die.
-Dialogue: 0,0:00:25.37,0:00:30.92,Default,Yoshino,0,0,0,,{\i1}That would mean people cursed me and my mom with those hearts!
-Dialogue: 0,0:00:30.92,0:00:32.76,Default,Yuji,0,0,0,,{\i1}What is a proper death?
-Dialogue: 0,0:00:33.94,0:00:36.65,Default,Yuji,0,0,0,,{\i1}The value of life would become ambiguous...
-Dialogue: 0,0:00:37.01,0:00:40.21,Default,Yuji,0,0,0,,{\i1}I wouldn't even understand the importance of those I care about anymore.
-Dialogue: 0,0:00:40.78,0:00:42.27,Default,Yuji,0,0,0,,{\i1}And that scares me.
-Dialogue: 0,0:00:43.01,0:00:45.26,Default,Sukuna,0,0,0,,{\i1}It's your fault!
-Dialogue: 0,0:00:45.26,0:00:48.70,Default,Grandpa,0,0,0,,{\i1}When you die, you should be surrounded by people.
-Dialogue: 0,0:00:48.70,0:00:50.71,Default,Grandpa,0,0,0,,{\i1}Help others.
-Dialogue: 0,0:00:50.71,0:00:53.03,Default,Yuuji,0,0,0,,{\i1}Guess I can't afford to die now.
-Dialogue: 0,0:00:53.81,0:00:58.86,Default,Fushiguro,0,0,0,,{\i1}So I've never once regretted saving you.
-Dialogue: 0,0:00:58.86,0:01:01.26,Default,Kugisaki,0,0,0,,{\i1}We're accomplices.
-Dialogue: 0,0:01:01.26,0:01:02.62,Default,Yuji,0,0,0,,{\i1}I won't...
-Dialogue: 0,0:01:03.21,0:01:04.26,Default,Yuji,0,0,0,,{\i1}lose again.
-Dialogue: 0,0:01:04.85,0:01:07.04,Default,Yuji,0,0,0,,{\i1}Then I'm gonna win.
-Dialogue: 0,0:01:07.04,0:01:08.69,Default,Choso,0,0,0,,{\i1}Apologize...
-Dialogue: 0,0:01:08.69,0:01:10.81,Default,Choso,0,0,0,,{\i1}to my brothers in the afterlife!
-Dialogue: 0,0:01:10.81,0:01:13.06,Default,Grandpa,0,0,0,,{\i1}You're a strong kid, so help others.
-Dialogue: 0,0:01:13.06,0:01:16.03,Default,Nanami,0,0,0,,{\i1}Are you ready to witness it, Itadori{**-kun}?
-Dialogue: 0,0:01:16.03,0:01:18.64,Default,Yuji,0,0,0,,{\i1}People die. There's no stopping that.
-Dialogue: 0,0:01:18.64,0:01:21.24,Default,Yuji,0,0,0,,{\i1}So I wanted them to at least have proper deaths.
-Dialogue: 0,0:01:21.24,0:01:26.00,Default,Yaga,0,0,0,,{\i1}Are you going to blame your grandfather when you're killed by a curse, too?
-Dialogue: 0,0:01:26.00,0:01:29.91,Default,Yuji,0,0,0,,{\i1}...and have lots of them watching over me when I die.
-Dialogue: 0,0:01:30.25,0:01:33.76,Default,Yuji,0,0,0,,{\i1}But tears were shed over the lives I ended tonight.
-Dialogue: 0,0:01:33.76,0:01:36.74,Default,Sukuna,0,0,0,,{\i1}People are going to die because you live!
+Dialogue: 0,0:00:01.69,0:00:04.44,Default,Yuji,0,0,0,,{\an8\i1}I still don't get why the heck I have to be executed.
+Dialogue: 0,0:00:04.44,0:00:06.61,Default,Sukuna,0,0,0,,{\an8\i1}It's all your fault!
+Dialogue: 0,0:00:06.61,0:00:08.82,Default,Yuji,0,0,0,,{\an8\i1}I'm not gonna regret the way I live!
+Dialogue: 0,0:00:08.82,0:00:14.24,Default,Fushiguro,0,0,0,,{\an8\i1}But what will you do when someone you saved today kills someone else in the future?
+Dialogue: 0,0:00:14.24,0:00:17.54,Default,Grandpa,0,0,0,,{\an8\i1}When it's your time to go, \Nmake sure you're surrounded by people.
+Dialogue: 0,0:00:17.54,0:00:21.33,Default,Gojo,0,0,0,,{\an8\i1}It's been decided that \Nyou are to be executed in secret.
+Dialogue: 0,0:00:21.33,0:00:25.00,Default,Yuji,0,0,0,,{\an8\i1}I'm gonna die either way, right?
+Dialogue: 0,0:00:25.51,0:00:31.26,Default,Yoshino,0,0,0,,{\an8\i1}That would mean people cursed me and my mom {\i0}with{\i1} those hearts!
+Dialogue: 0,0:00:31.26,0:00:33.22,Default,Yuji,0,0,0,,{\an8\i1}What {\i0}is{\i1} a proper death?
+Dialogue: 0,0:00:34.06,0:00:37.01,Default,Yuji,0,0,0,,{\an8\i1}The value of life would become vague.
+Dialogue: 0,0:00:37.01,0:00:40.21,Default,Yuji,0,0,0,,{\an8\i1}I might even forget the \Nimportance of those I care about.
+Dialogue: 0,0:00:40.94,0:00:42.44,Default,Yuji,0,0,0,,{\an8\i1}And that scares me.
+Dialogue: 0,0:00:43.31,0:00:45.40,Default,Sukuna,0,0,0,,{\an8\i1}It's all your fault!
+Dialogue: 0,0:00:45.40,0:00:48.99,Default,Grandpa,0,0,0,,{\an8\i1}When it's your time to go, \Nmake sure you're surrounded by people.
+Dialogue: 0,0:00:48.99,0:00:50.91,Default,Grandpa,0,0,0,,{\an8\i1}Help people. {"people" here "others" after the next few lines...}
+Dialogue: 0,0:00:50.91,0:00:53.03,Default,Yuuji,0,0,0,,{\an8\i1}Can't afford to die now, I guess.
+Dialogue: 0,0:00:53.99,0:00:59.08,Default,Fushiguro,0,0,0,,{\an8\i1}That's why I've never once regretted saving you.
+Dialogue: 0,0:00:59.08,0:01:01.37,Default,Kugisaki,0,0,0,,{\an8\i1}I guess that makes us accomplices.
+Dialogue: 0,0:01:01.37,0:01:04.42,Default,Yuji,0,0,0,,{\an8\i1}I won't lose to anything.
+Dialogue: 0,0:01:05.09,0:01:07.21,Default,Yuji,0,0,0,,{\an8\i1}I'm gonna win. {NAH, I'D WIN}
+Dialogue: 0,0:01:07.21,0:01:10.81,Default,Choso,0,0,0,,{\an8\i1}When you're on the other side,\Nmake sure you apologize to my brothers!
+Dialogue: 0,0:01:10.81,0:01:13.18,Default,Grandpa,0,0,0,,{\an8\i1}You're a strong kid, so help people. {this is literally the most repeated line in the series how is cr so inconsistent with this it's like the 3rd variation i'm seeing which is what we use}
+Dialogue: 0,0:01:13.18,0:01:16.22,Default,Nanami,0,0,0,,{\an8\i1}Are you sure you're ready, Itadori{**-kun}?
+Dialogue: 0,0:01:16.22,0:01:21.48,Default,Yuji,0,0,0,,{\an8\i1}People die and there's no avoiding it,\N but they should at least have a proper death.
+Dialogue: 0,0:01:21.48,0:01:26.15,Default,Yaga,0,0,0,,{\an8\i1}Is it going to be your grandfather's fault \Nwhen you get killed by a curse?
+Dialogue: 0,0:01:26.15,0:01:29.90,Default,Yuji,0,0,0,,{\an8\i1}And when I die, I want them to watch over me. {...and have lots of them watching over me when I die.}
+Dialogue: 0,0:01:30.45,0:01:33.78,Default,Yuji,0,0,0,,{\an8\i1}Tears were shed among the lives I ended tonight.
+Dialogue: 0,0:01:33.78,0:01:36.87,Default,Sukuna,0,0,0,,{\an8\i1}People will die because you live!
 Comment: 0,0:01:44.00,0:01:44.04,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:03:13.97,0:03:14.01,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:04:54.08,0:04:56.03,Default,Nanami,0,0,0,,Malaysia...
-Dialogue: 0,0:04:57.56,0:04:59.24,Default,Nanami,0,0,0,,Yeah...
-Dialogue: 0,0:04:59.24,0:05:01.07,Default,Nanami,0,0,0,,Malaysia...
-Dialogue: 0,0:05:01.57,0:05:03.32,Default,Nanami,0,0,0,,Kuantan would be nice.
-Dialogue: 0,0:05:03.91,0:05:07.17,Default,Nanami,0,0,0,,{\i1}I'll build a home on a secluded beach.
-Dialogue: 0,0:05:07.66,0:05:11.30,Default,Nanami,0,0,0,,{\i1}I already have a mountain of books that I've bought and never touched.
-Dialogue: 0,0:05:12.02,0:05:14.00,Default,Nanami,0,0,0,,{\i1}I'll read through them page by page,
-Dialogue: 0,0:05:14.47,0:05:17.99,Default,Nanami,0,0,0,,{\i1}like I'm taking back all the time I've lost.
-Dialogue: 0,0:05:18.83,0:05:20.39,Default,Nanami,0,0,0,,{\i1}No.
-Dialogue: 0,0:05:20.39,0:05:24.38,Default,Nanami,0,0,0,,{\i1}Right now, I'm going to save Fushiguro{**-kun}...
-Dialogue: 0,0:05:25.08,0:05:26.73,Default,Nanami,0,0,0,,{\i1}And Maki{**-san}?
-Dialogue: 0,0:05:27.08,0:05:28.84,Default,Nanami,0,0,0,,{\i1}What about Naobito{**-san}?
-Dialogue: 0,0:05:29.12,0:05:31.04,Default,Nanami,0,0,0,,{\i1}What happened to those two?
-Dialogue: 0,0:05:34.80,0:05:37.12,Default,Nanami,0,0,0,,{\i1}I'm tired.
-Dialogue: 0,0:05:37.12,0:05:38.89,Default,Nanami,0,0,0,,{\i1}Exhausted, even.
-Dialogue: 0,0:05:39.46,0:05:41.61,Default,Nanami,0,0,0,,{\i1}Yeah, I'm exhausted.
-Dialogue: 0,0:05:44.53,0:05:47.27,Default,Nanami,0,0,0,,{\i1}I've already done enough.
-Dialogue: 0,0:08:10.00,0:08:11.87,Default,Nanami,0,0,0,,You're here?
-Dialogue: 0,0:08:14.12,0:08:17.70,Default,Mahito,0,0,0,,I've been here. The whole time.
-Dialogue: 0,0:08:26.50,0:08:28.41,Default,Nanami,0,0,0,,You're here?
-Dialogue: 0,0:08:29.84,0:08:32.63,Default,Mahito,0,0,0,,I've been here. The whole time.
-Dialogue: 0,0:08:32.97,0:08:35.00,Default,Mahito,0,0,0,,Shall we chat for a bit?
-Dialogue: 0,0:08:35.71,0:08:38.63,Default,Mahito,0,0,0,,You and I have gone at it a few times, after all.
-Dialogue: 0,0:08:45.97,0:08:52.07,Default,Nanami,0,0,0,,{\i1}Haibara, what was I even hoping to accomplish in the end?
-Dialogue: 0,0:08:52.07,0:08:53.64,Default,Nanami,0,0,0,,{\i1}I ran.
-Dialogue: 0,0:08:54.27,0:08:59.10,Default,Nanami,0,0,0,,{\i1}I ran away, and yet I came back over some vague reason like a job worth doing.
-Dialogue: 0,0:09:07.67,0:09:09.21,Default,Nanami,0,0,0,,{\i1}I can't.
-Dialogue: 0,0:09:10.21,0:09:11.83,Default,Nanami,0,0,0,,{\i1}That's wrong.
-Dialogue: 0,0:09:18.21,0:09:20.40,Default,Nanami,0,0,0,,{\i1}I can't, Haibara.
-Dialogue: 0,0:09:22.84,0:09:24.78,Default,Nanami,0,0,0,,{\i1}I can't say that.
-Dialogue: 0,0:09:24.78,0:09:27.75,Default,Nanami,0,0,0,,{\i1}It'll just become a curse upon him.
-Dialogue: 0,0:09:32.65,0:09:33.88,Default,Yuji,0,0,0,,Nanamin...
-Dialogue: 0,0:09:46.48,0:09:47.82,Default,Nanami,0,0,0,,{\i1}I shouldn't.
-Dialogue: 0,0:09:52.10,0:09:53.20,Default,Nanami,0,0,0,,{\i1}I sh{\fscx180}—{\fscx}
-Dialogue: 0,0:10:01.31,0:10:02.85,Default,Nanami,0,0,0,,Itadori{**-kun}.
-Dialogue: 0,0:10:19.68,0:10:21.61,Default,Nanami,0,0,0,,You take it from here.
-Dialogue: 0,0:10:47.32,0:10:48.19,Default,Yuji,0,0,0,,Wha{\fscx180}—{\fscx}
-Dialogue: 0,0:10:51.68,0:10:53.30,Default,Yuji,0,0,0,,What the hell...
+Dialogue: 0,0:04:54.19,0:04:56.07,Default,Nanami,0,0,0,,Malaysia...
+Dialogue: 0,0:04:57.69,0:05:01.07,Default,Nanami,0,0,0,,Yeah, Malaysia...
+Dialogue: 0,0:05:01.74,0:05:03.32,Default,Nanami,0,0,0,,Kuantan would be nice.
+Dialogue: 0,0:05:04.12,0:05:07.20,Default,Nanami,0,0,0,,{\i1}I'll build a house on a secluded beach.
+Dialogue: 0,0:05:07.91,0:05:11.46,Default,Nanami,0,0,0,,{\i1}I already have a mountain of books\N that I've bought and never touched.\h\h
+Dialogue: 0,0:05:12.21,0:05:14.67,Default,Nanami,0,0,0,,{\i1}I'll read through them page by page,
+Dialogue: 0,0:05:14.67,0:05:18.13,Default,Nanami,0,0,0,,{\i1}like I'm taking back all the time I've lost.
+Dialogue: 0,0:05:19.26,0:05:20.59,Default,Nanami,0,0,0,,{\i1}No.
+Dialogue: 0,0:05:20.59,0:05:24.43,Default,Nanami,0,0,0,,{\i1}Right now, I'm heading over to save Fushiguro{**-kun}...
+Dialogue: 0,0:05:25.18,0:05:26.68,Default,Nanami,0,0,0,,{\i1}And Maki{**-san}?
+Dialogue: 0,0:05:27.35,0:05:28.89,Default,Nanami,0,0,0,,{\i1}What about Naobito{**-san}?
+Dialogue: 0,0:05:29.35,0:05:31.35,Default,Nanami,0,0,0,,{\i1}What happened to those two?
+Dialogue: 0,0:05:34.98,0:05:37.32,Default,Nanami,0,0,0,,{\i1}I'm tired.
+Dialogue: 0,0:05:37.32,0:05:38.89,Default,Nanami,0,0,0,,{\i1}Exhausted, even.
+Dialogue: 0,0:05:39.65,0:05:41.61,Default,Nanami,0,0,0,,{\i1}Yeah, I'm exhausted.
+Dialogue: 0,0:05:44.62,0:05:47.24,Default,Nanami,0,0,0,,{\i1}I've done enough already.
+Dialogue: 0,0:08:10.22,0:08:11.87,Default,Nanami,0,0,0,,You're here?
+Dialogue: 0,0:08:14.31,0:08:17.69,Default,Mahito,0,0,0,,Yup, the whole time. {always have been}
+Dialogue: 0,0:08:26.74,0:08:28.41,Default,Nanami,0,0,0,,You're here?
+Dialogue: 0,0:08:30.03,0:08:32.66,Default,Mahito,0,0,0,,Yup, the whole time. {always have been}
+Dialogue: 0,0:08:33.20,0:08:35.49,Default,Mahito,0,0,0,,Wanna chat for a bit?
+Dialogue: 0,0:08:35.95,0:08:38.63,Default,Mahito,0,0,0,,We've got history, after all. {You and I have gone at it a few times}
+Dialogue: 0,0:08:46.21,0:08:51.76,Default,Nanami,0,0,0,,{\pos(975,1020)\i1}Haibara, what was it all for in the end? {what was i trying to accomplish}
+Dialogue: 0,0:08:52.26,0:08:53.60,Default,Nanami,0,0,0,,{\pos(975,1020)\i1}I ran.
+Dialogue: 0,0:08:54.47,0:08:59.14,Default,Nanami,0,0,0,,{\pos(970,1020)\i1}I ran away, and yet I came back over some\N vague reason like finding the job worth doing.
+Dialogue: 0,0:09:07.86,0:09:09.24,Default,Nanami,0,0,0,,{\i1}I can't.
+Dialogue: 0,0:09:10.40,0:09:11.95,Default,Nanami,0,0,0,,{\i1}That won't be right. {they translated the title as right and wrong and didn't use the words when they had the chance smh smh}
+Dialogue: 0,0:09:18.41,0:09:20.50,Default,Nanami,0,0,0,,{\i1}I can't, Haibara.
+Dialogue: 0,0:09:23.00,0:09:24.92,Default,Nanami,0,0,0,,{\i1}I can't say that to him.
+Dialogue: 0,0:09:24.92,0:09:27.88,Default,Nanami,0,0,0,,{\i1}It'll just end up becoming a curse for him. {become a curse upon him}
+Dialogue: 0,0:09:32.80,0:09:34.01,Default,Yuji,0,0,0,,Nanamin...
+Dialogue: 0,0:09:46.65,0:09:47.82,Default,Nanami,0,0,0,,{\i1}I shouldn't.
+Dialogue: 0,0:09:52.28,0:09:53.16,Default,Nanami,0,0,0,,{\i1}I sh{\fscx180}—{\fscx}
+Dialogue: 0,0:10:01.46,0:10:02.85,Default,Nanami,0,0,0,,Itadori{**-kun}.
+Dialogue: 0,0:10:19.85,0:10:21.64,Default,Nanami,0,0,0,,You've got it from here. {You take it from here.} {cr's translation might just be the more accurate one but it lacks the sort of encouraging tone and sounds very selfish... which idk might have been the point but that would be so out of character for nanami}
+Dialogue: 0,0:10:47.50,0:10:48.38,Default,Yuji,0,0,0,,Wh...
+Dialogue: 0,0:10:51.80,0:10:53.38,Default,Yuji,0,0,0,,What the hell...
 Dialogue: 0,0:10:55.88,0:11:00.01,Default,Yuji,0,0,0,,What the hell are you, Mahito?!
-Dialogue: 0,0:11:00.01,0:11:03.37,Default,Mahito,0,0,0,,You don't have to shout! I can hear you!
-Dialogue: 0,0:11:03.37,0:11:05.88,Default,Mahito,0,0,0,,Itadori Yuji!
-Dialogue: 0,0:11:20.49,0:11:22.54,Default,Human,0,0,0,,Save me!
-Dialogue: 0,0:11:28.16,0:11:29.86,Default,Human,0,0,0,,Save me!
-Dialogue: 0,0:11:31.17,0:11:33.42,Default,Human,0,0,0,,Save me!
+Dialogue: 0,0:11:00.01,0:11:03.52,Default,Mahito,0,0,0,,I can hear you just fine without you yelling!
+Dialogue: 0,0:11:03.52,0:11:05.52,Default,Mahito,0,0,0,,Itadori Yuji!
+Dialogue: 0,0:11:20.70,0:11:22.33,Cursed,Human,0,0,0,,Save me!
+Dialogue: 0,0:11:28.16,0:11:29.86,Cursed,Human,0,0,0,,Save me!
+Dialogue: 0,0:11:31.59,0:11:33.42,Cursed,Human,0,0,0,,Save me!
 Dialogue: 0,0:11:37.92,0:11:39.42,Default,Mahito,0,0,0,,Soul Multiplicity!
-Dialogue: 0,0:11:40.77,0:11:42.09,Default,Mahito,0,0,0,,Body Repel!
-Dialogue: 0,0:12:15.32,0:12:17.65,Default,Mahito,0,0,0,,If only I'd used a little more force,
-Dialogue: 0,0:12:17.65,0:12:20.04,Default,Mahito,0,0,0,,I could've stabbed through your face.
-Dialogue: 0,0:12:23.60,0:12:26.88,Default,Yuji,0,0,0,,How can you possibly
-Dialogue: 0,0:12:26.88,0:12:29.16,Default,Yuji,0,0,0,,toy with countless
-Dialogue: 0,0:12:29.16,0:12:32.73,Default,Yuji,0,0,0,,people's lives over and over?!
-Dialogue: 0,0:12:37.68,0:12:41.94,Default,Mahito,0,0,0,,Would you be satisfied if I counted each one off my fingers with a look of regret?
-Dialogue: 0,0:12:42.58,0:12:44.27,Default,Mahito,0,0,0,,I'll start doing that with the next one.
-Dialogue: 0,0:12:45.27,0:12:49.80,Default,Mahito,0,0,0,,I'll grant you a simple answer since you're such a simple guy.
-Dialogue: 0,0:12:50.79,0:12:52.60,Default,Mahito,0,0,0,,Itadori Yuji.
-Dialogue: 0,0:12:55.20,0:12:57.64,Default,Junpei,0,0,0,,Help me!
-Dialogue: 0,0:13:00.59,0:13:02.49,Default,Mahito,0,0,0,,You are me.
-Dialogue: 0,0:13:03.64,0:13:05.02,Default,Yuji,0,0,0,,Huh?!
-Dialogue: 0,0:13:05.02,0:13:07.31,Default,Mahito,0,0,0,,Quit snapping at everything.
-Dialogue: 0,0:13:07.31,0:13:09.43,Default,Mahito,0,0,0,,It's just a curse's nonsense, right?
-Dialogue: 0,0:13:13.28,0:13:14.54,Default,Mahito,0,0,0,,However,
-Dialogue: 0,0:13:15.44,0:13:17.99,Default,Mahito,0,0,0,,until you're willing to accept that,
-Dialogue: 0,0:13:21.34,0:13:23.45,Default,Mahito,0,0,0,,you can't beat me.
-Dialogue: 0,0:13:23.88,0:13:25.69,Default,Yuji,0,0,0,,On and on...
-Dialogue: 0,0:13:25.95,0:13:27.88,Default,Yuji,0,0,0,,You talk a lot.
-Dialogue: 0,0:13:27.88,0:13:29.35,Default,Yuji,0,0,0,,Those your dying words?
-Dialogue: 0,0:13:30.31,0:13:32.30,Default,Nanami,0,0,0,,{\i1}You take it from here.
-Dialogue: 0,0:13:33.71,0:13:38.18,Default,Yuji,0,0,0,,{\i1}Nanamin would never make the mistake of losing himself to anger.
-Dialogue: 0,0:13:39.11,0:13:40.85,Default,Yuji,0,0,0,,{\i1}Prove it.
-Dialogue: 0,0:13:41.30,0:13:42.46,Default,Nanami,0,0,0,,{\i1}You are...
-Dialogue: 0,0:13:41.30,0:13:42.46,Default,Yuji,0,0,0,,I am...
-Dialogue: 0,0:13:46.08,0:13:47.67,Default,Both,0,0,0,,...a jujutsu sorcerer.
-Dialogue: 0,0:15:44.50,0:15:47.00,Default,Mahito,0,0,0,,Nice. Let's keep going.
-Dialogue: 0,0:15:49.50,0:15:52.01,Default,Mahito,0,0,0,,Time for round two!
-Comment: 0,0:15:52.02,0:15:52.06,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:18:12.37,0:18:13.56,Default,Mahito,0,0,0,,Too close!
-Dialogue: 0,0:18:13.98,0:18:17.11,Default,Mahito,0,0,0,,{\i1}If I pick the wrong moments to take risks, I'll die.
-Dialogue: 0,0:18:17.11,0:18:20.24,Default,Mahito,0,0,0,,{\i1}I guess I'll attack mostly with transfigured humans for a while.
-Dialogue: 0,0:18:20.24,0:18:21.78,Default,Mahito,0,0,0,,Oh, how scary.
-Dialogue: 0,0:18:22.10,0:18:24.29,Default,Yuji,0,0,0,,{\i1}He has even more tricks than before.
-Dialogue: 0,0:18:33.33,0:18:34.34,Default,YouthA,0,0,0,,A kid?!
-Dialogue: 0,0:18:34.34,0:18:36.34,Default,YouthB,0,0,0,,Hey! Over here!
-Dialogue: 0,0:18:36.34,0:18:39.04,Default,YouthB,0,0,0,,It's dangerous and full of monsters over there!
-Dialogue: 0,0:18:39.04,0:18:41.04,Default,Yuji,0,0,0,,{\i1}It's...
-Dialogue: 0,0:18:41.04,0:18:42.38,Default,Yuji,0,0,0,,{\i1}upstairs?!
-Dialogue: 0,0:18:44.00,0:18:45.11,Default,Yuji,0,0,0,,Sorry.
-Dialogue: 0,0:18:45.47,0:18:49.06,Default,Yuji,0,0,0,,There's no safe place in Shibuya right now, so get as far away as you{\fscx180}—{\fscx}
-Dialogue: 0,0:18:51.57,0:18:54.06,Default,Yuji,0,0,0,,{\i1}Shit! That bastard!
-Dialogue: 0,0:19:03.08,0:19:04.79,Default,Mahito,0,0,0,,Come on now.
-Dialogue: 0,0:19:04.79,0:19:05.74,Default,YouthA,0,0,0,,Huh?
-Dialogue: 0,0:19:06.74,0:19:09.76,Default,Mahito,0,0,0,,Are you sure your imagination isn't stunted?
-Dialogue: 0,0:19:10.11,0:19:10.75,Default,Yuji,0,0,0,,Stop it!
-Dialogue: 0,0:19:11.01,0:19:12.51,Default,Mahito,0,0,0,,Are you an idiot?
-Dialogue: 0,0:19:12.51,0:19:14.40,Default,Mahito,0,0,0,,That all depends on you.
-Dialogue: 0,0:19:14.94,0:19:18.72,Default,Mahito,0,0,0,,{\i1}This is the most effective tool against Itadori's mental state.
-Dialogue: 0,0:19:18.72,0:19:20.20,Default,Mahito,0,0,0,,{\i1}Plus...
-Dialogue: 0,0:19:20.20,0:19:24.76,Default,Mahito,0,0,0,,{\i1}We have one more card for insurance.
-Dialogue: 0,0:19:25.52,0:19:26.12,Default,People,0,0,0,,Huh?!
-Dialogue: 0,0:19:26.12,0:19:27.22,Default,People,0,0,0,,What?!
-Dialogue: 0,0:19:27.22,0:19:28.52,Default,People,0,0,0,,Hey!
-Dialogue: 0,0:19:28.88,0:19:30.80,Default,Mahito,0,0,0,,Yeah, drink, drink, drink them up!
-Dialogue: 0,0:19:30.80,0:19:32.23,Default,Mahito,0,0,0,,Drink, drink, drink them up!
-Dialogue: 0,0:19:32.23,0:19:33.72,Default,Mahito,0,0,0,,Drink, drink, drink them up!
-Dialogue: 0,0:19:33.72,0:19:34.92,Default,Mahito,0,0,0,,Drink away!
-Dialogue: 0,0:19:36.96,0:19:38.14,Default,Mahito,0,0,0,,{\an8}Yay!
-Dialogue: 0,0:19:38.14,0:19:40.22,Default,Mahito,0,0,0,,{\an8}I have plenty stocked up already,
-Dialogue: 0,0:19:40.22,0:19:42.90,Default,Mahito,0,0,0,,{\an8}so you can do whatever you want with the people on floor B5.
-Dialogue: 0,0:19:42.90,0:19:46.05,Default,Mahito,0,0,0,,Okay, time to recommence the "Let's Kill Itadori" show!
-Dialogue: 0,0:19:46.05,0:19:47.63,Default,Dagon,0,0,0,,Burp!
+Dialogue: 0,0:11:40.93,0:11:42.14,Default,Mahito,0,0,0,,Body Repel!
+Dialogue: 0,0:12:15.51,0:12:17.76,Default,Mahito,0,0,0,,If only I'd used a little more force,
+Dialogue: 0,0:12:17.76,0:12:20.04,Default,Mahito,0,0,0,,I could've stabbed through your face.
+Dialogue: 0,0:12:23.85,0:12:27.06,Default,Yuji,0,0,0,,How can you possibly... with so many...
+Dialogue: 0,0:12:27.06,0:12:29.31,Default,Yuji,0,0,0,,over and over...
+Dialogue: 0,0:12:29.31,0:12:32.77,Default,Yuji,0,0,0,,How can you toy with so many lives?!
+Dialogue: 0,0:12:37.90,0:12:41.99,Default,Mahito,0,0,0,,Would you be satisfied if I counted each one\N off my fingers with a look of regret?
+Dialogue: 0,0:12:42.57,0:12:44.27,Default,Mahito,0,0,0,,I'll be sure to do that next time, okay?
+Dialogue: 0,0:12:45.49,0:12:50.17,Default,Mahito,0,0,0,,I'll grant you a simple answer since you're such a simple guy.
+Dialogue: 0,0:12:51.00,0:12:52.60,Default,Mahito,0,0,0,,Itadori Yuji.
+Dialogue: 0,0:12:55.42,0:12:57.17,Default,Junpei,0,0,0,,Help me!
+Dialogue: 0,0:13:00.76,0:13:02.55,Default,Mahito,0,0,0,,You are me.
+Comment: 0,0:13:03.85,0:13:05.18,Default,Yuji,0,0,0,,What?!
+Dialogue: 0,0:13:05.18,0:13:07.47,Default,Mahito,0,0,0,,Quit snapping at everything.
+Dialogue: 0,0:13:07.47,0:13:09.43,Default,Mahito,0,0,0,,It's just a curse talking nonsense!
+Dialogue: 0,0:13:13.44,0:13:14.61,Default,Mahito,0,0,0,,However,
+Dialogue: 0,0:13:15.82,0:13:17.99,Default,Mahito,0,0,0,,until you're willing to accept that,
+Dialogue: 0,0:13:21.36,0:13:23.45,Default,Mahito,0,0,0,,you can't beat me.
+Dialogue: 0,0:13:24.16,0:13:27.95,Default,Yuji,0,0,0,,You don't stop yapping, do you? {yap technique}
+Dialogue: 0,0:13:27.95,0:13:29.41,Default,Yuji,0,0,0,,Those your dying words?
+Dialogue: 0,0:13:30.50,0:13:32.30,Default,Nanami,0,0,0,,{\an8\i1}You've got it from here.
+Dialogue: 0,0:13:33.75,0:13:38.18,Default,Yuji,0,0,0,,{\i1}Nanamin would never make\N the mistake of losing himself to anger.
+Dialogue: 0,0:13:39.34,0:13:40.85,Default,Yuji,0,0,0,,{\i1}Prove it.
+Dialogue: 0,0:13:41.43,0:13:42.46,Default,Nanami,0,0,0,,{\an8\i1}You are...
+Dialogue: 0,0:13:41.43,0:13:42.46,Default,Yuji,0,0,0,,{\i1}I am...
+Dialogue: 0,0:13:46.26,0:13:47.72,Default,Both,0,0,0,,{\an8\i1}...a jujutsu sorcerer.
+Dialogue: 0,0:13:46.26,0:13:47.72,Default,Both,0,0,0,,{\i1}...a jujutsu sorcerer.
+Dialogue: 0,0:15:44.50,0:15:47.00,Default,Mahito,0,0,0,,Not bad. Let's keep going.
+Dialogue: 0,0:15:49.80,0:15:52.01,Default,Mahito,0,0,0,,Time for round two!
+Comment: 0,0:15:52.01,0:15:52.06,Default,chptr,0,0,0,,{Part B}
+Dialogue: 0,0:18:12.49,0:18:13.56,Default,Mahito,0,0,0,,Too close!
+Dialogue: 0,0:18:13.98,0:18:17.11,Default,Mahito,0,0,0,,{\i1}If I take risks at the wrong moments,\N I'll end up dead.
+Dialogue: 0,0:18:17.11,0:18:20.41,Default,Mahito,0,0,0,,{\i1}I guess I'll stick to using\N transfigured humans for now.
+Dialogue: 0,0:18:20.41,0:18:21.78,Default,Mahito,0,0,0,,Oh, how scary.
+Dialogue: 0,0:18:22.16,0:18:24.29,Default,Yuji,0,0,0,,{\i1}He has even more tricks than before.
+Dialogue: 0,0:18:33.43,0:18:34.51,Default,YouthA,0,0,0,,A kid?!
+Dialogue: 0,0:18:34.51,0:18:36.51,Default,YouthB,0,0,0,,Hey, come this way!
+Dialogue: 0,0:18:36.51,0:18:39.04,Default,YouthB,0,0,0,,It's dangerous over there with all those monsters!
+Dialogue: 0,0:18:39.43,0:18:42.38,Default,Yuji,0,0,0,,{\i1}Did he escape upstairs?!
+Dialogue: 0,0:18:44.19,0:18:48.40,Default,Yuji,0,0,0,,Sorry, but there's no safe place in Shibuya right now.
+Dialogue: 0,0:18:48.40,0:18:49.06,Default,Yuji,0,0,0,,Try to get as far{\fscx180}—{\fscx}
+Dialogue: 0,0:18:51.57,0:18:54.06,Default,Yuji,0,0,0,,{\i1}Dammit! That bastard!
+Dialogue: 0,0:19:03.25,0:19:05.08,Default,Mahito,0,0,0,,Come on now.
+Comment: 0,0:19:05.08,0:19:05.74,Default,YouthA,0,0,0,,Huh?
+Dialogue: 0,0:19:07.33,0:19:09.76,Default,Mahito,0,0,0,,Are you sure your imagination isn't stunted? {...you lack imagination}
+Dialogue: 0,0:19:10.17,0:19:10.75,Default,Yuji,0,0,0,,Stop it!
+Dialogue: 0,0:19:11.21,0:19:14.76,Default,Mahito,0,0,0,,Are you stupid? That's your job. {That's what you're supposed to do.}
+Dialogue: 0,0:19:15.09,0:19:18.85,Default,Mahito,0,0,0,,{\i1}This is the most effective tool \Nfor breaking Itadori's resolve.\h
+Dialogue: 0,0:19:18.85,0:19:25.06,Default,Mahito,0,0,0,,{\i1}And just for good measure,\N we'll add one more card to the play.
+Dialogue: 0,0:19:26.65,0:19:27.40,Default,People,0,0,0,,What's happening?!
+Dialogue: 0,0:19:27.40,0:19:28.15,Default,People,0,0,0,,Wait a minute!
+Dialogue: 0,0:19:29.06,0:19:30.80,Default,Mahito,0,0,0,,Yeah, drink 'em, drink 'em, drink 'em!
+Dialogue: 0,0:19:30.80,0:19:32.23,Default,Mahito,0,0,0,,Drink 'em, drink 'em, drink 'em!
+Dialogue: 0,0:19:32.23,0:19:33.86,Default,Mahito,0,0,0,,Drink 'em, drink 'em, drink 'em!
+Dialogue: 0,0:19:33.86,0:19:34.92,Default,Mahito,0,0,0,,Drink 'em up!
+Dialogue: 0,0:19:36.96,0:19:38.28,Default,Mahito,0,0,0,,{\an8}Yay!
+Dialogue: 0,0:19:38.28,0:19:40.33,Default,Mahito,0,0,0,,{\an8}I have plenty stocked up already,
+Dialogue: 0,0:19:40.33,0:19:43.04,Default,Mahito,0,0,0,,{\an8}so you can do whatever you want\N with the humans on B5.
+Dialogue: 0,0:19:43.04,0:19:46.21,Default,Mahito,0,0,0,,{\an8}All right, time to recommence the "Let's Kill Itadori" show!
+Dialogue: 0,0:19:46.21,0:19:47.63,Cursed,Dagon,0,0,0,,{\an8}Burp!
 Dialogue: 0,0:19:47.63,0:19:48.63,Default,Jogo,0,0,0,,No!
-Dialogue: 0,0:19:48.63,0:19:50.04,Default,Mahito,0,0,0,,Jogo.
-Dialogue: 0,0:19:50.53,0:19:52.32,Default,Mahito,0,0,0,,Catch me if you can!
-Dialogue: 0,0:19:52.90,0:19:53.80,Default,Jogo,0,0,0,,Wha{\fscx180}—{\fscx}
-Dialogue: 0,0:19:55.12,0:19:56.55,Default,Mahito,0,0,0,,I'll take the underground.
-Dialogue: 0,0:19:56.55,0:19:58.98,Default,Mahito,0,0,0,,You wander around the surface.
-Dialogue: 0,0:19:58.98,0:20:01.13,Default,Mahito,0,0,0,,Just come back when I call you.
-Dialogue: 0,0:20:01.13,0:20:03.69,Default,Mahito,0,0,0,,I know. You don't have to say it.
-Dialogue: 0,0:20:03.69,0:20:05.26,Default,Mahito,0,0,0,,I guess so.
-Dialogue: 0,0:20:08.24,0:20:09.77,Default,Mahito,0,0,0,,Bye-bye!
-Dialogue: 0,0:20:11.01,0:20:13.02,Default,Jogo,0,0,0,,Boing!
-Dialogue: 0,0:20:15.74,0:20:17.19,Default,Choso,0,0,0,,He got away.
+Dialogue: 0,0:19:48.63,0:19:49.63,Default,Mahito,0,0,0,,Jogo.
+Dialogue: 0,0:19:50.75,0:19:52.63,Default,Mahito,0,0,0,,Catch me if you can!
+Dialogue: 0,0:19:53.00,0:19:53.80,Default,Jogo,0,0,0,,Wha{\fscx180}—{\fscx}
+Dialogue: 0,0:19:55.12,0:19:59.22,Default,Mahito,0,0,0,,I'll head down. You hang out above, okay?
+Dialogue: 0,0:19:59.22,0:20:01.35,Default,Mahito,0,0,0,,Just come back when I call you.
+Dialogue: 0,0:20:01.35,0:20:03.93,Default,Mahito,0,0,0,,I know. You don't have to say it.
+Dialogue: 0,0:20:03.93,0:20:05.26,Default,Mahito,0,0,0,,Oh, right.
+Dialogue: 0,0:20:08.44,0:20:09.77,Default,Mahito,0,0,0,,Bye-bye!
+Comment: 0,0:20:11.01,0:20:13.02,Default,Jogo,0,0,0,,Boing!
+Dialogue: 0,0:20:15.90,0:20:17.20,Default,Choso,0,0,0,,He got away.
 Dialogue: 0,0:20:21.86,0:20:24.86,Default,Jogo,0,0,0,,Mahito!
-Dialogue: 0,0:20:25.94,0:20:27.75,Default,Mahito,0,0,0,,{\an8}Did you see that earlier?
-Dialogue: 0,0:20:27.75,0:20:29.40,Default,Mahito,0,0,0,,{\an8}That was crazy, right?
-Dialogue: 0,0:20:29.40,0:20:32.52,Default,Mahito,0,0,0,,{\an8}I was just wandering around that area not long ago, too.
-Dialogue: 0,0:20:33.12,0:20:34.79,Default,Kugisaki,0,0,0,,Patch-face...
-Dialogue: 0,0:20:34.79,0:20:36.10,Default,Kugisaki,0,0,0,,Was it you?
-Dialogue: 0,0:20:36.10,0:20:39.89,Default,Kugisaki,0,0,0,,Are you the special-grade cursed spirit that's been messing with our idiot?
-Dialogue: 0,0:20:40.38,0:20:42.20,Default,Mahito,0,0,0,,Well, jeez.
-Dialogue: 0,0:20:42.20,0:20:44.12,Default,Mahito,0,0,0,,Am I famous?
-Dialogue: 0,0:20:44.12,0:20:45.04,Default,Kugisaki,0,0,0,,Yeah.
-Dialogue: 0,0:20:45.04,0:20:47.77,Default,Kugisaki,0,0,0,,I heard you ran with your tail between your legs.
-Dialogue: 0,0:20:49.36,0:20:50.58,Default,Mahito,0,0,0,,I like you.
-Dialogue: 0,0:20:51.02,0:20:53.06,Default,Mahito,0,0,0,,You seem worth killing.
-Dialogue: 0,0:20:53.36,0:20:56.64,Default,Kugisaki,0,0,0,,I haven't had any good chances to shine today...
-Dialogue: 0,0:20:57.88,0:21:02.05,Default,Kugisaki,0,0,0,,{\i1}They said this thing's technique had something to do with souls,
-Dialogue: 0,0:21:02.05,0:21:04.56,Default,Kugisaki,0,0,0,,{\i1}and not to let its hands touch me, right?
-Dialogue: 0,0:21:05.60,0:21:08.81,Default,Kugisaki,0,0,0,,...so I'll have to settle for exorcising a cowardly bug like you.
-Dialogue: 0,0:21:09.46,0:21:10.83,Default,Kugisaki,0,0,0,,{\i1}Recall it.
-Dialogue: 0,0:21:11.19,0:21:15.21,Default,Kugisaki,0,0,0,,{\i1}Recall the essence of cursed energy that you seized back then!
-Dialogue: 0,0:21:17.42,0:21:18.94,Default,Mahito,0,0,0,,No control.
-Dialogue: 0,0:21:28.16,0:21:29.68,Default,Kugisaki,0,0,0,,Hairpin.
-Dialogue: 0,0:21:37.59,0:21:38.88,Default,Mahito,0,0,0,,Not bad.
-Dialogue: 0,0:21:39.16,0:21:42.23,Default,Mahito,0,0,0,,But in general, that won't work on me.
-Dialogue: 0,0:21:42.79,0:21:44.85,Default,Mahito,0,0,0,,{\i1}Judging from what she said,
-Dialogue: 0,0:21:44.85,0:21:47.36,Default,Mahito,0,0,0,,{\i1}she must be close to that guy.
-Dialogue: 0,0:21:47.77,0:21:50.71,Default,Mahito,0,0,0,,{\i1}I'll drag this woman's corpse
-Dialogue: 0,0:21:50.71,0:21:54.04,Default,Mahito,0,0,0,,{\i1}before Itadori Yuji and break his soul!
+Dialogue: 0,0:20:26.16,0:20:27.91,Default,Mahito,0,0,0,,{\an8}Did you see that earlier?
+Dialogue: 0,0:20:27.91,0:20:29.58,Default,Mahito,0,0,0,,{\an8}Crazy, right?
+Dialogue: 0,0:20:29.58,0:20:32.88,Default,Mahito,0,0,0,,{\an8}I was just hanging around that area not long ago.
+Dialogue: 0,0:20:33.34,0:20:36.30,Default,Kugisaki,0,0,0,,Are you Patchface?
+Dialogue: 0,0:20:36.30,0:20:40.38,Default,Kugisaki,0,0,0,,That special-grade cursed spirit\N who's been messing with our idiot?
+Dialogue: 0,0:20:40.64,0:20:42.35,Default,Mahito,0,0,0,,Aw, shucks. {Well, jeez.}
+Dialogue: 0,0:20:42.35,0:20:44.12,Default,Mahito,0,0,0,,Am I famous now?
+Dialogue: 0,0:20:44.43,0:20:47.77,Default,Kugisaki,0,0,0,,Yeah, for running away like a little bitch. {I heard you ran with your tail between your legs.}
+Dialogue: 0,0:20:49.48,0:20:50.65,Default,Mahito,0,0,0,,I like you already.
+Dialogue: 0,0:20:51.23,0:20:53.06,Default,Mahito,0,0,0,,You seem worth killing.
+Dialogue: 0,0:20:53.48,0:20:57.07,Default,Kugisaki,0,0,0,,I haven't had any good chances to shine today...
+Dialogue: 0,0:20:58.07,0:21:02.28,Default,Kugisaki,0,0,0,,{\i1}They said this thing's technique\N had something to do with souls,
+Dialogue: 0,0:21:02.28,0:21:04.62,Default,Kugisaki,0,0,0,,{\i1}and not to let its hands touch me, right?
+Dialogue: 0,0:21:05.83,0:21:08.81,Default,Kugisaki,0,0,0,,...so the least I can do is squash a fleeing bug like you {so I'll have to settle for exorcising a cowardly bug like you.}
+Dialogue: 0,0:21:09.62,0:21:10.83,Default,Kugisaki,0,0,0,,{\i1}Recall that feeling.
+Dialogue: 0,0:21:11.37,0:21:15.21,Default,Kugisaki,0,0,0,,{\i1}Recall the essence of cursed energy you seized back then!
+Dialogue: 0,0:21:17.55,0:21:18.84,Default,Mahito,0,0,0,,You missed. {No control.} {Bad aim.}
+Dialogue: 0,0:21:28.31,0:21:29.18,Default,Kugisaki,0,0,0,,Hairpin.
+Dialogue: 0,0:21:37.73,0:21:39.11,Default,Mahito,0,0,0,,Impressive!
+Dialogue: 0,0:21:39.11,0:21:42.23,Default,Mahito,0,0,0,,But that simply won't work on me.
+Dialogue: 0,0:21:42.95,0:21:47.24,Default,Mahito,0,0,0,,{\i1}Judging from what she said, she must be close to him.
+Dialogue: 0,0:21:47.83,0:21:54.04,Default,Mahito,0,0,0,,{\fade(100,0)\i1}I'll drag her corpse before Itadori Yuji and break his soul!
 Comment: 0,0:21:55.04,0:21:55.09,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:25.01,0:23:25.05,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:25.52,0:23:27.17,Default,Mahito,0,0,0,,{\an8}Time for a personality test!
-Dialogue: 0,0:23:27.17,0:23:29.88,Default,Mahito,0,0,0,,{\an8}Can you more clearly recall the person you used to love
-Dialogue: 0,0:23:29.88,0:23:31.36,Default,Mahito,0,0,0,,{\an8}or the person you used to hate?
-Dialogue: 0,0:23:31.36,0:23:33.14,Default,Mahito,0,0,0,,{\an8}Results after the title!
-Dialogue: 0,0:23:33.14,0:23:35.20,Default,Mahito,0,0,0,,{\an8}Next time, Judgement, Part 2.
-Dialogue: 0,0:23:35.20,0:23:39.75,Default,Mahito,0,0,0,,{\an8}Dwelling on the past means you're an otaku!
-
-[Aegisub Project Garbage]
-Keyframes File: jjk_42_keyframes.txt
+Dialogue: 0,0:23:25.68,0:23:27.30,Default,Mahito,0,0,0,,{\an8}Time for a personality test!
+Dialogue: 0,0:23:27.30,0:23:31.51,Default,Mahito,0,0,0,,{\an8}Can you more clearly recall the person \Nyou used to love or the person you used to hate?
+Dialogue: 0,0:23:31.51,0:23:33.27,Default,Mahito,0,0,0,,{\an8}Results will be announced after the title!
+Dialogue: 0,0:23:33.27,0:23:35.31,Default,Mahito,0,0,0,,{\an8}Next time, Right and Wrong, Part 2.
+Dialogue: 0,0:23:35.31,0:23:39.69,Default,Mahito,0,0,0,,{\an8}Dwelling on the past makes you \Nnothing but a loser! {accurate otaku translation for once}
