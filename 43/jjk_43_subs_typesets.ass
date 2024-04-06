@@ -40,13 +40,51 @@ Dialogue: 1,0:00:00.61,0:00:07.82,Signs,Screen,0,0,0,,{\fad(800,400)\an7\fscx120
 Dialogue: 3,0:00:00.61,0:00:07.82,Signs,Screen,0,0,0,,{\fad(400,200)\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(142.8,1019)\b1}23:14
 Dialogue: 3,0:00:00.61,0:00:07.82,Signs,Screen,0,0,0,,{\fad(400,200)\an1\blur0.6\fnAribau Grotesk\fs77\fscx100\c&H000000&\pos(402.4,1019.4)\b1}Shoto Bunkamura Street, Outside the Veil
 Dialogue: 0,0:00:00.00,0:00:07.82,Signs,,0,0,0,,{=1}
-Comment: 0,0:04:54.65,0:04:56.44,Signs,Screen,0,0,0,,{=4}DUMB
-Dialogue: 0,0:04:54.65,0:04:56.44,Signs,Screen,0,0,0,,{=5}
+Comment: 0,0:04:54.65,0:04:56.44,Signs,Screen,0,0,0,,{=2}DUMB
+Dialogue: 0,0:04:54.86,0:04:55.02,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs57.5\c&H2B2B2D&\3c&H2B2B2D&\blur0.6\bord1.2\pos(990.46,500.64)}Du
+Dialogue: 0,0:04:55.02,0:04:55.07,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs60\c&H2B2B2D&\3c&H2B2B2D&\blur0.61\bord1.2\pos(989.2,535.26)}Du
+Dialogue: 0,0:04:55.07,0:04:55.15,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs64\c&H2B2B2D&\3c&H2B2B2D&\blur0.62\bord1.2\pos(1003.05,557.92)}Du
+Dialogue: 0,0:04:55.15,0:04:55.23,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs64\c&H2B2B2D&\3c&H2B2B2D&\blur0.62\bord1.2\pos(1001.88,520.04)}DU
+Dialogue: 0,0:04:55.23,0:04:55.32,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs64\c&H2B2B2D&\3c&H2B2B2D&\blur0.65\bord1.25\pos(1044.13,545.05)}DUm
+Dialogue: 0,0:04:55.32,0:04:55.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs73\c&H2B2B2D&\3c&H2B2B2D&\blur0.67\bord1.3\pos(1085.61,569.19)}DUM
+Dialogue: 0,0:04:55.44,0:04:55.57,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs77\c&H2B2B2D&\3c&H2B2B2D&\blur0.68\bord1.3\pos(1313.51,570.48)}DUMb
+Dialogue: 0,0:04:55.57,0:04:55.69,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs86\c&H2B2B2D&\3c&H2B2B2D&\blur0.7\bord1.3\pos(1424.46,421.89)}DUMB
+Dialogue: 0,0:04:55.69,0:04:55.82,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs86\c&H2B2B2D&\3c&H2B2B2D&\blur0.7\bord1.3\pos(1398.23,394.61)}DUMB
+Dialogue: 0,0:04:55.82,0:04:55.94,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs88\c&H2B2B2D&\3c&H2B2B2D&\blur0.7\bord1.3\pos(1375.03,382.01)}DUMB
+Dialogue: 0,0:04:55.94,0:04:56.07,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs90\c&H2B2B2D&\3c&H2B2B2D&\blur0.7\bord1.3\pos(1375.03,382.01)}DUMB
+Dialogue: 0,0:04:56.07,0:04:56.19,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs90\c&H2B2B2D&\3c&H2B2B2D&\blur0.7\bord1.3\pos(1370.09,378.82)}DUMB
+Dialogue: 0,0:04:56.19,0:04:56.32,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs90\c&H2B2B2D&\3c&H2B2B2D&\blur0.7\bord1.3\pos(1370.09,365.68)}DUMB
+Dialogue: 0,0:04:56.32,0:04:56.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs110\c&H2B2B2D&\blur0.8\pos(1745.38,234.41)\b1\3c&H2B2B2D&\bord1.5}D
+Dialogue: 0,0:04:56.32,0:04:56.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs110\c&H2B2B2D&\blur0.8\b1\pos(908.92,280.18)\3c&H2B2B2D&\bord1.5}U
+Dialogue: 0,0:04:56.32,0:04:56.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs110\c&H2B2B2D&\blur0.8\b1\pos(1615.26,820.57)\3c&H2B2B2D&\bord1.5}M
+Dialogue: 0,0:04:56.32,0:04:56.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs110\c&H2B2B2D&\blur0.8\b1\pos(1164.79,968.49)\3c&H2B2B2D&\bord1.5}B
+Dialogue: 1,0:04:54.69,0:04:54.73,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs40\c&H3C3B3C&\blur0.54\pos(854.72,440.57)}d
+Dialogue: 1,0:04:54.73,0:04:54.77,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs45\pos(875.8,446.72)\c&H474748&\blur0.55}d
+Dialogue: 1,0:04:54.77,0:04:54.82,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs50\pos(896.11,454.53)\c&H535454&\blur0.57}d
+Dialogue: 1,0:04:54.82,0:04:54.86,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs55\blur0.58\c&H5F6160&\pos(917.27,460.61)}d
+Dialogue: 1,0:04:54.86,0:04:55.02,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs57.5\c&H737573&\blur0.6\pos(990.46,500.64)}Du
+Dialogue: 1,0:04:55.02,0:04:55.07,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs60\c&H737573&\blur0.61\pos(989.2,535.26)}Du
+Dialogue: 1,0:04:55.07,0:04:55.15,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs64\c&H737573&\blur0.62\pos(1003.05,557.92)}Du
+Dialogue: 1,0:04:55.15,0:04:55.23,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs64\c&H737573&\blur0.62\pos(1001.88,520.04)}DU
+Dialogue: 1,0:04:55.23,0:04:55.32,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs64\c&H737573&\blur0.65\pos(1044.13,545.05)}DUm
+Dialogue: 1,0:04:55.32,0:04:55.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs73\c&H737573&\blur0.67\pos(1085.61,569.19)}DUM
+Dialogue: 1,0:04:55.44,0:04:55.57,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs77\c&H737573&\blur0.68\pos(1313.51,570.48)}DUMb
+Dialogue: 1,0:04:55.57,0:04:55.69,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs86\c&H737573&\blur0.7\pos(1424.46,421.89)}DUMB
+Dialogue: 1,0:04:55.69,0:04:55.82,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs86\c&H737573&\blur0.7\pos(1398.23,394.61)}DUMB
+Dialogue: 1,0:04:55.82,0:04:55.94,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs88\c&H737573&\blur0.7\pos(1375.03,382.01)}DUMB
+Dialogue: 1,0:04:55.94,0:04:56.07,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs90\c&H737573&\blur0.7\pos(1375.03,382.01)}DUMB
+Dialogue: 1,0:04:56.07,0:04:56.19,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs90\c&H737573&\blur0.7\pos(1370.09,378.82)}DUMB
+Dialogue: 1,0:04:56.19,0:04:56.32,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs90\c&H737573&\blur0.7\pos(1370.09,365.68)}DUMB
+Dialogue: 1,0:04:56.32,0:04:56.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs110\c&H737573&\blur0.8\pos(1745.38,234.41)\b1}D
+Dialogue: 1,0:04:56.32,0:04:56.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs110\c&H737573&\blur0.8\b1\pos(908.92,280.18)}U
+Dialogue: 1,0:04:56.32,0:04:56.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs110\c&H737573&\blur0.8\b1\pos(1615.26,820.57)}M
+Dialogue: 1,0:04:56.32,0:04:56.44,Signs,SFX,0,0,0,,{\fnAirstream ITC TT\fs110\c&H737573&\blur0.8\b1\pos(1164.79,968.49)}B
+Dialogue: 0,0:04:54.65,0:04:56.44,Signs,Screen,0,0,0,,{=3}
 Dialogue: 0,0:09:42.56,0:09:46.07,Signs,Screen,0,0,0,,{\p1\c&H000000&}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
 Dialogue: 1,0:09:42.56,0:09:46.07,Signs,Screen,0,0,0,,{\pos(960,540)\fnRagnar\fscx110\blur0.6\fs200}2009
 Comment: 0,0:11:17.82,0:11:21.08,Signs,Screen,0,0,0,,{\fnArial\b1\bord2\shad0\c&H7FB2D7&\3c&HF6FBFA&\fs16\pos(336,172)}Cleaning Duty Chart\N{\fs12\c&HC2CECB&}Let's all keep our school clean! {irrelevant/distracting}
-Dialogue: 0,0:23:34.94,0:23:37.40,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Right and Wrong III
-Dialogue: 1,0:23:34.94,0:23:37.40,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Right and Wrong III
+Dialogue: 0,0:23:34.94,0:23:39.94,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Right and Wrong III
+Dialogue: 1,0:23:34.94,0:23:39.94,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Right and Wrong III
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1

@@ -54,8 +54,23 @@ Dialogue: 1,0:19:35.78,0:19:40.95,Signs,Screen,0,0,0,,{\fade(0,300)\an7\fscx120\
 Dialogue: 3,0:19:35.78,0:19:40.95,Signs,Screen,0,0,0,,{\fade(0,300)\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(140.8,1019)\b1}21:30
 Dialogue: 3,0:19:35.78,0:19:40.95,Signs,Screen,0,0,0,,{\fade(0,300)\an1\blur0.6\fnAribau Grotesk\fs77\fscx96\c&H000000&\pos(398.4,1019.4)\b1}Shibuya Station, B4F
 Dialogue: 0,0:19:35.78,0:19:40.95,Signs,Screen,0,0,0,,{=3}
-Comment: 0,0:20:07.15,0:20:07.77,Signs,Screen,0,0,0,,{=311}He split into two!!
-Dialogue: 0,0:20:07.15,0:20:07.77,Signs,Screen,0,0,0,,{=312}
+Comment: 0,0:20:07.15,0:20:07.77,Signs,Screen,0,0,0,,{=297}He split into two!!
+Dialogue: 3,0:20:07.14,0:20:07.27,Signs,Screen,0,0,0,,{\blur0.6\fnHappy Day\fsp1.5\frz13.81\c&H2A2B2D&\pos(1401.71,684.29)}H{\fsp-8}e {\fsp1.5}spli{\fsp-8}t {\fsp1.5}i{\fsp-8}n {\fsp1.5}two!!
+Dialogue: 2,0:20:07.14,0:20:07.27,Signs,Screen,0,0,0,,{\blur0.6\bord4\fnHappy Day\fsp1\frz13.81\c&HF9FAF6&\3c&HF9FAF6&.5\pos(1401.71,684.29)}H{\fsp-8}e {\fsp1.5}spli{\fsp-8}t {\fsp1.5}i{\fsp-8}n {\fsp1.5}two!!
+Dialogue: 1,0:20:07.14,0:20:07.27,Signs,Screen,0,0,0,,{\blur0.6\bord7\fnHappy Day\fsp1\frz13.81\c&H2A2B2D&\3c&H2A2B2D&.5\pos(1401.71,684.29)}H{\fsp-8}e {\fsp1.5}spli{\fsp-8}t {\fsp1.5}i{\fsp-8}n {\fsp1.5}two!!
+Dialogue: 3,0:20:07.27,0:20:07.35,Signs,Screen,0,0,0,,{\blur0.75\fnHappy Day\fsp1.9\fscx160\fscy160\frz4.525\c&H2A2B2D&\pos(1365.61,575.53)}H{\fsp-7.6}e {\fsp1.9}spli{\fsp-7.6}t {\fsp1.9}i{\fsp-7.6}n {\fsp1.9}two!!
+Dialogue: 2,0:20:07.27,0:20:07.35,Signs,Screen,0,0,0,,{\blur0.75\bord4\fnHappy Day\fsp1.9\fscx160\fscy160\frz4.525\c&HF9FAF6&\3c&HF9FAF6&\pos(1365.61,575.53)}H{\fsp-7.6}e {\fsp1.9}spli{\fsp-7.6}t {\fsp1.9}i{\fsp-7.6}n {\fsp1.9}two!!
+Dialogue: 1,0:20:07.27,0:20:07.35,Signs,Screen,0,0,0,,{\blur0.75\bord7\fnHappy Day\fsp1.9\fscx160\fscy160\frz4.525\c&H2A2B2D&\3c&H2A2B2D&\pos(1365.61,575.53)}H{\fsp-7.6}e {\fsp1.9}spli{\fsp-7.6}t {\fsp1.9}i{\fsp-7.6}n {\fsp1.9}two!!
+Dialogue: 3,0:20:07.35,0:20:07.52,Signs,Screen,0,0,0,,{\blur0.7\fnHappy Day\fsp1.7\fscx140\fscy140\frz11.8\c&H2A2B2D&\pos(1379.38,641.39)}H{\fsp-7.8}e {\fsp1.7}spli{\fsp-7.8}t {\fsp1.7}i{\fsp-7.8}n {\fsp1.7}two!!
+Dialogue: 2,0:20:07.35,0:20:07.52,Signs,Screen,0,0,0,,{\blur0.7\bord4\fnHappy Day\fsp1.7\fscx140\fscy140\frz11.8\c&HF9FAF6&\3c&HF9FAF6&\pos(1379.38,641.39)}H{\fsp-7.8}e {\fsp1.7}spli{\fsp-7.8}t {\fsp1.7}i{\fsp-7.8}n {\fsp1.7}two!!
+Dialogue: 1,0:20:07.35,0:20:07.52,Signs,Screen,0,0,0,,{\blur0.7\bord7\fnHappy Day\fsp1.7\fscx140\fscy140\frz11.8\c&H2A2B2D&\3c&H2A2B2D&\pos(1379.38,641.39)}H{\fsp-7.8}e {\fsp1.7}spli{\fsp-7.8}t {\fsp1.7}i{\fsp-7.8}n {\fsp1.7}two!!
+Dialogue: 3,0:20:07.52,0:20:07.64,Signs,Screen,0,0,0,,{\blur0.7\fnHappy Day\fsp1.7\fscx140\fscy140\frz9.509\c&H2A2B2D&\pos(1379.38,634.39)}H{\fsp-7.8}e {\fsp1.7}spli{\fsp-7.8}t {\fsp1.7}i{\fsp-7.8}n {\fsp1.7}two!!
+Dialogue: 2,0:20:07.52,0:20:07.64,Signs,Screen,0,0,0,,{\blur0.7\bord4\fnHappy Day\fsp1.7\fscx140\fscy140\frz9.509\c&HF9FAF6&\3c&HF9FAF6&\pos(1379.38,634.39)}H{\fsp-7.8}e {\fsp1.7}spli{\fsp-7.8}t {\fsp1.7}i{\fsp-7.8}n {\fsp1.7}two!!
+Dialogue: 1,0:20:07.52,0:20:07.64,Signs,Screen,0,0,0,,{\blur0.7\bord7\fnHappy Day\fsp1.7\fscx140\fscy140\frz9.509\c&H2A2B2D&\3c&H2A2B2D&\pos(1379.38,634.39)}H{\fsp-7.8}e {\fsp1.7}spli{\fsp-7.8}t {\fsp1.7}i{\fsp-7.8}n {\fsp1.7}two!!
+Dialogue: 3,0:20:07.64,0:20:07.77,Signs,Screen,0,0,0,,{\blur0.7\fnHappy Day\fsp1.7\fscx140\fscy140\frz1.52\c&H2A2B2D&\pos(1383.95,617.39)}H{\fsp-7.8}e {\fsp1.7}spli{\fsp-7.8}t {\fsp1.7}i{\fsp-7.8}n {\fsp1.7}two!!
+Dialogue: 2,0:20:07.64,0:20:07.77,Signs,Screen,0,0,0,,{\blur0.7\bord4\fnHappy Day\fsp1.7\fscx140\fscy140\frz1.52\c&HF9FAF6&\3c&HF9FAF6&\pos(1383.95,617.39)}H{\fsp-7.8}e {\fsp1.7}spli{\fsp-7.8}t {\fsp1.7}i{\fsp-7.8}n {\fsp1.7}two!!
+Dialogue: 1,0:20:07.64,0:20:07.77,Signs,Screen,0,0,0,,{\blur0.7\bord7\fnHappy Day\fsp1.7\fscx140\fscy140\frz1.52\c&H2A2B2D&\3c&H2A2B2D&\pos(1383.95,617.39)}H{\fsp-7.8}e {\fsp1.7}spli{\fsp-7.8}t {\fsp1.7}i{\fsp-7.8}n {\fsp1.7}two!!
+Dialogue: 0,0:20:07.15,0:20:07.77,Signs,Screen,0,0,0,,{=298}
 Comment: 0,0:20:07.77,0:20:10.86,Signs,Screen,0,0,0,,{=301}Bye-bye
 Dialogue: 1,0:20:07.77,0:20:07.89,Signs,Screen,0,0,0,,{\fs40\fscx76.5\fscy76.5\blur0.6\fnKG When Oceans Rise\c&HC5C8EA&\frz33.65\pos(247.56,604.22)}Bye-bye!
 Dialogue: 1,0:20:07.89,0:20:08.15,Signs,Screen,0,0,0,,{\fs40\fscx93.5\fscy76.5\blur0.6\fnKG When Oceans Rise\c&HC5C8EA&\frz9.468\pos(210.93,611.46)}Bye-bye!
@@ -104,6 +119,100 @@ Dialogue: 3,0:20:10.40,0:20:10.61,Signs,Screen,0,0,0,,{\fs40\fscx74.8\fscy74.8\b
 Dialogue: 3,0:20:10.61,0:20:10.86,Signs,Screen,0,0,0,,{\fs40\fscx74.8\fscy74.8\blur0.6\fnKG When Oceans Rise\c&H0C0C0C&\frz33.32\pos(245.88,604.5)}Bye-bye!
 Dialogue: 0,0:20:07.77,0:20:10.86,Signs,Screen,0,0,0,,{=302}
 Comment: 0,0:20:11.11,0:20:13.03,Signs,Screen,0,0,0,,{=295}Boing!
+Dialogue: 1,0:20:11.06,0:20:11.10,Signs,Screen,0,0,0,,{\blur4\fnGo Baaa Handwritten Comic\fsp2\fscx173.74\fscy173.74\frz3.86\c&H242424&\alpha&H8C&\pos(1892.99,631.76)\b0}Bo{\alpha&HFF&}ing!
+Dialogue: 0,0:20:11.06,0:20:11.10,Signs,Screen,0,0,0,,{\blur5\bord4.07\fnGo Baaa Handwritten Comic\fsp2\fscx173.74\fscy173.74\frz3.86\c&HFFFFFF&\3c&HFFFFFF&\alpha&H8C&\pos(1892.99,631.76)\b0}Bo{\alpha&HFF&}ing!
+Dialogue: 1,0:20:11.10,0:20:11.14,Signs,Screen,0,0,0,,{=204}{\blur5\fnGo Baaa Handwritten Comic\fsp2\fscx180.89\fscy180.89\frz12.62\c&H242424&\alpha&H50&\pos(1671.11,610.46)\b0}Boi{\alpha&HFF&}ng!
+Dialogue: 0,0:20:11.10,0:20:11.14,Signs,Screen,0,0,0,,{\blur5\bord6.1\fnGo Baaa Handwritten Comic\fsp2\fscx180.89\fscy180.89\frz12.62\c&HFFFFFF&\3c&HFFFFFF&\alpha&H50&\pos(1671.11,610.46)\b0}Boi{\alpha&HFF&}ng!
+Dialogue: 1,0:20:11.14,0:20:11.18,Signs,Screen,0,0,0,,{=206}{\blur3.5\fnGo Baaa Handwritten Comic\fsp2\fscx164.1\fscy164.1\frz6.478\c&H242424&\alpha&H41&\pos(1504.47,598.9)\b0}Boi{\alpha&HFF&}ng!
+Dialogue: 0,0:20:11.14,0:20:11.18,Signs,Screen,0,0,0,,{\blur3.5\bord4.48\fnGo Baaa Handwritten Comic\fsp2\fscx164.1\fscy164.1\frz6.478\c&HFFFFFF&\3c&HFFFFFF&\alpha&H41&\pos(1504.47,598.9)\b0}Boi{\alpha&HFF&}ng!
+Dialogue: 1,0:20:11.18,0:20:11.23,Signs,Screen,0,0,0,,{=208}{\blur3.5\fnGo Baaa Handwritten Comic\fsp2\fscx107.05\fscy107.05\frz-1.42\c&H242424&\alpha&H32&\pos(1367.58,592.7)\b0}Boing!
+Dialogue: 0,0:20:11.18,0:20:11.23,Signs,Screen,0,0,0,,{\blur3.5\bord3.2\fnGo Baaa Handwritten Comic\fsp2\fscx107.05\fscy107.05\frz-1.42\c&HFFFFFF&\3c&HFFFFFF&\alpha&H32&\pos(1367.58,592.7)\b0}Boing!
+Dialogue: 1,0:20:11.23,0:20:11.27,Signs,Screen,0,0,0,,{=210}{\blur3\fnGo Baaa Handwritten Comic\fsp2\fscx105.6\fscy117.6\frz-0.22\c&H242424&\alpha&H32&\pos(1309.37,582.9)\b0}Boing!
+Dialogue: 0,0:20:11.23,0:20:11.27,Signs,Screen,0,0,0,,{\blur3\bord2.71\fnGo Baaa Handwritten Comic\fsp2\fscx105.6\fscy117.6\frz-0.22\c&HFFFFFF&\3c&HFFFFFF&\alpha&H32&\pos(1309.37,582.9)\b0}Boing!
+Dialogue: 1,0:20:11.27,0:20:11.31,Signs,Screen,0,0,0,,{=212}{\blur0.78\fnGo Baaa Handwritten Comic\fsp2\fscx105.97\fscy105.97\frz2.08\c&H242424&\pos(1288.47,572.63)\b0}Boing!
+Dialogue: 0,0:20:11.27,0:20:11.31,Signs,Screen,0,0,0,,{\blur0.78\bord2.72\fnGo Baaa Handwritten Comic\fsp2\fscx105.97\fscy105.97\frz2.08\c&HFFFFFF&\3c&HFFFFFF&\pos(1288.47,572.63)\b0}Boing!
+Dialogue: 1,0:20:11.31,0:20:11.35,Signs,Screen,0,0,0,,{=214}{\blur0.76\fnGo Baaa Handwritten Comic\fsp2\fscx104.53\fscy104.53\frz2.05\c&H242424&\pos(1284.34,572.19)\b0}Boing!
+Dialogue: 0,0:20:11.31,0:20:11.35,Signs,Screen,0,0,0,,{\blur0.76\bord2.69\fnGo Baaa Handwritten Comic\fsp2\fscx104.53\fscy104.53\frz2.05\c&HFFFFFF&\3c&HFFFFFF&\pos(1284.34,572.19)\b0}Boing!
+Dialogue: 1,0:20:11.35,0:20:11.39,Signs,Screen,0,0,0,,{=216}{\blur0.87\fnGo Baaa Handwritten Comic\fsp2\fscx108.99\fscy108.99\frz-4.21\c&H242424&\pos(1279.63,589.65)\b0}Boing!
+Dialogue: 0,0:20:11.35,0:20:11.39,Signs,Screen,0,0,0,,{\blur0.87\bord2.98\fnGo Baaa Handwritten Comic\fsp2\fscx108.99\fscy108.99\frz-4.21\c&HFFFFFF&\3c&HFFFFFF&\pos(1279.63,589.65)\b0}Boing!
+Dialogue: 1,0:20:11.39,0:20:11.44,Signs,Screen,0,0,0,,{=218}{\blur0.86\fnGo Baaa Handwritten Comic\fsp2\fscx108.22\fscy108.22\frz-4.24\c&H242424&\pos(1277.51,589.3)\b0}Boing!
+Dialogue: 0,0:20:11.39,0:20:11.44,Signs,Screen,0,0,0,,{\blur0.86\bord2.96\fnGo Baaa Handwritten Comic\fsp2\fscx108.22\fscy108.22\frz-4.24\c&HFFFFFF&\3c&HFFFFFF&\pos(1277.51,589.3)\b0}Boing!
+Dialogue: 1,0:20:11.44,0:20:11.48,Signs,Screen,0,0,0,,{=220}{\blur0.72\fnGo Baaa Handwritten Comic\fsp2\fscx98.82\fscy98.82\frz-2.25\c&H242424&\pos(1269.28,572.45)\b0}Boing!
+Dialogue: 0,0:20:11.44,0:20:11.48,Signs,Screen,0,0,0,,{\blur0.72\bord2.58\fnGo Baaa Handwritten Comic\fsp2\fscx98.82\fscy98.82\frz-2.25\c&HFFFFFF&\3c&HFFFFFF&\pos(1269.28,572.45)\b0}Boing!
+Dialogue: 1,0:20:11.48,0:20:11.52,Signs,Screen,0,0,0,,{=222}{\blur0.72\fnGo Baaa Handwritten Comic\fsp2\fscx98.38\fscy98.38\frz-2.26\c&H242424&\pos(1267.93,572.36)\b0}Boing!
+Dialogue: 0,0:20:11.48,0:20:11.52,Signs,Screen,0,0,0,,{\blur0.72\bord2.57\fnGo Baaa Handwritten Comic\fsp2\fscx98.38\fscy98.38\frz-2.26\c&HFFFFFF&\3c&HFFFFFF&\pos(1267.93,572.36)\b0}Boing!
+Dialogue: 1,0:20:11.52,0:20:11.56,Signs,Screen,0,0,0,,{=224}{\blur0.71\fnGo Baaa Handwritten Comic\fsp2\fscx96.87\fscy96.87\frz2.86\c&H242424&\pos(1270.49,565.85)\b0}Boing!
+Dialogue: 0,0:20:11.52,0:20:11.56,Signs,Screen,0,0,0,,{\blur0.71\bord2.54\fnGo Baaa Handwritten Comic\fsp2\fscx96.87\fscy96.87\frz2.86\c&HFFFFFF&\3c&HFFFFFF&\pos(1270.49,565.85)\b0}Boing!
+Dialogue: 1,0:20:11.56,0:20:11.60,Signs,Screen,0,0,0,,{=226}{\blur0.7\fnGo Baaa Handwritten Comic\fsp2\fscx96.52\fscy96.52\frz2.87\c&H242424&\pos(1269.44,565.71)\b0}Boing!
+Dialogue: 0,0:20:11.56,0:20:11.60,Signs,Screen,0,0,0,,{\blur0.7\bord2.53\fnGo Baaa Handwritten Comic\fsp2\fscx96.52\fscy96.52\frz2.87\c&HFFFFFF&\3c&HFFFFFF&\pos(1269.44,565.71)\b0}Boing!
+Dialogue: 1,0:20:11.60,0:20:11.64,Signs,Screen,0,0,0,,{=228}{\blur0.86\fnGo Baaa Handwritten Comic\fsp2\fscx109.03\fscy109.03\frz-2.11\c&H242424&\pos(1277.39,580.36)\b0}Boing!
+Dialogue: 0,0:20:11.60,0:20:11.64,Signs,Screen,0,0,0,,{\blur0.86\bord2.94\fnGo Baaa Handwritten Comic\fsp2\fscx109.03\fscy109.03\frz-2.11\c&HFFFFFF&\3c&HFFFFFF&\pos(1277.39,580.36)\b0}Boing!
+Dialogue: 1,0:20:11.64,0:20:11.69,Signs,Screen,0,0,0,,{=230}{\blur0.86\fnGo Baaa Handwritten Comic\fsp2\fscx108.75\fscy108.75\frz-2.06\c&H242424&\pos(1276.64,580.21)\b0}Boing!
+Dialogue: 0,0:20:11.64,0:20:11.69,Signs,Screen,0,0,0,,{\blur0.86\bord2.93\fnGo Baaa Handwritten Comic\fsp2\fscx108.75\fscy108.75\frz-2.06\c&HFFFFFF&\3c&HFFFFFF&\pos(1276.64,580.21)\b0}Boing!
+Dialogue: 1,0:20:11.69,0:20:11.73,Signs,Screen,0,0,0,,{=232}{\blur0.75\fnGo Baaa Handwritten Comic\fsp2\fscx102.28\fscy102.28\frz-3.46\c&H242424&\pos(1268.77,579.09)\b0}Boing!
+Dialogue: 0,0:20:11.69,0:20:11.73,Signs,Screen,0,0,0,,{\blur0.75\bord2.65\fnGo Baaa Handwritten Comic\fsp2\fscx102.28\fscy102.28\frz-3.46\c&HFFFFFF&\3c&HFFFFFF&\pos(1268.77,579.09)\b0}Boing!
+Dialogue: 1,0:20:11.73,0:20:11.77,Signs,Screen,0,0,0,,{=234}{\blur0.75\fnGo Baaa Handwritten Comic\fsp2\fscx101.97\fscy101.97\frz-3.45\c&H242424&\pos(1268,578.89)\b0}Boing!
+Dialogue: 0,0:20:11.73,0:20:11.77,Signs,Screen,0,0,0,,{\blur0.75\bord2.64\fnGo Baaa Handwritten Comic\fsp2\fscx101.97\fscy101.97\frz-3.45\c&HFFFFFF&\3c&HFFFFFF&\pos(1268,578.89)\b0}Boing!
+Dialogue: 1,0:20:11.77,0:20:11.81,Signs,Screen,0,0,0,,{=236}{\blur0.7\fnGo Baaa Handwritten Comic\fsp2\fscx96.61\fscy96.61\frz3.7\c&H242424&\pos(1267.81,565.02)\b0}Boing!
+Dialogue: 0,0:20:11.77,0:20:11.81,Signs,Screen,0,0,0,,{\blur0.7\bord2.53\fnGo Baaa Handwritten Comic\fsp2\fscx96.61\fscy96.61\frz3.7\c&HFFFFFF&\3c&HFFFFFF&\pos(1267.81,565.02)\b0}Boing!
+Dialogue: 1,0:20:11.81,0:20:11.85,Signs,Screen,0,0,0,,{=238}{\blur0.7\fnGo Baaa Handwritten Comic\fsp2\fscx96.29\fscy96.29\frz3.68\c&H242424&\pos(1267.06,564.87)\b0}Boing!
+Dialogue: 0,0:20:11.81,0:20:11.85,Signs,Screen,0,0,0,,{\blur0.7\bord2.53\fnGo Baaa Handwritten Comic\fsp2\fscx96.29\fscy96.29\frz3.68\c&HFFFFFF&\3c&HFFFFFF&\pos(1267.06,564.87)\b0}Boing!
+Dialogue: 1,0:20:11.85,0:20:11.89,Signs,Screen,0,0,0,,{=240}{\blur0.7\fnGo Baaa Handwritten Comic\fsp2\fscx96.06\fscy96.06\frz3.65\c&H242424&\pos(1266.43,564.86)\b0}Boing!
+Dialogue: 0,0:20:11.85,0:20:11.89,Signs,Screen,0,0,0,,{\blur0.7\bord2.52\fnGo Baaa Handwritten Comic\fsp2\fscx96.06\fscy96.06\frz3.65\c&HFFFFFF&\3c&HFFFFFF&\pos(1266.43,564.86)\b0}Boing!
+Dialogue: 1,0:20:11.89,0:20:11.94,Signs,Screen,0,0,0,,{=242}{\blur0.84\fnGo Baaa Handwritten Comic\fsp2\fscx104.19\fscy104.19\frz-5.36\c&H242424&\alpha&H00&\pos(1270,584.83)\b0}Boing!
+Dialogue: 0,0:20:11.89,0:20:11.94,Signs,Screen,0,0,0,,{\blur0.84\bord2.88\fnGo Baaa Handwritten Comic\fsp2\fscx104.19\fscy104.19\frz-5.36\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1270,584.83)\b0}Boing!
+Dialogue: 1,0:20:11.94,0:20:11.98,Signs,Screen,0,0,0,,{=244}{\blur0.84\fnGo Baaa Handwritten Comic\fsp2\fscx104.08\fscy104.08\frz-5.37\c&H242424&\alpha&H00&\pos(1269.59,584.82)\b0}Boing!
+Dialogue: 0,0:20:11.94,0:20:11.98,Signs,Screen,0,0,0,,{\blur0.84\bord2.88\fnGo Baaa Handwritten Comic\fsp2\fscx104.08\fscy104.08\frz-5.37\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1269.59,584.82)\b0}Boing!
+Dialogue: 1,0:20:11.98,0:20:12.02,Signs,Screen,0,0,0,,{=246}{\blur0.84\fnGo Baaa Handwritten Comic\fsp2\fscx103.98\fscy103.98\frz-5.36\c&H242424&\alpha&H00&\pos(1269.23,584.78)\b0}Boing!
+Dialogue: 0,0:20:11.98,0:20:12.02,Signs,Screen,0,0,0,,{\blur0.84\bord2.88\fnGo Baaa Handwritten Comic\fsp2\fscx103.98\fscy103.98\frz-5.36\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1269.23,584.78)\b0}Boing!
+Dialogue: 1,0:20:12.02,0:20:12.06,Signs,Screen,0,0,0,,{=248}{\blur0.73\fnGo Baaa Handwritten Comic\fsp2\fscx100.65\fscy100.65\frz-8.94\c&H242424&\pos(1257.58,587.49)\b0}Boing!
+Dialogue: 0,0:20:12.02,0:20:12.06,Signs,Screen,0,0,0,,{\blur0.73\bord2.61\fnGo Baaa Handwritten Comic\fsp2\fscx100.65\fscy100.65\frz-8.94\c&HFFFFFF&\3c&HFFFFFF&\pos(1257.58,587.49)\b0}Boing!
+Dialogue: 1,0:20:12.06,0:20:12.10,Signs,Screen,0,0,0,,{=250}{\blur0.72\fnGo Baaa Handwritten Comic\fsp2\fscx100.44\fscy100.44\frz-8.97\c&H242424&\pos(1257.09,587.39)\b0}Boing!
+Dialogue: 0,0:20:12.06,0:20:12.10,Signs,Screen,0,0,0,,{\blur0.72\bord2.61\fnGo Baaa Handwritten Comic\fsp2\fscx100.44\fscy100.44\frz-8.97\c&HFFFFFF&\3c&HFFFFFF&\pos(1257.09,587.39)\b0}Boing!
+Dialogue: 1,0:20:12.10,0:20:12.14,Signs,Screen,0,0,0,,{=252}{\blur0.72\fnGo Baaa Handwritten Comic\fsp2\fscx100.3\fscy100.3\frz-8.99\c&H242424&\pos(1256.71,587.34)\b0}Boing!
+Dialogue: 0,0:20:12.10,0:20:12.14,Signs,Screen,0,0,0,,{\blur0.72\bord2.61\fnGo Baaa Handwritten Comic\fsp2\fscx100.3\fscy100.3\frz-8.99\c&HFFFFFF&\3c&HFFFFFF&\pos(1256.71,587.34)\b0}Boing!
+Dialogue: 1,0:20:12.14,0:20:12.19,Signs,Screen,0,0,0,,{=254}{\blur0.72\fnGo Baaa Handwritten Comic\fsp2\fscx99.46\fscy99.46\frz0.82\c&H242424&\pos(1266.29,573.26)\b0}Boing!
+Dialogue: 0,0:20:12.14,0:20:12.19,Signs,Screen,0,0,0,,{\blur0.72\bord2.59\fnGo Baaa Handwritten Comic\fsp2\fscx99.46\fscy99.46\frz0.82\c&HFFFFFF&\3c&HFFFFFF&\pos(1266.29,573.26)\b0}Boing!
+Dialogue: 1,0:20:12.19,0:20:12.23,Signs,Screen,0,0,0,,{=256}{\blur0.72\fnGo Baaa Handwritten Comic\fsp2\fscx99.35\fscy99.35\frz0.82\c&H242424&\pos(1265.99,573.21)\b0}Boing!
+Dialogue: 0,0:20:12.19,0:20:12.23,Signs,Screen,0,0,0,,{\blur0.72\bord2.59\fnGo Baaa Handwritten Comic\fsp2\fscx99.35\fscy99.35\frz0.82\c&HFFFFFF&\3c&HFFFFFF&\pos(1265.99,573.21)\b0}Boing!
+Dialogue: 1,0:20:12.23,0:20:12.27,Signs,Screen,0,0,0,,{=258}{\blur0.71\fnGo Baaa Handwritten Comic\fsp2\fscx99.21\fscy99.21\frz0.82\c&H242424&\pos(1265.64,573.14)\b0}Boing!
+Dialogue: 0,0:20:12.23,0:20:12.27,Signs,Screen,0,0,0,,{\blur0.71\bord2.58\fnGo Baaa Handwritten Comic\fsp2\fscx99.21\fscy99.21\frz0.82\c&HFFFFFF&\3c&HFFFFFF&\pos(1265.64,573.14)\b0}Boing!
+Dialogue: 1,0:20:12.27,0:20:12.31,Signs,Screen,0,0,0,,{=260}{\blur0.82\fnGo Baaa Handwritten Comic\fsp2\fscx100.53\fscy100.53\frz-8.42\c&H242424&\alpha&H00&\pos(1268.75,587.53)\b0}Boing!
+Dialogue: 0,0:20:12.27,0:20:12.31,Signs,Screen,0,0,0,,{\blur0.82\bord2.89\fnGo Baaa Handwritten Comic\fsp2\fscx100.53\fscy100.53\frz-8.42\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1268.75,587.53)\b0}Boing!
+Dialogue: 1,0:20:12.31,0:20:12.35,Signs,Screen,0,0,0,,{=262}{\blur0.82\fnGo Baaa Handwritten Comic\fsp2\fscx100.38\fscy100.38\frz-8.42\c&H242424&\alpha&H00&\pos(1268.43,587.45)\b0}Boing!
+Dialogue: 0,0:20:12.31,0:20:12.35,Signs,Screen,0,0,0,,{\blur0.82\bord2.89\fnGo Baaa Handwritten Comic\fsp2\fscx100.38\fscy100.38\frz-8.42\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1268.43,587.45)\b0}Boing!
+Dialogue: 1,0:20:12.35,0:20:12.39,Signs,Screen,0,0,0,,{=264}{\blur0.82\fnGo Baaa Handwritten Comic\fsp2\fscx100.4\fscy100.4\frz-8.47\c&H242424&\alpha&H00&\pos(1268.28,587.63)\b0}Boing!
+Dialogue: 0,0:20:12.35,0:20:12.39,Signs,Screen,0,0,0,,{\blur0.82\bord2.89\fnGo Baaa Handwritten Comic\fsp2\fscx100.4\fscy100.4\frz-8.47\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1268.28,587.63)\b0}Boing!
+Dialogue: 1,0:20:12.39,0:20:12.44,Signs,Screen,0,0,0,,{=266}{\blur0.71\fnGo Baaa Handwritten Comic\fsp2\fscx98.55\fscy98.55\frz-5.26\c&H242424&\pos(1258.42,580.01)\b0}Boing!
+Dialogue: 0,0:20:12.39,0:20:12.44,Signs,Screen,0,0,0,,{\blur0.71\bord2.57\fnGo Baaa Handwritten Comic\fsp2\fscx98.55\fscy98.55\frz-5.26\c&HFFFFFF&\3c&HFFFFFF&\pos(1258.42,580.01)\b0}Boing!
+Dialogue: 1,0:20:12.44,0:20:12.48,Signs,Screen,0,0,0,,{=268}{\blur0.71\fnGo Baaa Handwritten Comic\fsp2\fscx98.47\fscy98.47\frz-5.3\c&H242424&\pos(1258.16,580.04)\b0}Boing!
+Dialogue: 0,0:20:12.44,0:20:12.48,Signs,Screen,0,0,0,,{\blur0.71\bord2.57\fnGo Baaa Handwritten Comic\fsp2\fscx98.47\fscy98.47\frz-5.3\c&HFFFFFF&\3c&HFFFFFF&\pos(1258.16,580.04)\b0}Boing!
+Dialogue: 1,0:20:12.48,0:20:12.52,Signs,Screen,0,0,0,,{=270}{\blur0.71\fnGo Baaa Handwritten Comic\fsp2\fscx98.4\fscy98.4\frz-5.31\c&H242424&\pos(1257.98,579.99)\b0}Boing!
+Dialogue: 0,0:20:12.48,0:20:12.52,Signs,Screen,0,0,0,,{\blur0.71\bord2.57\fnGo Baaa Handwritten Comic\fsp2\fscx98.4\fscy98.4\frz-5.31\c&HFFFFFF&\3c&HFFFFFF&\pos(1257.98,579.99)\b0}Boing!
+Dialogue: 1,0:20:12.52,0:20:12.56,Signs,Screen,0,0,0,,{=272}{\blur0.7\fnGo Baaa Handwritten Comic\fsp2\fscx97.03\fscy97.03\frz3.43\c&H242424&\pos(1264.83,566.81)\b0}Boing!
+Dialogue: 0,0:20:12.52,0:20:12.56,Signs,Screen,0,0,0,,{\blur0.7\bord2.54\fnGo Baaa Handwritten Comic\fsp2\fscx97.03\fscy97.03\frz3.43\c&HFFFFFF&\3c&HFFFFFF&\pos(1264.83,566.81)\b0}Boing!
+Dialogue: 1,0:20:12.56,0:20:12.60,Signs,Screen,0,0,0,,{=274}{\blur0.7\fnGo Baaa Handwritten Comic\fsp2\fscx96.98\fscy96.98\frz3.35\c&H242424&\pos(1264.68,566.94)\b0}Boing!
+Dialogue: 0,0:20:12.56,0:20:12.60,Signs,Screen,0,0,0,,{\blur0.7\bord2.54\fnGo Baaa Handwritten Comic\fsp2\fscx96.98\fscy96.98\frz3.35\c&HFFFFFF&\3c&HFFFFFF&\pos(1264.68,566.94)\b0}Boing!
+Dialogue: 1,0:20:12.60,0:20:12.64,Signs,Screen,0,0,0,,{=276}{\blur0.7\fnGo Baaa Handwritten Comic\fsp2\fscx96.84\fscy96.84\frz3.31\c&H242424&\pos(1264.44,566.95)\b0}Boing!
+Dialogue: 0,0:20:12.60,0:20:12.64,Signs,Screen,0,0,0,,{\blur0.7\bord2.54\fnGo Baaa Handwritten Comic\fsp2\fscx96.84\fscy96.84\frz3.31\c&HFFFFFF&\3c&HFFFFFF&\pos(1264.44,566.95)\b0}Boing!
+Dialogue: 1,0:20:12.64,0:20:12.69,Signs,Screen,0,0,0,,{=278}{\blur0.79\fnGo Baaa Handwritten Comic\fsp2\fscx109.87\fscy109.87\frz-8.17\c&H242424&\pos(1265.11,596.59)\b0}Boing!
+Dialogue: 0,0:20:12.64,0:20:12.69,Signs,Screen,0,0,0,,{\blur0.79\bord2.8\fnGo Baaa Handwritten Comic\fsp2\fscx109.87\fscy109.87\frz-8.17\c&HFFFFFF&\3c&HFFFFFF&\pos(1265.11,596.59)\b0}Boing!
+Dialogue: 1,0:20:12.69,0:20:12.73,Signs,Screen,0,0,0,,{=280}{\blur0.79\fnGo Baaa Handwritten Comic\fsp2\fscx109.87\fscy109.87\frz-8.17\c&H242424&\pos(1265.07,596.59)\b0}Boing!
+Dialogue: 0,0:20:12.69,0:20:12.73,Signs,Screen,0,0,0,,{\blur0.79\bord2.8\fnGo Baaa Handwritten Comic\fsp2\fscx109.87\fscy109.87\frz-8.17\c&HFFFFFF&\3c&HFFFFFF&\pos(1265.07,596.59)\b0}Boing!
+Dialogue: 1,0:20:12.73,0:20:12.77,Signs,Screen,0,0,0,,{=282}{\blur0.79\fnGo Baaa Handwritten Comic\fsp2\fscx109.84\fscy109.84\frz-8.17\c&H242424&\pos(1265.04,596.58)\b0}Boing!
+Dialogue: 0,0:20:12.73,0:20:12.77,Signs,Screen,0,0,0,,{\blur0.79\bord2.8\fnGo Baaa Handwritten Comic\fsp2\fscx109.84\fscy109.84\frz-8.17\c&HFFFFFF&\3c&HFFFFFF&\pos(1265.04,596.58)\b0}Boing!
+Dialogue: 1,0:20:12.77,0:20:12.81,Signs,Screen,0,0,0,,{=284}{\blur0.73\fnGo Baaa Handwritten Comic\fsp2\fscx101.71\fscy101.71\frz-6.67\c&H242424&\pos(1259.83,585.39)\b0}Boing!
+Dialogue: 0,0:20:12.77,0:20:12.81,Signs,Screen,0,0,0,,{\blur0.73\bord2.63\fnGo Baaa Handwritten Comic\fsp2\fscx101.71\fscy101.71\frz-6.67\c&HFFFFFF&\3c&HFFFFFF&\pos(1259.83,585.39)\b0}Boing!
+Dialogue: 1,0:20:12.81,0:20:12.85,Signs,Screen,0,0,0,,{=286}{\blur0.73\fnGo Baaa Handwritten Comic\fsp2\fscx101.77\fscy101.77\frz-6.67\c&H242424&\pos(1259.92,585.41)\b0}Boing!
+Dialogue: 0,0:20:12.81,0:20:12.85,Signs,Screen,0,0,0,,{\blur0.73\bord2.64\fnGo Baaa Handwritten Comic\fsp2\fscx101.77\fscy101.77\frz-6.67\c&HFFFFFF&\3c&HFFFFFF&\pos(1259.92,585.41)\b0}Boing!
+Dialogue: 1,0:20:12.85,0:20:12.89,Signs,Screen,0,0,0,,{=288}{\blur0.73\fnGo Baaa Handwritten Comic\fsp2\fscx101.85\fscy101.85\frz-6.65\c&H242424&\pos(1260.06,585.37)\b0}Boing!
+Dialogue: 0,0:20:12.85,0:20:12.89,Signs,Screen,0,0,0,,{\blur0.73\bord2.64\fnGo Baaa Handwritten Comic\fsp2\fscx101.85\fscy101.85\frz-6.65\c&HFFFFFF&\3c&HFFFFFF&\pos(1260.06,585.37)\b0}Boing!
+Dialogue: 1,0:20:12.89,0:20:12.94,Signs,Screen,0,0,0,,{=290}{\blur0.72\fnGo Baaa Handwritten Comic\fsp2\fscx100.12\fscy100.12\frz-0.03\c&H242424&\pos(1264.86,575.4)\b0}Boing!
+Dialogue: 0,0:20:12.89,0:20:12.94,Signs,Screen,0,0,0,,{\blur0.72\bord2.6\fnGo Baaa Handwritten Comic\fsp2\fscx100.12\fscy100.12\frz-0.03\c&HFFFFFF&\3c&HFFFFFF&\pos(1264.86,575.4)\b0}Boing!
+Dialogue: 1,0:20:12.94,0:20:12.98,Signs,Screen,0,0,0,,{=292}{\blur0.72\fnGo Baaa Handwritten Comic\fsp2\fscx100.1\fscy100.1\frz-0.02\c&H242424&\pos(1264.83,575.39)\b0}Boing!
+Dialogue: 0,0:20:12.94,0:20:12.98,Signs,Screen,0,0,0,,{\blur0.72\bord2.6\fnGo Baaa Handwritten Comic\fsp2\fscx100.1\fscy100.1\frz-0.02\c&HFFFFFF&\3c&HFFFFFF&\pos(1264.83,575.39)\b0}Boing!
+Dialogue: 1,0:20:12.98,0:20:13.02,Signs,Screen,0,0,0,,{=294}{\blur0.72\fnGo Baaa Handwritten Comic\fsp2\fscx100\fscy100\frz0\c&H242424&\pos(1264.74,575.26)\b0}Boing!
+Dialogue: 0,0:20:12.98,0:20:13.02,Signs,Screen,0,0,0,,{\blur0.72\bord2.6\fnGo Baaa Handwritten Comic\fsp2\fscx100\fscy100\frz0\c&HFFFFFF&\3c&HFFFFFF&\pos(1264.74,575.26)\b0}Boing!
 Dialogue: 0,0:20:11.11,0:20:13.03,Signs,Screen,0,0,0,,{=296}
 Comment: 0,0:20:24.87,0:20:32.88,Signs,Screen,0,0,0,,{=8}Dogenzaka Alleyways
 Dialogue: 1,0:20:24.87,0:20:32.88,Signs,Screen,0,0,0,,{\an7\fscx22\fscy80\pos(776.48,226.86)\p1}m 677 880 l 1833 880 1833 999 677 999 677 900
@@ -179,7 +288,3 @@ Data: 303,_aegi_folddata,e0;0;54
 Data: 304,_aegi_folddata,e1;0;54
 Data: 307,_aegi_folddata,e0;0;4
 Data: 308,_aegi_folddata,e1;0;4
-Data: 309,_aegi_folddata,e0;0;52
-Data: 310,_aegi_folddata,e1;0;52
-Data: 311,_aegi_folddata,e0;0;53
-Data: 312,_aegi_folddata,e1;0;53
