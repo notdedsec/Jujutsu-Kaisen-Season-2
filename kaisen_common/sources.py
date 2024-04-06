@@ -43,11 +43,31 @@ class Source:
         27: VOLUME[1] / 'BDMV/STREAM/00004.m2ts',
         28: VOLUME[2] / 'BDMV/STREAM/00002.m2ts',
         29: VOLUME[2] / 'BDMV/STREAM/00003.m2ts',
+        30: VOLUME[3] / 'BDMV/STREAM/00002.m2ts',
+        31: VOLUME[3] / 'BDMV/STREAM/00003.m2ts',
+        32: VOLUME[3] / 'BDMV/STREAM/00004.m2ts',
+        33: VOLUME[4] / 'BDMV/STREAM/00002.m2ts',
+        34: VOLUME[4] / 'BDMV/STREAM/00003.m2ts',
+        35: VOLUME[4] / 'BDMV/STREAM/00004.m2ts',
+        36: VOLUME[5] / 'BDMV/STREAM/00002.m2ts',
+        37: VOLUME[5] / 'BDMV/STREAM/00003.m2ts',
+        38: VOLUME[5] / 'BDMV/STREAM/00004.m2ts',
+        39: VOLUME[6] / 'BDMV/STREAM/00002.m2ts',
+        40: VOLUME[6] / 'BDMV/STREAM/00003.m2ts',
+        41: VOLUME[6] / 'BDMV/STREAM/00004.m2ts',
+        42: VOLUME[7] / 'BDMV/STREAM/00002.m2ts',
+        43: VOLUME[7] / 'BDMV/STREAM/00003.m2ts',
+        44: VOLUME[7] / 'BDMV/STREAM/00004.m2ts',
+        45: VOLUME[8] / 'BDMV/STREAM/00002.m2ts',
+        46: VOLUME[8] / 'BDMV/STREAM/00003.m2ts',
+        47: VOLUME[8] / 'BDMV/STREAM/00004.m2ts',
     }
 
     BONUS = {
         'NCOP3': VOLUME[1] / 'BDMV/STREAM/00005.m2ts',
         'NCED3': VOLUME[1] / 'BDMV/STREAM/00010.m2ts',
+        'NCOP4': VOLUME[3] / 'BDMV/STREAM/00005.m2ts',
+        'NCED4': VOLUME[3] / 'BDMV/STREAM/00010.m2ts',
     }
 
 
