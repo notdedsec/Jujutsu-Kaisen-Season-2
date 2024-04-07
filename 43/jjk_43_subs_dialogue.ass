@@ -20,10 +20,10 @@ Audio File: jjk_43_premux.mkv
 Video File: jjk_43_premux.mkv
 Keyframes File: jjk_43_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 209
-Active Line: 224
-Video Position: 34022
+Video Zoom Percent: 0.750000
+Scroll Position: 208
+Active Line: 214
+Video Position: 29691
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Dialogue: 0,0:02:39.26,0:02:43.48,Default,Mahito,0,0,0,,{\i1}Maybe I should've h
 Dialogue: 0,0:02:45.73,0:02:47.44,Default,Mahito,0,0,0,,Still, this is plenty!
 Dialogue: 0,0:02:50.36,0:02:51.53,Default,Yuji,0,0,0,,{\i1}Damn it!
 Dialogue: 0,0:02:59.20,0:03:00.45,Default,Yuji,0,0,0,,Are you okay?!
-Dialogue: 0,0:03:04.62,0:03:05.71,Cursed,Mob,0,0,0,,Y-Yeah!
+Dialogue: 0,0:03:04.62,0:03:05.71,Cursed,NPC,0,0,0,,Yeah!
 Dialogue: 0,0:03:11.67,0:03:13.05,Default,Yuji,0,0,0,,{\i1}Shit!
 Dialogue: 0,0:03:51.00,0:03:52.09,Default,Mahito,0,0,0,,Not bad!
 Dialogue: 0,0:04:05.48,0:04:07.60,Default,Mahito,0,0,0,,{\i1}She's avoiding my hands.
@@ -100,8 +100,8 @@ Dialogue: 0,0:07:32.14,0:07:33.18,Default,Mahito,0,0,0,,Nah.
 Dialogue: 0,0:07:34.56,0:07:36.31,Default,Mahito,0,0,0,,I'm outta here!
 Dialogue: 0,0:07:37.81,0:07:38.81,Default,Kugisaki,0,0,0,,What?!
 Dialogue: 0,0:07:39.15,0:07:40.31,Default,Kugisaki,0,0,0,,Hold it!
-Dialogue: 0,0:07:41.27,0:07:44.07,Default,Kugisaki,0,0,0,,{\i1}I could just ignore it and head straight for B5,
-Dialogue: 0,0:07:44.07,0:07:48.07,Default,Kugisaki,0,0,0,,{\i1}but letting that thing run free \Nwould only come back to bite us later.
+Dialogue: 0,0:07:41.27,0:07:44.07,Default,Kugisaki,0,0,0,,{\i1}I could just ignore it and head straight to B5,
+Dialogue: 0,0:07:44.07,0:07:48.66,Default,Kugisaki,0,0,0,,{\i1}but letting that thing run free \Nwould only come back to bite us later.
 Dialogue: 0,0:07:56.08,0:07:57.04,Default,Kugisaki,0,0,0,,{\i1}Underground?!
 Dialogue: 0,0:07:57.58,0:07:58.96,Default,Kugisaki,0,0,0,,{\i1}This is perfect!
 Dialogue: 0,0:07:58.96,0:08:01.96,Default,Kugisaki,0,0,0,,{\i1}I'll exorcise it and head to B5!
@@ -126,19 +126,19 @@ Dialogue: 0,0:09:57.45,0:09:59.33,Default,Fumi's Father,0,0,0,,Not quite there y
 Dialogue: 0,0:09:59.33,0:10:01.79,Default,Fumi's Father,0,0,0,,You gotta crush their chance to recover.
 Dialogue: 0,0:10:03.62,0:10:05.33,Default,Kugisaki,0,0,0,,{\i1}At the time...
 Dialogue: 0,0:10:05.84,0:10:07.34,Default,Fumi,0,0,0,,You can do it!
-Dialogue: 0,0:10:07.80,0:10:11.34,Default,Kugisaki,0,0,0,,{\i1}I thought everyone in the village was crazy,
-Dialogue: 0,0:10:11.92,0:10:16.30,Default,Kugisaki,0,0,0,,{\i1}and I was convinced I was the only sane one.
+Dialogue: 0,0:10:07.80,0:10:11.34,Default,Kugisaki,0,0,0,,{\i1}I used to think everyone in the village was crazy,
+Dialogue: 0,0:10:11.92,0:10:16.30,Default,Kugisaki,0,0,0,,{\i1}and that I was the only sane one.
 Comment: 0,0:10:23.02,0:10:23.06,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:10:38.03,0:10:42.16,Default,Fumi's Mother,0,0,0,,You'll be using it until sixth grade. Are you sure?
 Dialogue: 0,0:10:42.16,0:10:43.00,Default,Fumi,0,0,0,,Yup!
 Dialogue: 0,0:10:43.91,0:10:49.04,Default,Fumi,0,0,0,,{\i1}That's what my mother said,\N but I chose the blue backpack anyway.
-Dialogue: 0,0:10:49.46,0:10:53.47,Default,Fumi,0,0,0,,{\i1}We moved to this village around the time\N I started elementary school.
-Dialogue: 0,0:10:54.55,0:10:57.64,Default,Fumi,0,0,0,,{\i1}My parents were worried about\N the inconveniences of the countryside,
-Dialogue: 0,0:10:57.64,0:11:01.22,Default,Fumi,0,0,0,,{\i1}but I was just sad about \Nsaying goodbye to my friends.
-Dialogue: 0,0:11:03.48,0:11:07.69,Default,Fumi,0,0,0,,{\i1}A total of nineteen students.\N Not in one class, but in the entire school.
-Dialogue: 0,0:11:08.61,0:11:11.28,Default,Fumi,0,0,0,,{\i1}Everyone had either a red or a black backpack.
+Dialogue: 0,0:10:49.46,0:10:53.47,Default,Fumi,0,0,0,,{\i1}We moved to this village \Naround the time I started elementary school.
+Dialogue: 0,0:10:54.51,0:10:57.68,Default,Fumi,0,0,0,,{\i1}My parents were worried about\N the inconveniences of the countryside,
+Dialogue: 0,0:10:57.68,0:11:01.27,Default,Fumi,0,0,0,,{\i1}but I was just sad about \Nsaying goodbye to my friends.
+Dialogue: 0,0:11:03.48,0:11:07.94,Default,Fumi,0,0,0,,{\i1}A total of nineteen students,\N not in one class, but in the entire school.
+Dialogue: 0,0:11:08.61,0:11:11.36,Default,Fumi,0,0,0,,{\i1}Everyone had either a red or a black backpack.
 Dialogue: 0,0:11:11.90,0:11:14.49,Default,Fumi,0,0,0,,{\i1}I liked both red and black,
-Dialogue: 0,0:11:15.07,0:11:17.82,Default,Fumi,0,0,0,,{\i1}but apparently everyone hated blue.
+Dialogue: 0,0:11:15.07,0:11:18.53,Default,Fumi,0,0,0,,{\i1}but apparently everyone hated blue.
 Dialogue: 0,0:12:01.99,0:12:03.24,Default,Fumi,0,0,0,,Thank you.
 Dialogue: 0,0:12:06.37,0:12:07.12,Default,Kugisaki,0,0,0,,Hey,
 Dialogue: 0,0:12:07.50,0:12:09.08,Default,Kugisaki,0,0,0,,{\pos(980,1020)}I like your backpack, Fumi.
@@ -164,7 +164,8 @@ Dialogue: 0,0:13:03.89,0:13:07.02,Default,Fumi,0,0,0,,{\i1}Nobara{**-chan} hated
 Dialogue: 0,0:13:08.10,0:13:10.44,Default,Kugisaki,0,0,0,,It's such a small village
 Dialogue: 0,0:13:11.02,0:13:14.94,Default,Kugisaki,0,0,0,,that it's harder to be strangers than friends.
 Dialogue: 0,0:13:17.40,0:13:20.86,Default,Fumi,0,0,0,,{\i1}I thought, "Isn't that a good thing?"
-Dialogue: 0,0:13:22.61,0:13:27.95,Default,Fumi,0,0,0,,{\i1}Several years later, when the old lady next door\N brought red rice to celebrate my first period,
+Dialogue: 0,0:13:22.61,0:13:23.91,Default,Fumi,0,0,0,,{\i1}Several years later,
+Dialogue: 0,0:13:23.91,0:13:27.95,Default,Fumi,0,0,0,,{\i1}when the old lady next door brought red rice\N to celebrate my first period,
 Dialogue: 0,0:13:27.95,0:13:32.96,Default,Fumi,0,0,0,,{\i1}I finally understood the creepiness that Nobara{**-chan} was referring to.
 Dialogue: 0,0:13:36.21,0:13:37.34,Default,Kugisaki,0,0,0,,Fumi!
 Dialogue: 0,0:13:38.51,0:13:40.97,Default,Kugisaki,0,0,0,,I found a secret base!
@@ -178,8 +179,8 @@ Dialogue: 0,0:14:08.45,0:14:11.66,Default,Fumi,0,0,0,,{\i1}Nobara{**-chan}'s so-
 Dialogue: 0,0:14:11.66,0:14:13.42,Default,Kugisaki,0,0,0,,Yahoo!
 Dialogue: 0,0:14:13.42,0:14:15.96,Default,Saori,0,0,0,,Oh, you really did come by!
 Dialogue: 0,0:14:17.34,0:14:19.80,Default,Saori,0,0,0,,Come on in. It's freezing outside.
-Dialogue: 0,0:14:22.26,0:14:24.76,Default,Fumi,0,0,0,,{\i1}Her name was Saori{**-chan}.
-Dialogue: 0,0:14:24.76,0:14:27.89,Default,Fumi,0,0,0,,{\i1}She had moved into the village after I had.
+Dialogue: 0,0:14:22.26,0:14:24.72,Default,Fumi,0,0,0,,{\i1}Her name was Saori{**-chan}.
+Dialogue: 0,0:14:24.72,0:14:27.89,Default,Fumi,0,0,0,,{\i1}She moved into the village after I did.
 Dialogue: 0,0:14:34.44,0:14:37.19,Default,Fumi,0,0,0,,{\i1}We always visited her out of the blue,
 Dialogue: 0,0:14:37.19,0:14:40.40,Default,Fumi,0,0,0,,{\i1}and she always welcomed us with a smile.
 Dialogue: 0,0:14:41.28,0:14:45.41,Default,Fumi,0,0,0,,{\i1}Now that I think about it,\N Saori{**-chan} was always at home, huh.
@@ -190,18 +191,19 @@ Dialogue: 0,0:14:55.17,0:14:57.92,Default,Kugisaki,0,0,0,,Fumi, let me practice 
 Dialogue: 0,0:14:58.63,0:14:59.88,Default,Fumi,0,0,0,,Again?
 Dialogue: 0,0:15:01.42,0:15:05.05,Default,Fumi,0,0,0,,{\i1}Her speech grew softer, and it felt like...
 Dialogue: 0,0:15:05.05,0:15:08.01,Default,Fumi,0,0,0,,{\i1}she started to become more refined.
-Dialogue: 0,0:15:10.18,0:15:16.02,Default,Fumi,0,0,0,,{\i1}We were both outsiders, but me and Saori{**-chan}\N couldn't have been more different.
-Dialogue: 0,0:15:19.82,0:15:24.28,Default,Fumi,0,0,0,,{\i1}A little while after that, things at\N Saori{**-chan}'s house started to look strange.
+Dialogue: 0,0:15:10.18,0:15:16.02,Default,Fumi,0,0,0,,{\i1}We were both outsiders, but me and Saori{**-chan}\N couldn't have been more different. {different as in personality-wise or how they are treated by the villagers?} {it's supposed to work both ways i think}
+Dialogue: 0,0:15:19.77,0:15:21.48,Default,Fumi,0,0,0,,{\i1}A short while after that,
+Dialogue: 0,0:15:21.48,0:15:24.44,Default,Fumi,0,0,0,,{\i1}Saori{**-chan}'s house started to look a little strange.
 Dialogue: 0,0:15:26.41,0:15:28.28,Default,Fumi,0,0,0,,{\i1}It was covered in garbage and graffiti,
 Dialogue: 0,0:15:28.28,0:15:31.03,Default,Fumi,0,0,0,,{\i1}and snow was intentionally piled up in front.
-Dialogue: 0,0:15:31.70,0:15:35.12,Default,Fumi,0,0,0,,{\i1}It made her nice house start to feel unsettling.
+Dialogue: 0,0:15:31.70,0:15:35.16,Default,Fumi,0,0,0,,{\i1}It made her nice house start to feel unsettling.
 Dialogue: 0,0:15:44.67,0:15:46.97,Default,Fumi,0,0,0,,{\i1}Not too long after that,
 Dialogue: 0,0:15:48.93,0:15:50.72,Default,Fumi,0,0,0,,{\i1}Saori{**-chan} moved away.
 Dialogue: 0,0:15:52.47,0:15:55.06,Default,Fumi,0,0,0,,{\i1}I saw her off together with Nobara{**-chan},
 Dialogue: 0,0:15:55.06,0:16:01.52,Default,Fumi,0,0,0,,{\i1}but I can't remember what anyone said\Nor even what the weather was like.
 Dialogue: 0,0:16:02.73,0:16:09.07,Default,Fumi,0,0,0,,{\i1}All I remember is Nobara{**-chan}'s messy face \Nwith tears streaming down.
 Dialogue: 0,0:16:10.99,0:16:12.58,Default,Fumi,0,0,0,,{\i1}"So even she could cry."
-Dialogue: 0,0:16:12.58,0:16:17.66,Default,Fumi,0,0,0,,{\i1}My mind was so shocked that nothing else registered.
+Dialogue: 0,0:16:12.58,0:16:17.71,Default,Fumi,0,0,0,,{\i1}My mind was so shocked that nothing else registered.
 Dialogue: 0,0:16:25.84,0:16:27.59,Default,Fumi,0,0,0,,{\i1}In June of this year,
 Dialogue: 0,0:16:28.97,0:16:32.72,Default,Fumi,0,0,0,,{\i1}Nobara{**-chan} was set to go to a high school in Tokyo.
 Dialogue: 0,0:16:37.39,0:16:41.73,Default,Fumi,0,0,0,,{\i1}{\i1}She fought with her grandma over it,\N and that apparently caused some delays.
@@ -228,7 +230,7 @@ Dialogue: 0,0:18:48.44,0:18:49.61,Default,Senpai,0,0,0,,Parents' job transfer?
 Dialogue: 0,0:18:49.61,0:18:54.45,Default,Saori,0,0,0,,Not really. It's because my mom is obsessed\N with stuff like organics and spirituality.
 Dialogue: 0,0:18:54.45,0:18:56.28,Default,Senpai,0,0,0,,I think I get the picture.
 Dialogue: 0,0:18:58.87,0:19:03.33,Default,Saori,0,0,0,,I met these two girls there,\N about seven years younger than me,
-Dialogue: 0,0:19:03.33,0:19:07.25,Default,Saori,0,0,0,,and this one, Nobara{**-chan}, really took a liking to me.
+Dialogue: 0,0:19:03.33,0:19:07.25,Default,Saori,0,0,0,,and this one, Nobara{**-chan}, {\i1}really{\i0} took a liking to me.
 Dialogue: 0,0:19:09.63,0:19:15.18,Default,Saori,0,0,0,,I'm an only child, so, to me, \NNobara{**-chan} was just the cutest thing ever!
 Dialogue: 0,0:19:15.18,0:19:18.26,Default,Saori,0,0,0,,I put on my best older sister act\N trying to impress them.
 Dialogue: 0,0:19:23.64,0:19:26.02,Default,Saori,0,0,0,,I even made black tea for them.
@@ -246,7 +248,7 @@ Dialogue: 0,0:20:18.53,0:20:20.32,Default,Kugisaki,0,0,0,,{\i1}That was never th
 Dialogue: 0,0:20:21.03,0:20:24.16,Default,Kugisaki,0,0,0,,{\i1}It's just the crazy ones are the loudest.
 Dialogue: 0,0:20:24.16,0:20:27.04,Default,Kugisaki,0,0,0,,{\i1}They make it seem like they're all there is.
 Dialogue: 0,0:20:27.04,0:20:30.21,Default,Kugisaki,0,0,0,,{\i1}Trampling over everything else.
-Dialogue: 0,0:20:38.34,0:20:41.39,Default,Kugisaki,0,0,0,,Though, I guess there can be exceptions. {as in exceptions who stand out above the noise}
+Dialogue: 0,0:20:38.34,0:20:41.39,Default,Kugisaki,0,0,0,,Though, I guess there can be exceptions. {as in those who stand out above the noise}
 Dialogue: 0,0:21:03.99,0:21:05.45,Default,Kugisaki,0,0,0,,Sorry, Fumi.
 Dialogue: 0,0:21:09.83,0:21:12.54,Default,Kugisaki,0,0,0,,I couldn't keep our promise.
 Dialogue: 0,0:21:19.26,0:21:22.55,Default,Kugisaki,0,0,0,,Itadori, tell everyone for me:

@@ -22,7 +22,7 @@ SRC.clip = SRC.clip_cut = SRC.clip_cut[0:33961] + DSNP.clip_cut[33961:34045]
 
 flt = Filter(
     SRC,
-    NO_AA_RANGES = [(ED, ED+2157)],
+    NO_AA_RANGES = [(ED, ED+2157), (14280, 14315)],
     NO_RESCALE_RANGES = [(ED+1973, ED+2134)],
     NO_DENOISE_RANGES = [(ED+1973, ED+2134), (OP, OP+2157)],
     STRONG_DEBAND_RANGES = [(ED+1522, ED+1535), (ED+1552, ED+1567), (ED+1598, ED+1612), (ED+2137, ED+2157)],
