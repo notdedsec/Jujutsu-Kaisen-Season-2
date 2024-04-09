@@ -17,7 +17,7 @@ flt = Filter(
     SRC,
     NO_AA_RANGES = [],
     NO_RESCALE_RANGES = [],
-    NO_DENOISE_RANGES = [(OP, OP+2157), (14295, 14498), (18560, 18637), (19468, 19631), (27364, 27525)],
+    NO_DENOISE_RANGES = [(OP, OP+2157), (2858, 2899), (2948, 2983), (3026, 3055), (14295, 14498), (18560, 18637), (19468, 19631), (27364, 27525)],
     STRONG_DEBAND_RANGES = [(18734, 18741), (18993, 19042), (30003, 30020), (32550, 32933), (33054, 33113)],
     DIMMED_SCENES = {
         (3804, 3836): 1.4,
@@ -118,6 +118,3 @@ if __name__ == '__main__':
     enc.run()
     enc.clean()
     enc.compare()
-
-
-# (888, 965): dict(height=190, shift=3) # skip letterbox
