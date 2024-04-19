@@ -116,7 +116,7 @@ Dialogue: 0,0:11:49.23,0:11:51.23,Default,Geto,0,0,0,,Simple Domain!
 Dialogue: 0,0:11:51.94,0:11:54.98,Default,Geto,0,0,0,,{\i1}A domain neutralizes any deployed techniques.
 Dialogue: 0,0:11:54.98,0:11:58.99,Default,Geto,0,0,0,,{\i1}Attacks inside a domain will always hit,\N even on Gojo Satoru.
 Dialogue: 0,0:11:59.82,0:12:04.24,Default,Geto,0,0,0,,{\i1}It may be a simple one,\N but if a domain is activated from the inside,
-Dialogue: 0,0:12:04.24,0:12:08.87,Default,Geto,0,0,0,,{\i1}even Mahito's technique will be neutralized,\N and he will take damage.
+Dialogue: 0,0:12:04.24,0:12:08.87,Default,Geto,0,0,0,,{\i1}then even Mahito will take damage, \Nregardless of his technique. {in a recent chapter (246) gege said simple_domain doesn't neutralize techniques, and geto never used that specific word either so im changing this line, but the question still remains: what exactly happened here?} {does SD have a sure-hit effect? even if that was the case, the problem was never that the attacks didn't hit, it was that any damage they did was reverted by mahito reinforcing the shape of his soul, so i don't see any way of damaging mahito short of neutralizing his technique} {maybe there's some hint in how other characters manage to harm him}
 Dialogue: 0,0:12:14.34,0:12:17.17,Default,Muta,0,0,0,,Enough spectating from the sidelines,
 Dialogue: 0,0:12:19.05,0:12:20.05,Default,Muta,0,0,0,,Geto!
 Dialogue: 0,0:12:24.35,0:12:26.47,Default,Muta,0,0,0,,{\i1}What a fortunate miscalculation!
