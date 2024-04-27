@@ -20,10 +20,10 @@ Audio File: jjk_45_premux.mkv
 Video File: jjk_45_premux.mkv
 Keyframes File: jjk_45_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 101
-Active Line: 111
-Video Position: 24760
+Video Zoom Percent: 0.750000
+Scroll Position: 97
+Active Line: 99
+Video Position: 20678
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -133,7 +133,7 @@ Dialogue: 0,0:13:30.71,0:13:33.96,Default,Yuji,0,0,0,,{\i1}His body is even toug
 Dialogue: 0,0:13:52.31,0:13:59.07,Default,Mahito,0,0,0,,{\c&HE9FDFE&\3c&H0C1219&}After using Black Flash, I finally\N understand my true, unbridled soul.
 Dialogue: 0,0:13:59.57,0:14:01.49,Default,Yuji,0,0,0,,{\i1}Is that what he meant?!
 Dialogue: 0,0:14:09.87,0:14:11.87,Default,,0,0,0,,{\i1}After his metamorphosis,
-Dialogue: 0,0:14:22.43,0:14:28.01,Default,Yuji,0,0,0,,{\i1}as a cursed spirit, he now stands on a completely different level than he did before! {mirrors the line that todo said}
+Dialogue: 0,0:14:22.43,0:14:27.72,Default,Yuji,0,0,0,,{\i1}as a cursed spirit, \Nhe's become a different beast entirely! {mirrors the line that todo said} {well it sounds kinda cringe and there's no thematic reason why it should mirror that line}
 Dialogue: 0,0:14:59.46,0:15:01.97,Default,Yuji,0,0,0,,{\i1}If I want to defeat this thing,
 Dialogue: 0,0:15:02.97,0:15:07.22,Default,Yuji,0,0,0,,{\i1}I'll have to hit him with a Black Flash\N at my maximum cursed energy.
 Dialogue: 0,0:15:09.60,0:15:11.43,Default,Yuji,0,0,0,,{\i1}That's the only way!
