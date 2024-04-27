@@ -21,7 +21,7 @@ Video File: jjk_45_premux.mkv
 Keyframes File: jjk_45_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 7
+Active Line: 8
 Video Position: 14446
 
 [V4+ Styles]
@@ -30,18 +30,21 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 1,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,,{=0}Climax Jumping
-Dialogue: 1,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,,{\an7\blur1\fscx100\fscy100\c&HFFEEEB&\alpha&H00&\pos(9,0)\p1\t(0,500,\cHF4EBF5)}m 1181.67 1008.04 l 1870 1008.04 1870 1065.61 1181.67 1065.61 1181.67 1035.71
-Dialogue: 2,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,,{\an1\blur0.7\fnRagnar\fs48\fscx110\c&H000000&\alpha&H10&\pos(1234.86,1060.5)}"Climax☆JUMPING!" by Takada
-Comment: 2,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,,{\an1\blur0.7\fnRagnar\fs47\fscx105\c&H000000&\alpha&H10&\pos(1207.86,1060.5)}"Climax☆JUMPING!" by Takada-chan
-Dialogue: 2,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,,{=1}
+Comment: 1,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,,{=16}Climax Jumping
+Dialogue: 1,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,***,{\an7\blur1\fscx100\fscy100\c&HFFEEEB&\alpha&H00&\pos(9,0)\p1\t(0,500,\cHF4EBF5)}m 1181.67 1008.04 l 1870 1008.04 1870 1065.61 1181.67 1065.61 1181.67 1035.71
+Dialogue: 2,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,***,{\an1\blur0.7\fnRagnar\fs48\fscx111\c&H000000&\alpha&H10&\pos(1234.86,1060.5)}"Climax   JUMPING!" by Takada
+Dialogue: 3,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,***,{\blur0.7\fnMonofonto\fs75\fscy90\c&H000000&\1a&H14&\pos(1399.4,1039.6)}☆
+Comment: 1,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,***,{\an7\blur1\fscx104\fscy100\c&HFFEEEB&\alpha&H00&\pos(-39,0)\p1\t(0,500,\cHF4EBF5)}m 1181.67 1008.04 l 1870 1008.04 1870 1065.61 1181.67 1065.61 1181.67 1035.71
+Comment: 2,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,***,{\an1\blur0.7\fnRagnar\fs48\fscx111\c&H000000&\alpha&H10&\pos(1196.86,1060.5)}"Climax   JUMPING!" by Takada-chan
+Comment: 3,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,***,{\blur0.7\fnMonofonto\fs75\fscy90\c&H000000&\1a&H14&\pos(1361.4,1039.6)}☆
+Dialogue: 2,0:10:02.50,0:10:04.75,Signs,Screen,0,0,0,,{=17}
 Comment: 0,0:10:02.50,0:10:50.42,Signs,Screen,0,0,0,,{=4}Todo's imagination
-Dialogue: 1,0:10:02.50,0:10:50.42,Signs,Screen,0,0,0,,{\blur6\bord0\fs52.5\fscx108\c&H000000&\alpha&HA0&\pos(242.37,90.3)}Todo's imagination
-Dialogue: 2,0:10:02.50,0:10:50.42,Signs,Screen,0,0,0,,{\blur0.6\bord0\fs52.5\fscx108\c&HFFFFFF&\pos(242.37,90.3)}Todo's imagination
+Dialogue: 1,0:10:02.50,0:10:50.42,Signs,Screen,0,0,0,,{\blur6\bord0\fs50\fsp2.8\fscx100\c&H000000&\alpha&HA0&\pos(242.37,92.3)}Todo's imagination
+Dialogue: 2,0:10:02.50,0:10:50.42,Signs,Screen,0,0,0,,{\blur0.4\bord0\fs50\fsp2.8\fscx100\c&HFFFFFF&\pos(242.37,92.3)}Todo's imagination
 Dialogue: 0,0:10:02.50,0:10:50.42,Signs,Screen,0,0,0,,{=5}
 Comment: 0,0:15:03.97,0:15:07.22,Signs,Screen,0,0,0,,{=8}Black Flash
 Dialogue: 1,0:15:03.97,0:15:07.22,Signs,Screen,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
-Dialogue: 2,0:15:03.97,0:15:07.22,Signs,Screen,0,0,0,,{\an5\fnTimes New Roman\fs60\pos(960,540)}No sorcerer can unleash a Black Flash at will
+Dialogue: 2,0:15:03.97,0:15:07.22,Signs,Screen,0,0,0,,{\an5\blur0.5\fnTimes New Roman\fs60\pos(960,540)}No sorcerer can unleash a Black Flash at will
 Dialogue: 5,0:15:06.97,0:15:07.01,Signs,Screen,0,0,0,,{\an7\blur2\bord1.4\fscx100\fscy100\c&H2223C8&\3c&H0000FF&\pos(0,0)\p1}m 932.53 491.59 l 931.73 494.46 933.01 496.84 934.92 497.96 944.79 494.93 951.32 503.37 952.75 503.69 956.89 501.46 957.05 500.03 952.44 493.66 952.44 491.43 954.82 489.68 954.51 485.22 951.32 484.9
 Dialogue: 6,0:15:06.97,0:15:07.01,Signs,Screen,0,0,0,,{\an7\blur2\bord0\fscx100\fscy100\c&H00006A&\4a&HFF&\pos(0,0)\p1}m 932.53 491.59 l 931.73 494.46 933.01 496.84 934.92 497.96 944.79 494.93 951.32 503.37 952.75 503.69 956.89 501.46 957.05 500.03 952.44 493.66 952.44 491.43 954.82 489.68 954.51 485.22 951.32 484.9
 Dialogue: 3,0:15:07.01,0:15:07.05,Signs,Screen,0,0,0,,{\an7\blur60\bord6\fscx100\fscy100\c&H1E1D96&\3c&H0000FF&\alpha&H80&\pos(0,0)\p1}m 949.42 608.73 l 954.53 614.57 958.42 615.3 960.85 614.08 961.09 610.68 955.99 604.84 952.09 603.87 949.42 606.06 m 962.5 475.39 l 966.46 476.84 967.23 588.48 999.58 613.48 999.57 616.45 996.33 620.12 994.08 620.3 959.69 591.6 959.68 477.16
@@ -68,13 +71,13 @@ Dialogue: 0,0:23:34.69,0:23:39.90,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs6
 Dialogue: 1,0:23:34.69,0:23:39.90,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Metamorphosis II
 
 [Aegisub Extradata]
-Data: 0,_aegi_folddata,e0;1;1
-Data: 1,_aegi_folddata,e1;1;1
 Data: 4,_aegi_folddata,e0;1;2
 Data: 5,_aegi_folddata,e1;1;2
 Data: 8,_aegi_folddata,e0;1;3
 Data: 9,_aegi_folddata,e1;1;3
-Data: 10,_aegi_folddata,e0;0;3
-Data: 11,_aegi_folddata,e1;0;3
-Data: 12,_aegi_folddata,e0;0;2
-Data: 13,_aegi_folddata,e1;0;2
+Data: 14,_aegi_folddata,e0;0;1
+Data: 15,_aegi_folddata,e1;0;1
+Data: 16,_aegi_folddata,e0;1;1
+Data: 17,_aegi_folddata,e1;1;1
+Data: 20,_aegi_folddata,e0;0;2
+Data: 21,_aegi_folddata,e1;0;2
