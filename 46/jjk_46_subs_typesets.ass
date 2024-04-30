@@ -20,8 +20,9 @@ Audio File: jjk_46_premux.mkv
 Video File: jjk_46_premux.mkv
 Keyframes File: jjk_46_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 345
+Video Zoom Percent: 0.750000
+Scroll Position: 3
+Active Line: 353
 Video Position: 33930
 
 [V4+ Styles]
@@ -48,6 +49,13 @@ Dialogue: 0,0:01:33.11,0:01:37.12,Signs,Screen,0,0,0,,{\an1\blur10\fnAribau Grot
 Dialogue: 1,0:01:33.11,0:01:37.12,Signs,Screen,0,0,0,,{\an1\fnAribau Grotesk\fs80\c&HFFFFFF&\pos(725,928)\b1}Malaysia, Kuala Lumpur
 Dialogue: 0,0:01:33.11,0:01:37.12,Signs,Screen,0,0,0,,
 Dialogue: 0,0:01:33.11,0:01:37.12,Signs,Screen,0,0,0,,{=17}
+Comment: 0,0:01:58.39,0:02:00.39,Signs,Screen,0,0,0,,{=62}Call
+Dialogue: 0,0:01:58.39,0:01:58.56,Signs,Screen,0,0,0,,{\blur0.7\fnFOT-TsukuGo Pro B\fs16\fsp1\frz322.7\fax-0.34\alpha&H30&\pos(731.44,713.21)\b0}Reject                      Accept
+Dialogue: 0,0:01:58.39,0:01:58.60,Signs,Screen,0,0,0,,{\blur0.7\fnFOT-TsukuGo Pro B\fs24\fsp1\frz324.4\fax-0.3\alpha&H36&\pos(992.1,520.36)\b0}Private Number
+Dialogue: 0,0:01:58.60,0:01:58.64,Signs,Screen,0,0,0,,{\blur0.7\fnFOT-TsukuGo Pro B\fs24\fsp1\frz327.2\fax-0.3\alpha&H36&\pos(1116.1,515.36)\b0}Private Number
+Dialogue: 0,0:01:58.64,0:01:58.72,Signs,Screen,0,0,0,,{\blur0.7\fnFOT-TsukuGo Pro B\fs26.5\fsp1\frz309.3\fax-0.02\alpha&H36&\pos(1398.48,535.74)\b0}Private Number
+Dialogue: 0,0:01:58.72,0:01:58.81,Signs,Screen,0,0,0,,{\blur0.7\fnFOT-TsukuGo Pro B\fs34\fsp1\frz291.6\fax0.22\alpha&H36&\pos(1653.52,612.02)\b0}Private Number
+Dialogue: 0,0:01:58.39,0:02:00.39,Signs,Screen,0,0,0,,{=63}
 Comment: 0,0:03:21.68,0:03:25.02,Signs,Screen,0,0,0,,{=22}Shin-toshin Line Platform
 Dialogue: 0,0:03:21.68,0:03:25.02,Signs,Screen,0,0,0,,{\fade(0,400)\an7\fscx26\fscy75\pos(-82.52,160.86)\p1}m 677 880 l 1800 880 1800 999 677 999 677 900
 Dialogue: 0,0:03:21.68,0:03:25.02,Signs,Screen,0,0,0,,{\fade(0,400)\an7\fscx77\fscy75\pos(-110.52,160.86)\p1}m 677 880 l 1300 880 1300 999 677 999 677 900
@@ -370,7 +378,7 @@ Dialogue: 3,0:12:43.45,0:12:43.54,Signs,Screen,0,0,0,,{=48}{\blur0.7\fnBarthowhe
 Dialogue: 3,0:12:43.54,0:12:43.58,Signs,Screen,0,0,0,,{=48}{\blur0.7\fnBarthowheel\fs40\frz25.38\c&H000000&\alpha&H00&\pos(303.88,245.72)}I'm a Gorilla right now
 Dialogue: 0,0:12:41.37,0:12:43.58,Signs,Screen,0,0,0,,{=53}
 Comment: 0,0:13:52.81,0:13:54.56,Signs,Kamo,0,0,0,,{=56}Noritoshi Kamo
-Dialogue: 1,0:13:52.81,0:13:54.56,Signs,Kamo,0,0,0,,{\fade(484,0)\blur0.55\bord3\fnHuiFont\fs36\fsp2\c&H101115&\3c&HEEEEF1&\pos(506,339.32)\b1\frz4.608}K{\fs32}amo Noritoshi
+Dialogue: 1,0:13:52.81,0:13:54.56,Signs,Kamo,0,0,0,,{\fade(484,0)\blur0.55\bord3\fnHuiFont\fs36\fsp2\c&H101115&\t(400,500,\cHEEEEF1)\3c&HEEEEF1&\pos(506,339.32)\b1\frz4.608}K{\fs32}amo Noritoshi
 Dialogue: 2,0:13:52.81,0:13:54.56,Signs,Kamo,0,0,0,,{\fade(484,0)\blur0.75\fnHuiFont\fs36\fsp2\c&H101115&\3c&HFFFFFF&\pos(506,339.32)\b1\frz4.608}K{\fs32}amo Noritoshi
 Dialogue: 3,0:13:52.81,0:13:54.56,Signs,Kamo,0,0,0,,{\fade(484,0)\blur0.75\fnHuiFont\fs36\fsp2\c&H101115&\3c&HFFFFFF&\pos(506,339.32)\b1\frz4.608}K{\fs32}amo Noritoshi
 Dialogue: 0,0:13:52.81,0:13:54.56,Signs,Kamo,0,0,0,,{=57}
@@ -399,7 +407,15 @@ Data: 50,a-mo,e{"uuid"#3A"ca8b181d-2877-4965-99d3-9f76f262d69e"#2C"originalText"
 Data: 51,a-mo,e{"uuid"#3A"510a6151-e44e-4a7f-b6dd-ace6645ac098"#2C"originalText"#3A"{\\alpha&H30&\\fade(400#2C0)\\fs40\\blur18\\fnBarthowheel\\pos(293.96#2C322.32)\\frz25.38}I'm a Gorilla right now"}
 Data: 52,_aegi_folddata,e0;1;5
 Data: 53,_aegi_folddata,e1;1;5
-Data: 54,_aegi_folddata,e0;0;7
-Data: 55,_aegi_folddata,e1;0;7
 Data: 56,_aegi_folddata,e0;1;7
 Data: 57,_aegi_folddata,e1;1;7
+Data: 62,_aegi_folddata,e0;1;8
+Data: 63,_aegi_folddata,e1;1;8
+Data: 66,_aegi_folddata,e0;0;8
+Data: 67,_aegi_folddata,e1;0;8
+Data: 68,_aegi_folddata,e0;0;3
+Data: 69,_aegi_folddata,e1;0;3
+Data: 70,_aegi_folddata,e0;0;7
+Data: 71,_aegi_folddata,e1;0;7
+Data: 72,_aegi_folddata,e0;0;5
+Data: 73,_aegi_folddata,e1;0;5

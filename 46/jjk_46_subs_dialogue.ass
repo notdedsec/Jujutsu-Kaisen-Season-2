@@ -21,8 +21,9 @@ Video File: jjk_46_premux.mkv
 Keyframes File: jjk_46_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 2
-Video Position: 1173
+Scroll Position: 137
+Active Line: 145
+Video Position: 20602
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,7 +36,7 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:31.97,0:00:33.97,Default,Panda,0,0,0,,Kusakabe?
 Dialogue: 0,0:00:35.77,0:00:39.77,Default,Panda,0,0,0,,Hey! Kusakabe!
-Dialogue: 0,0:00:47.40,0:00:49.49,Default,Panda,0,0,0,,Found you!
+Dialogue: 0,0:00:47.40,0:00:49.49,Default,Panda,0,0,0,,Found ya!
 Dialogue: 0,0:00:52.37,0:00:53.87,Default,Kusakabe,0,0,0,,Panda.
 Dialogue: 0,0:00:53.87,0:00:56.66,Default,Kusakabe,0,0,0,,This is very different from what I was told.
 Dialogue: 0,0:00:57.00,0:00:57.73,Default,Panda,0,0,0,,Huh?
@@ -87,21 +88,21 @@ Dialogue: 0,0:04:14.65,0:04:20.53,Default,Geto,0,0,0,,They believed that a giant
 Dialogue: 0,0:04:31.21,0:04:32.84,Default,Yuji,0,0,0,,What just happened?!
 Dialogue: 0,0:04:34.30,0:04:36.21,Default,Geto,0,0,0,,It felt like you were falling, right?
 Dialogue: 0,0:04:36.97,0:04:41.47,Default,Geto,0,0,0,,From the outside, it looked like \Nyou took a little tumble.
-Dialogue: 0,0:04:43.71,0:04:46.98,Default,Geto,0,0,0,,The strength of Curse Manipulation\N lies in its wealth of options.
-Dialogue: 0,0:04:47.64,0:04:50.81,Default,Geto,0,0,0,,I can utilize multiple cursed spirits\N semi-first grade or higher,
-Dialogue: 0,0:04:50.81,0:04:57.53,Default,Geto,0,0,0,,and if you analyze and overcome their techniques, I can just send out new cursed spirits again.
+Dialogue: 0,0:04:43.68,0:04:46.98,Default,Geto,0,0,0,,The strength of Curse Manipulation\N lies in its wealth of options.
+Dialogue: 0,0:04:47.60,0:04:50.81,Default,Geto,0,0,0,,I can utilize multiple cursed spirits\N semi-first grade or higher.
+Dialogue: 0,0:04:50.81,0:04:57.53,Default,Geto,0,0,0,,If you analyze and overcome their techniques,\N I can just send out new ones.
 Dialogue: 0,0:04:58.90,0:05:03.16,Default,Geto,0,0,0,,Of course, I can also simply pile on attacks\N without giving you any time for that.
 Dialogue: 0,0:05:12.13,0:05:13.75,Default,Yuji,0,0,0,,This won't...
-Dialogue: 0,0:05:21.34,0:05:23.26,Default,Geto,0,0,0,,During last year's Night Parade of a Hundred Demons,
+Dialogue: 0,0:05:21.34,0:05:23.26,Default,Geto,0,0,0,,During last year's Night Parade \Nof a Hundred Demons,
 Dialogue: 0,0:05:23.26,0:05:30.48,Default,Geto,0,0,0,,if his forces hadn't been divided across Shinjuku and Kyoto,\N he would have won instead of Okkotsu.
-Dialogue: 0,0:05:31.92,0:05:35.02,Default,Geto,0,0,0,,Though, I suppose that had nothing to do with you.
+Dialogue: 0,0:05:31.92,0:05:35.02,Default,Geto,0,0,0,,Though, I suppose you had nothing to do with that.
 Dialogue: 0,0:05:37.48,0:05:38.74,Default,Yuji,0,0,0,,Give him back!
 Dialogue: 0,0:05:39.19,0:05:42.32,Default,Geto,0,0,0,,I should say that even I am impressed.
 Dialogue: 0,0:05:42.32,0:05:45.58,Default,Geto,0,0,0,,Sukuna's vessel sure is tough.
 Dialogue: 0,0:05:49.62,0:05:51.16,Default,Mahito,0,0,0,,I always knew.
 Dialogue: 0,0:05:51.75,0:05:56.96,Default,Mahito,0,0,0,,I was born from you humans, after all.
 Dialogue: 0,0:06:35.50,0:06:36.96,Default,Geto,0,0,0,,Shall we continue?
-Dialogue: 0,0:06:39.55,0:06:42.26,Default,Geto,0,0,0,,Let us discuss the world to come.
+Dialogue: 0,0:06:39.55,0:06:42.30,Default,Geto,0,0,0,,Let us discuss the world to come.
 Comment: 0,0:06:45.97,0:06:46.01,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:08:15.93,0:08:15.98,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:08:18.14,0:08:21.06,Default,Geto,0,0,0,,Are you familiar with Maximum techniques?
@@ -121,20 +122,20 @@ Dialogue: 0,0:09:26.80,0:09:33.05,Default,Geto,0,0,0,,It's when the technique is
 Dialogue: 0,0:09:33.05,0:09:36.60,Default,Geto,0,0,0,,that Uzumaki truly shines.
 Dialogue: 0,0:09:48.15,0:09:49.65,Default,Geto,0,0,0,,How foolish.
 Dialogue: 0,0:09:50.65,0:09:55.66,Default,Geto,0,0,0,,Did you think I wouldn't notice what you're up to? {Did you think I wouldn't\N notice something that you could?} {Did you think you could send a signal without me noticing?}
-Dialogue: 0,0:10:00.48,0:10:01.58,Default,Kamo,0,0,0,,It's the signal!
-Dialogue: 0,0:10:01.58,0:10:04.88,Default,Kamo,0,0,0,,Our target is directly below Nishimiya!
+Dialogue: 0,0:10:00.48,0:10:01.58,Default,Kamo,0,0,0,,{\i1}It's the signal!
+Dialogue: 0,0:10:01.58,0:10:04.88,Default,Kamo,0,0,0,,{\i1}Our target is directly below Nishimiya!
 Dialogue: 0,0:10:24.19,0:10:24.90,Default,Mai,0,0,0,,Tch.
 Dialogue: 0,0:10:26.42,0:10:29.32,Default,Geto,0,0,0,,A sniper rifle? Nice.
-Dialogue: 0,0:10:30.15,0:10:36.53,Default,Geto,0,0,0,,I'm also of the mindset that it is wise to use conventional weapons when dealing with sorcerers. {actively?}
+Dialogue: 0,0:10:30.15,0:10:36.53,Default,Geto,0,0,0,,I'm also of the mindset that it is wise to use\N conventional weapons against sorcerers. {actively?}
 Dialogue: 0,0:10:37.41,0:10:40.54,Default,Miwa,0,0,0,,{\i1}Back when I was captain of the\N youth basketball team,
 Dialogue: 0,0:10:40.54,0:10:44.17,Default,Miwa,0,0,0,,{\i1}I remember my mother\N would often dye my hair black.
 Dialogue: 0,0:10:45.12,0:10:47.42,Default,Miwa,0,0,0,,{\i1}In middle school, I met my mentor.
 Dialogue: 0,0:10:47.42,0:10:51.67,Default,Miwa,0,0,0,,{\i1}I had never held so much as a wooden sword,\N let alone a real one.
-Dialogue: 0,0:10:51.67,0:10:54.43,Default,Miwa,0,0,0,,{\i1}And yet, I still chose to become a sorcerer.
-Dialogue: 0,0:10:55.18,0:10:57.43,Default,Miwa,0,0,0,,{\i1}I swung my sword relentlessly.
-Dialogue: 0,0:10:57.85,0:11:00.68,Default,Miwa,0,0,0,,{\i1}Because I didn't want to be a burden on my mother.
-Dialogue: 0,0:11:02.48,0:11:04.73,Default,Miwa,0,0,0,,{\i1}I swung my sword relentlessly.
-Dialogue: 0,0:11:08.36,0:11:10.36,Default,Miwa,0,0,0,,{\i1}Because I didn't want to die.
+Dialogue: 0,0:10:51.67,0:10:54.47,Default,Miwa,0,0,0,,{\i1}And yet, I still chose to become a sorcerer.
+Dialogue: 0,0:10:55.09,0:10:57.43,Default,Miwa,0,0,0,,{\i1}I swung my sword relentlessly,
+Dialogue: 0,0:10:57.85,0:11:00.76,Default,Miwa,0,0,0,,{\i1}because I didn't want to be a burden on my mother.
+Dialogue: 0,0:11:02.48,0:11:04.73,Default,Miwa,0,0,0,,{\i1}I swung my sword relentlessly,
+Dialogue: 0,0:11:08.36,0:11:10.36,Default,Miwa,0,0,0,,{\i1}because I didn't want to die.
 Dialogue: 0,0:11:11.23,0:11:12.94,Default,Miwa,0,0,0,,New Shadow Style:
 Dialogue: 0,0:11:13.36,0:11:14.49,Default,Miwa,0,0,0,,{\i1}I'll put in everything!
 Dialogue: 0,0:11:15.53,0:11:19.37,Default,Miwa,0,0,0,,{\i1}My past, present, as well as my future!
@@ -143,11 +144,11 @@ Dialogue: 0,0:11:24.21,0:11:25.46,Default,Miwa,0,0,0,,Quick Draw!
 Dialogue: 0,0:11:38.51,0:11:40.43,Default,Geto,0,0,0,,Maximum:
 Dialogue: 0,0:11:43.06,0:11:44.77,Default,Geto,0,0,0,,Uzumaki.
 Dialogue: 0,0:11:46.94,0:11:47.81,Default,Yuji,0,0,0,,Wait!
-Dialogue: 0,0:12:09.63,0:12:13.09,Default,Geto,0,0,0,,New Shadow Style? Impressive.
-Dialogue: 0,0:12:13.88,0:12:16.80,Default,Geto,0,0,0,,It's nice facing someone with a bit of knowledge.
+Dialogue: 0,0:12:09.63,0:12:13.09,Default,Geto,0,0,0,,New Shadow Style? Good.
+Dialogue: 0,0:12:13.84,0:12:16.97,Default,Geto,0,0,0,,It's nice to see someone who knows a thing or two.
 Dialogue: 0,0:12:23.14,0:12:24.56,Default,Miwa,0,0,0,,{*}Mr. Kusakabe{*Kusakabe-san}!
 Dialogue: 0,0:12:24.89,0:12:27.73,Default,Momo,0,0,0,,You shouldn't be out in front!
-Dialogue: 0,0:12:27.73,0:12:29.60,Default,Utahime,0,0,0,,We didn't have a choice!
+Dialogue: 0,0:12:27.73,0:12:29.60,Default,Utahime,0,0,0,,I didn't have a choice! {this is about her specifically since she's supposed to be doing her tiktok dance which provides stat buffs}
 Dialogue: 0,0:12:33.69,0:12:35.49,Default,Panda,0,0,0,,Itadori.
 Dialogue: 0,0:12:35.94,0:12:37.70,Default,Panda,0,0,0,,It's you, right?
 Dialogue: 0,0:12:38.45,0:12:40.20,Default,Yuji,0,0,0,,Panda{**-senpai}!
@@ -163,8 +164,8 @@ Dialogue: 0,0:13:27.80,0:13:30.42,Default,Choso,0,0,0,,I have three parents.
 Dialogue: 0,0:13:30.85,0:13:31.99,Default,Choso,0,0,0,,My mother,
 Dialogue: 0,0:13:31.99,0:13:34.25,Default,Choso,0,0,0,,the cursed spirit who impregnated her,
 Dialogue: 0,0:13:34.25,0:13:37.30,Default,Choso,0,0,0,,and the man who mixed his blood into the affair.
-Dialogue: 0,0:13:38.13,0:13:40.22,Default,Choso,0,0,0,,The one who toyed with my mother.
-Dialogue: 0,0:13:40.59,0:13:42.26,Default,Choso,0,0,0,,The one I loathe.
+Dialogue: 0,0:13:38.09,0:13:40.55,Default,Choso,0,0,0,,The one who toyed with my mother.
+Dialogue: 0,0:13:40.55,0:13:42.26,Default,Choso,0,0,0,,The one I loathe.
 Dialogue: 0,0:13:42.80,0:13:44.43,Default,Geto,0,0,0,,It appears you have noticed.
 Dialogue: 0,0:13:45.10,0:13:46.93,Default,Choso,0,0,0,,So that's the deal?!
 Dialogue: 0,0:13:48.18,0:13:50.43,Default,Choso,0,0,0,,Kamo Noritoshi!
@@ -175,10 +176,10 @@ Dialogue: 0,0:13:55.06,0:13:57.48,Default,Momo,0,0,0,,Huh?! What is he talking a
 Dialogue: 0,0:13:57.48,0:13:59.19,Default,Utahime,0,0,0,,The stain on the Kamo clan!
 Dialogue: 0,0:13:59.19,0:14:01.45,Default,Utahime,0,0,0,,The vilest sorcerer in all history!
 Dialogue: 0,0:14:01.96,0:14:06.49,Default,Utahime,0,0,0,,If that's true, then what's inside Geto\N would be over 150 years old!
-Dialogue: 0,0:14:07.83,0:14:10.04,Default,Kusakabe,0,0,0,,{\i1}Ridiculous barrier techniques.
-Dialogue: 0,0:14:10.04,0:14:12.85,Default,Kusakabe,0,0,0,,{\i1}Ridiculously powerful cursed tools.
-Dialogue: 0,0:14:12.85,0:14:17.59,Default,Kusakabe,0,0,0,,{\i1}For a mastermind with a cursed technique\N that lets him take over other bodies... {As far as masterminds with a cursed technique to take over other bodies goes...}
-Dialogue: 0,0:14:17.59,0:14:19.84,Default,Kusakabe,0,0,0,,That seems appropriate, yeah.
+Dialogue: 0,0:14:07.83,0:14:10.04,Default,Kusakabe,0,0,0,,{\i1}Ridiculous barrier techniques. {ig this refers to the commissioned veil}
+Dialogue: 0,0:14:10.04,0:14:12.85,Default,Kusakabe,0,0,0,,{\i1}Ridiculously powerful cursed tools. {but what cursed tool is he talking about here? playful cloud from the movie? i didnt see him use any cursed tool this season} {he says jutsugu not jugu, so he's not really talking about "Cursed Tools" but "cursed tools" as in referring to "tools" in a broader sense which would include cursed objects like the prison realm}
+Dialogue: 0,0:14:12.85,0:14:17.59,Default,Kusakabe,0,0,0,,{\i1}And a body-switching cursed technique \Nfitting for a mastermind...
+Dialogue: 0,0:14:17.59,0:14:19.84,Default,Kusakabe,0,0,0,,It all adds up, yeah.
 Dialogue: 0,0:14:20.76,0:14:24.47,Default,Geto,0,0,0,,Kamo Noritoshi is but one of my many names.
 Dialogue: 0,0:14:24.47,0:14:26.35,Default,Geto,0,0,0,,Call me whatever you like.
 Dialogue: 0,0:14:27.26,0:14:28.97,Default,Choso,0,0,0,,How dare you...
@@ -189,7 +190,8 @@ Dialogue: 0,0:14:46.16,0:14:47.24,Default,Choso,0,0,0,,Move it!
 Dialogue: 0,0:14:47.24,0:14:49.99,Default,Choso,0,0,0,,I'm his big brother! {change the "watch me" line in E37 too}
 Comment: 0,0:14:55.00,0:14:55.04,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:15:07.68,0:15:10.60,Default,Choso,0,0,0,,{\i1}It's an effect of my technique.
-Dialogue: 0,0:15:11.14,0:15:16.73,Default,Choso,0,0,0,,{\i1}I can sense any change in my blood-related siblings,\N no matter how far away they are.
+Dialogue: 0,0:15:11.10,0:15:13.89,Default,Choso,0,0,0,,{\i1}Because we're connected by blood,
+Dialogue: 0,0:15:13.89,0:15:17.52,Default,Choso,0,0,0,,{\i1}I can sense any change in my brothers\N no matter how far they are.
 Dialogue: 0,0:15:26.74,0:15:28.58,Default,Choso,0,0,0,,My younger brothers are dead.
 Dialogue: 0,0:15:29.53,0:15:30.58,Default,Choso,0,0,0,,{\i1}Death.
 Dialogue: 0,0:15:30.58,0:15:35.21,Default,Choso,0,0,0,,{\i1}It's the last and greatest change for any living being.
@@ -201,7 +203,7 @@ Dialogue: 0,0:16:00.27,0:16:07.07,Default,Choso,0,0,0,,{\i1}Then I must put in e
 Dialogue: 0,0:16:07.74,0:16:09.95,Default,Kamo,0,0,0,,Blood Manipulation?!
 Dialogue: 0,0:16:13.29,0:16:15.00,Default,Kamo,0,0,0,,So much pressure!
 Dialogue: 0,0:16:20.25,0:16:21.17,Default,Uraume,0,0,0,,{\i1}It's fast!
-Dialogue: 0,0:16:21.67,0:16:23.59,Default,Uraume,0,0,0,,{\i1}So this is Piercing Blood?!
+Dialogue: 0,0:16:21.67,0:16:23.59,Default,Uraume,0,0,0,,{\i1}So this is Piercing Blood?! {hate this line}
 Dialogue: 0,0:16:59.29,0:17:00.12,Default,Choso,0,0,0,,Tch!
 Dialogue: 0,0:18:27.18,0:18:28.84,Default,Geto,0,0,0,,Don't push yourself.
 Dialogue: 0,0:18:29.13,0:18:30.67,Default,Geto,0,0,0,,You're exhausted.
@@ -214,9 +216,9 @@ Dialogue: 0,0:18:53.32,0:18:56.41,Default,Panda,0,0,0,,You emitting some weird p
 Dialogue: 0,0:18:57.78,0:18:59.87,Default,Kamo,0,0,0,,Still, he has created a disturbance.
 Dialogue: 0,0:19:00.37,0:19:02.25,Default,Kamo,0,0,0,,We must use it to our advantage.
 Dialogue: 0,0:19:02.25,0:19:03.50,Default,Yuji,0,0,0,,Right.
-Dialogue: 0,0:19:03.50,0:19:06.58,Default,Panda,0,0,0,,I've still got two cores left, so I'll go out in front.
+Dialogue: 0,0:19:03.50,0:19:06.58,Default,Panda,0,0,0,,I've still got two cores left,\N so I'll go out in front.
 Dialogue: 0,0:19:06.58,0:19:09.63,Default,Panda,0,0,0,,If we all attack at once,\N we can at least create an opening.
-Dialogue: 0,0:19:10.59,0:19:13.88,Default,Panda,0,0,0,,We must retrieve the Prison Realm at all costs!
+Dialogue: 0,0:19:10.59,0:19:13.88,Default,Panda,0,0,0,,We gotta retrieve the Prison Realm at all costs!
 Dialogue: 0,0:19:22.14,0:19:23.14,Default,Panda,0,0,0,,Drumming{\fscx180}—{\fscx}
 Dialogue: 0,0:19:24.60,0:19:28.48,Default,Uraume,0,0,0,,Ice Formation: Frost Calm.
 Dialogue: 0,0:19:35.29,0:19:36.88,Default,Kamo,0,0,0,,{\i1}An ice-based technique?!
@@ -229,17 +231,17 @@ Dialogue: 0,0:19:50.75,0:19:53.42,Default,Uraume,0,0,0,,Is that any reason to le
 Dialogue: 0,0:19:57.01,0:19:58.97,Default,Kusakabe,0,0,0,,{\i1}Reverse cursed technique!
 Dialogue: 0,0:19:58.97,0:20:02.02,Default,Kusakabe,0,0,0,,{\i1}Their sorcery is on an entirely different scale.
 Dialogue: 0,0:20:02.02,0:20:04.06,Default,Kusakabe,0,0,0,,{\i1}I wanna go home!
-Dialogue: 0,0:20:04.56,0:20:06.73,Default,Choso,0,0,0,,This ice isn't enough!
-Dialogue: 0,0:20:07.15,0:20:08.90,Default,Choso,0,0,0,,Flowing Red Scale!
+Dialogue: 0,0:20:04.56,0:20:07.10,Default,Choso,0,0,0,,This much ice isn't enough!
+Dialogue: 0,0:20:07.10,0:20:09.06,Default,Choso,0,0,0,,Flowing Red Scale!
 Dialogue: 0,0:20:12.90,0:20:15.07,Default,Uraume,0,0,0,,Then how much is?
 Dialogue: 0,0:20:22.83,0:20:24.58,Default,Uraume,0,0,0,,Whose body do you think that is?!
 Dialogue: 0,0:20:24.58,0:20:27.00,Default,Yuji,0,0,0,,{\i1}I was the only one who wasn't frozen as solid!
 Dialogue: 0,0:20:27.00,0:20:28.67,Default,Yuji,0,0,0,,{\i1}Must have to do with Sukuna!
-Dialogue: 0,0:20:29.66,0:20:31.21,Default,Yuji,0,0,0,,You're our ally, right?
+Dialogue: 0,0:20:29.62,0:20:31.21,Default,Yuji,0,0,0,,You're our ally, right?
 Dialogue: 0,0:20:31.21,0:20:32.07,Default,Choso,0,0,0,,No!
 Dialogue: 0,0:20:32.07,0:20:32.96,Default,Yuji,0,0,0,,Huh?!
 Dialogue: 0,0:20:33.55,0:20:36.05,Default,Choso,0,0,0,,I'm your big brother.
-Dialogue: 0,0:20:36.05,0:20:37.97,Default,Yuji,0,0,0,,Take this seriously, would ya?!
+Dialogue: 0,0:20:36.05,0:20:38.30,Default,Yuji,0,0,0,,Take this seriously, would ya?!
 Dialogue: 0,0:20:38.30,0:20:41.11,Default,Choso,0,0,0,,Why don't you try saying it once?
 Dialogue: 0,0:20:41.11,0:20:42.60,Default,Choso,0,0,0,,Call me "{*}Big Brother{*Onii-chan}."
 Dialogue: 0,0:20:44.22,0:20:45.77,Default,Momo,0,0,0,,Tool Manipulation:
@@ -252,14 +254,14 @@ Dialogue: 0,0:20:59.07,0:21:02.53,Default,Momo,0,0,0,,We need to buy time for {*
 Dialogue: 0,0:21:03.20,0:21:05.16,Default,Uraume,0,0,0,,If you need a messenger,
 Dialogue: 0,0:21:07.11,0:21:10.54,Default,Uraume,0,0,0,,then Itadori Yuji alone should suffice!
 Dialogue: 0,0:21:11.38,0:21:14.25,Default,Uraume,0,0,0,,Ice Formation: Icefall!
-Dialogue: 0,0:21:26.18,0:21:26.93,Default,Yuji,0,0,0,,We're gonna die!
+Dialogue: 0,0:21:26.18,0:21:26.93,Default,Yuji,0,0,0,,{\i1}We're gonna die!
 Dialogue: 0,0:21:34.36,0:21:37.49,Default,Tsukumo,0,0,0,,Long time no see, Geto{**-kun}.
-Dialogue: 0,0:21:40.61,0:21:43.91,Default,Tsukumo,0,0,0,,Could I get your answer to that question I asked you?
-Dialogue: 0,0:21:46.04,0:21:48.75,Default,Tsukumo,0,0,0,,What type of women do you like?
-Dialogue: 0,0:21:51.71,0:21:53.79,Default,Geto,0,0,0,,Tsukumo Yuki!
+Dialogue: 0,0:21:40.57,0:21:44.49,Default,Tsukumo,0,0,0,,Could I get your answer to that question I asked you?
+Dialogue: 0,0:21:46.04,0:21:48.79,Default,Tsukumo,0,0,0,,What type of women do you like?
+Dialogue: 0,0:21:51.67,0:21:53.83,Default,Geto,0,0,0,,Tsukumo Yuki!
 Comment: 0,0:21:55.00,0:21:55.04,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:24.97,0:23:25.01,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:25.64,0:23:30.60,Default,Tsukumo,0,0,0,,{\an8}When one person's happiness conflicts with another's,\N that's when unhappiness is born,
-Dialogue: 0,0:23:30.60,0:23:35.14,Default,Tsukumo,0,0,0,,{\an8}but when people's unhappiness conflicts,\N it just creates more unhappiness!
+Dialogue: 0,0:23:25.64,0:23:30.60,Default,Tsukumo,0,0,0,,{\an8}When one person's happiness conflicts with another's,\N that's when unhappiness is born.
+Dialogue: 0,0:23:30.60,0:23:35.14,Default,Tsukumo,0,0,0,,{\an8}But when people's unhappiness conflicts,\N it just creates more unhappiness!
 Dialogue: 0,0:23:35.14,0:23:37.48,Default,Tsukumo,0,0,0,,{\an8}Next time, Shibuya Incident: Gate, Close.
 Dialogue: 0,0:23:37.48,0:23:39.65,Default,Tsukumo,0,0,0,,{\an8}I just wanna crawl into a warm bed and sleep!
