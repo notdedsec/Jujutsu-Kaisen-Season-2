@@ -89,7 +89,7 @@ Dialogue: 0,0:05:16.25,0:05:19.05,Default,Geto,0,0,0,,All right, that settles it
 Dialogue: 0,0:05:19.05,0:05:20.30,Default,Geto,0,0,0,,Die! {timing}
 Dialogue: 0,0:06:01.51,0:06:03.89,Default,Geto,0,0,0,,{\i1}Rainbow Dragon has the toughest hide there is!
 Dialogue: 0,0:06:12.14,0:06:14.10,Default,Toji,0,0,0,,Curse Manipulation.
-Dialogue: 0,0:06:15.06,0:06:16.31,Default,Toji,0,0,0,,Just a bunch of rabble. {Wrong usage of the word "rabble"? Rabble refers to a group of people of a certain unruly type.} {he's talking about the curses from curse manipulation}
+Dialogue: 0,0:06:15.06,0:06:16.31,Default,Toji,0,0,0,,Just some riffraff. {Wrong usage of the word "rabble"? Rabble refers to a group of people of a certain unruly type.} {he's talking about the curses from curse manipulation} {"riffraff" is the word geto later uses in the movie which he picked up from toji when he says this line} {and also "monkeys" a bit later}
 Dialogue: 0,0:06:29.33,0:06:31.08,Cursed,Splitmouth,0,0,0,,Tell me...
 Dialogue: 0,0:06:31.08,0:06:33.50,Cursed,Splitmouth,0,0,0,,Am... Am I...
 Dialogue: 0,0:06:33.96,0:06:35.46,Cursed,Splitmouth,0,0,0,,pretty?
@@ -111,7 +111,7 @@ Dialogue: 0,0:07:30.51,0:07:32.93,Default,Geto,0,0,0,,{\i1}I can consume it. Tha
 Dialogue: 0,0:07:34.06,0:07:35.44,Default,Geto,0,0,0,,{\i1}Then I just need to keep attacking{\fscx180}—{\fscx}
 Dialogue: 0,0:08:03.42,0:08:06.47,Default,Toji,0,0,0,,I didn't cut you badly enough to kill you.
 Dialogue: 0,0:08:06.47,0:08:11.39,Default,Toji,0,0,0,,I would have if you were a cursed beast user,\N but you use Curse Manipulation. {split}
-Dialogue: 0,0:08:11.80,0:08:15.81,Default,Toji,0,0,0,,Who knows what might happen to \Nall the curses you've consumed after you die.
+Dialogue: 0,0:08:11.80,0:08:15.81,Default,Toji,0,0,0,,Who knows what might happen to \Nall the curses you've absorbed after you die.
 Dialogue: 0,0:08:17.18,0:08:19.77,Default,Toji,0,0,0,,I don't want any extra work at this point.
 Dialogue: 0,0:08:20.40,0:08:22.77,Default,Toji,0,0,0,,You have your parents' blessings.
 Dialogue: 0,0:08:22.77,0:08:30.32,Default,Toji,0,0,0,,But even you guys, with all your blessed talents,\N lost to a monkey who can't even use sorcery. {very similar to the line that geto says in the movie} {join}
