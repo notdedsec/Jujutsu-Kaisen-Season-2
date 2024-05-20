@@ -20,10 +20,10 @@ Audio File: jjk_47_premux.mkv
 Video File: jjk_47_premux.mkv
 Keyframes File: jjk_47_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 75
-Active Line: 93
-Video Position: 14443
+Video Zoom Percent: 0.625000
+Scroll Position: 208
+Active Line: 216
+Video Position: 28299
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,7 +47,7 @@ Dialogue: 0,0:02:32.92,0:02:36.09,Default,Tsukumo,0,0,0,,That's what I told Geto
 Dialogue: 0,0:02:37.05,0:02:38.68,Default,Tsukumo,0,0,0,,Well, whatever.
 Dialogue: 0,0:02:39.64,0:02:41.85,Default,Tsukumo,0,0,0,,I went back to my original idea.
 Dialogue: 0,0:02:41.85,0:02:45.69,Default,Tsukumo,0,0,0,,Besides, there's one big flaw in your optimization plan.
-Dialogue: 0,0:02:45.69,0:02:51.32,Default,Tsukumo,0,0,0,,Extremely few sorcerers and cursed spirits\N emerge outside of Japan.
+Dialogue: 0,0:02:45.69,0:02:51.32,Default,Tsukumo,0,0,0,,Extremely few sorcerers and curses\N emerge outside of Japan.
 Dialogue: 0,0:02:52.36,0:02:57.45,Default,Tsukumo,0,0,0,,Tengen's barrier is indispensable \Nto your optimization plan.
 Dialogue: 0,0:02:58.62,0:03:00.74,Default,Tsukumo,0,0,0,,And using Tengen {to optimize cursed energy }would mean
 Dialogue: 0,0:03:00.74,0:03:06.08,Default,Tsukumo,0,0,0,,the only ones capable of becoming sorcerers\N would be the humans of this country.
@@ -56,17 +56,17 @@ Dialogue: 0,0:03:12.17,0:03:16.59,Default,Tsukumo,0,0,0,,No country, especially 
 Dialogue: 0,0:03:17.22,0:03:24.02,Default,Tsukumo,0,0,0,,If flesh-and-blood humans become a source of energy,\N it's easy to imagine the suffering that would bring.
 Dialogue: 0,0:03:26.52,0:03:30.52,Default,Tsukumo,0,0,0,,That is a world far removed from the ideal I pursue.
 Dialogue: 0,0:03:32.82,0:03:34.15,Default,Geto,0,0,0,,And what about it?
-Dialogue: 0,0:03:34.94,0:03:37.41,Default,Geto,0,0,0,,Our objectives are different.
+Dialogue: 0,0:03:34.94,0:03:37.41,Default,Geto,0,0,0,,Our objectives are not the same.
 Dialogue: 0,0:03:37.99,0:03:43.16,Default,Geto,0,0,0,,What I pursue is not a world without\N cursed spirits nor any sort of idyllic peace.
 Dialogue: 0,0:03:43.54,0:03:46.79,Default,Geto,0,0,0,,Non-sorcerers, sorcerers, cursed spirits.
 Dialogue: 0,0:03:46.79,0:03:52.55,Default,Geto,0,0,0,,Those are all possibilities for \Nthe shape of cursed energy that is mankind. {oof}
 Dialogue: 0,0:03:54.38,0:03:58.55,Default,Geto,0,0,0,,And yet, I feel there must be more to it than that. {Though that shouldn't be anywhere near the full extent.}
 Dialogue: 0,0:03:59.05,0:04:03.93,Default,Geto,0,0,0,,I tried to give rise to other possibilities\N for mankind on my own.
 Dialogue: 0,0:04:07.94,0:04:10.61,Default,Geto,0,0,0,,But it didn't work out. {failure.gif}
-Dialogue: 0,0:04:10.61,0:04:15.19,Default,Geto,0,0,0,,{\pos(956,1020)}What I can create is limited\N by the bounds of my own potential.
+Dialogue: 0,0:04:10.61,0:04:15.19,Default,Geto,0,0,0,,{\pos(955.8,1020)}What I can create is limited\N by the bounds of my own potential.
 Dialogue: 0,0:04:15.90,0:04:21.57,Default,Geto,0,0,0,,What I wanted was always \h\Nglimmering in the darkness of chaos.
 Dialogue: 0,0:04:21.91,0:04:23.33,Default,Geto,0,0,0,,Do you understand?
-Dialogue: 0,0:04:23.33,0:04:28.41,Default,Geto,0,0,0,,What I should have created was chaos\N that went beyond my own control.
+Dialogue: 0,0:04:23.33,0:04:28.41,Default,Geto,0,0,0,,{\pos(959.4,1020)}What I should have created\N was chaos that went beyond my own control.
 Dialogue: 0,0:04:29.08,0:04:32.42,Default,Geto,0,0,0,,I just finished extracting the technique for it. {so he was also stalling this whole time? just like yuki? just like me? that's genius!}
 Dialogue: 0,0:04:34.75,0:04:36.76,Default,Tsukumo,0,0,0,,There was a cursed spirit called Mahito, right?!
 Dialogue: 0,0:04:36.76,0:04:39.30,Default,Tsukumo,0,0,0,,The one whose technique could manipulate souls!
@@ -91,14 +91,14 @@ Dialogue: 0,0:06:38.59,0:06:42.34,Default,Geto,0,0,0,,As of this moment, I've re
 Dialogue: 0,0:06:43.13,0:06:48.47,Default,Geto,0,0,0,,{\pos(970,1020)}Some were left bedridden\N due to my cursed energy when I marked them, {both cr and perry took Ls for this line}
 Dialogue: 0,0:06:48.47,0:06:50.72,Default,Geto,0,0,0,,{\pos(970,1020)}but they will soon awaken.
 Dialogue: 0,0:06:51.81,0:06:58.02,Default,Geto,0,0,0,,In order to deepen their understanding of cursed energy,\NI'll have them kill each other.
-Dialogue: 0,0:06:58.65,0:07:01.78,Default,Geto,0,0,0,,I've carefully hand-picked\N these people and cursed objects.
+Dialogue: 0,0:06:58.65,0:07:01.78,Default,Geto,0,0,0,,They're all carefully hand-picked by me.
 Dialogue: 0,0:07:01.78,0:07:06.66,Default,Geto,0,0,0,,Think of it as unleashing a thousand \Nmalevolent Itadori Yujis. {???}
 Dialogue: 0,0:07:07.37,0:07:10.70,Default,Tsukumo,0,0,0,,A thousand? That's not too many.
 Dialogue: 0,0:07:10.70,0:07:13.87,Default,Tsukumo,0,0,0,,You're underestimating human rationality.
 Dialogue: 0,0:07:13.87,0:07:18.38,Default,Tsukumo,0,0,0,,Do you think people will start killing each other\N just because they were granted power?
 Dialogue: 0,0:07:18.38,0:07:21.25,Default,Geto,0,0,0,,There's an order to everything.
 Dialogue: 0,0:07:21.25,0:07:24.97,Default,Geto,0,0,0,,I would not make such an obvious oversight.
-Dialogue: 0,0:07:25.55,0:07:27.89,Default,Geto,0,0,0,,You're asking pointless questions.
+Dialogue: 0,0:07:25.55,0:07:27.89,Default,Geto,0,0,0,,You're asking pointless questions now.
 Dialogue: 0,0:07:31.01,0:07:33.56,Default,Tsukumo,0,0,0,,He's pissing me off. Let's all gang up on him!
 Dialogue: 0,0:07:33.56,0:07:35.89,Default,Yuji,0,0,0,,Sorry, I can't move right now.
 Dialogue: 0,0:07:42.44,0:07:44.61,Default,Geto,0,0,0,,What's the matter, Uraume?
@@ -133,7 +133,7 @@ Dialogue: 0,0:10:25.02,0:10:28.71,Default,Announcer,0,0,0,,{\an8}The following w
 Dialogue: 0,0:10:28.71,0:10:33.36,Default,Announcer,0,0,0,,{\an8}reporting on another matter \Nat the time of the incident in Tokyo.
 Dialogue: 0,0:10:33.36,0:10:35.03,Default,Announcer,0,0,0,,{\an8}Please have a look.
 Dialogue: 0,0:10:36.45,0:10:40.70,Default,Reporter,0,0,0,,{\an8}So it's been about ten minutes since the blackout.
-Dialogue: 0,0:10:40.70,0:10:45.88,Default,Reporter,0,0,0,,{\an8}The blackout continues and the cause remains unknown.
+Dialogue: 0,0:10:40.70,0:10:45.88,Default,Reporter,0,0,0,,{\an8}The blackout continues and the cause remains unknown. {the text on screen says govt has declared that this is caused by cursed spirits but the reporter says she doesn't know what's going on?} {this isn't live footage, it was recorded previously by the aforementioned crew} {istg i saw a sign that said it's LIVE though} {okay... so during that scene it was LIVE at that time, i.e. last night, this is the next day}
 Dialogue: 0,0:10:45.88,0:10:49.50,Default,Reporter,0,0,0,,{\an8}We still can't contact the station.
 Dialogue: 0,0:10:49.50,0:10:53.67,Default,Reporter,0,0,0,,{\an8}We have practically no idea what's going on.
 Dialogue: 0,0:10:41.04,0:10:44.33,Default,OldMan,0,0,0,,Looks like something {\i1}real{\i0} crazy is going down!
@@ -162,7 +162,7 @@ Dialogue: 0,0:11:44.14,0:11:52.48,Default,Official(Male),0,0,0,,The only places 
 Dialogue: 0,0:11:52.48,0:11:54.11,Default,Official(Male),0,0,0,,Safe for now, you mean.
 Dialogue: 0,0:11:54.11,0:11:57.20,Default,Official(Male),0,0,0,,The number of cursed spirits unleashed\N is no less than ten million.
 Dialogue: 0,0:11:57.20,0:12:00.70,Default,Official(Female),0,0,0,,You want to enact an evacuation order\N on every ward of the entire city?
-Dialogue: 0,0:12:00.70,0:12:03.12,Default,Official(Female),0,0,0,,Afterward, we declare the wards forbidden to entry.
+Dialogue: 0,0:12:00.70,0:12:03.12,Default,Official(Female),0,0,0,,After that, we declare the wards forbidden to entry.
 Dialogue: 0,0:12:03.12,0:12:05.37,Default,Official(Female),0,0,0,,Make it a real uninhabited zone.
 Dialogue: 0,0:12:05.37,0:12:08.87,Default,Official(Female),0,0,0,,And what about the announcement? Who's making it?
 Dialogue: 0,0:12:08.87,0:12:11.88,Default,Official(Male),0,0,0,,Less "who" and more "how" to make it.
@@ -195,7 +195,7 @@ Dialogue: 0,0:13:17.40,0:13:23.49,Default,Official(Male),0,0,0,,So the goal is t
 Dialogue: 0,0:13:23.49,0:13:27.91,Default,Official(Male),0,0,0,,This is why I recommended Itami as a potential\N relocation site after Kansai Airport was built!
 Dialogue: 0,0:13:27.91,0:13:30.21,Default,Official(Male),0,0,0,,Maybe it's better this way?
 Dialogue: 0,0:13:30.21,0:13:33.83,Default,Official(Male),0,0,0,,It wouldn't have come to this\N if the bureaucracy was functioning.
-Dialogue: 0,0:13:36.59,0:13:39.84,Default,Reporter,0,0,0,,{\an8}So we are once again sharing the latest.
+Dialogue: 0,0:13:36.59,0:13:39.84,Default,Reporter,0,0,0,,{\an8}So we are once again sharing the latest. {this scene is in fact the latest and shows live footage}
 Dialogue: 0,0:13:39.84,0:13:44.39,Default,Reporter,0,0,0,,{\an8}The blackout still continues,\N and we're unable to contact anyone. {so they can't contact anyone but live broadcast works huh?}
 Dialogue: 0,0:13:44.39,0:13:48.60,Default,Reporter,0,0,0,,{\an8}There's been no official announcement either, \Nso the cause remains unknown.
 Dialogue: 0,0:13:48.60,0:13:50.85,Default,Reporter,0,0,0,,{\an8}The question is, how long will this{\fscx180}—{\fscx}
@@ -211,7 +211,7 @@ Dialogue: 0,0:15:42.42,0:15:43.63,Cursed,Woman,0,0,0,,Come.
 Dialogue: 0,0:15:44.09,0:15:45.42,Cursed,Woman,0,0,0,,Come.
 Dialogue: 0,0:15:45.88,0:15:47.76,Cursed,Woman,0,0,0,,It's dangerous here.
 Dialogue: 0,0:15:57.44,0:15:59.90,Cursed,Woman,0,0,0,,I have a warm bath.
-Dialogue: 0,0:16:05.15,0:16:07.61,Cursed,Woman,0,0,0,,I can sing songs, too.
+Dialogue: 0,0:16:05.15,0:16:07.61,Cursed,Woman,0,0,0,,I can sing, too.
 Dialogue: 0,0:16:13.66,0:16:15.41,Default,Girl,0,0,0,,What about my mom?
 Dialogue: 0,0:16:17.96,0:16:20.54,Cursed,Woman,0,0,0,,Your mom and dad,
 Dialogue: 0,0:16:20.54,0:16:24.84,Cursed,Woman,0,0,0,,your sister, brother, \Nand your teacher are all here.
@@ -222,11 +222,11 @@ Dialogue: 0,0:16:36.14,0:16:40.60,Cursed,Woman,0,0,0,,And I hate my teacher.
 Dialogue: 0,0:16:41.98,0:16:44.57,Default,Girl,0,0,0,,Are you okay? Need a drink?
 Dialogue: 0,0:16:49.57,0:16:52.57,Cursed,Woman,0,0,0,,Give me.
 Dialogue: 0,0:17:27.15,0:17:28.07,Default,Okkotsu,0,0,0,,Sorry.
-Dialogue: 0,0:17:29.78,0:17:31.15,Default,Okkotsu,0,0,0,,Did I scare you?
+Dialogue: 0,0:17:29.78,0:17:31.15,Default,Okkotsu,0,0,0,,Did I scare you? {this has a nice double meaning for us viewers as "scare" is interchangeable with "surprise" here}
 Dialogue: 0,0:17:34.07,0:17:35.08,Default,Okkotsu,0,0,0,,Are you hurt?
 Dialogue: 0,0:17:38.16,0:17:40.12,Default,Okkotsu,0,0,0,,Is someone with you?
 Dialogue: 0,0:17:41.46,0:17:43.71,Default,Okkotsu,0,0,0,,Like your mom or dad?
-Dialogue: 0,0:17:45.17,0:17:46.38,Default,Girl,0,0,0,,I don't know.
+Dialogue: 0,0:17:45.17,0:17:46.38,Default,Girl,0,0,0,,I dunno.
 Dialogue: 0,0:17:47.55,0:17:49.97,Default,Okkotsu,0,0,0,,{\i1}It's all commercial buildings in this area.
 Dialogue: 0,0:17:49.97,0:17:51.68,Default,Okkotsu,0,0,0,,{\i1}I doubt she's from around here.
 Dialogue: 0,0:17:53.34,0:17:54.85,Default,Okkotsu,0,0,0,,Did you walk a lot?
@@ -246,7 +246,7 @@ Dialogue: 0,0:19:07.63,0:19:09.46,Default,Leader,0,0,0,,Good work, Okkotsu.
 Dialogue: 0,0:19:09.46,0:19:11.80,Default,Okkotsu,0,0,0,,I'm not here for hollow praise.
 Dialogue: 0,0:19:11.80,0:19:13.76,Default,Okkotsu,0,0,0,,Let's get to the point.
 Dialogue: 0,0:19:15.09,0:19:19.22,Default,Okkotsu,0,0,0,,Now you know that I'll obey your orders, right?
-Dialogue: 0,0:19:21.22,0:19:25.48,Default,Leader,0,0,0,,No amount of killing curses will prove anything.
+Dialogue: 0,0:19:21.22,0:19:25.48,Default,Leader,0,0,0,,No amount of killing cursed spirits will prove anything.
 Dialogue: 0,0:19:26.73,0:19:29.61,Default,Okkotsu,0,0,0,,Then set up a Binding Vow or whatever you need.
 Dialogue: 0,0:19:30.40,0:19:33.19,Default,Okkotsu,0,0,0,,I don't care if he's one of {*}Mr. Gojo{*Gojo-sensei}'s students.
 Dialogue: 0,0:19:34.53,0:19:38.66,Default,Okkotsu,0,0,0,,He cut off Inumaki{**-kun}'s arms in Shibuya. {> off screen}
