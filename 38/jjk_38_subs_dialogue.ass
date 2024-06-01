@@ -121,7 +121,7 @@ Dialogue: 0,0:10:14.76,0:10:20.18,Default,Naobito,0,0,0,,do you know how many fr
 Dialogue: 0,0:10:20.18,0:10:23.02,Default,Dagon,0,0,0,,It's not "cursed spirit." I am Dagon.
 Dialogue: 0,0:10:23.02,0:10:27.61,Default,Naobito,0,0,0,,These days it's all about the highest\N resolutions and frame rates.
 Dialogue: 0,0:10:27.61,0:10:31.61,Default,Dagon,0,0,0,,There's Hanami, Jogo, and Mahito, too.
-Dialogue: 0,0:10:31.61,0:10:37.16,Default,Naobito,0,0,0,,4K upscales and 60fps interpolation.
+Dialogue: 0,0:10:31.61,0:10:37.16,Default,Naobito,0,0,0,,4K upscaling and 60fps interpolation.
 Dialogue: 0,0:10:37.16,0:10:38.62,Default,Dago,0,0,0,,We all...
 Dialogue: 0,0:10:38.62,0:10:43.37,Default,Naobito,0,0,0,,Some people like it and that's fine,\N as long as it's not bothering others.
 Dialogue: 0,0:10:43.37,0:10:49.42,Default,Naobito,0,0,0,,TVs these days, however, come with their\N damn frame interpolation enabled by default!
@@ -150,7 +150,7 @@ Dialogue: 0,0:12:47.12,0:12:49.96,Default,Naobito,0,0,0,,But of course, you can 
 Dialogue: 0,0:12:49.96,0:12:52.58,Default,Naobito,0,0,0,,I'd flee up high, too. {he doesn't move his mouth but he's def supposed to be speaking this out loud because he mentions it later} {or maybe only the previous line was said out loud}
 Dialogue: 0,0:12:56.55,0:12:58.80,Default,Dagon,0,0,0,,{\i1}I can't activate my technique!
 Dialogue: 0,0:13:06.77,0:13:08.18,Default,Dagon,0,0,0,,{\i1}This man...
-Dialogue: 0,0:13:08.98,0:13:11.02,Default,Dagon,0,0,0,,{\i1}It's this man's fault!
+Dialogue: 0,0:13:08.98,0:13:11.02,Default,Dagon,0,0,0,,{\i1}It's because of him!
 Dialogue: 0,0:13:20.61,0:13:22.03,Default,Dagon,0,0,0,,{\i1}He's fast!
 Dialogue: 0,0:13:22.03,0:13:24.41,Default,Dagon,0,0,0,,{\i1}Faster than Jogo, even!
 Dialogue: 0,0:13:31.54,0:13:33.25,Default,Narrator,0,0,0,,Projection Sorcery.
