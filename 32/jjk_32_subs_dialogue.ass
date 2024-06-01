@@ -100,20 +100,18 @@ Dialogue: 0,0:06:03.63,0:06:04.89,Default,Mei,0,0,0,,which would you prefer?
 Dialogue: 0,0:06:06.35,0:06:09.64,Default,Mei,0,0,0,,Knowing you, I would bet it's the latter.
 Dialogue: 0,0:06:13.73,0:06:15.90,Default,Mei,0,0,0,,Here's a map of the underground station.
 Dialogue: 0,0:06:16.27,0:06:21.11,Default,Mei,0,0,0,,The transfigured humans are mulling about\N and attacking people on level B4.
-Dialogue: 0,0:06:23.61,0:06:27.41,Default,Mei,0,0,0,,I think most of the civilians are at the platform on level B5.
+Dialogue: 0,0:06:23.61,0:06:27.41,Default,Mei,0,0,0,,I think most civilians are at the platform on level B5.
 Dialogue: 0,0:06:28.66,0:06:29.74,Default,Yuji,0,0,0,,You're not sure?
 Dialogue: 0,0:06:29.74,0:06:35.92,Default,Mei,0,0,0,,My crows are infused with cursed energy,\N so they couldn't enter B5.
 Dialogue: 0,0:06:36.33,0:06:41.46,Default,Mei,0,0,0,,I'm guessing their plan is to force people to flee to B5.
 Dialogue: 0,0:06:42.05,0:06:47.43,Default,Mei,0,0,0,,Also, my crows were hunted down between B1 and B2.
 Dialogue: 0,0:06:47.43,0:06:51.43,Default,Mei,0,0,0,,That is where the one casting the Veil is.
-Comment: 0,0:06:52.06,0:06:58.06,Default,Mei,0,0,0,,Do they plan to kill anyone who tries to escape, \Nor is it just the Veil's conditions?
-Comment: 0,0:06:58.06,0:06:59.98,Default,Mei,0,0,0,,It's unclear why they picked this location.
-Dialogue: 0,0:06:52.06,0:06:55.69,Default,Mei,0,0,0,,It's unclear why they picked this specific location.
-Dialogue: 0,0:06:55.69,0:06:59.98,Default,Mei,0,0,0,,Do they plan to kill anyone who tries to escape, \Nor is it just the Veil's conditions?
-Dialogue: 0,0:06:59.98,0:07:04.07,Default,Mei,0,0,0,,We don't even know what they\N hope to achieve by isolating level B5.
-Dialogue: 0,0:07:06.49,0:07:08.32,Default,Yuji,0,0,0,,He's here, isn't he?
-Dialogue: 0,0:07:08.32,0:07:12.04,Default,Yuji,0,0,0,,Down there somewhere.
-Dialogue: 0,0:07:12.58,0:07:14.33,Default,Mei,0,0,0,,I'm not sure.
+Dialogue: 0,0:06:52.02,0:06:58.15,Default,Mei,0,0,0,,Do they plan to kill anyone who tries to escape?\N Is it related to the Veil's conditions?
+Dialogue: 0,0:06:58.15,0:07:04.07,Default,Mei,0,0,0,,It's unclear why they picked this location \Nand what they hope to achieve by isolating B5.
+Dialogue: 0,0:07:06.41,0:07:08.32,Default,Yuji,0,0,0,,He's here, isn't he?
+Dialogue: 0,0:07:08.32,0:07:10.87,Default,Yuji,0,0,0,,Right below us.
+Dialogue: 0,0:07:10.87,0:07:12.58,Default,Yuji,0,0,0,,That bastard.
+Dialogue: 0,0:07:12.91,0:07:14.33,Default,Mei,0,0,0,,I'm not sure.
 Dialogue: 0,0:07:14.33,0:07:19.21,Default,Mei,0,0,0,,My crows all got killed before I could confirm Patchface.
 Dialogue: 0,0:07:19.21,0:07:23.59,Default,Mei,0,0,0,,Though the presence of transfigured humans\N would suggest that is likely.
 Dialogue: 0,0:07:24.34,0:07:27.01,Default,Mei,0,0,0,,I'm not so sure about splitting up,
@@ -241,8 +239,8 @@ Dialogue: 0,0:17:12.39,0:17:13.64,Default,Geto,0,0,0,,You see,
 Dialogue: 0,0:17:15.47,0:17:17.31,Default,Geto,0,0,0,,it's when he's alone.
 Dialogue: 0,0:17:18.48,0:17:20.73,Default,Jogo,0,0,0,,We'll kill them either way!
 Dialogue: 0,0:17:22.27,0:17:23.15,Default,Youths,0,0,0,,{\an8}Stop it!
-Dialogue: 0,0:17:23.15,0:17:24.36,Default,,0,0,0,,{\an8}Hey!
-Dialogue: 0,0:17:24.36,0:17:25.82,Default,,0,0,0,,{\an8}Watch out!
+Dialogue: 0,0:17:23.15,0:17:24.36,Default,Youths,0,0,0,,{\an8}Hey!
+Dialogue: 0,0:17:24.36,0:17:25.82,Default,Youths,0,0,0,,{\an8}Watch out!
 Dialogue: 0,0:17:26.23,0:17:27.82,Default,Jogo,0,0,0,,It doesn't matter if you run.
 Dialogue: 0,0:17:32.07,0:17:34.07,Default,Gojo,0,0,0,,Get back or you'll die.
 Dialogue: 0,0:17:34.07,0:17:37.33,Default,Gojo,0,0,0,,{\i1}So that's why they blocked the exits.
@@ -251,7 +249,7 @@ Dialogue: 0,0:17:41.92,0:17:46.59,Default,Geto,0,0,0,,Any sorcerer alongside him
 Dialogue: 0,0:17:46.59,0:17:51.72,Default,Geto,0,0,0,,So we'll surround him with non-sorcerers\N who are even weaker.
 Dialogue: 0,0:18:09.61,0:18:11.45,Default,Choso,0,0,0,,Blood Manipulation:
 Dialogue: 0,0:18:11.86,0:18:13.45,Default,Choso,0,0,0,,Slicing Exorcism.
-Dialogue: 0,0:18:28.38,0:18:29.88,Default,,0,0,0,,Take this!
+Dialogue: 0,0:18:28.38,0:18:29.88,Default,Jogo&Hanami,0,0,0,,Take this!
 Dialogue: 0,0:18:34.05,0:18:39.01,Default,Geto,0,0,0,,Cursed technique reversal outputs\N at least twice as much energy as amplification.
 Dialogue: 0,0:18:39.01,0:18:42.93,Default,Geto,0,0,0,,Using it without harming non-sorcerers\N would be next to impossible.
 Dialogue: 0,0:18:42.93,0:18:47.90,Default,Geto,0,0,0,,He won't be able to use Blue at an output\N that is effective against you either.
@@ -271,7 +269,7 @@ Dialogue: 0,0:20:11.61,0:20:15.49,Default,Jogo,0,0,0,,What do we do about his In
 Dialogue: 0,0:20:15.49,0:20:22.16,Default,Geto,0,0,0,,The only ones unaffected by Infinite Void\N are Gojo Satoru himself and anyone he's in contact with.
 Dialogue: 0,0:20:22.74,0:20:29.92,Default,Geto,0,0,0,,Hypothetically speaking, even if\N he is skilled enough to selectively trap you all,
 Dialogue: 0,0:20:29.92,0:20:35.17,Default,Geto,0,0,0,,most non-sorcerers would get crushed to death\N between his domain and the Veil.
-Dialogue: 0,0:20:35.71,0:20:39.93,Default,Geto,0,0,0,,I'd say chances are ninety-nine percent \Nthat he won't use his domain. {lit: expand his domain. i would've used this phrase if it didnt sound so awkward}
+Dialogue: 0,0:20:35.71,0:20:39.93,Default,Geto,0,0,0,,I'd say chances are 99%\N that he won't use his domain. {lit: expand his domain. i would've used this phrase if it didnt sound so awkward}
 Dialogue: 0,0:20:40.84,0:20:44.60,Default,Geto,0,0,0,,However, that means you mustn't \Nuse your domains either.
 Dialogue: 0,0:20:44.60,0:20:51.69,Default,Geto,0,0,0,,If a lot of non-sorcerers end up trapped in your domain,\N he might give up on them and use his own too.
 Dialogue: 0,0:20:51.69,0:20:55.69,Default,Geto,0,0,0,,And I assume you already know\N who will win in a clash between domains.
