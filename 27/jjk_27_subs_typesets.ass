@@ -4450,19 +4450,19 @@ Dialogue: 3,0:05:41.95,0:05:41.99,Signs,ScreenBottomRight,0,0,0,,{\pos(1101.35,7
 Dialogue: 3,0:05:41.99,0:05:42.03,Signs,ScreenBottomRight,0,0,0,,{\pos(1101.35,781.33)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
 Dialogue: 3,0:05:42.03,0:05:42.07,Signs,ScreenBottomRight,0,0,0,,{\pos(1101.35,780.74)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
 Dialogue: 3,0:05:42.07,0:05:42.11,Signs,ScreenBottomRight,0,0,0,,{=145}{\pos(1101.35,780.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 0,0:12:55.21,0:12:57.09,Signs,Screen,0,0,0,,{=146}{\blur0.64\an4\pos(1068.2,291.56)\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:55.21,0:12:57.09,Signs,Screen,0,0,0,,{=146}{\blur0.64\an4\pos(1068.2,291.56)\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:55.21,0:12:57.09,Signs,Screen,0,0,0,,{\blur0.64\pos(1120.68,519.92)\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.09,0:12:57.21,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1071.84,338.83)\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.09,0:12:57.21,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1071.84,338.83)\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.09,0:12:57.21,Signs,Screen,0,0,0,,{\blur0.64\pos(1122.86,552.65)\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.21,0:12:57.34,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1075.93,362.1)\fscy96\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.21,0:12:57.34,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1075.93,362.1)\fscy96\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.21,0:12:57.34,Signs,Screen,0,0,0,,{\blur0.64\pos(1129.41,569.65)\fscy96\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.34,0:12:57.46,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1077.93,394.1)\fscy92\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.34,0:12:57.46,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1077.93,394.1)\fscy92\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.34,0:12:57.46,Signs,Screen,0,0,0,,{\blur0.64\pos(1131.41,591.65)\fscy92\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.46,0:12:57.59,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1085.48,467.28)\fscy80\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.46,0:12:57.59,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1085.48,467.28)\fscy80\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.46,0:12:57.59,Signs,Screen,0,0,0,,{\blur0.64\pos(1135.5,634.1)\fscy80\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.59,0:12:57.67,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1085.21,541.46)\fscy64\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.59,0:12:57.67,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1085.21,541.46)\fscy64\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.59,0:12:57.67,Signs,Screen,0,0,0,,{\blur0.64\pos(1139.14,677.74)\fscy60\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.67,0:12:57.76,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1077.67,742.19)\fscy24\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.67,0:12:57.76,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1077.67,742.19)\fscy24\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.67,0:12:57.76,Signs,Screen,0,0,0,,{=147}{\blur0.64\pos(1130.91,800)\fscy20\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
 Dialogue: 0,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(957,1041)\fnRiiTegakiFude\fs45\b1\bord5.25\c&HEBEBEB&\3c&HEBEBEB&\blur0.6}Escort Mission Day 2
 Dialogue: 1,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(957,1041)\fnRiiTegakiFude\fs45\b1\c&H373835&\3c&HFFFFFF&\blur0.72}Escort Mission Day 2
@@ -5283,7 +5283,7 @@ Dialogue: 4,0:06:19.19,0:06:19.23,Signs,Screen,0,0,0,,{\pos(1628.09,778.6)\fnAve
 Dialogue: 4,0:06:19.23,0:06:19.28,Signs,Screen,0,0,0,,{\pos(1628.09,778.78)\fnAveria Sans\fs48\b1\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
 Dialogue: 4,0:06:19.28,0:06:19.32,Signs,Screen,0,0,0,,{\pos(1628.09,778.94)\fnAveria Sans\fs48\b1\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
 Dialogue: 4,0:06:19.32,0:06:19.36,Signs,Screen,0,0,0,,{=159}{\pos(1628.09,779.1)\fnAveria Sans\fs48\b1\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 0,0:09:29.71,0:09:31.97,Signs,Screen,0,0,0,,{\pos(964,406)\fnIwata Mincho Old Pro-Fate B\fs80\blur0.38}Tokyo Jujutsu Tech, Foothills of Mt. Mushiro
+Dialogue: 0,0:09:29.72,0:09:31.97,Signs,Screen,0,0,0,,{\pos(964,406)\fnIwata Mincho Old Pro-Fate B\fs80\blur0.38}Tokyo Jujutsu Tech, Foothills of Mt. Mushiro
 Dialogue: 0,0:09:33.47,0:09:38.22,Signs,Screen,0,0,0,,{\pos(958,407)\fnIwata Mincho Old Pro-Fate B\fs80\blur0.38}Escort Mission Day 3   15:00
 Dialogue: 0,0:23:49.66,0:23:56.25,Signs,,0,0,0,,{\pos(960,800)\fnRagnar\fs60\b1\bord6\c&H000000&\blur6}Next Episode\N{\fs70}Hidden Inventory IV
 Dialogue: 1,0:23:49.66,0:23:56.25,Signs,,0,0,0,,{\pos(960,800)\fnRagnar\fs60\b1\blur0.4}Next Episode\N{\fs70}Hidden Inventory IV
