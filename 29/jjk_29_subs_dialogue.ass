@@ -199,10 +199,9 @@ Dialogue: 0,0:11:01.18,0:11:03.06,Default,Tsukumo,0,0,0,,Looks like I missed him
 Dialogue: 0,0:11:03.64,0:11:06.90,Default,Tsukumo,0,0,0,,I hope the three of us can all get along\N as fellow special-grades.
 Dialogue: 0,0:11:08.19,0:11:11.28,Default,Geto,0,0,0,,I'll pass that along to Satoru.
 Dialogue: 0,0:11:11.61,0:11:14.32,Default,Tsukumo,0,0,0,,Oh, right, one last thing.
-Dialogue: 0,0:11:14.32,0:11:17.20,Default,Tsukumo,0,0,0,,You don't need to worry about the Star Plasma Vessel.
-Dialogue: 0,0:11:17.20,0:11:20.91,Default,Tsukumo,0,0,0,,Maybe there was another Star Plasma Vessel at the time,
-Dialogue: 0,0:11:20.91,0:11:24.12,Default,Tsukumo,0,0,0,,or maybe a new Star Plasma Vessel has been born.
-Dialogue: 0,0:11:24.96,0:11:28.08,Default,Tsukumo,0,0,0,,Either way, Tengen is stabilized.
+Dialogue: 0,0:11:14.32,0:11:17.20,Default,Tsukumo,0,0,0,,You don't need to worry about \Nthe Star Plasma Vessel.
+Dialogue: 0,0:11:17.20,0:11:24.16,Default,Tsukumo,0,0,0,,Maybe there was another Star Plasma Vessel all along,\N or maybe a new one has been born.
+Dialogue: 0,0:11:24.96,0:11:28.21,Default,Tsukumo,0,0,0,,Either way, Tengen is stabilized.
 Dialogue: 0,0:11:32.25,0:11:33.46,Default,Geto,0,0,0,,Of course. {I'm sure.}
 Dialogue: 0,0:11:34.47,0:11:37.38,Default,Tsukumo,0,0,0,,Oh, I didn't get his type. {Okay, hear me out: tilde}{never}
 Comment: 0,0:11:38.09,0:11:38.14,Default,chptr,0,0,0,,{Part B}
