@@ -4,7 +4,7 @@ from typing import List, Tuple, Optional
 from vsscale import SSIM
 from vskernels import BicubicDidee
 from vsrgtools import lehmer_diff_merge
-from vstools import initialize_clip, replace_ranges, core
+from vstools import initialize_clip, replace_ranges, match_clip, core
 from vardautomation import FileInfo, VPath, Preset, PresetType, PresetBD, PresetEAC3, PresetAAC
 
 from kaisen_common.utils import circle_mask
@@ -125,11 +125,13 @@ class Source:
 
     def replace(self, replacement: str, repl_start: int, main_start: int, duration: int):
         assert self.FILE
-        main_clip = self.FILE.clip_cut
+        main_clip = initialize_clip(self.FILE.clip_cut)
 
         repl_file = FileInfo(self.ROOT / replacement)
-        repl_clip = initialize_clip(repl_file.clip_cut)
-        repl_clip = repl_clip.std.AssumeFPS(fpsnum=24000, fpsden=1001)
+        repl_clip = match_clip(repl_file.clip_cut, main_clip)
+
+        if len(repl_clip) == 1:
+            repl_clip *= main_clip.num_frames
 
         if repl_clip.height > 1080:
             repl_clip = SSIM(sigmoid=True, kernel=BicubicDidee()).scale(repl_clip, 1920, 1080)
