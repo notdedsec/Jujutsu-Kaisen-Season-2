@@ -180,7 +180,7 @@ Dialogue: 0,0:13:10.89,0:13:14.61,Default,Yuji,0,0,0,,{\i1}I was about to use my
 Dialogue: 0,0:13:18.11,0:13:20.24,Default,Nanami,0,0,0,,You've got it from here.
 Dialogue: 0,0:13:20.95,0:13:22.61,Default,Yuji,0,0,0,,Black Flash!
 Dialogue: 0,0:13:32.67,0:13:37.84,Default,Yuji,0,0,0,,{\i1\fade(0,120)}I'll be sure to take on your share of suffering too{, Nanamin}.
-Dialogue: 0,0:13:44.69,0:13:46.39,Default,Mahito,0,0,0,,Not dead yet, huh? {soyjak_pointing.jpg}
+Dialogue: 0,0:13:44.68,0:13:46.39,Default,Mahito,0,0,0,,Not dead yet, huh? {soyjak_pointing.jpg}
 Dialogue: 0,0:13:55.73,0:13:57.48,Default,Todo,0,0,0,,Welcome back.
 Dialogue: 0,0:13:57.48,0:13:58.36,Default,Yuji,0,0,0,,Yeah!
 Comment: 0,0:14:00.03,0:14:00.07,Default,chptr,0,0,0,,{Part B}

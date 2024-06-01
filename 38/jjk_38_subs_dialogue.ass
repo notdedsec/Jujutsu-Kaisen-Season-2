@@ -161,22 +161,22 @@ Dialogue: 0,0:13:45.43,0:13:47.06,Default,Narrator,0,0,0,,While activating the t
 Dialogue: 0,0:13:47.06,0:13:54.06,Default,Narrator,0,0,0,,anyone touched by Naobito's hand must also define their actions in steps of 1/24th of a second.
 Dialogue: 0,0:13:54.06,0:13:59.15,Default,Narrator,0,0,0,,Failing to do so would cause their movement to stutter,\N freezing them for one second.
 Dialogue: 0,0:14:02.11,0:14:03.78,Default,Narrator,0,0,0,,It does have its risks.
-Dialogue: 0,0:14:04.57,0:14:08.28,Default,Narrator,0,0,0,,The actions defined cannot be edited halfway through. {Once started, the defined\N course of actions cannot be edited.}
-Dialogue: 0,0:14:08.28,0:14:15.25,Default,Narrator,0,0,0,,Actions that violate the laws of physics or ignore the trajectory of motion will cause him to freeze as well.
+Dialogue: 0,0:14:04.57,0:14:08.29,Default,Narrator,0,0,0,,The actions defined cannot be edited halfway through. {Once started, the defined\N course of actions cannot be edited.}
+Dialogue: 0,0:14:08.29,0:14:15.25,Default,Narrator,0,0,0,,Actions that violate the laws of physics or ignore the trajectory of motion will cause him to freeze as well.
 Dialogue: 0,0:14:25.72,0:14:30.93,Default,Narrator,0,0,0,,Still, with his innate sense for timing and keyframing, {What he does is more accurately described as keyframing}
 Dialogue: 0,0:14:30.93,0:14:36.73,Default,Narrator,0,0,0,,he's managed to become the fastest sorcerer, \Naside from Gojo Satoru.
 Dialogue: 0,0:14:41.15,0:14:42.65,Default,Naobito,0,0,0,,Don't bother. {I won't let you}
 Comment: 0,0:15:07.97,0:15:08.01,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:15:19.44,0:15:21.36,Default,Dagon,0,0,0,,Domain Expansion:
-Dialogue: 0,0:15:26.36,0:15:28.61,Default,Dagon,0,0,0,,Horizon of the Captivating Skandha.
+Dialogue: 0,0:15:26.36,0:15:28.62,Default,Dagon,0,0,0,,Horizon of the Captivating Skandha.
 Dialogue: 0,0:15:32.66,0:15:35.62,Default,Maki,0,0,0,,{\i1}Cursed beast?! Is this the domain's sure-hit attack?
 Dialogue: 0,0:15:35.62,0:15:37.12,Default,Maki,0,0,0,,{\i1}I didn't notice it until I was hit.
 Dialogue: 0,0:15:37.75,0:15:40.79,Default,Maki,0,0,0,,{\i1}No, it didn't even exist until it hit.
-Dialogue: 0,0:15:42.79,0:15:44.80,Default,Naobito,0,0,0,,Secret Art: Falling Blossom Emotion.
+Dialogue: 0,0:15:42.80,0:15:44.80,Default,Naobito,0,0,0,,Secret Art: Falling Blossom Emotion.
 Dialogue: 0,0:15:45.34,0:15:48.55,Default,Narrator,0,0,0,,An anti-domain technique passed down\N among the Three Great Clans.
-Dialogue: 0,0:15:48.88,0:15:52.80,Default,Narrator,0,0,0,,Unlike Simple Domain,\N it does not require a domain activation.
-Dialogue: 0,0:15:52.80,0:15:59.73,Default,Narrator,0,0,0,,Instead, it counters the sure-hit attack\N with cursed energy the moment it's about to hit. {this is such a hack}
-Dialogue: 0,0:16:00.35,0:16:02.94,Default,Dagon,0,0,0,,{\i1}I knew that man is a cut above the rest.
+Dialogue: 0,0:15:48.89,0:15:52.81,Default,Narrator,0,0,0,,Unlike Simple Domain,\N it does not require a domain activation.
+Dialogue: 0,0:15:52.81,0:15:59.73,Default,Narrator,0,0,0,,Instead, it counters the sure-hit attack\N with cursed energy the moment it's about to hit. {this is such a hack}
+Dialogue: 0,0:16:00.36,0:16:02.94,Default,Dagon,0,0,0,,{\i1}I knew that man is a cut above the rest.
 Dialogue: 0,0:16:02.94,0:16:04.82,Default,Dagon,0,0,0,,{\i1}I'm done testing their strength.
 Dialogue: 0,0:16:04.82,0:16:09.70,Default,Dagon,0,0,0,,{\i1}I'll split my power, 70% to the mustached man,\N and 30% to the man in the suit. {I'll split my power seventy-thirty between\N the mustached man and the man in the suit.}
 Dialogue: 0,0:16:09.70,0:16:13.87,Default,Dagon,0,0,0,,Cursed Technique: Death Swarm! {yeah i think i'll the realease/activation word beecause it's implied}
@@ -194,15 +194,15 @@ Dialogue: 0,0:17:05.67,0:17:10.93,Default,Dagon,0,0,0,,The sea is the source of 
 Dialogue: 0,0:17:14.51,0:17:17.72,Default,Dagon,0,0,0,,You are the weakest of the bunch.
 Dialogue: 0,0:17:21.10,0:17:26.15,Default,Dagon,0,0,0,,Death Swarm is an endless stream of cursed beasts.
 Dialogue: 0,0:17:34.70,0:17:42.04,Default,Maki,0,0,0,,If you're gonna call me weak,\N then at least kill me in one hit, Octopussy.
-Dialogue: 0,0:17:43.37,0:17:46.38,Default,Dagon,0,0,0,,Then I shall grant you \Nthe same fate as the other two.
-Dialogue: 0,0:17:47.04,0:17:48.00,Default,Maki,0,0,0,,{\i1}Shit!
+Dialogue: 0,0:17:43.38,0:17:46.38,Default,Dagon,0,0,0,,Then I shall grant you \Nthe same fate as the other two.
+Dialogue: 0,0:17:47.05,0:17:48.01,Default,Maki,0,0,0,,{\i1}Shit!
 Dialogue: 0,0:17:49.13,0:17:51.63,Default,Dagon,0,0,0,,By devouring you.
 Dialogue: 0,0:17:57.39,0:17:58.56,Default,Fushiguro,0,0,0,,Maki{**-san}!
 Dialogue: 0,0:17:59.14,0:18:00.35,Default,Maki,0,0,0,,Megumi!
 Dialogue: 0,0:18:05.44,0:18:13.20,Default,Maki,0,0,0,,{\i1}Really, you're one cocky little brat! {underclassman}
-Dialogue: 0,0:18:14.07,0:18:15.36,Default,Fushiguro,0,0,0,,{\i1}It's that thing!
+Dialogue: 0,0:18:14.07,0:18:15.37,Default,Fushiguro,0,0,0,,{\i1}It's that thing!
 Dialogue: 0,0:18:15.91,0:18:19.12,Default,Fushiguro,0,0,0,,{\i1}That octopus is the source of this domain!
-Dialogue: 0,0:18:19.99,0:18:23.87,Default,Dagon,0,0,0,,You dare voluntarily invade my domain?
+Dialogue: 0,0:18:20.00,0:18:23.87,Default,Dagon,0,0,0,,You dare voluntarily invade my domain?
 Dialogue: 0,0:18:25.75,0:18:27.13,Default,Dagon,0,0,0,,How foolish.
 Dialogue: 0,0:18:29.25,0:18:30.13,Default,Dagon,0,0,0,,What?!
 Dialogue: 0,0:18:45.56,0:18:49.86,Default,Dagon,0,0,0,,{\i1}My domain's sure-hit effect has been neutralized.

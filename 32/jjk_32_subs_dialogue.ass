@@ -85,7 +85,7 @@ Dialogue: 0,0:04:44.47,0:04:47.81,Default,Assistant,0,0,0,,Two assistant supervi
 Dialogue: 0,0:04:47.81,0:04:50.44,Default,Assistant,0,0,0,,Also, in between these barriers...
 Dialogue: 0,0:04:51.23,0:04:56.11,Default,Assistant,0,0,0,,Well, we can't say for certain yet...
 Dialogue: 0,0:04:56.65,0:04:59.36,Default,Mei,0,0,0,,It's fine. Say it.
-Dialogue: 0,0:05:03.58,0:05:08.62,Default,Assistant,0,0,0,,In between the barriers,\N transfigured humans have been spotted. {^^}
+Dialogue: 0,0:05:03.57,0:05:08.62,Default,Assistant,0,0,0,,In between the barriers,\N transfigured humans have been spotted. {^^}
 Dialogue: 0,0:05:31.56,0:05:33.81,Default,Yuji,0,0,0,,What are we waiting for? We gotta hurry!
 Dialogue: 0,0:05:33.81,0:05:34.61,Default,Ui,0,0,0,,Hush!
 Dialogue: 0,0:05:34.61,0:05:38.40,Default,Ui,0,0,0,,{*}Sister{*Nee-sama} is currently sharing vision with the crows.
@@ -94,9 +94,9 @@ Dialogue: 0,0:05:42.07,0:05:44.74,Default,Mei,0,0,0,,It's fine, actually. You ca
 Dialogue: 0,0:05:44.74,0:05:45.66,Default,Yuji,0,0,0,,She said it's fine.
 Dialogue: 0,0:05:45.66,0:05:48.04,Default,Ui,0,0,0,,Oh, come on!
 Dialogue: 0,0:05:54.83,0:05:56.42,Default,Mei,0,0,0,,I've got the gist of it.
-Dialogue: 0,0:05:57.05,0:05:58.21,Default,Mei,0,0,0,,Itadori{**-kun}.
-Dialogue: 0,0:05:58.21,0:06:03.64,Default,Mei,0,0,0,,Between killing a bunch of weak transfigured humans\N and exorcising one strong cursed spirit,
-Dialogue: 0,0:06:03.64,0:06:04.89,Default,Mei,0,0,0,,which would you prefer?
+Dialogue: 0,0:05:57.04,0:05:58.21,Default,Mei,0,0,0,,Itadori{**-kun}.
+Dialogue: 0,0:05:58.21,0:06:03.63,Default,Mei,0,0,0,,Between killing a bunch of weak transfigured humans\N and exorcising one strong cursed spirit,
+Dialogue: 0,0:06:03.63,0:06:04.89,Default,Mei,0,0,0,,which would you prefer?
 Dialogue: 0,0:06:06.35,0:06:09.64,Default,Mei,0,0,0,,Knowing you, I would bet it's the latter.
 Dialogue: 0,0:06:13.73,0:06:15.90,Default,Mei,0,0,0,,Here's a map of the underground station.
 Dialogue: 0,0:06:16.27,0:06:21.11,Default,Mei,0,0,0,,The transfigured humans are mulling about\N and attacking people on level B4.
@@ -126,7 +126,7 @@ Dialogue: 0,0:07:55.96,0:07:58.04,Default,Yuji,0,0,0,,Don't worry, {*}Miss Mei{*
 Dialogue: 0,0:07:58.83,0:08:01.63,Default,Yuji,0,0,0,,I won't lose to anything.
 Dialogue: 0,0:08:03.30,0:08:05.67,Cursed,Ko-guy,0,0,0,,{\an8}Munch, munch.
 Dialogue: 0,0:08:05.67,0:08:09.51,Cursed,Ko-guy,0,0,0,,{\an8}Munch, munch. Munch, munch.
-Dialogue: 0,0:08:15.02,0:08:17.19,Cursed,Ko-guy,0,0,0,,What're you looking at?
+Dialogue: 0,0:08:15.02,0:08:17.18,Cursed,Ko-guy,0,0,0,,What're you looking at?
 Dialogue: 0,0:08:23.44,0:08:25.48,Cursed,Ko-guy,0,0,0,,Y-You're
 Dialogue: 0,0:08:25.48,0:08:27.03,Cursed,Ko-guy,0,0,0,,Y-You're a j-juchu...
 Dialogue: 0,0:08:27.03,0:08:28.36,Cursed,Ko-guy,0,0,0,,Y-You're a j-juchu... j-jujuchu...
@@ -143,13 +143,13 @@ Dialogue: 0,0:08:46.01,0:08:47.59,Cursed,Ko-guy,0,0,0,,Patchface?
 Dialogue: 0,0:08:48.47,0:08:50.59,Default,Yuji,0,0,0,,The one with stitches all over his face.
 Dialogue: 0,0:08:51.43,0:08:54.14,Cursed,Ko-guy,0,0,0,,You think I'm stupid?! I know that much!
 Dialogue: 0,0:08:54.14,0:08:56.35,Cursed,Ko-guy,0,0,0,,I told you, I'm smart!
-Dialogue: 0,0:08:56.98,0:08:58.64,Cursed,Ko-guy,0,0,0,,Mahito's down below.
-Dialogue: 0,0:08:58.64,0:09:01.86,Cursed,Ko-guy,0,0,0,,I'm here protecting the Veil.
+Dialogue: 0,0:08:56.97,0:08:58.64,Cursed,Ko-guy,0,0,0,,Mahito's down below.
+Dialogue: 0,0:08:58.64,0:09:01.85,Cursed,Ko-guy,0,0,0,,I'm here protecting the Veil.
 Dialogue: 0,0:09:02.69,0:09:03.86,Default,Yuji,0,0,0,,Mahito...
 Dialogue: 0,0:09:04.36,0:09:06.90,Default,Yuji,0,0,0,,{\i1}I think Junpei also called him that.
 Dialogue: 0,0:09:06.90,0:09:09.36,Default,Yuji,0,0,0,,{\i1}No, the name doesn't matter right now.
-Dialogue: 0,0:09:09.86,0:09:12.37,Default,Gojo,0,0,0,,Barrier techniques are quite complicated.
-Dialogue: 0,0:09:12.37,0:09:15.62,Default,Gojo,0,0,0,,There are many who are strong \Nand still can't do them.
+Dialogue: 0,0:09:09.86,0:09:12.36,Default,Gojo,0,0,0,,Barrier techniques are quite complicated.
+Dialogue: 0,0:09:12.36,0:09:15.62,Default,Gojo,0,0,0,,There are many who are strong \Nand still can't do them.
 Dialogue: 0,0:09:15.62,0:09:17.62,Default,Gojo,0,0,0,,Though I'm both strong {\i1}and{\i0} capable.
 Dialogue: 0,0:09:18.33,0:09:21.50,Default,Yuji,0,0,0,,{\i1}This thing is responsible for the Veil? Both of them?
 Dialogue: 0,0:09:21.50,0:09:22.96,Default,Yuji,0,0,0,,{\i1}I doubt it.
@@ -170,7 +170,7 @@ Dialogue: 0,0:10:20.85,0:10:27.11,Cursed,Ko-guy,0,0,0,,The not-smart ones are th
 Dialogue: 0,0:10:28.23,0:10:29.98,Default,Yuji,0,0,0,,Uh, you're a grasshopper curse, right?
 Dialogue: 0,0:10:39.91,0:10:42.08,Cursed,Ko-guy,0,0,0,,{\i1}This guy...{\alpha&HFF&} is smart!
 Dialogue: 0,0:10:42.08,0:10:44.04,Cursed,Ko-guy,0,0,0,,{\i1}This guy... is smart!
-Comment: 0,0:10:49.05,0:10:49.09,Default,chptr,0,0,0,,{Part B}
+Comment: 0,0:10:49.04,0:10:49.09,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:10:54.05,0:10:55.51,Default,Narrator,0,0,0,,Locust plague.
 Dialogue: 0,0:10:55.84,0:10:59.72,Default,Narrator,0,0,0,,A large-scale disaster arising from an outbreak of locusts.
 Dialogue: 0,0:11:00.22,0:11:07.27,Default,Narrator,0,0,0,,They consume not just crops,\N but paper, clothes, huts, and anything plant-based.
@@ -189,7 +189,7 @@ Dialogue: 0,0:12:43.70,0:12:46.41,Default,Yuji,0,0,0,,{\i1}I doubt he's using an
 Dialogue: 0,0:12:47.00,0:12:47.75,Default,Yuji,0,0,0,,Which what?
 Dialogue: 0,0:12:48.12,0:12:52.13,Cursed,Ko-guy,0,0,0,,Are you smart... or are you not smart?
 Dialogue: 0,0:12:53.09,0:12:54.84,Cursed,Ko-guy,0,0,0,,I'm... {\alpha&HFF&}smart!
-Dialogue: 0,0:12:54.84,0:12:55.76,Cursed,Ko-guy,0,0,0,,I'm... smart!
+Dialogue: 0,0:12:54.84,0:12:55.75,Cursed,Ko-guy,0,0,0,,I'm... smart!
 Dialogue: 0,0:12:57.13,0:13:01.26,Default,Yuji,0,0,0,,Smart people don't really go around\N calling themselves smart.
 Dialogue: 0,0:13:01.89,0:13:03.30,Cursed,Ko-guy,0,0,0,,Really?!
 Dialogue: 0,0:13:29.08,0:13:30.96,Cursed,Ko-guy,0,0,0,,This is a numbers battle.
@@ -203,8 +203,8 @@ Dialogue: 0,0:14:40.07,0:14:43.53,Default,Narrator,0,0,0,,To facilitate this, th
 Dialogue: 0,0:14:43.53,0:14:47.28,Default,Narrator,0,0,0,,which has a hard tip and can stretch up to\N three times its normal length.
 Dialogue: 0,0:14:50.20,0:14:51.75,Cursed,Ko-guy,0,0,0,,I win!
 Dialogue: 0,0:14:57.54,0:14:59.71,Default,Narrator,0,0,0,,It did have a trick.
-Dialogue: 0,0:15:00.13,0:15:02.22,Default,Narrator,0,0,0,,However, it didn't matter.
-Dialogue: 0,0:15:02.22,0:15:04.47,Default,Yuji,0,0,0,,You've eaten people.
+Dialogue: 0,0:15:00.13,0:15:02.21,Default,Narrator,0,0,0,,However, it didn't matter.
+Dialogue: 0,0:15:02.21,0:15:04.47,Default,Yuji,0,0,0,,You've eaten people.
 Dialogue: 0,0:15:05.34,0:15:07.47,Default,Yuji,0,0,0,,Ready to face the consequences?
 Dialogue: 0,0:15:08.01,0:15:14.48,Default,Narrator,0,0,0,,The gap in their strength\N was one that no trick could overcome.
 Dialogue: 0,0:15:18.77,0:15:19.77,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}.
@@ -226,7 +226,7 @@ Dialogue: 0,0:16:08.11,0:16:10.12,Default,Yuji,0,0,0,,It wasn't Patchface.
 Dialogue: 0,0:16:10.12,0:16:13.12,Default,Yuji,0,0,0,,If I was up against him, it wouldn't have gone as easily.
 Dialogue: 0,0:16:13.12,0:16:15.50,Default,Ui,0,0,0,,{*}Sister{*Nee-sama} is praising you! Accept it graciously!
 Dialogue: 0,0:16:15.50,0:16:17.00,Default,Yuji,0,0,0,,Thank you very much! I'm honored!
-Dialogue: 0,0:16:23.76,0:16:24.80,Default,Mei,0,0,0,,Perhaps we're late.
+Dialogue: 0,0:16:23.75,0:16:24.80,Default,Mei,0,0,0,,Perhaps we're late.
 Dialogue: 0,0:16:24.80,0:16:26.42,Default,Yuji,0,0,0,,Hey, you over there!
 Dialogue: 0,0:16:26.42,0:16:27.93,Default,Yuji,0,0,0,,Are you okay?
 Dialogue: 0,0:16:28.76,0:16:30.18,Default,Yuji,0,0,0,,Where are the other...
@@ -244,8 +244,8 @@ Dialogue: 0,0:17:22.27,0:17:23.15,Default,Youths,0,0,0,,{\an8}Stop it!
 Dialogue: 0,0:17:23.15,0:17:24.36,Default,,0,0,0,,{\an8}Hey!
 Dialogue: 0,0:17:24.36,0:17:25.82,Default,,0,0,0,,{\an8}Watch out!
 Dialogue: 0,0:17:26.23,0:17:27.82,Default,Jogo,0,0,0,,It doesn't matter if you run.
-Dialogue: 0,0:17:32.07,0:17:34.08,Default,Gojo,0,0,0,,Get back or you'll die.
-Dialogue: 0,0:17:34.08,0:17:37.33,Default,Gojo,0,0,0,,{\i1}So that's why they blocked the exits.
+Dialogue: 0,0:17:32.07,0:17:34.07,Default,Gojo,0,0,0,,Get back or you'll die.
+Dialogue: 0,0:17:34.07,0:17:37.33,Default,Gojo,0,0,0,,{\i1}So that's why they blocked the exits.
 Dialogue: 0,0:17:37.33,0:17:41.58,Default,Gojo,0,0,0,,{\i1}Now I can't tell if there are people\N on the other side.
 Dialogue: 0,0:17:41.92,0:17:46.59,Default,Geto,0,0,0,,Any sorcerer alongside him just gets in his way.
 Dialogue: 0,0:17:46.59,0:17:51.72,Default,Geto,0,0,0,,So we'll surround him with non-sorcerers\N who are even weaker.
@@ -253,15 +253,15 @@ Dialogue: 0,0:18:09.61,0:18:11.45,Default,Choso,0,0,0,,Blood Manipulation:
 Dialogue: 0,0:18:11.86,0:18:13.45,Default,Choso,0,0,0,,Slicing Exorcism.
 Dialogue: 0,0:18:28.38,0:18:29.88,Default,,0,0,0,,Take this!
 Dialogue: 0,0:18:34.05,0:18:39.01,Default,Geto,0,0,0,,Cursed technique reversal outputs\N at least twice as much energy as amplification.
-Dialogue: 0,0:18:39.01,0:18:42.94,Default,Geto,0,0,0,,Using it without harming non-sorcerers\N would be next to impossible.
-Dialogue: 0,0:18:42.94,0:18:47.90,Default,Geto,0,0,0,,He won't be able to use Blue at an output\N that is effective against you either.
+Dialogue: 0,0:18:39.01,0:18:42.93,Default,Geto,0,0,0,,Using it without harming non-sorcerers\N would be next to impossible.
+Dialogue: 0,0:18:42.93,0:18:47.90,Default,Geto,0,0,0,,He won't be able to use Blue at an output\N that is effective against you either.
 Dialogue: 0,0:18:51.32,0:18:54.91,Default,Geto,0,0,0,,High-speed movement using Blue \Nwould be difficult as well. {okay so explanation time: the "high-speed movement" he mentions here is interchangeable with teleportation. because when this line is said in the manga, the panel in the bg shows a scene where he used teleportation. now, i don't think teleportation was ever explained so my theory is that since blue allows him to delete space, he just keeps deleting space in front of him, sort of like making a vacuum tunnel, all the way to his destination. this explains why he always teleports to and from large open areas. like that time in 0 when he teleported inumaki and panda above jujutsu tech mid air and not at the front gate or sth.}
 Dialogue: 0,0:18:54.91,0:18:58.91,Default,Geto,0,0,0,,For non-sorcerers, it's instant death\N if he bumps into them. {the line actually says "he'd be like a dump as far as non-sorcerers are concerned." imo the dump here is supposed to create the mental image of a dumping ground full of dead bodies. it's translated as "dropping like flies" on the next line for better flow} {also, while it's true that anyone bumping into him moving at such a high speed would die instantly, i think there is more to it. they don't even need to collide with him specifically. they ded if they just get in the way of the so-called vacuum tunnel. it just makes way too much sense. or maybe i'm overthinking things. either way i'll go with the simpler interpretation here}
 Dialogue: 0,0:18:58.91,0:19:00.95,Default,Geto,0,0,0,,They would be dropping like flies.
 Dialogue: 0,0:19:00.95,0:19:05.92,Default,Geto,0,0,0,,In a situation like that, \NGojo Satoru will be forced on the defensive.
 Dialogue: 0,0:19:18.22,0:19:19.93,Default,Jogo&Hanami,0,0,0,,Domain Extension! {amplification is incorrect. it suggests the domain is being strengthened by pouring cursed energy into it but that's not it. what happens is they sort of do a small scale domain expansion: instead of expanding it over a huge area, it just covers the user like a cloak, which neutralizes other techniques, since that's one of the properties of a domain} {i'm thinking Domain Insulation} {Encapsulation? or maybe Amplification is fine} {the "accurate" translation would be Domain Extension... which kinda makes sense (?) if we look it like: they extend their domains around themselves. it's very much in line with the idea of a "small scale expansion" and the similarity to the term Domain Expansion, likely intended in japanese, is just the cherry on top}
 Dialogue: 0,0:19:45.16,0:19:46.62,Default,Gojo,0,0,0,,I see what you're doing.
-Dialogue: 0,0:19:46.62,0:19:50.55,Default,Gojo,0,0,0,,Was it your resident curse user who gave you the idea?
+Dialogue: 0,0:19:46.62,0:19:50.54,Default,Gojo,0,0,0,,Was it your resident curse user who gave you the idea?
 Dialogue: 0,0:19:51.42,0:19:53.13,Default,Gojo,0,0,0,,{\i1\pos(955,1020)}Domain Extension.
 Dialogue: 0,0:19:53.13,0:19:56.38,Default,Gojo,0,0,0,,{\i1}It's somewhat similar to the \NSimple Domain of New Shadow Style.
 Dialogue: 0,0:19:56.38,0:19:58.97,Default,Gojo,0,0,0,,{\i1}They extend their domains around themselves.
@@ -271,13 +271,13 @@ Dialogue: 0,0:20:11.61,0:20:15.49,Default,Jogo,0,0,0,,What do we do about his In
 Dialogue: 0,0:20:15.49,0:20:22.16,Default,Geto,0,0,0,,The only ones unaffected by Infinite Void\N are Gojo Satoru himself and anyone he's in contact with.
 Dialogue: 0,0:20:22.74,0:20:29.92,Default,Geto,0,0,0,,Hypothetically speaking, even if\N he is skilled enough to selectively trap you all,
 Dialogue: 0,0:20:29.92,0:20:35.17,Default,Geto,0,0,0,,most non-sorcerers would get crushed to death\N between his domain and the Veil.
-Dialogue: 0,0:20:35.72,0:20:39.93,Default,Geto,0,0,0,,I'd say chances are ninety-nine percent \Nthat he won't use his domain. {lit: expand his domain. i would've used this phrase if it didnt sound so awkward}
-Dialogue: 0,0:20:40.85,0:20:44.60,Default,Geto,0,0,0,,However, that means you mustn't \Nuse your domains either.
+Dialogue: 0,0:20:35.71,0:20:39.93,Default,Geto,0,0,0,,I'd say chances are ninety-nine percent \Nthat he won't use his domain. {lit: expand his domain. i would've used this phrase if it didnt sound so awkward}
+Dialogue: 0,0:20:40.84,0:20:44.60,Default,Geto,0,0,0,,However, that means you mustn't \Nuse your domains either.
 Dialogue: 0,0:20:44.60,0:20:51.69,Default,Geto,0,0,0,,If a lot of non-sorcerers end up trapped in your domain,\N he might give up on them and use his own too.
 Dialogue: 0,0:20:51.69,0:20:55.69,Default,Geto,0,0,0,,And I assume you already know\N who will win in a clash between domains.
 Dialogue: 0,0:20:57.74,0:21:01.28,Default,Geto,0,0,0,,Remember, you just need to get Gojo Satoru to focus.
 Dialogue: 0,0:21:01.28,0:21:04.83,Default,Geto,0,0,0,,On fighting curses and rescuing non-sorcerers.
-Dialogue: 0,0:21:09.87,0:21:11.38,Default,Man,0,0,0,,Hey, stand up!
+Dialogue: 0,0:21:09.87,0:21:11.37,Default,Man,0,0,0,,Hey, stand up!
 Dialogue: 0,0:21:11.79,0:21:13.84,Default,Man,0,0,0,,Come on, keep it together!
 Dialogue: 0,0:21:14.84,0:21:15.80,Default,Man,0,0,0,,You're okay!
 Dialogue: 0,0:21:16.55,0:21:18.34,Default,Man,0,0,0,,Here, take my hand.
@@ -296,7 +296,7 @@ Comment: 0,0:23:40.02,0:23:40.07,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.44,0:23:43.07,Default,Gojo,0,0,0,,{\an8}Let's play the list-the-good-things-\Nabout-Gojo-Satoru game! {og: Time for the Yamanote Line Game! The topic is Gojo Satoru's good points!} {we handled it this way back in s1 too}
 Dialogue: 0,0:23:43.07,0:23:44.24,Default,Both,0,0,0,,{\an8}Yay!
 Dialogue: 0,0:23:44.24,0:23:45.11,Default,Yuji,0,0,0,,{\an8}He's strong!
-Dialogue: 0,0:23:45.66,0:23:46.49,Default,Fushiguro,0,0,0,,{\an8}He's strong!
+Dialogue: 0,0:23:45.65,0:23:46.49,Default,Fushiguro,0,0,0,,{\an8}He's strong!
 Dialogue: 0,0:23:46.99,0:23:47.78,Default,Kugisaki,0,0,0,,{\an8}He's just strong!
 Dialogue: 0,0:23:47.78,0:23:49.70,Default,Gojo,0,0,0,,{\an8}Next time, Shibuya Incident: Gate, Open.
 Dialogue: 0,0:23:49.70,0:23:50.99,Default,Ieiri,0,0,0,,{\an8}He's rich, too, by the way.

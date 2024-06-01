@@ -319,8 +319,8 @@ Dialogue: 0,0:19:12.26,0:19:15.76,Default,Ino,0,0,0,,{\i1}He really was referrin
 Dialogue: 0,0:19:16.26,0:19:17.43,Default,Nanami,0,0,0,,Geto{**-san} did?
 Dialogue: 0,0:19:18.01,0:19:23.06,Default,Mechamaru,0,0,0,,The thing that's acting as Geto Suguru, to be precise.
 Dialogue: 0,0:19:23.06,0:19:26.02,Default,Mechamaru,0,0,0,,Shibuya Station is in pandemonium right now.
-Dialogue: 0,0:19:26.02,0:19:30.87,Default,Mechamaru,0,0,0,,It's overrun by special-grades, weaker curses,\N and curse users who follow Geto,
-Dialogue: 0,0:19:30.87,0:19:33.53,Default,Mechamaru,0,0,0,,as well as transfigured humans and civilians.
+Dialogue: 0,0:19:26.02,0:19:30.86,Default,Mechamaru,0,0,0,,It's overrun by special-grades, weaker curses,\N and curse users who follow Geto,
+Dialogue: 0,0:19:30.86,0:19:33.53,Default,Mechamaru,0,0,0,,as well as transfigured humans and civilians.
 Dialogue: 0,0:19:33.53,0:19:38.03,Default,Nanami,0,0,0,,Then attacking through the subway \Nfrom neighboring stations does make sense. {faster? faster than what? this release?}
 Dialogue: 0,0:19:38.03,0:19:41.54,Default,Nanami,0,0,0,,But in order to do that, we need that Veil lifted.
 Dialogue: 0,0:19:41.54,0:19:43.41,Default,Mechamaru,0,0,0,,This is an emergency.
@@ -350,8 +350,8 @@ Dialogue: 0,0:20:54.19,0:20:55.40,Default,Ino,0,0,0,,Take this seriously!
 Dialogue: 0,0:20:56.03,0:21:01.16,Default,Ino,0,0,0,,All those people are going to find themselves in trouble,\N and in the worst case, executed!
 Dialogue: 0,0:21:01.49,0:21:05.29,Default,Ino,0,0,0,,The second issue is the \Ncollapse of the power balance.
 Dialogue: 0,0:21:05.74,0:21:11.42,Default,Ino,0,0,0,,Those{cursed spirits and curse users} who have remained in the shadows\N because of Gojo Satoru will begin to make their move.
-Dialogue: 0,0:21:11.83,0:21:14.48,Default,Ino,0,0,0,,If society is in disarray over the first issue
-Dialogue: 0,0:21:14.48,0:21:17.42,Default,Ino,0,0,0,,and those guys from the second\N try to start a war,
+Dialogue: 0,0:21:11.83,0:21:14.46,Default,Ino,0,0,0,,If society is in disarray over the first issue
+Dialogue: 0,0:21:14.46,0:21:17.42,Default,Ino,0,0,0,,and those guys from the second\N try to start a war,
 Dialogue: 0,0:21:17.42,0:21:18.42,Default,Ino,0,0,0,,we will lose.
 Dialogue: 0,0:21:19.09,0:21:21.18,Default,Ino,0,0,0,,That's the future as {*}Mr. Nanami{*Nanami-san} and I see it.
 Dialogue: 0,0:21:21.18,0:21:22.93,Default,Ino,0,0,0,,And what do you think happens if we lose?

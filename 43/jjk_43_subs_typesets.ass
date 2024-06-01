@@ -125,8 +125,8 @@ Dialogue: 0,0:15:33.04,0:15:33.16,Signs,Screen,0,0,0,,{\alpha&H60&\blur1\fnErase
 Dialogue: 0,0:15:33.16,0:15:37.29,Signs,Screen,0,0,0,,{\alpha&H60&\blur1\fnEraserDust\fs180\frz6.617\pos(857.67,163)\c&H12178B&}L{*\c&H131A8E&}e{*\c&H11188E&}a{*\c&H0F168E&}v{*\c&H0D148E&}e{\c&H0C128E&}
 Dialogue: 0,0:15:37.29,0:15:39.54,Signs,Screen,0,0,0,,{\alpha&HE0&\blur1\be4\fnEraserDust\fs180\frz6.617\pos(857.67,163)\c&H000DFF&}L{*\c&H323461&}e{*\c&H8288FF&}a{*\c&H4C52C4&\1a&HD3&}v{*\c&H434794&}e{\c&H0C128E&}
 Comment: 0,0:15:31.03,0:15:39.54,Signs,Screen,0,0,0,,{=27}
-Dialogue: 0,0:23:34.94,0:23:39.94,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Right and Wrong III
-Dialogue: 1,0:23:34.94,0:23:39.94,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Right and Wrong III
+Dialogue: 0,0:23:34.93,0:23:39.94,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Right and Wrong III
+Dialogue: 1,0:23:34.93,0:23:39.94,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Right and Wrong III
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1

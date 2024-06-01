@@ -52,7 +52,7 @@ Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Gro
 Comment: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(147.8,1023)\b1}23:07
 Comment: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(586.4,1022.4)\b1}{Dogenzaka, }In Front of Shibuya 109
 Dialogue: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{=11}
-Dialogue: 0,0:22:07.02,0:22:10.02,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 40\N{\fs70}Thunderclap
+Dialogue: 0,0:22:07.01,0:22:10.02,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 40\N{\fs70}Thunderclap
 Dialogue: 0,0:23:51.24,0:23:55.04,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Thunderclap II
 Dialogue: 1,0:23:51.24,0:23:55.04,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Thunderclap II
 

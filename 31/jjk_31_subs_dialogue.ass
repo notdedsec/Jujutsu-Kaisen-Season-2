@@ -54,22 +54,22 @@ Dialogue: 0,0:03:45.29,0:03:47.92,Default,Muta,0,0,0,,{\i1}He's well aware of it
 Dialogue: 0,0:04:29.50,0:04:31.50,Default,Muta,0,0,0,,Two-Year Charge!
 Dialogue: 0,0:04:32.34,0:04:35.17,Default,Muta,0,0,0,,Miracle Cannon!
 Dialogue: 0,0:04:45.60,0:04:47.93,Default,Muta,0,0,0,,{\i1}I know you won't back down.
-Dialogue: 0,0:04:48.48,0:04:51.14,Default,Muta,0,0,0,,{\i1}You're underestimating my attacks.
+Dialogue: 0,0:04:48.48,0:04:51.15,Default,Muta,0,0,0,,{\i1}You're underestimating my attacks.
 Dialogue: 0,0:04:51.65,0:04:55.11,Default,Muta,0,0,0,,It's about time you get a taste of this!
 Dialogue: 0,0:05:00.20,0:05:02.45,Default,Muta,0,0,0,,{\i1}How is he so strong?!
-Dialogue: 0,0:05:02.86,0:05:06.08,Default,Muta,0,0,0,,If this drags on for too long, he'll destroy my armor.
+Dialogue: 0,0:05:02.87,0:05:06.08,Default,Muta,0,0,0,,If this drags on for too long, he'll destroy my armor.
 Dialogue: 0,0:05:09.58,0:05:10.83,Default,System Voice,0,0,0,,Technique loaded.
-Dialogue: 0,0:05:11.25,0:05:14.08,Default,Muta,0,0,0,,I've only got four chances!
+Dialogue: 0,0:05:11.25,0:05:14.09,Default,Muta,0,0,0,,I've only got four chances!
 Dialogue: 0,0:05:14.71,0:05:19.34,Default,Muta,0,0,0,,I'll end this in one shot!
 Dialogue: 0,0:05:25.01,0:05:27.56,Default,Muta,0,0,0,,Fire, Mechamaru!
 Dialogue: 0,0:05:32.73,0:05:34.48,Default,Mahito,0,0,0,,You thought that would work?
-Dialogue: 0,0:05:34.48,0:05:36.56,Default,Mahito,0,0,0,,Guess you haven't seen enough, then. {in response to his "I have seen it all." line}
+Dialogue: 0,0:05:34.48,0:05:36.57,Default,Mahito,0,0,0,,Guess you haven't seen enough, then. {in response to his "I have seen it all." line}
 Dialogue: 0,0:05:39.57,0:05:40.07,Default,Mahito,0,0,0,,Wait{\fscx180}—{\fscx}
 Dialogue: 0,0:06:01.76,0:06:03.22,Default,Mahito,0,0,0,,{\i1}What's going on here?
 Dialogue: 0,0:06:03.80,0:06:05.93,Default,Mahito,0,0,0,,{\i1}Even my soul was destroyed?
 Dialogue: 0,0:06:19.36,0:06:20.11,Default,Muta,0,0,0,,Tch!
 Dialogue: 0,0:06:20.11,0:06:22.49,Default,Muta,0,0,0,,Bird again? You've got zero creativity!
-Dialogue: 0,0:06:24.45,0:06:27.32,Default,Muta,0,0,0,,{\i1}The left arm I blew away has regenerated already?
+Dialogue: 0,0:06:24.45,0:06:27.33,Default,Muta,0,0,0,,{\i1}The left arm I blew away has regenerated already?
 Dialogue: 0,0:06:28.24,0:06:33.62,Default,Muta,0,0,0,,{\i1}No, he's just manipulating the shape of his soul\N to make it look like it regenerated.
 Dialogue: 0,0:06:34.12,0:06:36.67,Default,Muta,0,0,0,,{\i1}The fact that he's showing it off makes it obvious.
 Dialogue: 0,0:06:41.09,0:06:42.63,Default,Muta,0,0,0,,{\i1}I've got this.
@@ -78,8 +78,8 @@ Dialogue: 0,0:06:47.97,0:06:49.76,Default,Geto,0,0,0,,It's working.
 Dialogue: 0,0:06:49.76,0:06:51.56,Default,Geto,0,0,0,,He's not too bad.
 Dialogue: 0,0:06:51.56,0:06:55.35,Default,Geto,0,0,0,,It might be temporary, but his cursed energy\N output is on par with a special-grade's.
 Dialogue: 0,0:06:55.35,0:06:57.52,Default,Geto,0,0,0,,He came prepared to deal with Mahito, too.
-Dialogue: 0,0:06:58.10,0:07:01.27,Default,Geto,0,0,0,,At this rate, he might just... {Depending on how this goes, this could be the moment...} {what the absolute fuck did cr mean by this?}
-Dialogue: 0,0:07:07.61,0:07:08.91,Default,Muta,0,0,0,,Five-Year Charge!
+Dialogue: 0,0:06:58.11,0:07:01.28,Default,Geto,0,0,0,,At this rate, he might just... {Depending on how this goes, this could be the moment...} {what the absolute fuck did cr mean by this?}
+Dialogue: 0,0:07:07.62,0:07:08.91,Default,Muta,0,0,0,,Five-Year Charge!
 Dialogue: 0,0:07:15.50,0:07:18.04,Default,Muta,0,0,0,,Pigeon Viola!
 Comment: 0,0:07:49.91,0:07:50.78,Default,Mahito,0,0,0,,Tch!
 Dialogue: 0,0:08:03.88,0:08:07.22,Default,Mahito,0,0,0,,{\i1}I can't tell which of his attacks affect my soul.
@@ -95,32 +95,32 @@ Dialogue: 0,0:09:36.18,0:09:37.81,Default,Mahito,0,0,0,,Idle Transfiguration.
 Dialogue: 0,0:09:45.48,0:09:50.15,Default,Mahito,0,0,0,,It doesn't matter if I'm touching you directly\N once you're inside my domain.
 Dialogue: 0,0:09:50.53,0:09:53.11,Default,Mahito,0,0,0,,But you already knew that, didn't you?
 Dialogue: 0,0:09:58.58,0:10:02.21,Default,Muta,0,0,0,,{\i1}These contain a special technique.
-Dialogue: 0,0:10:02.91,0:10:07.75,Default,Muta,0,0,0,,{\i1}This is the only way I could make it work.
+Dialogue: 0,0:10:02.92,0:10:07.75,Default,Muta,0,0,0,,{\i1}This is the only way I could make it work.
 Dialogue: 0,0:10:08.67,0:10:11.59,Default,Mahito,0,0,0,,There's only ten days until Halloween.
 Dialogue: 0,0:10:11.59,0:10:15.34,Default,Mahito,0,0,0,,Did you assume I won't use my domain\Nto conserve cursed energy?
-Dialogue: 0,0:10:15.34,0:10:18.05,Default,Mahito,0,0,0,,Ten days is more than enough\N for a full recovery.
+Dialogue: 0,0:10:15.34,0:10:18.06,Default,Mahito,0,0,0,,Ten days is more than enough\N for a full recovery.
 Dialogue: 0,0:10:19.72,0:10:21.73,Default,Muta,0,0,0,,{\i1}I've only got two left.
-Dialogue: 0,0:10:24.23,0:10:26.35,Default,Muta,0,0,0,,{\i1}This technique is from the Heian Era.
-Dialogue: 0,0:10:26.35,0:10:32.74,Default,Muta,0,0,0,,{\i1}In the Golden Age of Sorcery, when cursed spirits\N and curse users were running rampant,
+Dialogue: 0,0:10:24.23,0:10:26.36,Default,Muta,0,0,0,,{\i1}This technique is from the Heian Era.
+Dialogue: 0,0:10:26.36,0:10:32.74,Default,Muta,0,0,0,,{\i1}In the Golden Age of Sorcery, when cursed spirits\N and curse users were running rampant,
 Dialogue: 0,0:10:32.74,0:10:35.95,Default,Muta,0,0,0,,{\i1}Ashiya Sadatsuna devised this to protect his disciples.
 Dialogue: 0,0:10:37.78,0:10:41.08,Default,Mahito,0,0,0,,Don't bring hopes and dreams into battle.
 Dialogue: 0,0:10:41.08,0:10:44.25,Default,Mahito,0,0,0,,It's so pathetic I don't even know how to react.
 Dialogue: 0,0:10:45.62,0:10:47.88,Default,Muta,0,0,0,,{\i1}It was passed down through the generations.
 Dialogue: 0,0:10:47.88,0:10:53.01,Default,Muta,0,0,0,,{\i1}Revealing it to outsiders was forbidden by a Binding Vow.
 Dialogue: 0,0:10:53.59,0:10:57.09,Default,Muta,0,0,0,,{\i1}It's a technique that lets you\N protect yourself from others' domains.
-Dialogue: 0,0:11:02.43,0:11:04.93,Default,Muta,0,0,0,,{\i1}The domain for the weak.
+Dialogue: 0,0:11:02.43,0:11:04.94,Default,Muta,0,0,0,,{\i1}The domain for the weak.
 Dialogue: 0,0:11:12.86,0:11:13.86,Default,,0,0,0,,Wha{\fscx180}—{\fscx}
 Dialogue: 0,0:11:15.07,0:11:18.53,Default,Muta,0,0,0,,New Shadow Style: Simple Domain!
 Dialogue: 0,0:11:24.79,0:11:27.75,Default,Muta,0,0,0,,{\i1}I have seen it all.
 Dialogue: 0,0:11:49.23,0:11:51.23,Default,Geto,0,0,0,,Simple Domain!
-Dialogue: 0,0:11:51.94,0:11:54.98,Default,Geto,0,0,0,,{\i1}A domain neutralizes any deployed techniques.
-Dialogue: 0,0:11:54.98,0:11:58.99,Default,Geto,0,0,0,,{\i1}Attacks inside a domain will always hit,\N even on Gojo Satoru.
+Dialogue: 0,0:11:51.94,0:11:54.99,Default,Geto,0,0,0,,{\i1}A domain neutralizes any deployed techniques.
+Dialogue: 0,0:11:54.99,0:11:58.99,Default,Geto,0,0,0,,{\i1}Attacks inside a domain will always hit,\N even on Gojo Satoru.
 Dialogue: 0,0:11:59.82,0:12:04.24,Default,Geto,0,0,0,,{\i1}It may be a simple one,\N but if a domain is activated from the inside,
 Dialogue: 0,0:12:04.24,0:12:08.87,Default,Geto,0,0,0,,{\i1}then even Mahito will take damage, \Nregardless of his technique. {in a recent chapter (246) gege said simple_domain doesn't neutralize techniques, and geto never used that specific word either so im changing this line, but the question still remains: what exactly happened here?} {does SD have a sure-hit effect? even if that was the case, the problem was never that the attacks didn't hit, it was that any damage they did was reverted by mahito reinforcing the shape of his soul, so i don't see any way of damaging mahito short of neutralizing his technique} {maybe there's some hint in how other characters manage to harm him}
 Dialogue: 0,0:12:14.34,0:12:17.17,Default,Muta,0,0,0,,Enough spectating from the sidelines,
 Dialogue: 0,0:12:19.05,0:12:20.05,Default,Muta,0,0,0,,Geto!
-Dialogue: 0,0:12:24.35,0:12:26.47,Default,Muta,0,0,0,,{\i1}What a fortunate miscalculation!
-Dialogue: 0,0:12:26.47,0:12:30.02,Default,Muta,0,0,0,,{\i1}I still have one Simple Domain\N and nine years of cursed energy left.
+Dialogue: 0,0:12:24.35,0:12:26.48,Default,Muta,0,0,0,,{\i1}What a fortunate miscalculation!
+Dialogue: 0,0:12:26.48,0:12:30.02,Default,Muta,0,0,0,,{\i1}I still have one Simple Domain\N and nine years of cursed energy left.
 Dialogue: 0,0:12:30.02,0:12:31.56,Default,Muta,0,0,0,,{\i1}I can fight Geto!
 Dialogue: 0,0:12:35.44,0:12:36.07,Default,Muta,0,0,0,,{\i1}I can win!
 Dialogue: 0,0:12:37.19,0:12:41.78,Default,Muta,0,0,0,,{\i1}I can be together with everyone!
@@ -128,14 +128,14 @@ Dialogue: 0,0:12:51.96,0:12:54.38,Default,Muta,0,0,0,,{\i1}I failed to finish hi
 Dialogue: 0,0:12:54.84,0:12:58.26,Default,Muta,0,0,0,,Come, Mechamaru!
 Dialogue: 0,0:13:07.22,0:13:09.48,Default,Muta,0,0,0,,{\i1}I still have one domain left.
 Dialogue: 0,0:13:09.48,0:13:11.48,Default,Muta,0,0,0,,{\i1}I'll ram it directly into him!
-Dialogue: 0,0:13:13.23,0:13:14.81,Default,Muta,0,0,0,,Let's do this, Mechamaru!
-Dialogue: 0,0:14:14.92,0:14:16.33,Default,Miwa,0,0,0,,Hey, Mechamaru?
-Dialogue: 0,0:14:16.92,0:14:19.50,Default,Miwa,0,0,0,,You think I can come visit you sometime?
-Dialogue: 0,0:14:22.84,0:14:28.55,Default,Miwa,0,0,0,,Ever since that baseball game at the exchange event,\N I feel like we've all gotten a lot closer.
+Dialogue: 0,0:13:13.23,0:13:14.82,Default,Muta,0,0,0,,Let's do this, Mechamaru!
+Dialogue: 0,0:14:14.92,0:14:16.34,Default,Miwa,0,0,0,,Hey, Mechamaru?
+Dialogue: 0,0:14:16.92,0:14:19.51,Default,Miwa,0,0,0,,You think I can come visit you sometime?
+Dialogue: 0,0:14:22.84,0:14:28.56,Default,Miwa,0,0,0,,Ever since that baseball game at the exchange event,\N I feel like we've all gotten a lot closer.
 Dialogue: 0,0:14:29.06,0:14:32.06,Default,Miwa,0,0,0,,Maybe it's just part of being a sorcerer,
 Dialogue: 0,0:14:32.06,0:14:36.19,Default,Miwa,0,0,0,,but we used to keep our distance \Neven though we got along.
 Dialogue: 0,0:14:38.15,0:14:42.44,Default,Miwa,0,0,0,,Losing someone close is all the more painful, after all.
-Dialogue: 0,0:14:44.20,0:14:48.32,Default,Miwa,0,0,0,,But you know what? I really like how we are now.
+Dialogue: 0,0:14:44.20,0:14:48.33,Default,Miwa,0,0,0,,But you know what? I really like how we are now.
 Dialogue: 0,0:14:48.70,0:14:52.70,Default,Miwa,0,0,0,,Remember how you couldn't participate\N in the baseball game?
 Dialogue: 0,0:14:52.70,0:14:55.46,Default,Miwa,0,0,0,,We got a pitching machine to fill in for you! {wait i thought he literally was the pitching machine... but huh this makes sense}
 Dialogue: 0,0:14:59.59,0:15:03.63,Default,Miwa,0,0,0,,I'd like to get closer to you as well, Mechamaru.
@@ -150,14 +150,14 @@ Dialogue: 0,0:15:34.04,0:15:35.08,Default,Geto,0,0,0,,Yeah.
 Dialogue: 0,0:15:35.08,0:15:38.50,Default,Geto,0,0,0,,I also finished tweaking the conditions\N of the commissioned Veil.
 Dialogue: 0,0:15:38.50,0:15:42.88,Default,Geto,0,0,0,,Now we should be able to have someone else\N perform the activation procedure. {he actually mentions "cursed energy and chant" which is required to activate the veil, but it makes things confusing and it's all part of the activation procedure anyway}
 Dialogue: 0,0:16:05.44,0:16:10.57,Default,Narrator,0,0,0,,At exactly 7:00 PM on October 31st, 2018,
-Dialogue: 0,0:16:10.57,0:16:13.53,Default,Narrator,0,0,0,,centered around Tokyu Department Store's Toyoko Outlet,
-Dialogue: 0,0:16:13.53,0:16:18.21,Default,Narrator,0,0,0,,a Veil with a radius of approximately 400 meters was cast.
+Dialogue: 0,0:16:10.57,0:16:13.54,Default,Narrator,0,0,0,,centered around Tokyu Department Store's Toyoko Outlet,
+Dialogue: 0,0:16:13.54,0:16:18.21,Default,Narrator,0,0,0,,a Veil with a radius of approximately 400 meters was cast.
 Comment: 0,0:16:23.96,0:16:24.00,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:16:34.89,0:16:37.68,Default,Men,0,0,0,,{\an8}Drink, drink, drink, drink!
 Dialogue: 0,0:16:37.68,0:16:39.69,Default,Men,0,0,0,,{\an8}Yay, yay, yay, yay!
-Dialogue: 0,0:16:38.18,0:16:39.69,Default,Men,0,0,0,,Hurry it up!
-Dialogue: 0,0:16:39.69,0:16:41.35,Default,Men,0,0,0,,Cut it out, idiot!
-Dialogue: 0,0:16:41.85,0:16:46.61,Default,Youth,0,0,0,,I heard a buncha people from\N Ibaraki and Tochigi come in for Halloween.
+Dialogue: 0,0:16:38.19,0:16:39.69,Default,Men,0,0,0,,Hurry it up!
+Dialogue: 0,0:16:39.69,0:16:41.36,Default,Men,0,0,0,,Cut it out, idiot!
+Dialogue: 0,0:16:41.86,0:16:46.61,Default,Youth,0,0,0,,I heard a buncha people from\N Ibaraki and Tochigi come in for Halloween.
 Dialogue: 0,0:16:46.61,0:16:47.78,Default,Youth,0,0,0,,From way out there?
 Dialogue: 0,0:16:47.78,0:16:49.36,Default,Man,0,0,0,,Excuse me, ladies!
 Dialogue: 0,0:16:49.36,0:16:50.99,Default,Man,0,0,0,,Mind if we take a pic?
@@ -167,7 +167,7 @@ Dialogue: 0,0:16:53.03,0:16:54.83,Default,Woman,0,0,0,,{\pos(1200,1020)}Thanks.
 Dialogue: 0,0:16:53.87,0:16:54.83,Default,Woman,0,0,0,,{\pos(850,1020)}Gladly!
 Dialogue: 0,0:16:58.25,0:16:59.37,Default,Youth,0,0,0,,Way to go.
 Dialogue: 0,0:16:59.37,0:17:01.83,Default,Youth,0,0,0,,Let's not do Shibuya again next year.
-Dialogue: 0,0:17:03.83,0:17:05.13,Default,Youth,0,0,0,,What's that?
+Dialogue: 0,0:17:03.84,0:17:05.13,Default,Youth,0,0,0,,What's that?
 Dialogue: 0,0:17:05.13,0:17:06.59,Default,Youth,0,0,0,,Hm? What's what?
 Dialogue: 0,0:17:06.59,0:17:08.30,Default,Youth,0,0,0,,That thing up there!
 Dialogue: 0,0:17:10.01,0:17:12.97,Default,Youth,0,0,0,,What? I don't see it.
@@ -185,14 +185,14 @@ Dialogue: 0,0:18:14.11,0:18:18.87,Default,Ijichi,0,0,0,,Sorcerers and assistant 
 Dialogue: 0,0:18:18.87,0:18:20.12,Default,Nanami,0,0,0,,Any reception?
 Dialogue: 0,0:18:20.12,0:18:21.41,Default,Ijichi,0,0,0,,It's blocked.
 Dialogue: 0,0:18:21.41,0:18:26.88,Default,Ijichi,0,0,0,,All communication will have to be done \Noutside the Veil, through us assistant supervisors.
-Dialogue: 0,0:18:26.88,0:18:29.75,Default,Nanami,0,0,0,,{\an8}Well, that's awfully inconvenient.
-Dialogue: 0,0:18:29.75,0:18:31.76,Default,Ino,0,0,0,,Fushiguro! Fushiguro!
+Dialogue: 0,0:18:26.88,0:18:29.76,Default,Nanami,0,0,0,,{\an8}Well, that's awfully inconvenient.
+Dialogue: 0,0:18:29.76,0:18:31.76,Default,Ino,0,0,0,,Fushiguro! Fushiguro!
 Dialogue: 0,0:18:31.76,0:18:33.26,Default,Ino,0,0,0,,Here's a fun fact!
 Dialogue: 0,0:18:33.26,0:18:39.89,Default,Ino,0,0,0,,The conditions of a Veil can only be defined\N in terms of "things with cursed energy."
 Dialogue: 0,0:18:39.89,0:18:43.64,Default,Ino,0,0,0,,That includes humans,\N cursed spirits, and cursed objects. {possible to switch the curses and cursed spirits icon in the video?}
 Dialogue: 0,0:18:43.64,0:18:48.11,Default,Ino,0,0,0,,Blocking cell phone reception is just\N a side effect of the Veil.
 Dialogue: 0,0:18:48.11,0:18:52.90,Default,Ino,0,0,0,,You can't actually block or allow reception\Nusing barrier techniques.
-Dialogue: 0,0:18:53.69,0:18:55.70,Default,Fushiguro,0,0,0,,Um, yes. I know.
+Dialogue: 0,0:18:53.70,0:18:55.70,Default,Fushiguro,0,0,0,,Um, yes. I know.
 Dialogue: 0,0:18:56.11,0:18:58.74,Default,Nanami,0,0,0,,Ino{**-kun}, he's an exceptionally talented student.
 Dialogue: 0,0:18:58.74,0:19:00.20,Default,Nanami,0,0,0,,Keep the senior act in check.
 Dialogue: 0,0:19:00.20,0:19:02.83,Default,Ino,0,0,0,,What's that supposed to mean, {*}Mr. Nanami{*Nanami-san}?!
@@ -207,19 +207,19 @@ Dialogue: 0,0:19:28.98,0:19:30.52,Default,Naobito,0,0,0,,{\an8}They were forced 
 Dialogue: 0,0:19:31.02,0:19:33.19,Default,Naobito,0,0,0,,Can we not just break the Veil? {wtf is that sfx}
 Dialogue: 0,0:19:33.53,0:19:35.24,Default,Nitta,0,0,0,,We're having a hard time with that.
 Dialogue: 0,0:19:35.24,0:19:39.20,Default,Nitta,0,0,0,,Sorcerers don't feel any resistance from either side.
-Dialogue: 0,0:19:39.82,0:19:42.74,Default,Nitta,0,0,0,,So we can't just break it by force.
-Dialogue: 0,0:19:42.74,0:19:46.91,Default,Nitta,0,0,0,,It'll be faster to locate and neutralize\N the curse user who lowered it. {She used "lower" in the first season.} {oh good catch}
+Dialogue: 0,0:19:39.83,0:19:42.74,Default,Nitta,0,0,0,,So we can't just break it by force.
+Dialogue: 0,0:19:42.74,0:19:46.92,Default,Nitta,0,0,0,,It'll be faster to locate and neutralize\N the curse user who lowered it. {She used "lower" in the first season.} {oh good catch}
 Dialogue: 0,0:19:47.46,0:19:49.92,Default,Maki,0,0,0,,And we're here to help out with that?
 Dialogue: 0,0:19:50.42,0:19:51.34,Default,Nitta,0,0,0,,Actually, no!
 Dialogue: 0,0:19:51.34,0:19:53.80,Default,Nitta,0,0,0,,You all are to wait here on standby!
 Dialogue: 0,0:19:56.17,0:20:00.47,Default,Kusakabe,0,0,0,,{\an8}They deployed an advanced barrier technique\N and called out Gojo Satoru specifically. {An advanced barrier while calling out Gojo Satoru specifically.}
 Dialogue: 0,0:20:00.47,0:20:04.18,Default,Kusakabe,0,0,0,,{\an8}Sounds like the same group who attacked\N the exchange event.
 Dialogue: 0,0:20:04.18,0:20:06.81,Default,Kusakabe,0,0,0,,{\an8}The upper brass wants to minimize casualties,
-Dialogue: 0,0:20:06.81,0:20:11.56,Default,Kusakabe,0,0,0,,{\an8}so they've decided to send Gojo Satoru in alone to deal with the situation.
+Dialogue: 0,0:20:06.81,0:20:11.57,Default,Kusakabe,0,0,0,,{\an8}so they've decided to send Gojo Satoru in alone to deal with the situation.
 Dialogue: 0,0:20:13.07,0:20:18.07,Default,Kusakabe,0,0,0,,{\an8}Us, Nanami, Zenin's old man, and Mei Mei.
-Dialogue: 0,0:20:18.07,0:20:23.78,Default,Kusakabe,0,0,0,,{\an8}We're all here on standby outside the Veil\N to catch any of Gojo's rebounds.
-Dialogue: 0,0:20:23.78,0:20:26.66,Default,Kusakabe,0,0,0,,{\an8}'Cause we can't stay in contact if we're inside. {what happened to his accent from the movie smh}
-Dialogue: 0,0:20:27.20,0:20:31.42,Default,Panda,0,0,0,,By "minimize casualties,"\N they only mean sorcerer casualties, right?
+Dialogue: 0,0:20:18.07,0:20:23.79,Default,Kusakabe,0,0,0,,{\an8}We're all here on standby outside the Veil\N to catch any of Gojo's rebounds.
+Dialogue: 0,0:20:23.79,0:20:26.66,Default,Kusakabe,0,0,0,,{\an8}'Cause we can't stay in contact if we're inside. {what happened to his accent from the movie smh}
+Dialogue: 0,0:20:27.21,0:20:31.42,Default,Panda,0,0,0,,By "minimize casualties,"\N they only mean sorcerer casualties, right?
 Dialogue: 0,0:20:31.42,0:20:34.42,Default,Panda,0,0,0,,What about the civilians?
 Dialogue: 0,0:20:34.42,0:20:36.67,Default,Kusakabe,0,0,0,,Don't get bristly with me.
 Dialogue: 0,0:20:36.67,0:20:41.30,Default,Kusakabe,0,0,0,,Unlike last year's Night Parade of a Hundred Demons\N on Christmas, events are already in motion.
@@ -246,22 +246,22 @@ Dialogue: 0,0:21:34.73,0:21:36.36,Default,Youth,0,0,0,,I'm sure help will come s
 Dialogue: 0,0:21:36.36,0:21:38.40,Default,Youth,0,0,0,,Oh, but we've got no reception.
 Dialogue: 0,0:21:38.69,0:21:41.07,Default,Youth,0,0,0,,Did y'all not see it earlier?
 Dialogue: 0,0:21:41.45,0:21:43.03,Default,Youth,0,0,0,,They were sucked in.
-Dialogue: 0,0:21:43.03,0:21:45.57,Default,Youth,0,0,0,,All those people at the intersection.
-Dialogue: 0,0:21:45.57,0:21:47.37,Default,Youth,0,0,0,,Sucked right into the station!
-Dialogue: 0,0:21:47.37,0:21:49.95,Default,Youth,0,0,0,,Like water down the drain!
+Dialogue: 0,0:21:43.03,0:21:45.58,Default,Youth,0,0,0,,All those people at the intersection.
+Dialogue: 0,0:21:45.58,0:21:47.37,Default,Youth,0,0,0,,Sucked right into the station!
+Dialogue: 0,0:21:47.37,0:21:49.96,Default,Youth,0,0,0,,Like water down the drain!
 Dialogue: 0,0:21:50.25,0:21:53.33,Default,Youth,0,0,0,,If it wasn't for that, I'd be on the train home!
-Dialogue: 0,0:21:53.33,0:21:55.83,Default,Youth,0,0,0,,Use your brain a little, you dumb fucks! {based cr}
-Dialogue: 0,0:21:55.83,0:21:56.79,Default,Youth,0,0,0,,What?!
-Dialogue: 0,0:21:56.79,0:21:59.38,Default,Youth,0,0,0,,Then why don't you use\N that {\i1}brain{\i0} of yours to pass through?!
+Dialogue: 0,0:21:53.33,0:21:55.84,Default,Youth,0,0,0,,Use your brain a little, you dumb fucks! {based cr}
+Dialogue: 0,0:21:55.84,0:21:56.80,Default,Youth,0,0,0,,What?!
+Dialogue: 0,0:21:56.80,0:21:59.38,Default,Youth,0,0,0,,Then why don't you use\N that {\i1}brain{\i0} of yours to pass through?!
 Dialogue: 0,0:22:00.80,0:22:02.13,Default,Youth,0,0,0,,Ow.
-Dialogue: 0,0:22:05.59,0:22:06.93,Default,Gojo,0,0,0,,Oh, sorry.
-Comment: 0,0:22:09.97,0:22:10.02,Default,chptr,0,0,0,,{Ending}
+Dialogue: 0,0:22:05.60,0:22:06.93,Default,Gojo,0,0,0,,Oh, sorry.
+Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:40.02,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.86,0:23:44.53,Default,Kugisaki,0,0,0,,{\an8}I asked for pineapple bread, so why the heck did ya get\N choco chip pineapple bread?!
 Dialogue: 0,0:23:44.53,0:23:46.61,Default,Itadori,0,0,0,,{\an8}Cuz pineapple bread with choco chips goes hard!
 Dialogue: 0,0:23:46.61,0:23:48.49,Default,Kugisaki,0,0,0,,{\an8}They go as hard as Kanpura with Gunpla!
 Dialogue: 0,0:23:48.49,0:23:49.70,Default,Itadori,0,0,0,,{\an8}Wait, what's a Kanpura?
-Dialogue: 0,0:23:49.70,0:23:50.32,Default,Kugisaki,0,0,0,,{\an8}Oops. {kugasaki goes into country-girl mode when she's angry, and this time she says choco chips with pinapple bread is as good as kanpura with gunpla, where kanpura is the name of a boiled potato dish from the countryside.}
-Dialogue: 0,0:23:50.32,0:23:51.57,Default,Fushiguro,0,0,0,,{\an8}Next time, The Shibuya Incident.
-Dialogue: 0,0:23:51.57,0:23:52.87,Default,Kugisaki,0,0,0,,{\an8}You know what it is, right, Fushiguro?
+Dialogue: 0,0:23:49.70,0:23:50.33,Default,Kugisaki,0,0,0,,{\an8}Oops. {kugasaki goes into country-girl mode when she's angry, and this time she says choco chips with pinapple bread is as good as kanpura with gunpla, where kanpura is the name of a boiled potato dish from the countryside.}
+Dialogue: 0,0:23:50.33,0:23:51.58,Default,Fushiguro,0,0,0,,{\an8}Next time, The Shibuya Incident.
+Dialogue: 0,0:23:51.58,0:23:52.87,Default,Kugisaki,0,0,0,,{\an8}You know what it is, right, Fushiguro?
 Dialogue: 0,0:23:52.87,0:23:54.62,Default,Fushiguro,0,0,0,,{\an8}I've made Acguy before. {acguy/aggai is a pun on "aka" which means red, as in the red sauce that the kanpura dish is usually eaten with} {why would fushiguro know about this? im guessing it's because he COOKS so he might've tried to make this dish}

@@ -55,12 +55,12 @@ Dialogue: 0,0:02:40.68,0:02:43.23,Default,Gojo,0,0,0,,And you still haven't lear
 Dialogue: 0,0:02:43.23,0:02:45.31,Default,Gojo,0,0,0,,I'll kill you first.
 Dialogue: 0,0:02:48.48,0:02:49.98,Default,Gojo,0,0,0,,Come on, bring it.
 Dialogue: 0,0:02:50.48,0:02:51.48,Default,Gojo,0,0,0,,What's wrong?
-Dialogue: 0,0:02:51.99,0:02:56.87,Default,Gojo,0,0,0,,Didn't you guys tell me not to run away?
+Dialogue: 0,0:02:51.98,0:02:56.86,Default,Gojo,0,0,0,,Didn't you guys tell me not to run away?
 Dialogue: 0,0:03:07.63,0:03:08.84,Default,Jogo,0,0,0,,{\i1}Did he just touch{\fscx180}—{\fscx}
 Dialogue: 0,0:03:27.27,0:03:28.48,Default,Gojo,0,0,0,,Ready for it?
 Dialogue: 0,0:03:35.28,0:03:37.11,Default,Hanami,0,0,0,,{\i1}He's only targeting Jogo.
 Dialogue: 0,0:03:45.54,0:03:48.79,Default,Hanami,0,0,0,,{\i1}Was he confusing us with his declaration earlier?
-Dialogue: 0,0:03:48.79,0:03:50.34,Default,Hanami,0,0,0,,{\i1}And not just that...
+Dialogue: 0,0:03:48.79,0:03:50.33,Default,Hanami,0,0,0,,{\i1}And not just that...
 Dialogue: 0,0:03:54.67,0:03:57.55,Default,Hanami,0,0,0,,{\i1}He has also deactivated his Limitless technique!
 Comment: 0,0:03:59.80,0:04:00.93,Default,Jogo,0,0,0,,No!
 Dialogue: 0,0:04:00.93,0:04:06.31,Default,Hanami,0,0,0,,{\i1}Using his technique in this crowded space\N would require extreme precision.
@@ -96,11 +96,11 @@ Dialogue: 0,0:06:51.89,0:06:54.89,Default,Geto,0,0,0,,That's where you need to k
 Dialogue: 0,0:07:26.51,0:07:27.80,Default,Jogo,0,0,0,,Hold up. {no reason not to meme}
 Dialogue: 0,0:07:28.97,0:07:31.26,Default,Jogo,0,0,0,,I will burn you alive.
 Dialogue: 0,0:07:31.26,0:07:37.44,Default,Jogo,0,0,0,,Surely you didn't join forces just to\N push that impossible task onto us, did you?
-Dialogue: 0,0:07:37.44,0:07:42.55,Default,Jogo,0,0,0,,To keep that thing under\N those conditions for one whole minute
-Dialogue: 0,0:07:42.55,0:07:46.86,Default,Jogo,0,0,0,,even a thousand measly \Nhuman lives wouldn't be enough!
+Dialogue: 0,0:07:37.44,0:07:42.57,Default,Jogo,0,0,0,,To keep that thing under\N those conditions for one whole minute
+Dialogue: 0,0:07:42.57,0:07:46.86,Default,Jogo,0,0,0,,even a thousand measly \Nhuman lives wouldn't be enough!
 Dialogue: 0,0:07:49.16,0:07:51.37,Default,Geto,0,0,0,,Things are getting a little heated here, Jogo.
-Dialogue: 0,0:07:52.04,0:07:53.49,Default,Geto,0,0,0,,Don't worry.
-Dialogue: 0,0:07:53.49,0:07:55.46,Default,Geto,0,0,0,,When I say one minute...
+Dialogue: 0,0:07:52.03,0:07:53.49,Default,Geto,0,0,0,,Don't worry.
+Dialogue: 0,0:07:53.49,0:07:55.45,Default,Geto,0,0,0,,When I say one minute...
 Dialogue: 0,0:08:24.94,0:08:27.86,Default,Jogo,0,0,0,,{\i1}I won't let Hanami's death be in vain.
 Dialogue: 0,0:08:27.86,0:08:32.12,Default,Jogo,0,0,0,,{\i1}Blend into the crowd. Focus on hit-and-runs!
 Dialogue: 0,0:08:39.79,0:08:41.17,Default,Jogo,0,0,0,,Choso!
@@ -113,7 +113,7 @@ Dialogue: 0,0:09:02.40,0:09:07.36,Default,Gojo,0,0,0,,{\i1}As their numbers keep
 Dialogue: 0,0:09:07.36,0:09:11.28,Default,Gojo,0,0,0,,{\i1}I doubt I could trick them\N by deactivating my technique again. {og:No more releasing my technique to lure it in like before.}
 Dialogue: 0,0:09:11.28,0:09:14.95,Default,Gojo,0,0,0,,{\i1}I've revealed my goal of \Nbeating them to a pulp in close combat.
 Dialogue: 0,0:09:14.95,0:09:20.00,Default,Gojo,0,0,0,,{\i1}It'll be a problem if they unleash a\N large-scale coordinated attack on the crowd.
-Dialogue: 0,0:09:22.25,0:09:25.30,Default,Gojo,0,0,0,,{\i1}I'm sorry. I won't be able to save everyone.
+Dialogue: 0,0:09:22.25,0:09:25.29,Default,Gojo,0,0,0,,{\i1}I'm sorry. I won't be able to save everyone.
 Dialogue: 0,0:09:26.38,0:09:27.88,Default,Gojo,0,0,0,,{\i1}But in return...
 Dialogue: 0,0:09:30.01,0:09:32.64,Default,Gojo,0,0,0,,{\i1}I will make sure they're exorcised.
 Dialogue: 0,0:09:32.64,0:09:34.26,Default,Jogo,0,0,0,,{\i1}What's taking so long?!
@@ -132,13 +132,13 @@ Dialogue: 0,0:10:29.48,0:10:31.15,Default,Yuji,0,0,0,,{\i1}...on the train?
 Dialogue: 0,0:10:31.15,0:10:33.15,Default,Announcer,0,0,0,,{\an8}There are eight carriages on the incoming train. {almost missed the italics here}
 Dialogue: 0,0:10:33.15,0:10:36.53,Default,Announcer,0,0,0,,{\an8}Please wait behind the yellow line.
 Dialogue: 0,0:10:35.16,0:10:36.53,Default,Yuji,0,0,0,,{*}Mr. Gojo{*Gojo-sensei}!
-Dialogue: 0,0:10:36.53,0:10:40.50,Default,Announcer,0,0,0,,{\an8}Please do not put your hands or head\N beyond the platform door, or lean against them.
+Dialogue: 0,0:10:36.53,0:10:40.49,Default,Announcer,0,0,0,,{\an8}Please do not put your hands or head\N beyond the platform door, or lean against them.
 Dialogue: 0,0:10:46.96,0:10:48.84,Default,People,0,0,0,,Train's here!
 Dialogue: 0,0:10:49.55,0:10:51.05,Default,People,0,0,0,,We can go home now!
 Dialogue: 0,0:11:04.39,0:11:06.19,Default,Jogo,0,0,0,,It's here!
 Dialogue: 0,0:11:09.15,0:11:09.65,Default,People,0,0,0,,Hey!
-Dialogue: 0,0:11:09.65,0:11:10.53,Default,People,0,0,0,,Excuse me.
-Dialogue: 0,0:11:10.53,0:11:11.32,Default,People,0,0,0,,Let me through!
+Dialogue: 0,0:11:09.65,0:11:10.52,Default,People,0,0,0,,Excuse me.
+Dialogue: 0,0:11:10.52,0:11:11.32,Default,People,0,0,0,,Let me through!
 Dialogue: 0,0:11:11.32,0:11:11.86,Default,People,0,0,0,,Ow!
 Dialogue: 0,0:11:11.86,0:11:12.65,Default,People,0,0,0,,Come on!
 Dialogue: 0,0:11:13.03,0:11:14.61,Default,People,0,0,0,,It's the train!
@@ -146,7 +146,7 @@ Dialogue: 0,0:11:14.61,0:11:16.82,Default,People,0,0,0,,Outta my way! I'm gettin
 Dialogue: 0,0:11:16.82,0:11:17.49,Default,Man,0,0,0,,What're you doing?!
 Dialogue: 0,0:11:17.49,0:11:18.37,Default,Woman,0,0,0,,Can we get in?
 Dialogue: 0,0:11:18.37,0:11:20.16,Default,Woman,0,0,0,,No, wait!
-Dialogue: 0,0:11:49.11,0:11:51.65,Default,Gojo,0,0,0,,What the hell are they thinking?
+Dialogue: 0,0:11:49.10,0:11:51.65,Default,Gojo,0,0,0,,What the hell are they thinking?
 Dialogue: 0,0:11:53.07,0:11:54.65,Default,Mahito,0,0,0,,Jogo!
 Dialogue: 0,0:11:59.37,0:12:01.74,Default,Mahito,0,0,0,,Man, the air smells so nice here.
 Dialogue: 0,0:12:01.74,0:12:03.45,Default,Mahito,0,0,0,,Full of fear and dread!
@@ -156,10 +156,10 @@ Dialogue: 0,0:12:08.92,0:12:11.42,Default,Jogo,0,0,0,,Can I burn down the forest
 Dialogue: 0,0:12:11.42,0:12:13.42,Default,Mahito,0,0,0,,Hanami would get upset over that.
 Dialogue: 0,0:12:14.05,0:12:15.97,Default,Jogo,0,0,0,,Hanami is dead.
 Dialogue: 0,0:12:17.84,0:12:18.97,Default,Mahito,0,0,0,,Seriously?
-Comment: 0,0:12:23.97,0:12:24.02,Default,chptr,0,0,0,,{Part B}
+Comment: 0,0:12:23.97,0:12:24.01,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:12:43.16,0:12:46.16,Default,,0,0,0,,Whoa! I can't hit you for real!
 Dialogue: 0,0:12:47.12,0:12:48.54,Default,Gojo,0,0,0,,{\i1}Patchface!
-Dialogue: 0,0:12:48.54,0:12:50.38,Default,Gojo,0,0,0,,{\i1}The one Nanami and Yuji mentioned?!
+Dialogue: 0,0:12:48.54,0:12:50.37,Default,Gojo,0,0,0,,{\i1}The one Nanami and Yuji mentioned?!
 Dialogue: 0,0:12:57.92,0:13:01.93,Default,Mahito,0,0,0,,Do you know what I find so disgusting about humans?
 Dialogue: 0,0:13:03.93,0:13:06.10,Default,Mahito,0,0,0,,There's just too many of them!
 Dialogue: 0,0:13:15.57,0:13:18.90,Default,Gojo,0,0,0,,There must be more of them above. {the phrase "cursed spirits or curse users" is used too many times in this arc when it clearly doesn't need to be spelled out. gege pls.}
@@ -177,7 +177,7 @@ Dialogue: 0,0:14:14.96,0:14:17.46,Default,Jogo,0,0,0,,{\pos(969,1020)\i1}But you
 Dialogue: 0,0:14:17.46,0:14:22.59,Default,Jogo,0,0,0,,{\pos(969,1020)\i1}The only sacrifices you're willing to accept\N are people killed by curses,
 Dialogue: 0,0:14:22.59,0:14:26.68,Default,Jogo,0,0,0,,{\pos(969,1020)\i1}not people killed by Gojo Satoru.
 Dialogue: 0,0:14:28.18,0:14:31.73,Default,Jogo,0,0,0,,{\pos(969,1020)\i1}Now, think and agonize.
-Dialogue: 0,0:14:31.73,0:14:33.90,Default,Jogo,0,0,0,,{\pos(969,1020)\i1}Until you're on the edge!
+Dialogue: 0,0:14:31.73,0:14:33.89,Default,Jogo,0,0,0,,{\pos(969,1020)\i1}Until you're on the edge!
 Dialogue: 0,0:14:38.57,0:14:40.07,Default,Mahito,0,0,0,,{\pos(969,1020)}No way! {Ain't}
 Dialogue: 0,0:14:40.44,0:14:42.24,Default,Gojo,0,0,0,,{\pos(969,1020)}Domain Expansion:
 Dialogue: 0,0:14:43.32,0:14:45.49,Default,Gojo,0,0,0,,{\pos(969,1020)}Infinite Void.
@@ -189,36 +189,36 @@ Dialogue: 0,0:15:47.26,0:15:52.14,Default,Narrator,0,0,0,,During those 0.2 secon
 Dialogue: 0,0:15:52.14,0:15:56.39,Default,Narrator,0,0,0,,flowed into the brains of non-sorcerers\N and transfigured humans,
 Dialogue: 0,0:15:56.39,0:15:59.65,Default,Narrator,0,0,0,,rendering every one of them unconscious on their feet.
 Dialogue: 0,0:16:16.08,0:16:22.71,Default,Narrator,0,0,0,,In the aftermath, all the survivors from B5\N were able to return to society two months later.
-Dialogue: 0,0:16:22.71,0:16:25.72,Default,Narrator,0,0,0,,That's how precise his Infinite Void was.
+Dialogue: 0,0:16:22.71,0:16:25.71,Default,Narrator,0,0,0,,That's how precise his Infinite Void was.
 Dialogue: 0,0:16:36.39,0:16:41.27,Default,Narrator,0,0,0,,That also meant the special-grade cursed spirits\N could reawaken at any moment.
 Dialogue: 0,0:16:41.27,0:16:47.28,Default,Narrator,0,0,0,,With the possibility of a counterattack in mind, \NGojo Satoru narrowed his targets to the transfigured humans.
 Dialogue: 0,0:17:10.34,0:17:13.10,Default,Narrator,0,0,0,,Upon deactivation of the domain,
 Dialogue: 0,0:17:13.10,0:17:19.85,Default,Narrator,0,0,0,,roughly 1,000 transfigured humans\N unleashed upon B5 were annihilated in 299 seconds
 Dialogue: 0,0:17:19.85,0:17:24.15,Default,Narrator,0,0,0,,at the hands of the strongest sorcerer\N of the modern age. {oh shit i should've kept that "strongest sorcerer of the modern age" line in 28}
-Dialogue: 0,0:17:58.18,0:18:00.69,Default,Geto,0,0,0,,Prison Realm: Gate, Open.
+Dialogue: 0,0:17:58.18,0:18:00.68,Default,Geto,0,0,0,,Prison Realm: Gate, Open.
 Dialogue: 0,0:18:06.65,0:18:08.23,Default,Geto,0,0,0,,Don't worry.
 Dialogue: 0,0:18:08.90,0:18:11.03,Default,Geto,0,0,0,,When I say one minute...
 Dialogue: 0,0:18:24.67,0:18:25.79,Default,Geto,0,0,0,,'Sup,
 Dialogue: 0,0:18:28.59,0:18:29.67,Default,Geto,0,0,0,,Satoru.
-Dialogue: 0,0:18:30.97,0:18:31.67,Default,Gojo,0,0,0,,Huh?
+Dialogue: 0,0:18:30.96,0:18:31.67,Default,Gojo,0,0,0,,Huh?
 Dialogue: 0,0:18:32.80,0:18:34.18,Default,Geto,0,0,0,,It's been a while.
 Dialogue: 0,0:18:39.77,0:18:41.43,Default,Gojo,0,0,0,,{\i1}A fake?
 Dialogue: 0,0:18:42.56,0:18:44.52,Default,Gojo,0,0,0,,{\i1}Some transformation technique?
-Dialogue: 0,0:18:47.07,0:18:49.32,Default,Gojo,0,0,0,,{\i1}No, it really is him!
+Dialogue: 0,0:18:47.06,0:18:49.32,Default,Gojo,0,0,0,,{\i1}No, it really is him!
 Dialogue: 0,0:19:01.20,0:19:05.25,Default,Geto,0,0,0,,It's one minute's worth of time in Gojo Satoru's mind.
-Dialogue: 0,0:19:12.59,0:19:17.35,Default,Geto,0,0,0,,Come now, Satoru. You shouldn't\N lose yourself in thought in the midst of battle.
+Dialogue: 0,0:19:12.59,0:19:17.34,Default,Geto,0,0,0,,Come now, Satoru. You shouldn't\N lose yourself in thought in the midst of battle.
 Dialogue: 0,0:19:17.72,0:19:19.85,Default,Gojo,0,0,0,,{\i1}I can't sense any cursed energy.
 Dialogue: 0,0:19:19.85,0:19:21.93,Default,Gojo,0,0,0,,{\i1}I can't even move a muscle.
 Dialogue: 0,0:19:22.52,0:19:23.77,Default,Gojo,0,0,0,,{\i1}Is this game over? {it's gojover}
 Dialogue: 0,0:19:25.14,0:19:27.69,Default,Gojo,0,0,0,,So, who the hell are you?
-Dialogue: 0,0:19:28.82,0:19:31.23,Default,Geto,0,0,0,,I'm Geto Suguru, of course.
+Dialogue: 0,0:19:28.81,0:19:31.23,Default,Geto,0,0,0,,I'm Geto Suguru, of course.
 Dialogue: 0,0:19:31.23,0:19:34.11,Default,Geto,0,0,0,,Don't you remember me? How sad.
 Dialogue: 0,0:19:34.61,0:19:40.95,Default,Gojo,0,0,0,,Whether it's your body or your cursed energy,\N my Six Eyes tell me you're Geto Suguru.
 Dialogue: 0,0:19:45.08,0:19:46.29,Default,Gojo,0,0,0,,But...
 Dialogue: 0,0:19:48.50,0:19:51.50,Default,Gojo,0,0,0,,My {\i1}soul{\i0} denies it!
 Dialogue: 0,0:19:51.50,0:19:53.21,Default,Gojo,0,0,0,,Now, give me a straight answer!
 Dialogue: 0,0:19:53.21,0:19:54.97,Default,Gojo,0,0,0,,Who the hell are you?!
-Dialogue: 0,0:19:59.43,0:20:00.81,Default,Geto,0,0,0,,Creepy.
+Dialogue: 0,0:19:59.43,0:20:00.80,Default,Geto,0,0,0,,Creepy.
 Dialogue: 0,0:20:09.81,0:20:11.94,Default,Geto,0,0,0,,How could you tell?
 Dialogue: 0,0:20:13.90,0:20:16.32,Default,Geto,0,0,0,,That is my technique, you see.
 Dialogue: 0,0:20:16.32,0:20:20.16,Default,Geto,0,0,0,,I can hop between bodies\N by replacing its brain with myself.
@@ -226,33 +226,33 @@ Dialogue: 0,0:20:20.16,0:20:23.41,Default,Geto,0,0,0,,It also lets me use the bo
 Dialogue: 0,0:20:24.08,0:20:27.83,Default,Geto,0,0,0,,I needed his Curse Manipulation and this exact situation.
 Dialogue: 0,0:20:27.83,0:20:33.25,Default,Geto,0,0,0,,Back then, you didn't have Ieiri Shoko\N handle the disposal of Geto Suguru's body, did you?
 Dialogue: 0,0:20:37.01,0:20:40.05,Default,Geto,0,0,0,,That was an odd time for you to show consideration.
-Dialogue: 0,0:20:40.05,0:20:43.06,Default,Geto,0,0,0,,Thanks to that, I was able to obtain this body with ease.
-Dialogue: 0,0:20:44.02,0:20:47.27,Default,Geto,0,0,0,,You needn't worry. The seal will be broken eventually.
+Dialogue: 0,0:20:40.05,0:20:43.05,Default,Geto,0,0,0,,Thanks to that, I was able to obtain this body with ease.
+Dialogue: 0,0:20:44.01,0:20:47.27,Default,Geto,0,0,0,,You needn't worry. The seal will be broken eventually.
 Dialogue: 0,0:20:48.39,0:20:52.02,Default,Geto,0,0,0,,In a hundred... no, maybe a thousand years from now?
-Dialogue: 0,0:20:52.02,0:20:54.03,Default,Geto,0,0,0,,You're just too strong. {GEGE WHEN I CATCH YOU}
+Dialogue: 0,0:20:52.02,0:20:54.02,Default,Geto,0,0,0,,You're just too strong. {GEGE WHEN I CATCH YOU}
 Dialogue: 0,0:20:54.90,0:20:56.99,Default,Geto,0,0,0,,And you're in the way of my plans.
 Dialogue: 0,0:20:57.82,0:20:59.74,Default,Gojo,0,0,0,,Aren't you forgetting something?
 Dialogue: 0,0:20:59.74,0:21:04.49,Default,Gojo,0,0,0,,Before it was killed by me, who was it that\N beat the crap out of that body?
 Dialogue: 0,0:21:04.49,0:21:06.75,Default,Geto,0,0,0,,Okkotsu Yuta, huh?
 Dialogue: 0,0:21:06.75,0:21:10.83,Default,Geto,0,0,0,,I really don't get what everyone sees in that boy.
-Dialogue: 0,0:21:13.34,0:21:17.97,Default,Geto,0,0,0,,His ability to unconditionally copy techniques\N as well as his boundless cursed energy
-Dialogue: 0,0:21:17.97,0:21:24.51,Default,Geto,0,0,0,,are both merely a result of the Binding Vow that\N links him with the soul of his beloved.
+Dialogue: 0,0:21:13.34,0:21:17.96,Default,Geto,0,0,0,,His ability to unconditionally copy techniques\N as well as his boundless cursed energy
+Dialogue: 0,0:21:17.96,0:21:24.51,Default,Geto,0,0,0,,are both merely a result of the Binding Vow that\N links him with the soul of his beloved.
 Dialogue: 0,0:21:25.97,0:21:30.77,Default,Geto,0,0,0,,Sorry to say this, but Okkotsu Yuta \Nwill never replace you.
 Dialogue: 0,0:21:36.11,0:21:38.24,Default,Geto,0,0,0,,Goodnight, Gojo Satoru.
 Dialogue: 0,0:21:39.78,0:21:42.78,Default,Geto,0,0,0,,We'll meet again in the new world. {wait............. could this be what gojo said to geto? or sth similar at least, like the line from the OP}
-Dialogue: 0,0:21:45.79,0:21:47.37,Default,,0,0,0,,What the{\fscx180}—{\fscx}
+Dialogue: 0,0:21:45.78,0:21:47.37,Default,,0,0,0,,What the{\fscx180}—{\fscx}
 Dialogue: 0,0:21:48.66,0:21:50.46,Default,Ui,0,0,0,,What's the matter?
 Dialogue: 0,0:21:50.46,0:21:53.21,Default,Yuji,0,0,0,,There's... something on my ear.
 Dialogue: 0,0:21:53.21,0:21:56.21,Default,Mechamaru,0,0,0,,Can you hear me, Itadori Yuji?
-Dialogue: 0,0:21:57.21,0:22:00.93,Default,Mechamaru,0,0,0,,{\pos(999,1020)}There's no time.\N Listen carefully, I'll only say this once.
+Dialogue: 0,0:21:57.21,0:22:00.92,Default,Mechamaru,0,0,0,,{\pos(999,1020)}There's no time.\N Listen carefully, I'll only say this once.
 Dialogue: 0,0:22:02.97,0:22:08.22,Default,Mechamaru,0,0,0,,{\pos(999,1020)}Gojo Satoru has been sealed.
 Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:40.02,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.32,0:23:41.86,Default,Yuji,0,0,0,,{\an8}What do you think of skin care?
-Dialogue: 0,0:23:41.86,0:23:44.20,Default,Kugisaki,0,0,0,,{\an8}What? You're asking me that? Not that I mind.
-Dialogue: 0,0:23:44.20,0:23:46.66,Default,Kugisaki,0,0,0,,{\an8}I use all kinds of products, but like, it's just genetics.
+Dialogue: 0,0:23:41.86,0:23:44.19,Default,Kugisaki,0,0,0,,{\an8}What? You're asking me that? Not that I mind.
+Dialogue: 0,0:23:44.19,0:23:46.66,Default,Kugisaki,0,0,0,,{\an8}I use all kinds of products, but like, it's just genetics.
 Dialogue: 0,0:23:46.66,0:23:50.95,Default,Kugisaki,0,0,0,,{\an8}I'm sure those with pale, smooth skin like {*}Mr. Gojo{*Gojo-sensei}\N would say, "I don't really do anything."
 Dialogue: 0,0:23:50.95,0:23:51.87,Default,Fushiguro,0,0,0,,{\an8}Next time, Pandemonium. {i do not like how these lines are 6 frames off from the title text...}
 Dialogue: 0,0:23:51.87,0:23:52.70,Default,Kugisaki,0,0,0,,{\an8}So what do you actually do?
 Dialogue: 0,0:23:52.70,0:23:53.45,Default,Gojo,0,0,0,,{\an8}I don't really do anything.
-Dialogue: 0,0:23:53.45,0:23:54.71,Default,Kugisaki,0,0,0,,{\an8}Grr!
+Dialogue: 0,0:23:53.45,0:23:54.70,Default,Kugisaki,0,0,0,,{\an8}Grr!

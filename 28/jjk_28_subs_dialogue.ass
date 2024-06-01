@@ -87,7 +87,7 @@ Dialogue: 0,0:05:11.71,0:05:14.04,Default,Toji,0,0,0,,She might've survived if s
 Dialogue: 0,0:05:14.04,0:05:15.67,Default,Toji,0,0,0,,Doesn't matter to me either way.
 Dialogue: 0,0:05:16.25,0:05:19.05,Default,Geto,0,0,0,,All right, that settles it.
 Dialogue: 0,0:05:19.05,0:05:20.30,Default,Geto,0,0,0,,Die! {timing}
-Dialogue: 0,0:06:01.51,0:06:03.89,Default,Geto,0,0,0,,{\i1}Rainbow Dragon has the toughest hide there is!
+Dialogue: 0,0:06:01.51,0:06:03.88,Default,Geto,0,0,0,,{\i1}Rainbow Dragon has the toughest hide there is!
 Dialogue: 0,0:06:12.14,0:06:14.10,Default,Toji,0,0,0,,Curse Manipulation.
 Dialogue: 0,0:06:15.06,0:06:16.31,Default,Toji,0,0,0,,Just some riffraff. {Wrong usage of the word "rabble"? Rabble refers to a group of people of a certain unruly type.} {he's talking about the curses from curse manipulation} {"riffraff" is the word geto later uses in the movie which he picked up from toji when he says this line} {and also "monkeys" a bit later}
 Dialogue: 0,0:06:29.33,0:06:31.08,Cursed,Splitmouth,0,0,0,,Tell me...
@@ -108,7 +108,7 @@ Dialogue: 0,0:07:13.87,0:07:18.54,Default,Geto,0,0,0,,{\i1}A technique that lets
 Dialogue: 0,0:07:18.54,0:07:24.92,Default,Geto,0,0,0,,{\i1}If the curse is at least two grades lower than me,\N I can consume them unconditionally.
 Dialogue: 0,0:07:26.34,0:07:29.76,Default,Geto,0,0,0,,{\i1}His cursed spirit may have a unique ability,\N but it's not that strong itself.
 Dialogue: 0,0:07:30.51,0:07:32.93,Default,Geto,0,0,0,,{\i1}I can consume it. That'll lock down his armory.
-Dialogue: 0,0:07:34.06,0:07:35.44,Default,Geto,0,0,0,,{\i1}Then I just need to keep attacking{\fscx180}—{\fscx}
+Dialogue: 0,0:07:34.06,0:07:35.43,Default,Geto,0,0,0,,{\i1}Then I just need to keep attacking{\fscx180}—{\fscx}
 Dialogue: 0,0:08:03.42,0:08:06.47,Default,Toji,0,0,0,,I didn't cut you badly enough to kill you.
 Dialogue: 0,0:08:06.47,0:08:11.39,Default,Toji,0,0,0,,I would have if you were a cursed beast user,\N but you use Curse Manipulation. {split}
 Dialogue: 0,0:08:11.80,0:08:15.81,Default,Toji,0,0,0,,Who knows what might happen to \Nall the curses you've absorbed after you die.
@@ -119,15 +119,15 @@ Dialogue: 0,0:08:31.03,0:08:34.16,Default,Toji,0,0,0,,Keep that in mind if you w
 Dialogue: 0,0:08:37.54,0:08:41.54,Default,Toji,0,0,0,,Oh, right, Megumi.\N The name means blessings.
 Dialogue: 0,0:08:42.04,0:08:44.46,Default,Toji,0,0,0,,I'm the one who gave him that name.
 Comment: 0,0:08:48.97,0:08:49.01,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:09:10.24,0:09:11.62,Default,Toji,0,0,0,,Go on, now.
+Dialogue: 0,0:09:10.24,0:09:11.61,Default,Toji,0,0,0,,Go on, now.
 Dialogue: 0,0:09:16.24,0:09:20.87,Default,Toji,0,0,0,,The corpse of the Star Plasma Vessel, Amanai Riko,\N complete with all four limbs intact.
 Dialogue: 0,0:09:25.80,0:09:26.92,Default,Sonoda,0,0,0,,Indeed it is.
 Dialogue: 0,0:09:27.42,0:09:29.97,Default,Sonoda,0,0,0,,You'll receive your payment as we discussed.
 Dialogue: 0,0:09:31.30,0:09:33.09,Default,Sonoda,0,0,0,,We'll even throw in a bonus.
 Dialogue: 0,0:09:33.55,0:09:36.72,Default,Toji,0,0,0,,Way to go, Founder.\N You're as generous as they say.
-Dialogue: 0,0:09:36.72,0:09:38.73,Default,Kong,0,0,0,,He's not the founder.
-Dialogue: 0,0:09:41.02,0:09:42.40,Default,Kong,0,0,0,,Do you mean it?
-Dialogue: 0,0:09:42.40,0:09:46.07,Default,Kong,0,0,0,,I know they were necessary expenses, \Nbut you've already helped us out a lot.
+Dialogue: 0,0:09:36.72,0:09:38.72,Default,Kong,0,0,0,,He's not the founder.
+Dialogue: 0,0:09:41.02,0:09:42.39,Default,Kong,0,0,0,,Do you mean it?
+Dialogue: 0,0:09:42.39,0:09:46.07,Default,Kong,0,0,0,,I know they were necessary expenses, \Nbut you've already helped us out a lot.
 Dialogue: 0,0:09:46.48,0:09:48.78,Default,Kong,0,0,0,,Honestly, I was expecting a few complaints.
 Dialogue: 0,0:09:50.36,0:09:54.03,Default,Sonoda,0,0,0,,We never anticipated the assassination to be a success.
 Dialogue: 0,0:09:54.03,0:09:56.16,Default,Sonoda,0,0,0,,Star Religious Group was founded in the Nara Era,
@@ -141,33 +141,33 @@ Dialogue: 0,0:10:25.65,0:10:28.11,Default,Sonoda,0,0,0,,However, the time had fi
 Dialogue: 0,0:10:28.73,0:10:32.36,Default,Sonoda,0,0,0,,The time of the taboo recorded in our scriptures!
 Dialogue: 0,0:10:32.86,0:10:36.53,Default,Sonoda,0,0,0,,We evolved into a monotheistic religion\N worshiping one absolute god! {For me it'd feel more natural for it to say "worshipping" but eh anyway, both are legit.}
 Dialogue: 0,0:10:36.53,0:10:40.70,Default,Sonoda,0,0,0,,And it was now time for our object of worship\N to assimilate with this impurity!
-Dialogue: 0,0:10:42.71,0:10:47.34,Default,Sonoda,0,0,0,,If our believers saw us simply sit back and \Nwatch it happen, our Association would crumble.
+Dialogue: 0,0:10:42.71,0:10:47.33,Default,Sonoda,0,0,0,,If our believers saw us simply sit back and \Nwatch it happen, our Association would crumble.
 Dialogue: 0,0:10:48.25,0:10:52.59,Default,Sonoda,0,0,0,,Yet if we took excessive action, the sorcerers would crush us.
 Dialogue: 0,0:10:52.97,0:10:56.34,Default,Sonoda,0,0,0,,The times were desperate, indeed.
 Dialogue: 0,0:10:56.64,0:10:58.68,Default,Sonoda,0,0,0,,And how did it all turn out?
 Dialogue: 0,0:10:58.68,0:11:01.10,Default,Sonoda,0,0,0,,We thought we were going to lose everything,
 Dialogue: 0,0:11:01.10,0:11:03.10,Default,Sonoda,0,0,0,,and now we have it all!
 Dialogue: 0,0:11:03.60,0:11:06.56,Default,Sonoda,0,0,0,,Of course that would loosen our purse strings.
-Dialogue: 0,0:11:08.57,0:11:14.11,Default,Kong,0,0,0,,Human society might be what crumbles\N if {*}Master Tengen{*Tengen-sama} loses control.
+Dialogue: 0,0:11:08.56,0:11:14.11,Default,Kong,0,0,0,,Human society might be what crumbles\N if {*}Master Tengen{*Tengen-sama} loses control.
 Dialogue: 0,0:11:16.07,0:11:19.70,Default,Sonoda,0,0,0,,If we should perish along with our star, then so be it.
-Dialogue: 0,0:11:31.42,0:11:34.93,Default,Toji,0,0,0,,Were you referring to Okinawa\N when you said they helped us?
-Dialogue: 0,0:11:34.93,0:11:35.63,Default,Kong,0,0,0,,Yeah.
+Dialogue: 0,0:11:31.42,0:11:34.92,Default,Toji,0,0,0,,Were you referring to Okinawa\N when you said they helped us?
+Dialogue: 0,0:11:34.92,0:11:35.63,Default,Kong,0,0,0,,Yeah.
 Dialogue: 0,0:11:36.05,0:11:39.18,Default,Toji,0,0,0,,Why didn't you kill the maid back then?
 Dialogue: 0,0:11:39.18,0:11:40.60,Default,Toji,0,0,0,,I thought I told you to.
 Dialogue: 0,0:11:40.60,0:11:44.60,Default,Toji,0,0,0,,Take her somewhere far away and kill her somewhere along the way. {hmmmmmmmm the line he uses here is uhh let's just call it colorful, which gets lost in translation} {now this feels almost too colorful, tho it is accurate} {Issokay!}
 Dialogue: 0,0:11:44.60,0:11:49.06,Default,Kong,0,0,0,,Because I had a rough idea of what you were planning.
-Dialogue: 0,0:11:49.44,0:11:52.28,Default,Kong,0,0,0,,I decided that instead of\N heightening tensions from failure,
-Dialogue: 0,0:11:52.28,0:11:56.57,Default,Kong,0,0,0,,the relief from a successful rescue\N would be more helpful in lowering his guard.
+Dialogue: 0,0:11:49.44,0:11:52.27,Default,Kong,0,0,0,,I decided that instead of\N heightening tensions from failure,
+Dialogue: 0,0:11:52.27,0:11:56.57,Default,Kong,0,0,0,,the relief from a successful rescue\N would be more helpful in lowering his guard.
 Dialogue: 0,0:11:56.57,0:12:02.41,Default,Kong,0,0,0,,You often keep your orders vague\N to hide your true intentions, don't you?
 Dialogue: 0,0:12:02.70,0:12:04.75,Default,Kong,0,0,0,,All's well that ends well, though.
 Dialogue: 0,0:12:04.75,0:12:08.00,Default,Kong,0,0,0,,And stop running your mediator ragged.
-Dialogue: 0,0:12:08.00,0:12:10.59,Default,Toji,0,0,0,,Yeah, but why go as far as Okinawa?
+Dialogue: 0,0:12:08.00,0:12:10.58,Default,Toji,0,0,0,,Yeah, but why go as far as Okinawa?
 Dialogue: 0,0:12:12.71,0:12:15.01,Default,Kong,0,0,0,,I had a laugh at that myself.
 Dialogue: 0,0:12:15.01,0:12:18.22,Default,Kong,0,0,0,,Normally, you'd use a car to transport a captive, right? {but there are no roads to Okinawa}
 Dialogue: 0,0:12:18.22,0:12:21.26,Default,Kong,0,0,0,,Public transportation is risky, after all. {especially by air}
 Dialogue: 0,0:12:21.76,0:12:25.85,Default,Kong,0,0,0,,But get this, the president owns a private jet.
 Dialogue: 0,0:12:26.56,0:12:28.69,Default,Toji,0,0,0,,Still, it wasn't necessary.
-Dialogue: 0,0:12:30.86,0:12:33.65,Default,Kong,0,0,0,,Rich people think on a different scale, man.
+Dialogue: 0,0:12:30.85,0:12:33.65,Default,Kong,0,0,0,,Rich people think on a different scale, man.
 Dialogue: 0,0:12:33.65,0:12:36.07,Default,Toji,0,0,0,,Let's wine and dine with their money.
 Dialogue: 0,0:12:36.07,0:12:38.61,Default,Toji,0,0,0,,Take me to one of the restaurants\N you use for clients.
 Dialogue: 0,0:12:39.61,0:12:40.66,Default,Kong,0,0,0,,No way.
@@ -176,9 +176,9 @@ Dialogue: 0,0:12:44.12,0:12:49.62,Default,Kong,0,0,0,,I've decided I'll only see
 Dialogue: 0,0:13:11.06,0:13:13.65,Default,Gojo,0,0,0,,Hey, it's been a while.
 Dialogue: 0,0:13:15.07,0:13:16.15,Default,Toji,0,0,0,,For real?
 Dialogue: 0,0:13:16.57,0:13:18.11,Default,Gojo,0,0,0,,For {\i1}real{\i0}, real.
-Dialogue: 0,0:13:19.20,0:13:21.36,Default,Gojo,0,0,0,,I'm alive and kicking!
-Dialogue: 0,0:13:21.95,0:13:23.58,Default,Toji,0,0,0,,Reverse cursed technique!
-Dialogue: 0,0:13:24.33,0:13:25.83,Default,Gojo,0,0,0,,Damn right!
+Dialogue: 0,0:13:19.19,0:13:21.36,Default,Gojo,0,0,0,,I'm alive and kicking!
+Dialogue: 0,0:13:21.95,0:13:23.57,Default,Toji,0,0,0,,Reverse cursed technique!
+Dialogue: 0,0:13:24.32,0:13:25.83,Default,Gojo,0,0,0,,Damn right!
 Dialogue: 0,0:13:25.83,0:13:28.45,Default,Gojo,0,0,0,,When you stabbed me through the throat,
 Dialogue: 0,0:13:28.45,0:13:32.79,Default,Gojo,0,0,0,,I gave up on fighting back and poured {\i1}all{\i0} my focus\N into reverse cursed technique.
 Dialogue: 0,0:13:33.50,0:13:35.50,Default,Gojo,0,0,0,,Cursed energy is negative energy.
@@ -186,22 +186,22 @@ Dialogue: 0,0:13:35.50,0:13:38.76,Default,Gojo,0,0,0,,While it can enhance the b
 Dialogue: 0,0:13:38.76,0:13:43.34,Default,Gojo,0,0,0,,So you multiply it against itself to create positive energy.
 Dialogue: 0,0:13:43.34,0:13:45.01,Default,Gojo,0,0,0,,{\i1}That{\i0} is reverse cursed technique.
 Dialogue: 0,0:13:45.39,0:13:46.93,Default,Gojo,0,0,0,,It's way harder than it sounds!
-Dialogue: 0,0:13:46.93,0:13:49.23,Default,Gojo,0,0,0,,I never managed to do it until today!
+Dialogue: 0,0:13:46.93,0:13:49.22,Default,Gojo,0,0,0,,I never managed to do it until today!
 Dialogue: 0,0:13:51.27,0:13:52.85,Default,Toji,0,0,0,,{\i1\an8}What is he on about...
-Dialogue: 0,0:13:49.23,0:13:53.27,Default,Gojo,0,0,0,,And the one person who could do it\N never made any sense!
+Dialogue: 0,0:13:49.22,0:13:53.27,Default,Gojo,0,0,0,,And the one person who could do it\N never made any sense!
 Dialogue: 0,0:13:53.27,0:13:54.73,Default,Toji,0,0,0,,{\i1}This guy...
 Dialogue: 0,0:13:54.73,0:13:56.73,Default,Toji,0,0,0,,{\i1}Is he high?
 Dialogue: 0,0:13:57.15,0:13:59.49,Default,Gojo,0,0,0,,But I finally grasped it on the verge of death!
 Dialogue: 0,0:13:59.49,0:14:01.49,Default,Gojo,0,0,0,,The true essence of cursed energy!
 Dialogue: 0,0:14:01.49,0:14:05.24,Default,Gojo,0,0,0,,The reason you're gonna lose is because\N you didn't chop my head off,
-Dialogue: 0,0:14:05.24,0:14:08.75,Default,Gojo,0,0,0,,and because you didn't use that cursed tool\N when you stabbed me in the head.
-Dialogue: 0,0:14:09.41,0:14:10.96,Default,Toji,0,0,0,,I'm gonna lose?
+Dialogue: 0,0:14:05.24,0:14:08.74,Default,Gojo,0,0,0,,and because you didn't use that cursed tool\N when you stabbed me in the head.
+Dialogue: 0,0:14:09.41,0:14:10.95,Default,Toji,0,0,0,,I'm gonna lose?
 Dialogue: 0,0:14:13.67,0:14:15.54,Default,Toji,0,0,0,,Our fight is just getting started.
 Dialogue: 0,0:14:16.17,0:14:18.17,Default,Gojo,0,0,0,,Yeah? Is that right?
 Dialogue: 0,0:14:18.17,0:14:19.80,Default,Gojo,0,0,0,,Maybe you're right.
 Dialogue: 0,0:14:19.80,0:14:21.26,Default,Gojo,0,0,0,,{\fs85\bord4\pos(960,1023)}You are {\i1}so{\i0} right!
 Dialogue: 0,0:14:34.65,0:14:36.15,Default,Gojo,0,0,0,,{\i1}Cursed Technique Reversal:
-Dialogue: 0,0:14:38.28,0:14:39.15,Default,Gojo,0,0,0,,{\i1}Red.
+Dialogue: 0,0:14:38.27,0:14:39.15,Default,Gojo,0,0,0,,{\i1}Red.
 Dialogue: 0,0:14:54.54,0:14:55.92,Default,Toji,0,0,0,,He's a monster.
 Dialogue: 0,0:15:03.22,0:15:04.76,Default,Toji,0,0,0,,{\i1}My bones aren't broken.
 Dialogue: 0,0:15:05.43,0:15:08.76,Default,Toji,0,0,0,,{\i1}That shockwave was an application of Limitless.
@@ -215,10 +215,10 @@ Dialogue: 0,0:15:39.63,0:15:42.30,Default,Toji,0,0,0,,{\i1}Nothing I can't handl
 Dialogue: 0,0:15:44.42,0:15:45.30,Default,Toji,0,0,0,,{\i1}Something's off.
 Dialogue: 0,0:15:51.26,0:15:52.43,Default,Toji,0,0,0,,{\i1}Something's off.
 Dialogue: 0,0:15:55.52,0:15:57.44,Default,Toji,0,0,0,,Nah, this is fine.
-Dialogue: 0,0:15:59.86,0:16:01.07,Default,Toji,0,0,0,,I'll kill you.
+Dialogue: 0,0:15:59.86,0:16:01.06,Default,Toji,0,0,0,,I'll kill you.
 Dialogue: 0,0:16:21.17,0:16:23.46,Default,Gojo,0,0,0,,{\i1}Sorry, Amanai.
 Dialogue: 0,0:16:24.13,0:16:27.47,Default,Gojo,0,0,0,,{\i1}I'm not even angry for you right now.
-Dialogue: 0,0:16:28.84,0:16:30.85,Default,Gojo,0,0,0,,{\i1}I bear no grudge against anyone. {no enemies arc}
+Dialogue: 0,0:16:28.84,0:16:30.84,Default,Gojo,0,0,0,,{\i1}I bear no grudge against anyone. {no enemies arc}
 Dialogue: 0,0:16:33.06,0:16:38.06,Default,Gojo,0,0,0,,{\fade(0,360)\i1}The world just feels so wonderful right now.
 Dialogue: 0,0:16:55.04,0:16:57.96,Default,Gojo,0,0,0,,Throughout Heaven and Earth, I alone am the honored one.
 Dialogue: 0,0:17:01.38,0:17:04.75,Default,Gojo,0,0,0,,{\i1}One advantage of techniques \Nthat are passed down for generations

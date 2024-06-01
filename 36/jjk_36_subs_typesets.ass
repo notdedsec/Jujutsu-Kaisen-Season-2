@@ -30,7 +30,7 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:05.83,0:00:08.59,Signs,,0,0,0,,{=0}Exit 13
+Comment: 0,0:00:05.82,0:00:08.57,Signs,,0,0,0,,{=0}Exit 13
 Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an7\fscx23\fscy80\pos(532.08,106.26)\p1}m 677 880 l 1869 880 1869 999 677 999 677 900
 Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(467.08,106.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
 Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(467.08,226.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
@@ -39,39 +39,39 @@ Dialogue: 3,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Gro
 Dialogue: 3,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx100\c&H000000&\pos(1012.91,1018.69)\b1}Exit 13, Outside the Veil
 Dialogue: 3,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{=1}
 Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\blur0.69\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\c&HADBBC4&\pos(1099,487.3)\b1\clip(m 974.74 475.41 l 1218.32 476.13 1218.61 509.38 1141.8 508.55 1141.52 478.34 1134.32 478.34 1134.79 508.27 1058.38 507.71 1058.66 478.46 1052.17 477.95 1052.29 507.44 975.01 508.12)}Leave your  insurance decisions to us
-Dialogue: 0,0:00:44.02,0:00:47.02,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 36\N{\fs70}Dull Blade
-Comment: 0,0:02:26.62,0:02:35.88,Signs,,0,0,0,,{=10}Between Meiji Shrine Station and Shibuya Station
+Dialogue: 0,0:00:44.02,0:00:47.03,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 36\N{\fs70}Dull Blade
+Comment: 0,0:02:26.63,0:02:35.89,Signs,,0,0,0,,{=10}Between Meiji Shrine Station and Shibuya Station
 Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an7\fscx23\fscy73\pos(354.08,177.26)\p1}m 677 880 l 1877 880 1877 999 677 999 677 900
 Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an7\fscx77\fscy73\pos(296.08,177.26)\p1}m 677 880 l 1270 880 1270 999 677 999 677 900
 Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an7\fscx77\fscy73\pos(-10.92,297.26)\p1}m 677 880 l 2444 880 2444 999 677 999 677 900
 Dialogue: 3,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(565.4,901.4)\b1}22:02
 Dialogue: 3,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs75\fscx99\c&H000000&\pos(868.91,899.69)\b1}Tokyo Metro
 Dialogue: 3,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs72\fscx94\c&H000000&\pos(531.91,1019.69)\b1}Between Meiji Jingumae Station and Shibuya Station
-Dialogue: 0,0:02:26.62,0:02:35.88,Signs,,0,0,0,,{=11}
-Comment: 0,0:04:45.51,0:04:52.64,Signs,,0,0,0,,{=14}Shuto Expressway, Cerulean Tower
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,,0,0,0,,{=11}
+Comment: 0,0:04:45.52,0:04:52.65,Signs,,0,0,0,,{=14}Shuto Expressway, Cerulean Tower
 Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\fscx24\fscy80\pos(-71,112.86)\p1}m 677 880 l 1870 880 1870 999 677 999 677 900
 Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\fscx75\fscy80\pos(-106.52,112.86)\p1}m 677 880 l 2080 880 2080 999 677 999 677 900
 Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\fscx75\fscy80\pos(-106.52,230.86)\p1}m 677 880 l 1669 880 1669 999 677 999 677 900
 Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs74\c&H000000&\pos(154,903)\b1}22:04
 Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs70\fscx96\c&H000000&\pos(427,902)\b1}Shuto Expressway Route 3, Shibuya Line
 Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs70\fscx99\c&H000000&\pos(427,1019)\b1}In Front of Cerulean Tower
-Dialogue: 0,0:04:45.51,0:04:52.64,Signs,,0,0,0,,{=15}
-Comment: 0,0:09:19.53,0:09:25.12,Signs,,0,0,0,,{=6}Shoto Bunkamura Street
+Dialogue: 0,0:04:45.52,0:04:52.65,Signs,,0,0,0,,{=15}
+Comment: 0,0:09:19.54,0:09:25.13,Signs,,0,0,0,,{=6}Shoto Bunkamura Street
 Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\an7\fscx22\fscy73\pos(-53.52,295.86)\p1}m 677 880 l 1833 880 1833 999 677 999 677 900
 Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\an7\fscx117\fscy73\pos(-399,295.86)\p1}m 677 880 l 1710 880 1710 999 677 999 677 900
 Dialogue: 3,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs75\c&H000000&\pos(144,1020)\b1}21:40
 Dialogue: 3,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs75\c&H000000&\pos(422,1020)\b1}Shoto Bunkamura Street, Outside the Veil
-Dialogue: 0,0:09:19.53,0:09:25.12,Signs,,0,0,0,,{=7}
-Comment: 0,0:19:39.63,0:19:43.11,Signs,Screen,0,0,0,,{=26}Smallpox Deity
-Dialogue: 0,0:19:39.63,0:19:43.11,Signs,Screen,0,0,0,,{\blur0.64\fnRagnar\fs88\fscx105\pos(960,144)\b1}Special-Grade Disease Curse
-Dialogue: 0,0:19:39.63,0:19:43.11,Signs,Screen,0,0,0,,{\blur0.64\fnRagnar\fs128\fscx105\pos(960,960)\b1}Smallpox Deity
-Dialogue: 0,0:19:39.63,0:19:43.11,Signs,Screen,0,0,0,,{=27}
-Comment: 0,0:20:49.97,0:20:52.48,Signs,,0,0,0,,{=16}Inside Shibuya Station
+Dialogue: 0,0:09:19.54,0:09:25.13,Signs,,0,0,0,,{=7}
+Comment: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{=26}Smallpox Deity
+Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.64\fnRagnar\fs88\fscx105\pos(960,144)\b1}Special-Grade Disease Curse
+Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.64\fnRagnar\fs128\fscx105\pos(960,960)\b1}Smallpox Deity
+Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{=27}
+Comment: 0,0:20:49.98,0:20:52.48,Signs,,0,0,0,,{=16}Inside Shibuya Station
 Dialogue: 1,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\an7\fscx20\fscy80\pos(310.48,226.86)\p1}m 677 880 l 1840 880 1840 999 677 999 677 900
 Dialogue: 1,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\an7\fscx70\fscy80\pos(230,226.86)\p1}m 677 880 l 1666 880 1666 999 677 999 677 900
 Dialogue: 3,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(483.8,1019)\b1}22:10
 Dialogue: 3,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(731.4,1018.4)\b1}Inside Shibuya Station
-Dialogue: 0,0:20:49.97,0:20:52.48,Signs,,0,0,0,,{=17}
+Dialogue: 0,0:20:49.98,0:20:52.48,Signs,,0,0,0,,{=17}
 Dialogue: 0,0:23:49.99,0:23:55.04,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Red Scale
 Dialogue: 1,0:23:49.99,0:23:55.04,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Red Scale
 

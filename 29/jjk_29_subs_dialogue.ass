@@ -239,23 +239,23 @@ Dialogue: 0,0:13:42.59,0:13:43.80,Default,Woman,0,0,0,,What is happening?!
 Dialogue: 0,0:13:44.55,0:13:45.05,Default,Man,0,0,0,,Why?!
 Dialogue: 0,0:13:47.56,0:13:48.56,Default,Woman,0,0,0,,No!
 Dialogue: 0,0:14:16.29,0:14:17.17,Default,Gojo,0,0,0,,What?
-Dialogue: 0,0:14:18.04,0:14:20.17,Default,Yaga,0,0,0,,Don't make me repeat myself.
+Dialogue: 0,0:14:18.05,0:14:20.17,Default,Yaga,0,0,0,,Don't make me repeat myself.
 Dialogue: 0,0:14:20.17,0:14:23.30,Default,Yaga,0,0,0,,Suguru killed everyone in the village and{\fscx180}—{\fscx}
 Dialogue: 0,0:14:22.17,0:14:24.09,Alt,Gojo,0,0,0,,I heard you the first time!
 Dialogue: 0,0:14:24.09,0:14:26.39,Default,Gojo,0,0,0,,That's {\i1}why{\i0} I asked.
-Dialogue: 0,0:14:27.80,0:14:31.27,Default,Yaga,0,0,0,,Suguru's old house was empty as well.
-Dialogue: 0,0:14:31.85,0:14:35.39,Default,Yaga,0,0,0,,Judging from the bloodstains and residuals,\N he might have killed his parents{\fscx180}—{\fscx}
-Dialogue: 0,0:14:35.39,0:14:36.65,Default,Gojo,0,0,0,,Like hell he did!
-Dialogue: 0,0:14:36.65,0:14:38.06,Default,Yaga,0,0,0,,Satoru.
-Dialogue: 0,0:14:38.06,0:14:41.48,Default,Yaga,0,0,0,,I don't understand what's going on, either.
+Dialogue: 0,0:14:27.81,0:14:31.27,Default,Yaga,0,0,0,,Suguru's old house was empty as well.
+Dialogue: 0,0:14:31.85,0:14:35.40,Default,Yaga,0,0,0,,Judging from the bloodstains and residuals,\N he might have killed his parents{\fscx180}—{\fscx}
+Dialogue: 0,0:14:35.40,0:14:36.65,Default,Gojo,0,0,0,,Like hell he did!
+Dialogue: 0,0:14:36.65,0:14:38.07,Default,Yaga,0,0,0,,Satoru.
+Dialogue: 0,0:14:38.07,0:14:41.49,Default,Yaga,0,0,0,,I don't understand what's going on, either.
 Dialogue: 0,0:14:55.33,0:14:56.83,Default,Geto,0,0,0,,Need a light?
-Dialogue: 0,0:14:58.92,0:14:59.79,Default,Geto,0,0,0,,'Sup. {decaprio_pointing.jpg}
+Dialogue: 0,0:14:58.92,0:14:59.80,Default,Geto,0,0,0,,'Sup. {decaprio_pointing.jpg}
 Dialogue: 0,0:15:00.88,0:15:02.67,Default,Shoko,0,0,0,,If it isn't the criminal.
 Dialogue: 0,0:15:02.67,0:15:04.09,Default,Shoko,0,0,0,,What brings you here? {Need something?}
 Dialogue: 0,0:15:04.09,0:15:06.26,Default,Geto,0,0,0,,Just testing my luck, I guess.
 Dialogue: 0,0:15:07.76,0:15:09.26,Default,Shoko,0,0,0,,I'll go ahead and ask anyway.
-Dialogue: 0,0:15:09.26,0:15:11.26,Default,Shoko,0,0,0,,Any chance the charges are false?
-Dialogue: 0,0:15:11.26,0:15:13.47,Default,Geto,0,0,0,,Nope. Unfortunately not.
+Dialogue: 0,0:15:09.26,0:15:11.27,Default,Shoko,0,0,0,,Any chance the charges are false?
+Dialogue: 0,0:15:11.27,0:15:13.48,Default,Geto,0,0,0,,Nope. Unfortunately not.
 Dialogue: 0,0:15:14.02,0:15:15.81,Default,Shoko,0,0,0,,I'll ask further, then.
 Dialogue: 0,0:15:15.81,0:15:17.27,Default,Shoko,0,0,0,,Why'd you do it?
 Dialogue: 0,0:15:17.27,0:15:19.36,Default,Geto,0,0,0,,I'm going to create a world of only sorcerers.
@@ -297,7 +297,7 @@ Dialogue: 0,0:17:14.89,0:17:17.64,Default,Geto,0,0,0,,All that's left is to foll
 Dialogue: 0,0:17:27.11,0:17:28.86,Default,Geto,0,0,0,,If you want to kill me, then kill me.
 Dialogue: 0,0:17:30.86,0:17:32.61,Default,Geto,0,0,0,,There would be a point to that.
 Dialogue: 0,0:17:42.75,0:17:44.63,Default,Yaga,0,0,0,,Why didn't you pursue him?
-Dialogue: 0,0:17:48.25,0:17:50.55,Default,Gojo,0,0,0,,You're actually asking me that?
+Dialogue: 0,0:17:48.26,0:17:50.55,Default,Gojo,0,0,0,,You're actually asking me that?
 Dialogue: 0,0:17:52.68,0:17:54.05,Default,Yaga,0,0,0,,No, it's fine.
 Dialogue: 0,0:17:54.47,0:17:55.64,Default,Yaga,0,0,0,,My bad.
 Dialogue: 0,0:17:59.52,0:18:02.02,Default,Gojo,0,0,0,,{*}Teach{*Sensei}, I'm strong, right?
@@ -307,24 +307,24 @@ Dialogue: 0,0:18:10.99,0:18:15.45,Default,Gojo,0,0,0,,I can only save those who 
 Dialogue: 0,0:18:20.29,0:18:23.21,Default,Geto,0,0,0,,I thought the Star Religious Group was dissolved.
 Dialogue: 0,0:18:23.21,0:18:25.92,Default,Kong,0,0,0,,It's a different group with similar roots.
 Dialogue: 0,0:18:25.92,0:18:28.96,Default,Kong,0,0,0,,It still looks like a religious group on the surface.
-Dialogue: 0,0:18:28.96,0:18:30.00,Default,Kong,0,0,0,,Don't like it?
-Dialogue: 0,0:18:30.00,0:18:33.67,Default,Geto,0,0,0,,No, it doesn't matter as long as I can\N collect curses and money.
-Dialogue: 0,0:18:34.09,0:18:36.59,Default,Kong,0,0,0,,Are you really going out dressed like that?
-Dialogue: 0,0:18:36.59,0:18:39.35,Default,Geto,0,0,0,,Why not? A little showmanship goes a long way.
-Dialogue: 0,0:18:39.89,0:18:41.47,Default,Nanako,0,0,0,,{*}Master Geto{*Geto-sama}!
-Dialogue: 0,0:18:41.47,0:18:42.73,Default,Geto,0,0,0,,Watch closely.
+Dialogue: 0,0:18:28.96,0:18:30.01,Default,Kong,0,0,0,,Don't like it?
+Dialogue: 0,0:18:30.01,0:18:33.68,Default,Geto,0,0,0,,No, it doesn't matter as long as I can\N collect curses and money.
+Dialogue: 0,0:18:34.09,0:18:36.60,Default,Kong,0,0,0,,Are you really going out dressed like that?
+Dialogue: 0,0:18:36.60,0:18:39.35,Default,Geto,0,0,0,,Why not? A little showmanship goes a long way.
+Dialogue: 0,0:18:39.89,0:18:41.48,Default,Nanako,0,0,0,,{*}Master Geto{*Geto-sama}!
+Dialogue: 0,0:18:41.48,0:18:42.73,Default,Geto,0,0,0,,Watch closely.
 Dialogue: 0,0:18:43.35,0:18:44.60,Default,Geto,0,0,0,,They're all there, right?
 Dialogue: 0,0:18:44.60,0:18:47.77,Default,Kong,0,0,0,,All the branch directors,\N representatives, and the president.
 Dialogue: 0,0:18:47.77,0:18:49.86,Default,Kong,0,0,0,,All the big donors too.
 Dialogue: 0,0:18:53.40,0:18:54.57,Default,Geto,0,0,0,,Check, check.
 Dialogue: 0,0:18:55.11,0:18:58.53,Default,Geto,0,0,0,,Ladies and gentlemen, sorry to keep you waiting.
-Dialogue: 0,0:18:58.53,0:19:00.28,Default,Geto,0,0,0,,Now, I'll keep this brief.
+Dialogue: 0,0:18:58.53,0:19:00.29,Default,Geto,0,0,0,,Now, I'll keep this brief.
 Dialogue: 0,0:19:00.66,0:19:04.29,Default,Geto,0,0,0,,As of this moment, this organization belongs to me.
 Dialogue: 0,0:19:04.79,0:19:06.46,Default,Geto,0,0,0,,We'll have a new name as well.
 Dialogue: 0,0:19:06.46,0:19:09.17,Default,Geto,0,0,0,,So everyone, please be sure to obey me.
-Dialogue: 0,0:19:11.17,0:19:13.21,Default,Geto,0,0,0,,Now, that's not good.
+Dialogue: 0,0:19:11.17,0:19:13.22,Default,Geto,0,0,0,,Now, that's not good.
 Dialogue: 0,0:19:13.92,0:19:15.26,Default,Geto,0,0,0,,Oh, I know!
-Dialogue: 0,0:19:15.26,0:19:18.09,Default,Geto,0,0,0,,{*}Mr. Sonoda{*Sonoda-san}, could you please come to the stage?
+Dialogue: 0,0:19:15.26,0:19:18.10,Default,Geto,0,0,0,,{*}Mr. Sonoda{*Sonoda-san}, could you please come to the stage?
 Dialogue: 0,0:19:19.18,0:19:20.89,Default,Geto,0,0,0,,Yes! You there!
 Dialogue: 0,0:19:21.60,0:19:23.60,Default,Geto,0,0,0,,Now, let's try this again.
 Dialogue: 0,0:19:24.23,0:19:25.60,Default,Geto,0,0,0,,{\i1}I hate monkeys.
@@ -343,8 +343,8 @@ Dialogue: 0,0:20:00.80,0:20:05.52,Default,Gojo,0,0,0,,You have the ability to se
 Dialogue: 0,0:20:05.52,0:20:08.69,Default,Gojo,0,0,0,,You've noticed the talent within yourself too, yeah?
 Dialogue: 0,0:20:08.69,0:20:11.36,Default,Gojo,0,0,0,,The Zenin clan {\i1}loves{\i0} talent like that.
 Dialogue: 0,0:20:11.36,0:20:14.53,Default,Gojo,0,0,0,,Most become aware of it at around four to six years of age.
-Dialogue: 0,0:20:14.53,0:20:16.94,Default,Gojo,0,0,0,,A ripe time to sell, indeed!
-Dialogue: 0,0:20:16.94,0:20:23.20,Default,Gojo,0,0,0,,You, my dear Megumi{**-kun}, are your dad's\N ace against the Zenin clan! {check tl} {yep, wrong. go fix it in s1 too.}
+Dialogue: 0,0:20:14.53,0:20:16.95,Default,Gojo,0,0,0,,A ripe time to sell, indeed!
+Dialogue: 0,0:20:16.95,0:20:23.20,Default,Gojo,0,0,0,,You, my dear Megumi{**-kun}, are your dad's\N ace against the Zenin clan! {check tl} {yep, wrong. go fix it in s1 too.}
 Dialogue: 0,0:20:23.20,0:20:25.04,Default,Gojo,0,0,0,,Pisses you off, doesn't it?
 Dialogue: 0,0:20:25.04,0:20:29.17,Default,Gojo,0,0,0,,So I took care of that dad of yours by ki{\fscx180}—{\fscx}
 Dialogue: 0,0:20:27.79,0:20:29.17,Alt,Megumi,0,0,0,,I don't care.
@@ -365,14 +365,14 @@ Dialogue: 0,0:21:05.87,0:21:07.87,Default,Gojo,0,0,0,,Go to the Zenin clan?
 Dialogue: 0,0:21:08.50,0:21:10.33,Default,Megumi,0,0,0,,What will happen to Tsumiki? {>happen}
 Dialogue: 0,0:21:10.33,0:21:14.04,Default,Megumi,0,0,0,,Will she be happy there? It all depends on that.
 Dialogue: 0,0:21:14.04,0:21:14.88,Default,Gojo,0,0,0,,No.
-Dialogue: 0,0:21:14.88,0:21:16.50,Default,Gojo,0,0,0,,A hundred percent no.
-Dialogue: 0,0:21:16.50,0:21:18.13,Default,Gojo,0,0,0,,That I can assure you.
-Dialogue: 0,0:21:21.63,0:21:22.97,Default,Gojo,0,0,0,,Okay!
+Dialogue: 0,0:21:14.88,0:21:16.51,Default,Gojo,0,0,0,,A hundred percent no.
+Dialogue: 0,0:21:16.51,0:21:18.13,Default,Gojo,0,0,0,,That I can assure you.
+Dialogue: 0,0:21:21.64,0:21:22.97,Default,Gojo,0,0,0,,Okay!
 Dialogue: 0,0:21:23.97,0:21:25.76,Default,Gojo,0,0,0,,You can leave it to me, then.
 Dialogue: 0,0:21:27.68,0:21:31.19,Default,Gojo,0,0,0,,I might need you to push yourself a bit, though.
 Dialogue: 0,0:21:31.19,0:21:32.27,Default,Gojo,0,0,0,,Do your best!
 Dialogue: 0,0:21:33.06,0:21:35.02,Default,Gojo,0,0,0,,Get stronger.
-Dialogue: 0,0:21:35.48,0:21:37.98,Default,Gojo,0,0,0,,{\pos(960,1045)}Strong enough to keep up with me.
+Dialogue: 0,0:21:35.48,0:21:37.99,Default,Gojo,0,0,0,,{\pos(960,1045)}Strong enough to keep up with me.
 Dialogue: 0,0:21:44.62,0:21:46.12,Default,Megumi,0,0,0,,{*}Mr. Gojo{*Gojo-sensei}!
 Dialogue: 0,0:21:46.12,0:21:47.91,Default,Yuji,0,0,0,,So even {*}Teach{*Sensei} sleeps sometimes, huh?
 Dialogue: 0,0:21:47.91,0:21:50.50,Default,Nobara,0,0,0,,Of course he does. What kinda nonsense is that?

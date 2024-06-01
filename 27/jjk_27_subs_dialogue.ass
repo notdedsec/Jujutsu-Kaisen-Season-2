@@ -133,18 +133,18 @@ Dialogue: 0,0:07:23.84,0:07:27.59,Default,Gojo,0,0,0,,Playing through 99 years o
 Dialogue: 0,0:07:29.14,0:07:31.85,Default,Gojo,0,0,0,,Besides, you're here too.
 Dialogue: 0,0:07:38.44,0:07:41.36,Default,Haibara,0,0,0,,Nanami, they said they're\N extending the stay another day!
 Dialogue: 0,0:07:41.36,0:07:42.57,Default,Haibara,0,0,0,,You think something happened?!
-Dialogue: 0,0:09:36.30,0:09:38.22,Default,Geto,0,0,0,,Good work, everyone.
+Dialogue: 0,0:09:36.31,0:09:38.22,Default,Geto,0,0,0,,Good work, everyone.
 Dialogue: 0,0:09:40.77,0:09:42.81,Default,Geto,0,0,0,,We're inside Jujutsu Tech's barrier now.
 Dialogue: 0,0:09:44.27,0:09:46.36,Default,Riko,0,0,0,,What a relief!
 Dialogue: 0,0:09:46.36,0:09:47.27,Default,Kuroi,0,0,0,,Indeed.
 Dialogue: 0,0:09:49.44,0:09:50.40,Default,Geto,0,0,0,,Satoru.
 Dialogue: 0,0:09:52.24,0:09:54.03,Default,Geto,0,0,0,,You really worked hard this time.
-Dialogue: 0,0:09:57.53,0:10:00.75,Default,Gojo,0,0,0,,God help me if I ever get stuck babysitting a brat again.
+Dialogue: 0,0:09:57.54,0:10:00.75,Default,Gojo,0,0,0,,God help me if I ever get stuck babysitting a brat again.
 Dialogue: 0,0:10:00.75,0:10:01.58,Default,Riko,0,0,0,,Yeah?
 Dialogue: 0,0:10:10.55,0:10:11.59,Default,Geto,0,0,0,,{\i1}Impossible!
 Dialogue: 0,0:10:12.17,0:10:16.26,Default,Geto,0,0,0,,{\i1}We're inside Jujutsu Tech's barrier!
-Dialogue: 0,0:10:16.72,0:10:20.01,Default,Gojo,0,0,0,,Do I know you from somewhere?
-Dialogue: 0,0:10:20.01,0:10:21.39,Default,Toji,0,0,0,,Don't sweat it.
+Dialogue: 0,0:10:16.72,0:10:20.02,Default,Gojo,0,0,0,,Do I know you from somewhere?
+Dialogue: 0,0:10:20.02,0:10:21.39,Default,Toji,0,0,0,,Don't sweat it.
 Dialogue: 0,0:10:21.39,0:10:26.02,Default,Toji,0,0,0,,I'm not one to remember some dude's name either.
 Comment: 0,0:10:26.02,0:10:26.06,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:10:34.78,0:10:41.04,Default,Toji,0,0,0,,{\i1}I once went to see the Six Eyes brat\N that was born into the Gojo clan on a lark.
@@ -183,7 +183,7 @@ Dialogue: 0,0:13:09.85,0:13:11.06,Default,Gojo,0,0,0,,{\i1}He's fast!
 Dialogue: 0,0:13:11.56,0:13:12.90,Default,Gojo,0,0,0,,{\i1}And not just that.
 Dialogue: 0,0:13:12.90,0:13:15.90,Default,Gojo,0,0,0,,{\i1}I knew there was something off about this guy!
 Dialogue: 0,0:13:15.90,0:13:17.90,Default,Gojo,0,0,0,,{\i1}He has zero cursed energy!
-Dialogue: 0,0:13:18.48,0:13:21.49,Default,Gojo,0,0,0,,{\i1}It's a Heavenly Restriction that\N grants him physical prowess instead!
+Dialogue: 0,0:13:18.49,0:13:21.49,Default,Gojo,0,0,0,,{\i1}It's a Heavenly Restriction that\N grants him physical prowess instead!
 Dialogue: 0,0:13:53.85,0:13:57.32,Default,Gojo,0,0,0,,{\i1}Anyone who knows my technique\N wouldn't dare to attack without a plan.
 Dialogue: 0,0:13:57.94,0:13:59.82,Default,Gojo,0,0,0,,Is that cursed tool your trump card?
 Dialogue: 0,0:13:59.82,0:14:02.49,Default,Gojo,0,0,0,,Sorry, but I'm not letting it get close!
@@ -197,7 +197,7 @@ Dialogue: 0,0:14:37.31,0:14:38.57,Default,Gojo,0,0,0,,{\i1}Maximum Output:
 Dialogue: 0,0:14:44.49,0:14:45.24,Default,Gojo,0,0,0,,{\i1}Blue!
 Dialogue: 0,0:15:00.38,0:15:02.09,Default,Gojo,0,0,0,,{\i1}Now there's nowhere to hide.
 Dialogue: 0,0:15:02.09,0:15:03.88,Default,Gojo,0,0,0,,{\i1}No more surprise attacks.
-Dialogue: 0,0:15:03.88,0:15:05.39,Default,Gojo,0,0,0,,{\i1}Did he take to the woods?
+Dialogue: 0,0:15:03.88,0:15:05.38,Default,Gojo,0,0,0,,{\i1}Did he take to the woods?
 Dialogue: 0,0:15:08.10,0:15:08.89,Default,Gojo,0,0,0,,{\i1}Are those...
 Dialogue: 0,0:15:10.39,0:15:11.39,Default,Gojo,0,0,0,,{\i1}Fly Heads?!
 Dialogue: 0,0:15:15.77,0:15:18.52,Default,Gojo,0,0,0,,{\i1}Was he keeping them inside that cursed spirit?

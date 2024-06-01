@@ -34,72 +34,72 @@ Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:29.49,0:00:32.22,Default,Mahito,0,0,0,,Let's kick it up a notch, Itadori!
+Dialogue: 0,0:00:29.51,0:00:32.22,Default,Mahito,0,0,0,,Let's kick it up a notch, Itadori!
 Dialogue: 0,0:00:32.22,0:00:36.47,Default,Mahito,0,0,0,,This is the last time you and I curse each other!
-Dialogue: 0,0:00:40.35,0:00:41.91,Default,Todo,0,0,0,,Hey, now.
-Dialogue: 0,0:00:41.91,0:00:44.73,Default,Todo,0,0,0,,Are you leaving me out?
+Dialogue: 0,0:00:40.35,0:00:41.90,Default,Todo,0,0,0,,Hey, now.
+Dialogue: 0,0:00:41.90,0:00:44.73,Default,Todo,0,0,0,,Are you leaving me out?
 Dialogue: 0,0:01:02.33,0:01:03.71,Default,Yuji,0,0,0,,{\i1}He dismembered it?!
 Dialogue: 0,0:01:25.82,0:01:27.23,Default,Mahito,0,0,0,,Soul Multiplicity.
-Dialogue: 0,0:01:28.18,0:01:33.86,Default,Narrator,0,0,0,,Combining souls with weak rejection\N creates an amalgamation.
+Dialogue: 0,0:01:28.19,0:01:33.87,Default,Narrator,0,0,0,,Combining souls with weak rejection\N creates an amalgamation.
 Dialogue: 0,0:01:34.74,0:01:37.20,Default,Mahito,0,0,0,,Polymorphic Soul Isomer!
 Dialogue: 0,0:01:37.79,0:01:39.45,Default,Yuji,0,0,0,,{\i1}Something's up with that one!
-Dialogue: 0,0:01:52.99,0:02:00.39,Default,Todo,0,0,0,,{\i1}Considering he was able to hold off me and Brother,\N it's likely an 80-20 split of strength.
+Dialogue: 0,0:01:53.01,0:02:00.39,Default,Todo,0,0,0,,{\i1}Considering he was able to hold off me and Brother,\N it's likely an 80-20 split of strength.
 Dialogue: 0,0:02:05.94,0:02:09.23,Default,Todo,0,0,0,,{\i1}And the weakened 20 is the main body!
 Dialogue: 0,0:02:09.23,0:02:12.57,Default,Todo,0,0,0,,{\i1}I'll make sure Brother crushes it!
 Dialogue: 0,0:02:15.41,0:02:20.04,Default,Todo,0,0,0,,{\i1}I heard transfigured humans rank between\N third grade to lower second grade!
 Dialogue: 0,0:02:20.04,0:02:23.08,Default,Todo,0,0,0,,{\i1}Make quick work of it, Todo Aoi!
 Dialogue: 0,0:02:26.67,0:02:27.38,Default,Todo,0,0,0,,{\i1}What?!
 Dialogue: 0,0:02:27.38,0:02:28.46,Default,Yuji,0,0,0,,Todo!
-Dialogue: 0,0:02:30.27,0:02:31.63,Default,Mahito,0,0,0,,That's for daring to look away! {this more about getting distracted from the fight}
+Dialogue: 0,0:02:30.25,0:02:31.63,Default,Mahito,0,0,0,,That's for daring to look away! {this more about getting distracted from the fight}
 Dialogue: 0,0:03:00.70,0:03:02.66,Default,Todo,0,0,0,,{\i1}It's dead already?
 Dialogue: 0,0:03:03.33,0:03:07.17,Default,Todo,0,0,0,,{\i1}All that power and it got done in with just one hit?
-Dialogue: 0,0:03:11.40,0:03:13.17,Default,Todo,0,0,0,,{\i1}I get it!
+Dialogue: 0,0:03:11.38,0:03:13.17,Default,Todo,0,0,0,,{\i1}I get it!
 Dialogue: 0,0:03:13.55,0:03:20.30,Default,Todo,0,0,0,,{\i1}That burst of power came from\N burning through multiple souls at once!
-Dialogue: 0,0:03:20.31,0:03:22.94,Default,Todo,0,0,0,,{\i1}It went all in on the offensive.
-Dialogue: 0,0:03:22.94,0:03:24.18,Default,Todo,0,0,0,,{\i1}And now...
-Dialogue: 0,0:03:25.19,0:03:27.23,Default,Todo,0,0,0,,{\i1}there's two more?
+Dialogue: 0,0:03:20.30,0:03:22.93,Default,Todo,0,0,0,,{\i1}It went all in on the offensive.
+Dialogue: 0,0:03:22.93,0:03:24.18,Default,Todo,0,0,0,,{\i1}And now...
+Dialogue: 0,0:03:25.18,0:03:27.23,Default,Todo,0,0,0,,{\i1}there's two more?
 Dialogue: 0,0:03:34.44,0:03:38.45,Default,Todo,0,0,0,,Forgive me, you pitiful souls.
 Comment: 0,0:03:38.99,0:03:39.03,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:05:08.96,0:05:09.00,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:05:16.63,0:05:19.76,Default,Mahito,0,0,0,,{\i1}We're finally away from the topknot gorilla.
 Dialogue: 0,0:05:19.76,0:05:20.72,Default,Mahito,0,0,0,,{\i1}This is it.
-Dialogue: 0,0:05:21.17,0:05:22.47,Default,Mahito,0,0,0,,No holding back!
+Dialogue: 0,0:05:21.18,0:05:22.47,Default,Mahito,0,0,0,,No holding back!
 Dialogue: 0,0:06:30.08,0:06:30.91,Default,Mahito,0,0,0,,Huh? {either keep both or delete both}
 Dialogue: 0,0:06:30.91,0:06:31.58,Default,Mahito,0,0,0,,Tch.
-Dialogue: 0,0:06:35.25,0:06:40.26,Default,Todo,0,0,0,,It seems you're dead set on leaving me out, huh?
+Dialogue: 0,0:06:35.25,0:06:40.25,Default,Todo,0,0,0,,It seems you're dead set on leaving me out, huh?
 Dialogue: 0,0:06:40.88,0:06:44.88,Default,Mahito,0,0,0,,{\i1}Even two Polymorphic Soul Isomers weren't enough?
 Dialogue: 0,0:06:48.01,0:06:51.72,Default,Mahito,0,0,0,,{\i1}Landing a blow on this guy is a rather tough task.
 Dialogue: 0,0:06:52.14,0:06:55.65,Default,Mahito,0,0,0,,{\i1}That said, if I were to use my domain,
-Dialogue: 0,0:06:58.82,0:07:01.86,Default,Mahito,0,0,0,,{\i1}I'll end up touching Sukuna and get killed.
-Dialogue: 0,0:07:02.65,0:07:04.85,Default,Mahito,0,0,0,,{\i1}Barrier techniques are complicated. {this line doesn't flow very well}
-Dialogue: 0,0:07:04.85,0:07:08.83,Default,Mahito,0,0,0,,{\i1}Itadori has once seen me exclude him from my domain. {in the nanami fight in E13 when he first used his domain}
-Dialogue: 0,0:07:08.83,0:07:11.83,Default,Mahito,0,0,0,,{\i1}The same trick won't work on him again.
+Dialogue: 0,0:06:58.81,0:07:01.86,Default,Mahito,0,0,0,,{\i1}I'll end up touching Sukuna and get killed.
+Dialogue: 0,0:07:02.65,0:07:04.86,Default,Mahito,0,0,0,,{\i1}Barrier techniques are complicated. {this line doesn't flow very well}
+Dialogue: 0,0:07:04.86,0:07:08.82,Default,Mahito,0,0,0,,{\i1}Itadori has once seen me exclude him from my domain. {in the nanami fight in E13 when he first used his domain}
+Dialogue: 0,0:07:08.82,0:07:11.83,Default,Mahito,0,0,0,,{\i1}The same trick won't work on him again.
 Dialogue: 0,0:07:12.08,0:07:14.41,Default,Mahito,0,0,0,,{\fade(0,80)\i1}What's my move?
 Dialogue: 0,0:07:14.41,0:07:17.25,Default,Mahito,0,0,0,,{\fade(80,120)\i1}Why, I'll do the same thing {\i0}he{\i1} did! {he'd win}
 Dialogue: 0,0:07:19.96,0:07:21.88,Default,Mahito,0,0,0,,Domain Expansion:
-Dialogue: 0,0:07:23.34,0:07:25.89,Default,Mahito,0,0,0,,Self-Embodiment of Perfection!
+Dialogue: 0,0:07:23.34,0:07:25.88,Default,Mahito,0,0,0,,Self-Embodiment of Perfection!
 Dialogue: 0,0:07:27.76,0:07:29.76,Default,Todo,0,0,0,,{\i1}Isn't that suicide?!
 Dialogue: 0,0:07:30.22,0:07:35.23,Default,Mahito,0,0,0,,{\i1}An all or nothing Domain Expansion of 0.2 seconds! {change it in E33 too}
-Dialogue: 0,0:07:39.02,0:07:44.87,Default,Narration,0,0,0,,Todo moved to defend himself by activating\N Simple Domain that he learned from Tsukumo Yuki.
+Dialogue: 0,0:07:39.02,0:07:44.86,Default,Narration,0,0,0,,Todo moved to defend himself by activating\N Simple Domain that he learned from Tsukumo Yuki.
 Dialogue: 0,0:07:47.36,0:07:53.45,Default,Narration,0,0,0,,Itadori was a step ahead, racing forth to exorcise Mahito\N before he could activate Idle Transfiguration.
 Dialogue: 0,0:07:55.83,0:07:59.00,Default,Narration,0,0,0,,Mahito, however, was even faster\N in activating his technique.
 Dialogue: 0,0:07:59.00,0:08:02.25,Default,Narration,0,0,0,,Manifesting an innate domain and\N infusing it with a technique. {it says activation but that's confusing because domain expansion requires infusing the barrier with a technique (which obv involves activating said technique)}
-Dialogue: 0,0:08:02.25,0:08:05.29,Default,Narration,0,0,0,,He merged the two-step process into one.
-Dialogue: 0,0:08:05.29,0:08:10.01,Default,Narration,0,0,0,,An act of speed made possible by his awakened state that followed Black Flash.
+Dialogue: 0,0:08:02.25,0:08:05.30,Default,Narration,0,0,0,,He merged the two-step process into one.
+Dialogue: 0,0:08:05.30,0:08:10.01,Default,Narration,0,0,0,,An act of speed made possible by his awakened state that followed Black Flash.
 Dialogue: 0,0:08:12.76,0:08:16.52,Default,Mahito,0,0,0,,I take it I'm safe this time, right, Sukuna?
 Dialogue: 0,0:08:18.52,0:08:23.27,Default,Mahito,0,0,0,,Knowing you, you must have some sort of\N a contingency plan with Itadori.
 Dialogue: 0,0:08:23.94,0:08:25.86,Default,Mahito,0,0,0,,I won't let it happen, though.
-Dialogue: 0,0:08:25.86,0:08:28.91,Default,Mahito,0,0,0,,He'll be dead before you get the chance to switch.
-Dialogue: 0,0:08:28.91,0:08:31.03,Default,Mahito,0,0,0,,Just shut up, sit tight, and watch.
+Dialogue: 0,0:08:25.86,0:08:28.90,Default,Mahito,0,0,0,,He'll be dead before you get the chance to switch.
+Dialogue: 0,0:08:28.90,0:08:31.03,Default,Mahito,0,0,0,,Just shut up, sit tight, and watch.
 Dialogue: 0,0:08:52.26,0:08:53.35,Default,Yuji,0,0,0,,Todo!
 Dialogue: 0,0:08:59.06,0:09:03.31,Default,Mahito,0,0,0,,Come on, I made it all better for you. {I just made you more fashionable.}
 Dialogue: 0,0:09:03.31,0:09:04.90,Default,Narration,0,0,0,,After using Domain Expansion,
 Dialogue: 0,0:09:04.90,0:09:10.07,Default,Narration,0,0,0,,the innate technique is temporarily\N burned out and becomes difficult to use.
 Dialogue: 0,0:09:10.07,0:09:15.24,Default,Narration,0,0,0,,Mahito realized this back when he fled\N at Satozakura High School.
 Dialogue: 0,0:09:18.04,0:09:19.54,Default,Mahito,0,0,0,,Black Flash!
-Dialogue: 0,0:09:22.71,0:09:24.09,Default,Mahito,0,0,0,,{\i1}No way!
-Dialogue: 0,0:09:24.51,0:09:28.51,Default,Mahito,0,0,0,,{\i1}He focused all his damn cursed energy\N in his stomach on instinct!
-Dialogue: 0,0:09:34.69,0:09:38.77,Default,Mahito,0,0,0,,{\i1}But now my technique has recovered\N and he can't clap his hands! {less formal}
+Dialogue: 0,0:09:22.71,0:09:24.08,Default,Mahito,0,0,0,,{\i1}No way!
+Dialogue: 0,0:09:24.50,0:09:28.51,Default,Mahito,0,0,0,,{\i1}He focused all his damn cursed energy\N in his stomach on instinct!
+Dialogue: 0,0:09:34.68,0:09:38.77,Default,Mahito,0,0,0,,{\i1}But now my technique has recovered\N and he can't clap his hands! {less formal}
 Dialogue: 0,0:09:39.23,0:09:41.85,Default,Mahito,0,0,0,,{\i1}I'll kill him this time! {take him out}
 Dialogue: 0,0:09:57.20,0:09:57.95,Default,Mahito,0,0,0,,Huh?
 Dialogue: 0,0:09:59.04,0:09:59.79,Default,Mahito,0,0,0,,Huh?
@@ -110,41 +110,41 @@ Dialogue: 0,0:11:06.94,0:11:09.40,Default,Todo,0,0,0,,{\i1}I touched him for a m
 Dialogue: 0,0:11:09.40,0:11:12.57,Default,Todo,0,0,0,,{\i1}It's a miracle I got away with just this.
 Dialogue: 0,0:11:24.75,0:11:27.50,Default,Yuji,0,0,0,,{\i1}Leave the rest to me, Todo!
 Dialogue: 0,0:11:27.83,0:11:30.13,Default,Yuji,0,0,0,,{\i1}Thank you, Todo!
-Dialogue: 0,0:11:32.00,0:11:33.33,Default,Mahito,0,0,0,,{\i1}Damn it!
-Dialogue: 0,0:11:33.33,0:11:36.72,Default,Mahito,0,0,0,,{\i1}Another dead-on Black Flash now of all times?!
+Dialogue: 0,0:11:32.00,0:11:33.34,Default,Mahito,0,0,0,,{\i1}Damn it!
+Dialogue: 0,0:11:33.34,0:11:36.72,Default,Mahito,0,0,0,,{\i1}Another dead-on Black Flash now of all times?!
 Dialogue: 0,0:11:36.72,0:11:40.01,Default,Mahito,0,0,0,,{\i1}Damn gorilla screwed with me until the very end.
 Dialogue: 0,0:11:40.64,0:11:43.02,Default,Mahito,0,0,0,,{\i1}But now I've finally grasped it.
 Dialogue: 0,0:11:43.02,0:11:48.02,Default,Mahito,0,0,0,,{\i1}The true essence of my soul! Its true form! {i hate this line, dragonball ass} {final form :D}
 Dialogue: 0,0:11:49.19,0:11:51.02,Default,Mahito,0,0,0,,Idle Transfiguration:
-Dialogue: 0,0:12:04.21,0:12:06.96,Default,Mahito,0,0,0,,Instant Spirit Body of Distorted Killing! {CRINGE who the fuck names these}
-Dialogue: 0,0:12:07.30,0:12:09.96,Default,Mahito,0,0,0,,Wish me a happy birthday,
+Dialogue: 0,0:12:04.20,0:12:06.96,Default,Mahito,0,0,0,,Instant Spirit Body of Distorted Killing! {CRINGE who the fuck names these}
+Dialogue: 0,0:12:07.29,0:12:09.96,Default,Mahito,0,0,0,,Wish me a happy birthday,
 Dialogue: 0,0:12:10.71,0:12:12.09,Default,Mahito,0,0,0,,Itadori.
 Comment: 0,0:12:12.96,0:12:13.00,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:12:18.76,0:12:22.43,Default,Yuji,0,0,0,,{\i1}Something feels different about this transformation. {This feels different from any\N transfiguration he's used before.} {This isn't a transformation as just a means, like before.}
-Dialogue: 0,0:12:23.95,0:12:25.73,Default,Yuji,0,0,0,,{\i1}I can't put my finger on it.
-Dialogue: 0,0:12:25.73,0:12:32.48,Default,Mahito,0,0,0,,After using Black Flash, I finally\N understand my true, unbridled soul.
-Dialogue: 0,0:12:32.92,0:12:34.44,Default,Yuji,0,0,0,,That's a surprise.
+Dialogue: 0,0:12:23.93,0:12:25.72,Default,Yuji,0,0,0,,{\i1}I can't put my finger on it.
+Dialogue: 0,0:12:25.72,0:12:32.48,Default,Mahito,0,0,0,,After using Black Flash, I finally\N understand my true, unbridled soul.
+Dialogue: 0,0:12:32.94,0:12:34.44,Default,Yuji,0,0,0,,That's a surprise.
 Dialogue: 0,0:12:34.44,0:12:37.53,Default,Yuji,0,0,0,,Didn't take you for the self-discovery type. {You didn't strike me as the type to go on a journey of self-discovery.}
-Dialogue: 0,0:12:38.85,0:12:40.07,Default,Mahito,0,0,0,,Right? {That's true.}
-Dialogue: 0,0:12:40.80,0:12:43.49,Default,Mahito,0,0,0,,I'm just starting on the final touches, though.
+Dialogue: 0,0:12:38.86,0:12:40.07,Default,Mahito,0,0,0,,Right? {That's true.}
+Dialogue: 0,0:12:40.78,0:12:43.49,Default,Mahito,0,0,0,,I'm just starting on the final touches, though.
 Dialogue: 0,0:12:43.49,0:12:48.75,Default,Mahito,0,0,0,,Once I kill you, I will truly be born into this world.
 Dialogue: 0,0:13:29.41,0:13:30.71,Default,Yuji,0,0,0,,{\i1}It's tough!
 Dialogue: 0,0:13:30.71,0:13:33.96,Default,Yuji,0,0,0,,{\i1}His body is even tougher than... {"""that time"""}
 Dialogue: 0,0:13:52.31,0:13:59.07,Default,Mahito,0,0,0,,{\c&HE9FDFE&\3c&H0C1219&}After using Black Flash, I finally\N understand my true, unbridled soul.
 Dialogue: 0,0:13:59.57,0:14:01.49,Default,Yuji,0,0,0,,{\i1}Is that what he meant?!
 Dialogue: 0,0:14:09.87,0:14:11.87,Default,,0,0,0,,{\i1}After his metamorphosis,
-Dialogue: 0,0:14:22.43,0:14:27.72,Default,Yuji,0,0,0,,{\i1}as a cursed spirit, \Nhe's become a different beast entirely! {mirrors the line that todo said} {well it sounds kinda cringe and there's no thematic reason why it should mirror that line}
-Dialogue: 0,0:14:59.46,0:15:01.97,Default,Yuji,0,0,0,,{\i1}If I want to defeat this thing,
+Dialogue: 0,0:14:22.42,0:14:27.72,Default,Yuji,0,0,0,,{\i1}as a cursed spirit, \Nhe's become a different beast entirely! {mirrors the line that todo said} {well it sounds kinda cringe and there's no thematic reason why it should mirror that line}
+Dialogue: 0,0:14:59.46,0:15:01.96,Default,Yuji,0,0,0,,{\i1}If I want to defeat this thing,
 Dialogue: 0,0:15:02.97,0:15:07.22,Default,Yuji,0,0,0,,{\i1}I'll have to hit him with a Black Flash\N at my maximum cursed energy.
 Dialogue: 0,0:15:09.60,0:15:11.43,Default,Yuji,0,0,0,,{\i1}That's the only way!
-Dialogue: 0,0:15:26.94,0:15:30.12,Default,Mahito,0,0,0,,{\i1}I only used Domain Expansion for a moment,
+Dialogue: 0,0:15:26.95,0:15:30.12,Default,Mahito,0,0,0,,{\i1}I only used Domain Expansion for a moment,
 Dialogue: 0,0:15:30.12,0:15:33.41,Default,Mahito,0,0,0,,{\i1}but taking a Black Flash right after it \Ndid some serious damage.
 Dialogue: 0,0:15:47.72,0:15:49.26,Default,Mahito,0,0,0,,Looks like
 Dialogue: 0,0:15:50.43,0:15:53.06,Default,Mahito,0,0,0,,we still got a lot left in the tank!
 Dialogue: 0,0:16:17.71,0:16:20.79,Default,Mahito,0,0,0,,{\i1}No one can unleash a Black Flash at will.
-Dialogue: 0,0:16:21.54,0:16:26.45,Default,Mahito,0,0,0,,{\i1}But something about Itadori right now\N has me convinced that he can.
+Dialogue: 0,0:16:21.54,0:16:26.47,Default,Mahito,0,0,0,,{\i1}But something about Itadori right now\N has me convinced that he can.
 Dialogue: 0,0:16:28.09,0:16:29.26,Default,Mahito,0,0,0,,{\i1}In which case...
-Dialogue: 0,0:16:58.92,0:17:00.58,Default,Mahito,0,0,0,,{\i1}Delayed impact?!
+Dialogue: 0,0:16:58.91,0:17:00.58,Default,Mahito,0,0,0,,{\i1}Delayed impact?!
 Dialogue: 0,0:17:12.68,0:17:16.72,Default,Todo,0,0,0,,Hey, cursed spirit.\N Even you must know this:
 Dialogue: 0,0:17:18.14,0:17:21.02,Default,Todo,0,0,0,,An arm is merely a decoration.
 Dialogue: 0,0:17:21.02,0:17:26.53,Default,Todo,0,0,0,,The act of applause is an acclamation of the soul!
@@ -152,27 +152,27 @@ Dialogue: 0,0:17:29.44,0:17:31.95,Default,Mahito,0,0,0,,{\i1}I didn't switch pla
 Dialogue: 0,0:17:32.45,0:17:34.03,Default,Todo,0,0,0,,How unfortunate.
 Dialogue: 0,0:17:34.70,0:17:39.04,Default,Todo,0,0,0,,My Boogie Woogie is no more.
 Dialogue: 0,0:17:50.17,0:17:52.05,Default,Yuji,0,0,0,,Black Flash!
-Dialogue: 0,0:18:23.83,0:18:24.99,Default,Mahito,0,0,0,,No!
-Dialogue: 0,0:18:25.68,0:18:26.71,Default,Mahito,0,0,0,,Not yet!
+Dialogue: 0,0:18:23.83,0:18:25.00,Default,Mahito,0,0,0,,No!
+Dialogue: 0,0:18:25.67,0:18:26.71,Default,Mahito,0,0,0,,Not yet!
 Dialogue: 0,0:18:32.38,0:18:35.09,Default,Mahito,0,0,0,,{\i1}I'm all out of transfigured humans!
 Dialogue: 0,0:18:35.43,0:18:37.85,Default,Yuji,0,0,0,,I'll admit it, Mahito.
 Dialogue: 0,0:18:39.97,0:18:41.39,Default,Yuji,0,0,0,,I am you. {holy shit he said it he said the thing}
 Dialogue: 0,0:18:42.85,0:18:44.98,Default,Yuji,0,0,0,,I wanted to reject you.
-Dialogue: 0,0:18:45.86,0:18:48.65,Default,Yuji,0,0,0,,Pretend I didn't understand you.
+Dialogue: 0,0:18:45.85,0:18:48.65,Default,Yuji,0,0,0,,Pretend I didn't understand you.
 Dialogue: 0,0:18:50.78,0:18:52.07,Default,Yuji,0,0,0,,Not anymore.
 Dialogue: 0,0:18:53.07,0:18:54.61,Default,Yuji,0,0,0,,Now I just wanna kill you.
 Dialogue: 0,0:18:55.11,0:18:59.12,Default,Yuji,0,0,0,,If you're ever reincarnated as another curse,\N I will kill you again.
 Dialogue: 0,0:18:59.66,0:19:03.37,Default,Yuji,0,0,0,,Change your name, change your appearance,\NI'll kill you all the same.
-Dialogue: 0,0:19:04.14,0:19:06.38,Default,Yuji,0,0,0,,I don't need a meaning or a reason.
+Dialogue: 0,0:19:04.12,0:19:06.38,Default,Yuji,0,0,0,,I don't need a meaning or a reason.
 Dialogue: 0,0:19:07.04,0:19:13.63,Default,Yuji,0,0,0,,Maybe someone {\i1}will{\i0} find meaning in my actions\N after I'm dead, centuries down the line.
 Dialogue: 0,0:19:14.72,0:19:20.14,Default,Yuji,0,0,0,,In the grand scheme of things, I'm nothing but a cog.
 Dialogue: 0,0:19:21.31,0:19:24.64,Default,Yuji,0,0,0,,I'll keep on killing curses until I rust away.
 Dialogue: 0,0:19:25.06,0:19:29.65,Default,Yuji,0,0,0,,That is my role in this war.
-Dialogue: 0,0:21:47.00,0:21:48.50,Default,Mahito,0,0,0,,Geto!
+Dialogue: 0,0:21:46.99,0:21:48.50,Default,Mahito,0,0,0,,Geto!
 Dialogue: 0,0:21:49.20,0:21:52.00,Default,Geto,0,0,0,,Shall I save you, Mahito?
 Comment: 0,0:21:55.00,0:21:55.04,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:24.97,0:23:25.01,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:25.55,0:23:28.64,Default,Geto,0,0,0,,{\an8}A contrived destiny may not be destiny at all,
-Dialogue: 0,0:23:28.64,0:23:34.69,Default,Geto,0,0,0,,{\an8}but the moment such fake destinies intertwine\N will no doubt be true destiny.
-Dialogue: 0,0:23:34.69,0:23:36.94,Default,Geto,0,0,0,,{\an8}Next time, Metamorphosis, Part 2.
+Dialogue: 0,0:23:28.64,0:23:34.68,Default,Geto,0,0,0,,{\an8}but the moment such fake destinies intertwine\N will no doubt be true destiny.
+Dialogue: 0,0:23:34.68,0:23:36.94,Default,Geto,0,0,0,,{\an8}Next time, Metamorphosis, Part 2.
 Dialogue: 0,0:23:36.94,0:23:39.81,Default,Geto,0,0,0,,{\an8}Sometimes, fabrications are necessary to create something genuine. {Some things can only be cultivated under pretenses.} {Even fabrications can lead to something genuine.} {Sometimes you gotta fake it till you make it. (T_T)} {im gonna bet the "something genuine" here refers to yuji and the "fabrications" and "contrived destinies" are the years of planning and backshots poor kenny had to take to get him here}

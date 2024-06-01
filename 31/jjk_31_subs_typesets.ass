@@ -78,28 +78,28 @@ Dialogue: 1,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{\an7\fscx30\fscy100\pos(4
 Dialogue: 1,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{\an7\fscx65\fscy100\pos(646,-1)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
 Dialogue: 3,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs111\c&H000000&\pos(1251.4,938.44)\b1}20:14        Tokyo, Shibuya
 Dialogue: 3,0:18:01.35,0:18:06.36,Signs,Screen,0,0,0,,{=21}
-Comment: 1,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{=94}Exit 13
-Dialogue: 1,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an7\fscx20\fscy80\pos(518.08,106.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
-Dialogue: 1,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(423.08,106.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
-Dialogue: 1,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(423.08,226.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
-Dialogue: 3,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs78\c&H000000&\pos(683.4,898.4)\b1}20:14
-Dialogue: 3,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx98\c&H000000&\pos(968.91,895.69)\b1}Tokyo Metro, Shibuya Station
-Dialogue: 3,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx100\c&H000000&\pos(968.91,1018.69)\b1}Exit 13, Outside the Veil
-Dialogue: 1,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\an7\blur2\fscx100\fscy100\c&HC5BFA9&\pos(0,0)\iclip(m 292.95 250.29 l 320.76 253.71 332.57 277.72 319.62 299.05 291.81 295.62 279.62 271.24)\p1}m 218.53 229.89 l 533.68 266.53 558.18 340.08 602.9 359.4 602.73 400 570.52 428.86 215.16 397.05
-Dialogue: 2,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur2\fnSplit splat splodge\fs500\frz171.4\c&HB6B19C&\pos(457,354.92)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78 216.53 229.87 228.8 229.87 288 242.67 292.27 250.67 280 270.4 290.67 294.93 319.47 298.13 331.2 277.87 320 254.93 289.07 250.67 216.53 234.13)}a
-Dialogue: 3,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur1.2\fnSplit splat splodge\fs500\frz171.4\c&HB0AB93&\pos(457,354.92)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}b
-Dialogue: 4,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur1.2\fnSplit splat splodge\fs500\frz171.4\c&H434F43&\1a&HDC&\pos(457,354.92)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}u
-Dialogue: 5,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur18\fnSplit splat splodge\fs555\frz110.7\c&HFFFFFF&\1a&HDC&\pos(372.2,236.8)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}g
-Dialogue: 6,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur18\fnSplit splat splodge\fs500\frz110.7\c&HFCE885&\1a&HDC&\pos(226.2,206.8)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}g
-Dialogue: 7,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur1.2\fnSplit splat splodge\fs500\frz186.5\c&H434F43&\1a&HDC&\pos(560,200)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}u
-Dialogue: 8,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur.8\fnLino Stamp\fs360\fscx55\fry180\frz80.91\c&H0A1721&\1a&HE1&\pos(184.6,271.27)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}-
-Dialogue: 9,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur1.2\fnSplit splat splodge\fs500\frz186.5\c&H434F43&\1a&HDC&\pos(605,312)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}u
-Dialogue: 10,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\an1\blur0.8\fnFOT-DNP ShueiMGoStd B\fs66\frz353.6\fax0.1\c&H663F1F&\pos(352.17,307.32)}明{\c&H623B1A&}治{\c&H5F3716&}通{\c&H5C3312&}り{\c&H592F0E&}
-Dialogue: 10,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\an1\blur0.8\fnFOT-DNP ShueiMGoStd B\fs66\frz354.1\fax0.1\c&H774A25&\pos(228,373)}渋{\c&H734622&}谷{\c&H6F431F&}区{\c&H6B3F1C&}渋{\c&H683C19&}谷{\c&H643916&}一{\c&H603513&}丁{\c&H5C3210&}目{\c&H592F0E&}
-Dialogue: 10,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\an1\blur0.66\fnFOT-DNP ShueiMGoStd B\fs22\fscx96.9\frz353.9\fax0.1\c&H663F1F&\pos(405.17,328.32)}M{\c&H643D1D&}e{\c&H633C1C&}i{\c&H623B1A&}j{\c&H613919&}i {\c&H5F3716&}A{\c&H5E3515&}v{\c&H5D3413&}e{\c&H5C3312&}n{\c&H5B3110&}u{\c&H5A300F&}e{\c&H592F0E&}
-Dialogue: 10,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\an1\blur0.66\fnFOT-DNP ShueiMGoStd B\fs22\frz354.8\fax0.1\c&H663F1F&\pos(287,399)}S{*\c&H653E1E&}h{*\c&H653D1D&}i{*\c&H643D1D&}b{*\c&H643C1C&}u{*\c&H633C1C&}y{*\c&H633B1B&}a {*\c&H623A1A&}B{*\c&H613A19&}l{*\c&H613919&}o{*\c&H613818&}c{*\c&H603817&}k {*\c&H5F3716&}1{*\c&H5F3616&}, {*\c&H5E3515&}S{*\c&H5D3514&}h{*\c&H5D3413&}i{*\c&H5D3313&}b{*\c&H5C3312&}u{*\c&H5C3212&}y{*\c&H5B3211&}a {*\c&H5A3110&}W{*\c&H5A300F&}a{*\c&H59300F&}r{*\c&H592F0E&}d{\c&H592F0E&}
-Dialogue: 11,0:18:06.36,0:18:14.12,Signs,BuildingBanner,0,0,0,,{\blur50\fnSplit splat splodge\fs100\frz110.7\c&HFFDA1E&\1a&HB4&\pos(339.2,379.73)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}a
-Dialogue: 3,0:18:06.36,0:18:14.12,Signs,Screen,0,0,0,,{=95}
+Comment: 1,0:18:06.36,0:18:14.11,Signs,Screen,0,0,0,,{=94}Exit 13
+Dialogue: 1,0:18:06.36,0:18:14.11,Signs,Screen,0,0,0,,{\an7\fscx20\fscy80\pos(518.08,106.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
+Dialogue: 1,0:18:06.36,0:18:14.11,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(423.08,106.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
+Dialogue: 1,0:18:06.36,0:18:14.11,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(423.08,226.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
+Dialogue: 3,0:18:06.36,0:18:14.11,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs78\c&H000000&\pos(683.4,898.4)\b1}20:14
+Dialogue: 3,0:18:06.36,0:18:14.11,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx98\c&H000000&\pos(968.91,895.69)\b1}Tokyo Metro, Shibuya Station
+Dialogue: 3,0:18:06.36,0:18:14.11,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx100\c&H000000&\pos(968.91,1018.69)\b1}Exit 13, Outside the Veil
+Dialogue: 1,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\an7\blur2\fscx100\fscy100\c&HC5BFA9&\pos(0,0)\iclip(m 292.95 250.29 l 320.76 253.71 332.57 277.72 319.62 299.05 291.81 295.62 279.62 271.24)\p1}m 218.53 229.89 l 533.68 266.53 558.18 340.08 602.9 359.4 602.73 400 570.52 428.86 215.16 397.05
+Dialogue: 2,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\blur2\fnSplit splat splodge\fs500\frz171.4\c&HB6B19C&\pos(457,354.92)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78 216.53 229.87 228.8 229.87 288 242.67 292.27 250.67 280 270.4 290.67 294.93 319.47 298.13 331.2 277.87 320 254.93 289.07 250.67 216.53 234.13)}a
+Dialogue: 3,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\blur1.2\fnSplit splat splodge\fs500\frz171.4\c&HB0AB93&\pos(457,354.92)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}b
+Dialogue: 4,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\blur1.2\fnSplit splat splodge\fs500\frz171.4\c&H434F43&\1a&HDC&\pos(457,354.92)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}u
+Dialogue: 5,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\blur18\fnSplit splat splodge\fs555\frz110.7\c&HFFFFFF&\1a&HDC&\pos(372.2,236.8)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}g
+Dialogue: 6,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\blur18\fnSplit splat splodge\fs500\frz110.7\c&HFCE885&\1a&HDC&\pos(226.2,206.8)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}g
+Dialogue: 7,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\blur1.2\fnSplit splat splodge\fs500\frz186.5\c&H434F43&\1a&HDC&\pos(560,200)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}u
+Dialogue: 8,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\blur.8\fnLino Stamp\fs360\fscx55\fry180\frz80.91\c&H0A1721&\1a&HE1&\pos(184.6,271.27)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}-
+Dialogue: 9,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\blur1.2\fnSplit splat splodge\fs500\frz186.5\c&H434F43&\1a&HDC&\pos(605,312)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}u
+Dialogue: 10,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\an1\blur0.8\fnFOT-DNP ShueiMGoStd B\fs66\frz353.6\fax0.1\c&H663F1F&\pos(352.17,307.32)}明{\c&H623B1A&}治{\c&H5F3716&}通{\c&H5C3312&}り{\c&H592F0E&}
+Dialogue: 10,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\an1\blur0.8\fnFOT-DNP ShueiMGoStd B\fs66\frz354.1\fax0.1\c&H774A25&\pos(228,373)}渋{\c&H734622&}谷{\c&H6F431F&}区{\c&H6B3F1C&}渋{\c&H683C19&}谷{\c&H643916&}一{\c&H603513&}丁{\c&H5C3210&}目{\c&H592F0E&}
+Dialogue: 10,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\an1\blur0.66\fnFOT-DNP ShueiMGoStd B\fs22\fscx96.9\frz353.9\fax0.1\c&H663F1F&\pos(405.17,328.32)}M{\c&H643D1D&}e{\c&H633C1C&}i{\c&H623B1A&}j{\c&H613919&}i {\c&H5F3716&}A{\c&H5E3515&}v{\c&H5D3413&}e{\c&H5C3312&}n{\c&H5B3110&}u{\c&H5A300F&}e{\c&H592F0E&}
+Dialogue: 10,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\an1\blur0.66\fnFOT-DNP ShueiMGoStd B\fs22\frz354.8\fax0.1\c&H663F1F&\pos(287,399)}S{*\c&H653E1E&}h{*\c&H653D1D&}i{*\c&H643D1D&}b{*\c&H643C1C&}u{*\c&H633C1C&}y{*\c&H633B1B&}a {*\c&H623A1A&}B{*\c&H613A19&}l{*\c&H613919&}o{*\c&H613818&}c{*\c&H603817&}k {*\c&H5F3716&}1{*\c&H5F3616&}, {*\c&H5E3515&}S{*\c&H5D3514&}h{*\c&H5D3413&}i{*\c&H5D3313&}b{*\c&H5C3312&}u{*\c&H5C3212&}y{*\c&H5B3211&}a {*\c&H5A3110&}W{*\c&H5A300F&}a{*\c&H59300F&}r{*\c&H592F0E&}d{\c&H592F0E&}
+Dialogue: 11,0:18:06.36,0:18:14.11,Signs,BuildingBanner,0,0,0,,{\blur50\fnSplit splat splodge\fs100\frz110.7\c&HFFDA1E&\1a&HB4&\pos(339.2,379.73)\clip(m 216.89 226.67 l 612 276.89 612.89 434.22 213.33 397.78)}a
+Dialogue: 3,0:18:06.36,0:18:14.11,Signs,Screen,0,0,0,,{=95}
 Comment: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{=12}Team Nanami
 Dialogue: 1,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an7\fscx44\fscy100\pos(-66,-2)\p1}m 553.33 770.67 l 1232 770.67 1232 848 553.33 848
 Dialogue: 1,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an7\fscx110\fscy100\pos(-117,-2)\p1}m 553.33 770.67 l 1232 770.67 1232 848 553.33 848
@@ -114,28 +114,28 @@ Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Gro
 Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs48\fscx86\c&H000000&\pos(1265.91,923.69)\b1}Under Evaluation for Promotion
 Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs48\fscx86\c&H000000&\pos(1265.91,1013.69)\b1}Under Evaluation for Promotion
 Dialogue: 3,0:18:26.88,0:18:29.76,Signs,Screen,0,0,0,,{=13}
-Comment: 1,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{=14}Mark City
-Dialogue: 1,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{\an7\fscx20\fscy80\pos(18.08,116.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
-Dialogue: 1,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{\an7\fscx58.8\fscy80\pos(60,116.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
-Dialogue: 1,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{\an7\fscx120\fscy80\pos(-354.08,227.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
-Dialogue: 3,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(184.4,906.4)\b1}20:14
-Dialogue: 3,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx101\c&H000000&\pos(489.4,906.4)\b1}Shibuya Mark City
-Dialogue: 3,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx100\c&H000000&\pos(489.4,1019.4)\b1}Restaurant Avenue Entrance, Outside the Veil
-Dialogue: 3,0:19:05.88,0:19:10.88,Signs,Screen,0,0,0,,{=15}
-Comment: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{=16}Team Zenin
-Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx42\fscy100\pos(-40,-3)\p1}m 553.33 770.67 l 1232 770.67 1232 848 553.33 848
-Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx110\fscy100\pos(-114,-3)\p1}m 553.33 770.67 l 1442 770.67 1442 848 553.33 848
-Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx110\fscy100\pos(-114,88)\p1}m 553.33 770.67 l 1255 770.67 1255 848 553.33 848
-Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx110\fscy100\pos(-114,179)\p1}m 553.33 770.67 l 1255 770.67 1255 848 553.33 848
-Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx70\fscy100\pos(893,88)\p1}m 553.33 770.67 l 1272 770.67 1272 848 553.33 848
-Dialogue: 1,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an7\fscx70\fscy100\pos(893,179)\p1}m 553.33 770.67 l 1272 770.67 1272 848 553.33 848
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx105\c&H000000&\pos(210,835)\b1}Team Zenin
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,834.69)\b1}Zenin Naobito, Honorary First-Grade Sorcerer
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,925.69)\b1}Zenin Maki{\fscx96}, Fourth-Grade Sorcerer
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,1016.69)\b1}Kugisaki Nobara, Third-Grade Sorcerer
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs45\fscx90\c&H000000&\pos(1294.91,920.69)\b1}Under Evaluation for Promotion
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs45\fscx90\c&H000000&\pos(1294.91,1011.69)\b1}Under Evaluation for Promotion
-Dialogue: 3,0:19:24.52,0:19:30.53,Signs,Screen,0,0,0,,{=17}
+Comment: 1,0:19:05.87,0:19:10.88,Signs,Screen,0,0,0,,{=14}Mark City
+Dialogue: 1,0:19:05.87,0:19:10.88,Signs,Screen,0,0,0,,{\an7\fscx20\fscy80\pos(18.08,116.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
+Dialogue: 1,0:19:05.87,0:19:10.88,Signs,Screen,0,0,0,,{\an7\fscx58.8\fscy80\pos(60,116.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
+Dialogue: 1,0:19:05.87,0:19:10.88,Signs,Screen,0,0,0,,{\an7\fscx120\fscy80\pos(-354.08,227.26)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
+Dialogue: 3,0:19:05.87,0:19:10.88,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(184.4,906.4)\b1}20:14
+Dialogue: 3,0:19:05.87,0:19:10.88,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx101\c&H000000&\pos(489.4,906.4)\b1}Shibuya Mark City
+Dialogue: 3,0:19:05.87,0:19:10.88,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx100\c&H000000&\pos(489.4,1019.4)\b1}Restaurant Avenue Entrance, Outside the Veil
+Dialogue: 3,0:19:05.87,0:19:10.88,Signs,Screen,0,0,0,,{=15}
+Comment: 3,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{=16}Team Zenin
+Dialogue: 1,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an7\fscx42\fscy100\pos(-40,-3)\p1}m 553.33 770.67 l 1232 770.67 1232 848 553.33 848
+Dialogue: 1,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an7\fscx110\fscy100\pos(-114,-3)\p1}m 553.33 770.67 l 1442 770.67 1442 848 553.33 848
+Dialogue: 1,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an7\fscx110\fscy100\pos(-114,88)\p1}m 553.33 770.67 l 1255 770.67 1255 848 553.33 848
+Dialogue: 1,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an7\fscx110\fscy100\pos(-114,179)\p1}m 553.33 770.67 l 1255 770.67 1255 848 553.33 848
+Dialogue: 1,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an7\fscx70\fscy100\pos(893,88)\p1}m 553.33 770.67 l 1272 770.67 1272 848 553.33 848
+Dialogue: 1,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an7\fscx70\fscy100\pos(893,179)\p1}m 553.33 770.67 l 1272 770.67 1272 848 553.33 848
+Dialogue: 3,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx105\c&H000000&\pos(210,835)\b1}Team Zenin
+Dialogue: 3,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,834.69)\b1}Zenin Naobito, Honorary First-Grade Sorcerer
+Dialogue: 3,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,925.69)\b1}Zenin Maki{\fscx96}, Fourth-Grade Sorcerer
+Dialogue: 3,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs55\fscx94\c&H000000&\pos(517.91,1016.69)\b1}Kugisaki Nobara, Third-Grade Sorcerer
+Dialogue: 3,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs45\fscx90\c&H000000&\pos(1294.91,920.69)\b1}Under Evaluation for Promotion
+Dialogue: 3,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs45\fscx90\c&H000000&\pos(1294.91,1011.69)\b1}Under Evaluation for Promotion
+Dialogue: 3,0:19:24.52,0:19:30.52,Signs,Screen,0,0,0,,{=17}
 Comment: 1,0:19:59.80,0:20:06.81,Signs,Screen,0,0,0,,{=42}South Exit
 Dialogue: 1,0:19:59.80,0:20:06.81,Signs,Screen,0,0,0,,{\an7\fscx19\fscy80\pos(84.48,226.86)\p1}m 677 880 l 1820 880 1820 999 677 999 677 900
 Dialogue: 1,0:19:59.80,0:20:06.81,Signs,Screen,0,0,0,,{\an7\fscx120\fscy80\pos(-345,227.26)\p1}m 677 880 l 1832 880 1832 999 677 999 677 900
