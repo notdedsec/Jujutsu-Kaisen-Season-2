@@ -179,7 +179,8 @@ Dialogue: 0,0:12:21.30,0:12:23.22,Default,Utahime,0,0,0,,I'm not crying!
 Dialogue: 0,0:12:23.22,0:12:24.52,Default,Utahime,0,0,0,,Respect your seniors!
 Dialogue: 0,0:12:24.52,0:12:27.18,Default,Mei Mei,0,0,0,,If I was crying, would you console me?
 Dialogue: 0,0:12:27.18,0:12:29.27,Default,Mei Mei,0,0,0,,I would certainly appreciate that.
-Dialogue: 0,0:12:29.81,0:12:33.02,Default,Gojo,0,0,0,,Nah, I know you wouldn't cry. You're strong.
+Dialogue: 0,0:12:29.81,0:12:32.02,Default,Gojo,0,0,0,,Nah, I know you wouldn't cry, {*}Miss Mei{*Mei-san}.
+Dialogue: 0,0:12:32.02,0:12:33.02,Default,Gojo,0,0,0,,You're strong.
 Dialogue: 0,0:12:34.32,0:12:35.36,Default,Mei Mei,0,0,0,,You think?
 Dialogue: 0,0:12:36.40,0:12:39.03,Default,Utahime,0,0,0,,Gojo! You listen here!
 Dialogue: 0,0:12:39.03,0:12:40.45,Default,Utahime,0,0,0,,I don't need your hel{\fscx180}—{\fscx}
@@ -222,7 +223,7 @@ Dialogue: 0,0:14:24.68,0:14:29.06,Default,Gojo,0,0,0,,Is a Veil even necessary i
 Dialogue: 0,0:14:29.85,0:14:32.73,Default,Gojo,0,0,0,,Does it even matter if normies see us?
 Dialogue: 0,0:14:32.73,0:14:35.44,Default,Gojo,0,0,0,,It's not like they can see curses or\N cursed techniques, anyway.
 Dialogue: 0,0:14:38.44,0:14:40.19,Default,Geto,0,0,0,,Of course it matters.
-Dialogue: 0,0:14:40.19,0:14:45.45,Default,Geto,0,0,0,,The primary factor preventing an outbreak of curses\N is the citizens' peace of mind.
+Dialogue: 0,0:14:40.19,0:14:45.45,Default,Geto,0,0,0,,The primary factor preventing an outbreak\N of curses is the citizens' peace of mind.
 Dialogue: 0,0:14:46.07,0:14:51.95,Default,Geto,0,0,0,,That's why we have to conceal the\N threats they can't see as far as possible.
 Dialogue: 0,0:14:52.41,0:14:53.25,Default,Geto,0,0,0,,And that's not all{\fscx180}—{\fscx}
 Dialogue: 0,0:14:53.25,0:14:54.79,Default,Gojo,0,0,0,,Yeah, yeah, I get it.
@@ -329,7 +330,7 @@ Dialogue: 0,0:19:57.34,0:19:58.01,Default,Gojo,0,0,0,,Hah!
 Dialogue: 0,0:19:58.34,0:19:59.59,Default,Gojo,0,0,0,,Screw that!
 Dialogue: 0,0:19:59.59,0:20:01.81,Default,Geto,0,0,0,,Come on, Satoru.
 Dialogue: 0,0:20:01.81,0:20:03.06,Default,Geto,0,0,0,,Never mind.
-Dialogue: 0,0:20:03.06,0:20:04.52,Default,Geto,0,0,0,,I'll bring it up again later.
+Dialogue: 0,0:20:03.06,0:20:04.52,Default,Geto,0,0,0,,We'll discuss it later.
 Dialogue: 0,0:20:09.27,0:20:10.15,Default,Kuroi,0,0,0,,Coming.
 Dialogue: 0,0:20:18.32,0:20:19.53,Default,Gojo,0,0,0,,Still alive?
 Dialogue: 0,0:20:20.03,0:20:21.07,Default,Geto,0,0,0,,I am, at least.
