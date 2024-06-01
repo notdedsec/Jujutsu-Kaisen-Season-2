@@ -110,10 +110,10 @@ Dialogue: 0,0:09:20.87,0:09:22.29,Default,Yuji,0,0,0,,What is it?
 Dialogue: 0,0:09:22.29,0:09:24.08,Default,Mechamaru,0,0,0,,Start with fleeing into the restroom.
 Dialogue: 0,0:09:24.08,0:09:25.67,Default,Yuji,0,0,0,,The restroom?! Why?!
 Dialogue: 0,0:09:25.67,0:09:27.67,Default,Mechamaru,0,0,0,,I'll explain later.
-Dialogue: 0,0:09:27.67,0:09:30.13,Default,Mechamaru,0,0,0,,There's maybe a ten percent chance of success.
+Dialogue: 0,0:09:27.67,0:09:30.13,Default,Mechamaru,0,0,0,,There's maybe a 10% chance of success.
 Dialogue: 0,0:09:30.13,0:09:32.80,Default,Mechamaru,0,0,0,,I apologize in advance in case it fails\N and you end up dead.
 Dialogue: 0,0:09:32.80,0:09:33.97,Default,Yuji,0,0,0,,Not cool!
-Dialogue: 0,0:09:33.97,0:09:36.68,Default,Mechamaru,0,0,0,,Or you can continue to\N drag this out until you're killed.
+Dialogue: 0,0:09:33.97,0:09:36.68,Default,Mechamaru,0,0,0,,Or you can keep this up until you're killed.
 Dialogue: 0,0:09:45.73,0:09:47.07,Default,Choso,0,0,0,,What an idiot.
 Dialogue: 0,0:09:47.48,0:09:50.49,Default,Choso,0,0,0,,{\i1}That only leads to the restrooms and the elevator. {escalator}
 Dialogue: 0,0:09:50.49,0:09:53.49,Default,Choso,0,0,0,,{\i1}No matter which you run to, you're trapped like a rat. {like shooting fish in a barrel}
