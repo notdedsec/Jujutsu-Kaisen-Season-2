@@ -4,9 +4,10 @@ from vapoursynth import VideoNode
 from vstools import core, depth, get_depth, get_y, iterate, replace_ranges
 from vsmasktools import squaremask
 from awsmfunc import bbmod
+from rekt import rektlvls
 
 
-def letterbox_fix(clip: VideoNode, src: VideoNode, height: int, ranges: List[Tuple[int, int]], offset: int = 1, shift: int = 0, blur: int = 500):
+def letterbox_fix(clip: VideoNode, src: VideoNode, height: int, ranges: List[Tuple[int, int]], offset: int = 2, shift: int = 0, rekt_args = {}, bb_args = {}):
     src = depth(src, get_depth(clip))
 
     src_shift = core.resize.Bicubic(src, src_top=shift)
@@ -21,9 +22,15 @@ def letterbox_fix(clip: VideoNode, src: VideoNode, height: int, ranges: List[Tup
     border_restore = core.std.MaskedMerge(clip_shift, src_shift, border_mask)
 
     crop = border_restore.std.Crop(top=height, bottom=height)
-    edge_fix = bbmod(crop, top=offset, bottom=offset, blur=blur) if blur else crop
-    revert_crop = edge_fix.std.AddBorders(top=height, bottom=height)
+    edge_fix = crop
 
+    if rekt_args:
+        edge_fix = rektlvls(edge_fix, **rekt_args)
+
+    if bb_args:
+        edge_fix = bbmod(edge_fix, **bb_args)
+
+    revert_crop = edge_fix.std.AddBorders(top=height, bottom=height)
     revert_shift = core.resize.Bicubic(revert_crop, src_top=-shift)
     fixed = replace_ranges(clip, revert_shift, ranges)
 
