@@ -24,8 +24,8 @@ class Encoder:
         out_mkv = MatroskaFile(
             self.file.name_file_final,
             [
-                MediaTrack(self.file.name_clip_output, 'WEB 1080p HEVC [dedsec]', JAPANESE),
-                MediaTrack(self.file.a_enc_cut.format(track_number=1), 'Japanese 2.0 EAC-3', JAPANESE)
+                MediaTrack(self.file.name_clip_output, 'BD 1080p HEVC [dedsec]', JAPANESE),
+                MediaTrack(self.file.a_enc_cut.format(track_number=1), 'Japanese 2.0 AAC', JAPANESE)
             ]
         )
 

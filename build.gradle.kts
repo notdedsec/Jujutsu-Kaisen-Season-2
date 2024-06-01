@@ -11,7 +11,7 @@ plugins {
 
 subs {
     readProperties("sub.properties", "private.properties")
-    release(arg("release") ?: "TV")
+    release(arg("release") ?: "BD")
     episodes(getList("episodes"))
 
     merge {
@@ -76,11 +76,11 @@ subs {
                 lang("jpn")
 
                 if(track.type == TrackType.VIDEO){
-                    name("WEB 1080p HEVC [dedsec]")
+                    name("BD 1080p HEVC [dedsec]")
                 }
 
                 if(track.type == TrackType.AUDIO){
-                    name("Japanese 2.0 EAC-3")
+                    name("Japanese 2.0 AAC")
                 }
             }
 
