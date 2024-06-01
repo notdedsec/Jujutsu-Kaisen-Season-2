@@ -131,7 +131,7 @@ Dialogue: 0,0:09:42.39,0:09:46.07,Default,Kong,0,0,0,,I know they were necessary
 Dialogue: 0,0:09:46.48,0:09:48.78,Default,Kong,0,0,0,,Honestly, I was expecting a few complaints.
 Dialogue: 0,0:09:50.36,0:09:54.03,Default,Sonoda,0,0,0,,We never anticipated the assassination to be a success.
 Dialogue: 0,0:09:54.03,0:09:56.16,Default,Sonoda,0,0,0,,Star Religious Group was founded in the Nara Era,
-Dialogue: 0,0:09:56.16,0:10:04.54,Default,Sonoda,0,0,0,,when Master Tengen started preaching the moral foundation\N of jujutsu sorcerers while spreading Buddhism in Japan.
+Dialogue: 0,0:09:56.16,0:10:04.54,Default,Sonoda,0,0,0,,when {*}Master Tengen{*Tengen-sama} started preaching the moral foundation\N of jujutsu sorcerers while spreading Buddhism in Japan.
 Dialogue: 0,0:10:04.92,0:10:08.46,Default,Sonoda,0,0,0,,Jujutsu society and religious institutions \N never saw eye to eye.
 Dialogue: 0,0:10:08.46,0:10:15.01,Default,Sonoda,0,0,0,,That strain is what gave birth to our modern\N Star Religious Group, the Time Vessel Association.
 Dialogue: 0,0:10:15.01,0:10:18.31,Default,Sonoda,0,0,0,,There is a reason why we have always \Nremained non-sorcerers.
