@@ -109,7 +109,7 @@ Dialogue: 0,0:10:45.62,0:10:47.88,Default,Muta,0,0,0,,{\i1}It was passed down th
 Dialogue: 0,0:10:47.88,0:10:53.01,Default,Muta,0,0,0,,{\i1}Revealing it to outsiders was forbidden by a Binding Vow.
 Dialogue: 0,0:10:53.59,0:10:57.09,Default,Muta,0,0,0,,{\i1}It's a technique that lets you\N protect yourself from others' domains.
 Dialogue: 0,0:11:02.43,0:11:04.94,Default,Muta,0,0,0,,{\i1}The domain for the weak.
-Dialogue: 0,0:11:12.86,0:11:13.86,Default,,0,0,0,,Wha{\fscx180}—{\fscx}
+Dialogue: 0,0:11:12.86,0:11:13.86,Default,Mahito,0,0,0,,Wha{\fscx180}—{\fscx}
 Dialogue: 0,0:11:15.07,0:11:18.53,Default,Muta,0,0,0,,New Shadow Style: Simple Domain!
 Dialogue: 0,0:11:24.79,0:11:27.75,Default,Muta,0,0,0,,{\i1}I have seen it all.
 Dialogue: 0,0:11:49.23,0:11:51.23,Default,Geto,0,0,0,,Simple Domain!

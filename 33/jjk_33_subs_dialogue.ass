@@ -157,7 +157,7 @@ Dialogue: 0,0:12:11.42,0:12:13.42,Default,Mahito,0,0,0,,Hanami would get upset o
 Dialogue: 0,0:12:14.05,0:12:15.97,Default,Jogo,0,0,0,,Hanami is dead.
 Dialogue: 0,0:12:17.84,0:12:18.97,Default,Mahito,0,0,0,,Seriously?
 Comment: 0,0:12:23.97,0:12:24.01,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:12:43.16,0:12:46.16,Default,,0,0,0,,Whoa! I can't hit you for real!
+Dialogue: 0,0:12:43.16,0:12:46.16,Default,Mahito,0,0,0,,Whoa! I can't hit you for real!
 Dialogue: 0,0:12:47.12,0:12:48.54,Default,Gojo,0,0,0,,{\i1}Patchface!
 Dialogue: 0,0:12:48.54,0:12:50.37,Default,Gojo,0,0,0,,{\i1}The one Nanami and Yuji mentioned?!
 Dialogue: 0,0:12:57.92,0:13:01.93,Default,Mahito,0,0,0,,Do you know what I find so disgusting about humans?
@@ -240,7 +240,7 @@ Dialogue: 0,0:21:17.96,0:21:24.51,Default,Geto,0,0,0,,are both merely a result o
 Dialogue: 0,0:21:25.97,0:21:30.77,Default,Geto,0,0,0,,Sorry to say this, but Okkotsu Yuta \Nwill never replace you.
 Dialogue: 0,0:21:36.11,0:21:38.24,Default,Geto,0,0,0,,Goodnight, Gojo Satoru.
 Dialogue: 0,0:21:39.78,0:21:42.78,Default,Geto,0,0,0,,We'll meet again in the new world. {wait............. could this be what gojo said to geto? or sth similar at least, like the line from the OP}
-Dialogue: 0,0:21:45.78,0:21:47.37,Default,,0,0,0,,What the{\fscx180}—{\fscx}
+Dialogue: 0,0:21:45.78,0:21:47.37,Default,Yuji,0,0,0,,What the{\fscx180}—{\fscx}
 Dialogue: 0,0:21:48.66,0:21:50.46,Default,Ui,0,0,0,,What's the matter?
 Dialogue: 0,0:21:50.46,0:21:53.21,Default,Yuji,0,0,0,,There's... something on my ear.
 Dialogue: 0,0:21:53.21,0:21:56.21,Default,Mechamaru,0,0,0,,Can you hear me, Itadori Yuji?
