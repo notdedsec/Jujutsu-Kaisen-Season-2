@@ -264,8 +264,8 @@ Dialogue: 0,0:16:14.12,0:16:15.12,Default,Both,0,0,0,,{\pos(720,1020)}It's nothi
 Dialogue: 0,0:16:14.12,0:16:15.12,Default,Both,0,0,0,,{\pos(1200,1020)}It's nothing.
 Dialogue: 0,0:16:16.00,0:16:18.92,Default,Yaga,0,0,0,,I honestly think it's too important \Nto be assigned to you guys,
 Dialogue: 0,0:16:18.92,0:16:20.96,Default,Yaga,0,0,0,,but {*}Master Tengen{*Tengen-sama} asked for you specifically.
-Dialogue: 0,0:16:23.00,0:16:24.80,Default,Yaga,0,0,0,,Your mission has two goals.
-Dialogue: 0,0:16:25.30,0:16:29.22,Default,Yaga,0,0,0,,{*}Master Tengen{*Tengen-sama} has found a compatible Star Plasma Vessel. {geto explains it later}
+Dialogue: 0,0:16:22.96,0:16:24.80,Default,Yaga,0,0,0,,Your mission has two goals.
+Dialogue: 0,0:16:25.21,0:16:29.22,Default,Yaga,0,0,0,,{*}Master Tengen{*Tengen-sama} has found a compatible Star Plasma Vessel. {geto explains it later}
 Dialogue: 0,0:16:29.22,0:16:33.26,Default,Yaga,0,0,0,,You are to escort that girl and erase her.
 Dialogue: 0,0:16:33.76,0:16:36.27,Default,Gojo,0,0,0,,Escort a brat and erase her?
 Dialogue: 0,0:16:37.14,0:16:38.35,Default,Yaga,0,0,0,,That's right.
@@ -278,15 +278,17 @@ Dialogue: 0,0:16:52.07,0:16:52.95,Default,Gojo,0,0,0,,What's that?
 Dialogue: 0,0:16:56.58,0:16:57.54,Default,Gojo,0,0,0,,What?
 Dialogue: 0,0:16:58.33,0:17:02.92,Default,Yaga,0,0,0,,{*}Master Tengen{*Tengen-sama} has the technique of Immortality,\N but that doesn't grant him eternal youth.
 Dialogue: 0,0:17:02.92,0:17:05.71,Default,Yaga,0,0,0,,It wouldn't be an issue if all he did was get older,
-Dialogue: 0,0:17:05.71,0:17:10.80,Default,Yaga,0,0,0,,but after he ages to a certain point,\N the technique will begin to rewrite his body.
+Dialogue: 0,0:17:05.71,0:17:10.80,Default,Yaga,0,0,0,,but after he ages to a certain point,\N it begins to rewrite his body.
 Dialogue: 0,0:17:12.39,0:17:13.76,Default,Yaga,0,0,0,,Evolution.
-Dialogue: 0,0:17:13.76,0:17:17.02,Default,Yaga,0,0,0,,He'll cease to be human and\N become a higher form of existence.
-Dialogue: 0,0:17:17.35,0:17:20.81,Default,Gojo,0,0,0,,What's wrong with that? Sounds cool.
-Dialogue: 0,0:17:20.81,0:17:26.78,Default,Geto,0,0,0,,According to {*}Master Tengen{*Tengen-sama}, \Nthose who reach that state of being have no will.
+Dialogue: 0,0:17:13.76,0:17:17.02,Default,Yaga,0,0,0,,He will cease to be human and\N become a higher form of existence.
+Dialogue: 0,0:17:17.35,0:17:20.81,Default,Gojo,0,0,0,,What's wrong with that? Sounds rad.
+Dialogue: 0,0:17:20.81,0:17:26.78,Default,Geto,0,0,0,,According to {*}Master Tengen{*Tengen-sama}, those who \Nreach that state of being have no will of their own.
 Dialogue: 0,0:17:26.78,0:17:29.78,Default,Geto,0,0,0,,It means {*}Master Tengen{*Tengen-sama} \Nwould cease to be {*}Master Tengen{*Tengen-sama}.
-Dialogue: 0,0:17:29.78,0:17:36.45,Default,Geto,0,0,0,,The jujutsu schools, the pillars of jujutsu society,\N and the many barrier techniques of assistant supervisors
-Dialogue: 0,0:17:36.45,0:17:41.04,Default,Geto,0,0,0,,are all being strengthened by {*}Master Tengen{*Tengen-sama}.
-Dialogue: 0,0:17:41.04,0:17:46.67,Default,Geto,0,0,0,,Without the aid of his power, we could \Nhardly maintain security or clean up after missions.
+Dialogue: 0,0:17:29.78,0:17:31.53,Default,Geto,0,0,0,,The barriers of jujutsu schools.
+Dialogue: 0,0:17:31.53,0:17:34.07,Default,Geto,0,0,0,,The barriers that form the pillars of jujutsu world.
+Dialogue: 0,0:17:34.07,0:17:36.45,Default,Geto,0,0,0,,Even the barriers of all the assistant supervisors.
+Dialogue: 0,0:17:36.45,0:17:41.08,Default,Geto,0,0,0,,They are all being strengthened by {*}Master Tengen{*Tengen-sama}.
+Dialogue: 0,0:17:41.08,0:17:46.67,Default,Geto,0,0,0,,Without the aid of his power, we could hardly\N maintain our cover or clean up after missions.
 Dialogue: 0,0:17:46.67,0:17:51.63,Default,Geto,0,0,0,,In the worst-case scenario, \N{*}Master Tengen{*Tengen-sama} could even become a threat to mankind.
 Dialogue: 0,0:17:51.63,0:17:53.68,Default,Geto,0,0,0,,That's why, every five hundred years,
 Dialogue: 0,0:17:53.68,0:17:58.43,Default,Geto,0,0,0,,he finds the Star Plasma Vessel{\fscx180}—{\fscx}someone \Nwho is compatible with him{\fscx180}—{\fscx}and assimilates them,
@@ -304,8 +306,8 @@ Dialogue: 0,0:18:36.72,0:18:40.10,Default,Yaga,0,0,0,,The other is the Star Reli
 Dialogue: 0,0:18:40.10,0:18:42.85,Default,Yaga,0,0,0,,known as the Time Vessel Association.
 Dialogue: 0,0:18:43.64,0:18:48.32,Default,Yaga,0,0,0,,{*}Master Tengen{*Tengen-sama} will assimilate the Star Plasma Vessel\N during the full moon in two days.
 Dialogue: 0,0:18:48.32,0:18:52.99,Default,Yaga,0,0,0,,You are to protect the girl until then\N and ensure that she reaches {*}Master Tengen{*Tengen-sama}!
-Dialogue: 0,0:18:53.32,0:18:57.12,Default,Yaga,0,0,0,,If you mess this up, the effects will ripple throughout even normal society!
-Dialogue: 0,0:18:57.12,0:18:58.58,Default,Yaga,0,0,0,,Don't forget that!
+Dialogue: 0,0:18:52.99,0:18:57.12,Default,Yaga,0,0,0,,If you mess this up, the effects will ripple\N throughout even human society! {break}
+Dialogue: 0,0:18:57.12,0:18:58.58,Default,Yaga,0,0,0,,Do not forget that!
 Dialogue: 0,0:18:59.33,0:19:00.83,Default,Gojo,0,0,0,,Real talk, though.
 Dialogue: 0,0:19:00.83,0:19:03.83,Default,Gojo,0,0,0,,I kinda get why Curse User Group Q is after her,
 Dialogue: 0,0:19:03.83,0:19:07.00,Default,Gojo,0,0,0,,but why would this \NStar Religious Group wanna kill the brat?
