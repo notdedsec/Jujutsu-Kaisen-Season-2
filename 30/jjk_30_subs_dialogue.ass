@@ -88,7 +88,7 @@ Dialogue: 0,0:02:45.56,0:02:52.61,Default,Todo,0,0,0,,must carry out missions un
 Dialogue: 0,0:02:54.36,0:02:59.62,Default,Todo,0,0,0,,After that, if they're deemed fit,\N they'll be promoted to semi-first grade
 Dialogue: 0,0:02:59.62,0:03:03.33,Default,Todo,0,0,0,,and assigned first-grade missions\N to complete independently.
 Dialogue: 0,0:03:03.33,0:03:10.09,Default,Todo,0,0,0,,The results of those missions will decide whether or not\N they'll officially become first-grade sorcerers.
-Dialogue: 0,0:03:10.96,0:03:14.30,Default,Todo,0,0,0,,My brother will no doubt accept the recommendation.
+Dialogue: 0,0:03:10.96,0:03:14.30,Default,Todo,0,0,0,,Brother will no doubt accept the recommendation.
 Dialogue: 0,0:03:14.30,0:03:16.26,Default,Todo,0,0,0,,Since Sukuna isn't cooperating,
 Dialogue: 0,0:03:16.26,0:03:21.76,Default,Todo,0,0,0,,he'll need to be assigned more dangerous missions\N to raise his chances of finding the fingers.
 Dialogue: 0,0:03:21.76,0:03:25.73,Default,Todo,0,0,0,,You understand what that means, right, Miss Mei? {alright i'll have to change every instance of Mei to Miss Mei now}
@@ -365,7 +365,7 @@ Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:39.98,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.65,0:23:44.03,Default,Miwa,0,0,0,,{\an8}If you want a secret to remain a secret,\N keep it to yourself.
 Dialogue: 0,0:23:44.03,0:23:48.78,Default,Miwa,0,0,0,,{\an8}I wrote out what type of boy I like in my elementary school profile book and everyone found out!
-Dialogue: 0,0:23:48.78,0:23:50.33,Default,Miwa,0,0,0,,{\an8}Next Episode, Evening Festival!
+Dialogue: 0,0:23:48.78,0:23:50.33,Default,Miwa,0,0,0,,{\an8}Next episode, Evening Festival!
 Dialogue: 0,0:23:50.33,0:23:51.45,Default,Mai,0,0,0,,{\an8}What did you write down?
 Dialogue: 0,0:23:51.45,0:23:52.66,Default,Miwa,0,0,0,,{\an8}Mittermeyer. {from LOGH??}
 Dialogue: 0,0:23:52.66,0:23:54.75,Default,Mai,0,0,0,,{\an8}Sure got that fast-runner vibe. {cause elementary school girls like fast guys}
