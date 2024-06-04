@@ -4464,9 +4464,9 @@ Dialogue: 0,0:12:57.59,0:12:57.67,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1085.21
 Dialogue: 0,0:12:57.59,0:12:57.67,Signs,Screen,0,0,0,,{\blur0.64\pos(1139.14,677.74)\fscy60\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
 Dialogue: 0,0:12:57.67,0:12:57.76,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1077.67,742.19)\fscy24\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.67,0:12:57.76,Signs,Screen,0,0,0,,{=147}{\blur0.64\pos(1130.91,800)\fscy20\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(957,1041)\fnRiiTegakiFude\fs45\b1\bord5.25\c&HEBEBEB&\3c&HEBEBEB&\blur0.6}Escort Mission Day 2
-Dialogue: 1,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(957,1041)\fnRiiTegakiFude\fs45\b1\c&H373835&\3c&HFFFFFF&\blur0.72}Escort Mission Day 2
-Dialogue: 0,0:02:48.02,0:02:51.03,Signs,Screen,0,0,0,,{\an8\pos(990,66)\fnBrushStrokes Heavy ModByArmonth\fs150\b1\blur0.66}Okinawa
+Dialogue: 0,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(957,1041)\fnRiiTegakiFude\fs45\b1\bord5.25\c&HEBEBEB&\3c&HEBEBEB&\blur0.8}Escort Mission Day 2
+Dialogue: 1,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(957,1041)\fnRiiTegakiFude\fs45\b1\c&H3F3D3C&\3c&HFFFFFF&\blur0.8}Escort Mission Day 2
+Dialogue: 0,0:02:48.02,0:02:51.03,Signs,Screen,0,0,0,,{\an8\fnBrushStrokes Heavy ModByArmonth\fs110\fscx88\b1\blur0.8\pos(892.33,528.33)}Okinawa
 Dialogue: 0,0:02:51.03,0:02:54.03,Signs,Screen,0,0,0,,{\pos(960,800)\fnRagnar\fs60\b1\blur0.5}Episode 27\N{\fs70}Hidden Inventory III
 Dialogue: 0,0:06:58.77,0:06:58.81,Signs,Screen,0,0,0,,{=148}{\an8\pos(1926.6,985)\fscx88\fnBrush Strokes\fs72\b1\c&H0C1B10&\blur1.6\alpha&H30&}Fishy {\c&H1C1C1C&}Curse {\c&H242424&}Use{\c&H282828&}rs
 Dialogue: 0,0:06:58.81,0:06:58.86,Signs,Screen,0,0,0,,{\an8\pos(1897.86,985.01)\fscx88\fnBrush Strokes\fs72\b1\c&H0C1B10&\blur1.8\1a&H30&}Fishy {\c&H1C1C1C&}Curse {\c&H242424&}Use{\c&H282828&}rs
@@ -5289,95 +5289,11 @@ Dialogue: 0,0:23:49.66,0:23:56.25,Signs,,0,0,0,,{\pos(960,800)\fnRagnar\fs60\b1\
 Dialogue: 1,0:23:49.66,0:23:56.25,Signs,,0,0,0,,{\pos(960,800)\fnRagnar\fs60\b1\blur0.4}Next Episode\N{\fs70}Hidden Inventory IV
 
 [Aegisub Extradata]
-Data: 0,a-mo,e{"originalText"#3A"{\\fnAveria Sans\\fs48\\blur0.64\\b1\\c&H292D28&\\pos(1628.09#2C760)}Upperclassman\\Nwearing himself\\Nto the bone"#2C"uuid"#3A"41e376ca-a931-4933-8216-aad3def97439"}
-Data: 1,a-mo,e{"originalText"#3A"{\\c&HF1F2F4&\\blur15\\fs80\\b0\\frz80.74\\pos(1713.14#2C862.86)}llllllllllllll"#2C"uuid"#3A"a239667c-7376-4ed0-8f16-832844d1b96c"}
-Data: 2,a-mo,e{"originalText"#3A"{\\c&HF1F2F4&\\blur15\\fs80\\b0\\pos(1687.63#2C957.51)}llllllllllllll"#2C"uuid"#3A"b6339b72-9708-48a0-a299-697ada62d73f"}
-Data: 3,a-mo,e{"originalText"#3A"{\\c&HF1F2F4&\\blur25\\p1\\b0\\pos(123.42#2C235.42)}m 1453.71 571.43 l 1478.86 547.43 1509.71 600 1524.57 740.57 1509.71 782.86 1466.29 700.57"#2C"uuid"#3A"708eb8e4-89c2-4586-bfa1-e5224296cb38"}
-Data: 4,a-mo,e{"originalText"#3A"{\\c&HF1F2F4&\\blur15\\p1\\b0\\pos(35.44#2C101.86)}m 1453.71 571.43 l 1478.86 547.43 1509.71 600 1524.57 740.57 1509.71 782.86 1466.29 700.57"#2C"uuid"#3A"867a6cd8-7961-4cbc-bace-8f5b20a1a826"}
-Data: 5,a-mo,e{"originalText"#3A"{\\c&HF1F2F4&\\be8\\p1\\pos(170.67#2C220.66)\\b0}m 1481.14 540.57 l 1522.29 537.14 1546.29 554.29 1614.86 532.57 1658.29 536 1677.71 553.14 1700.57 525.71 1744 530.29 1782.86 548.57 1805.71 564.57 1802.29 605.71 1763.43 630.86 1770.29 690.29 1801.14 726.86 1805.71 756.57 1782.86 785.14 1762.29 802.29 1769.14 912 1768 964.57 1742.86 974.86 1722.29 971.43 1694.86 898.29 1682.29 739.43 1666.29 757.71 1650.29 811.43 1656 898.29 1660.57 955.43 1653.71 971.43 1627.43 974.86 1584 961.14 1584 738.29 1520 748.57 1470.86 714.29 1465.14 593.14"#2C"uuid"#3A"aa1076ae-1b5b-4c16-ab8b-eb2666a609b3"}
-Data: 9,a-mo,e{"originalText"#3A"{\\frz349\\fax0.22\\fs50\\blur0.7\\c&HD4DADB&\\4c&H6A665E&\\pos(823.4#2C1099)}Naha Airport"#2C"uuid"#3A"c7d2c2ee-b02c-4795-8676-438728afa2fd"}
-Data: 10,a-mo,e{"originalText"#3A"{\\frz349\\fax0.22\\fs50\\blur0.7\\c&H6A665E&\\4c&H6A665E&\\pos(823.4#2C1099)}Naha Airport"#2C"uuid"#3A"81f83072-cc02-4fc1-81df-33553b37387f"}
-Data: 11,a-mo,e{"originalText"#3A"{\\frz349\\fax0.22\\fs50\\xshad-3.6\\yshad2\\blur0.7\\c&HD4DADB&\\4c&H6A665E&\\pos(823.4#2C1099)}Naha Airport"#2C"uuid"#3A"66ef5a6a-f163-46a5-bf25-81788ff8c7e4"}
-Data: 15,a-mo,e{"originalText"#3A"{\\fry6\\frx2\\fax0.22\\fs26\\c&HD4DADB&\\4c&H6A665E&\\blur0.7\\frz349.6\\pos(1531.11#2C1086.07)}Domestic Flights"#2C"uuid"#3A"0d80ccbf-ede3-4150-8151-29b4badbf74d"}
-Data: 16,a-mo,e{"originalText"#3A"{\\fry6\\frx2\\fax0.22\\fs26\\c&H6A665E&\\4c&H6A665E&\\blur0.7\\frz349.6\\pos(1531.11#2C1086.07)}Domestic Flights"#2C"uuid"#3A"3e93909d-fbe8-4f1d-8577-0ac5915bab1a"}
-Data: 17,a-mo,e{"originalText"#3A"{\\fry6\\frx2\\fax0.22\\fs26\\xshad-2.7\\yshad2\\c&HD4DADB&\\4c&H6A665E&\\blur0.7\\frz349.6\\pos(1531.11#2C1086.07)}Domestic Flights"#2C"uuid"#3A"4173a516-ea02-4cc9-9d29-62ab90e967cb"}
-Data: 19,a-mo,e{"originalText"#3A"{\\fade(80#2C0)\\an8\\fnBrush Strokes\\fs66\\fscx90\\blur0.6\\b1\\c&H363636&\\pos(1928.6#2C990)}Fishy Curse Users"#2C"uuid"#3A"61be948e-e3e0-4312-8337-5c9a35049428"}
-Data: 38,a-mo,e{"originalText"#3A"{\\fnKG Shadow of the Day\\fs75\\blur0.72\\c&H6B6866&\\frz12.31\\pos(1101.36#2C860.01)}Escort Mission Complete!"#2C"uuid"#3A"eb1ca4ea-247f-4413-b752-38783b62e574"}
-Data: 39,a-mo,e{"originalText"#3A"{\\blur44\\p1\\c&HF9F9F9&\\pos(284.2#2C125.8)}m 968 765.6 l 927.2 849.6 920 942.4 1048 928.8 1372.8 860 1408 766.4 1437.6 785.6 1459.2 896 1348.8 936 1032 984.8 872 1008.8 862.4 805.6 962.4 742.4"#2C"uuid"#3A"64f1aeeb-0817-4a1c-a583-9fb8131eb4b5"}
-Data: 40,a-mo,e{"originalText"#3A"{\\be8\\p1\\pos(328.55#2C131)\\c&HFDFDFD&}m 823.11 840.89 l 857.78 794.67 1192 733.33 1405.33 712.89 1434.67 760 1399.11 886.22 1312 920 1070.22 964.44 867.56 996.44"#2C"uuid"#3A"9e1ad037-7736-48ef-9a39-cdda21fadfb7"}
-Data: 41,a-mo,e{"originalText"#3A"{\\fnKG Shadow of the Day\\fs69\\blur0.69\\c&H6B6866&\\frz12.31\\pos(963.53#2C348.86)}Assimilate With Master Tengen\\NAfter Sunset!"#2C"uuid"#3A"17f12a36-4027-449c-b627-ab92ee49fe7f"}
-Data: 42,a-mo,e{"originalText"#3A"{\\fnKG Shadow of the Day\\fs69\\blur0.69\\c&H6B6866&\\frz12.31\\pos(963.53#2C348.86)}Assimilate With Tengen-sama\\NAfter Sunset!"#2C"uuid"#3A"b901b638-492a-4ccd-b213-cbbaf4b9536d"}
-Data: 43,a-mo,e{"originalText"#3A"{\\blur36\\p1\\pos(293.43#2C159.15)\\c&HFAFAFA&}m 680 401.6 l 721.07 414.4 691.73 275.2 706.13 240 1060.27 185.6 1091.73 205.33 1116.27 323.2 1144 348.27 1161.07 279.47 1140.8 158.4 1076.27 129.07 686.93 186.67 636.8 241.6"#2C"uuid"#3A"f8cacdc3-5973-413e-bf10-e6aaa10760e6"}
-Data: 44,a-mo,e{"originalText"#3A"{\\be8\\p1\\pos(342.58#2C214)\\c&HFEFEFE&}m 644.57 229.71 l 1089.14 158.86 1125.71 312 1283.43 289.14 1301.71 440 1221.71 454.86 1185.14 488 806.86 586.29 689.14 438.86"#2C"uuid"#3A"ad55f38c-6015-4a49-a452-0d422ad5ea86"}
-Data: 61,a-mo,e{"originalText"#3A"{\\alpha&H60&\\blur99\\fscx164\\p1\\p1\\pos(-1081.6#2C590.4)}m 1299.56 429.33 l 1419.56 376.89 1603.56 378.67 1450.67 432"#2C"uuid"#3A"99d7f201-d3d0-4a22-b3e2-94bdd2d4f268"}
-Data: 62,a-mo,e{"originalText"#3A"{\\alpha&H60&\\blur99\\fscx164\\p1\\p1\\pos(-690.2#2C42.13)}m 1299.56 429.33 l 1419.56 376.89 1603.56 378.67 1450.67 432"#2C"uuid"#3A"ea7f6c06-7647-4fff-8c1d-cab19fa1520b"}
-Data: 63,a-mo,e{"originalText"#3A"{\\alpha&H60&\\blur99\\fscx164\\p1\\pos(207.73#2C653.18)}m 540.44 144.89 l 762.67 65.78 1152 46.22 1304.89 99.56 1288 244.44 968 329.78 543.11 332.44 508.44 221.33 553.78 216 568 278.22 722.67 309.33 892.44 292.44 1042.67 264.89 1203.56 228.44 1251.56 179.56 1224.89 109.33 1070.22 92.44 821.33 103.11 650.67 136 552.89 210.67 512 223.11"#2C"uuid"#3A"a7153985-b41f-4d31-8e0f-b2653662987b"}
-Data: 64,a-mo,e{"originalText"#3A"{\\alpha&H60&\\blur99\\p1\\pos(372.92#2C206.14)}m 540.44 144.89 l 762.67 65.78 1152 46.22 1304.89 99.56 1288 244.44 968 329.78 543.11 332.44 508.44 221.33 553.78 216 568 278.22 722.67 309.33 892.44 292.44 1042.67 264.89 1203.56 228.44 1251.56 179.56 1224.89 109.33 1070.22 92.44 821.33 103.11 650.67 136 552.89 210.67 512 223.11"#2C"uuid"#3A"bf382635-b0b8-405a-bd52-7128d8f0c777"}
 Data: 65,a-mo,e{"originalText"#3A"{\\an8\\blur0.6\\fnKG Shadow of the Day\\b1\\c&H606363&\\3c&HF9FDFA&\\fscx400\\fscy400\\fs8\\pos(1479.2#2C980)\\frz6.774}Assimilate With Tengen-sama\\NAfter Sunset!"#2C"uuid"#3A"f3044bc9-c0a9-4c13-9d37-5a0ad24a084d"}
-Data: 66,a-mo,e{"originalText"#3A"{\\an8\\blur0.6\\fnKG Shadow of the Day\\b1\\c&H606363&\\3c&HF9FDFA&\\fscx400\\fscy400\\fs8\\pos(1479.2#2C980)\\frz6.774}Assimilate With Master Tengen\\NAfter Sunset!"#2C"uuid"#3A"3701cb24-b4fc-4a57-aab4-a71469029955"}
-Data: 67,a-mo,e{"originalText"#3A"{\\an7\\blur0.6\\fnKG Shadow of the Day\\fs11\\b1\\c&H5F5F5F&\\3c&HF9FDFA&\\fscx400\\fscy400\\pos(1293.58#2C562.65)\\frz4.743}11#3A00 Amanai's\\NBounty Taken Down"#2C"uuid"#3A"aa8236a7-9ac1-467b-b31a-239c5fadadab"}
-Data: 68,a-mo,e{"originalText"#3A"{\\an7\\blur0.6\\fnKG Shadow of the Day\\fs11\\b1\\c&H5F5F5F&\\3c&HF9FDFA&\\fscx400\\fscy400\\pos(820#2C581.02)\\frz4.116}09#3A00 Gojo#2C Geto#2C Amanai\\NArrive in Okinawa\\N\\N\\N11#3A00 Rescue Kuroi#2C\\NCapture Kidnappers\\N\\N\\N12#3A00 Finish I{\\c&H505050&}nter{\\c&H5F5F5F&}rogation\\N\\N\\N\\N{\\frz3.15}13#3A00 Swimming at the Beach\\N(Now!)\\N\\N\\N15#3A00"#2C"uuid"#3A"e33f0b2e-51b0-40ec-a45e-7a4129b0d277"}
-Data: 69,a-mo,e{"originalText"#3A"{\\an7\\blur0.6\\fnKG Shadow of the Day\\fs11\\b1\\c&H5F5F5F&\\3c&HF9FDFA&\\fscx400\\fscy400\\frz2.447\\pos(369.87#2C640.09)}13#3A30 Kuroi Kidnapped\\N\\N\\N 21#3A00 Kidnappers Designate\\NOkinawa for the Exchange"#2C"uuid"#3A"fc126d1d-7652-4264-9e36-b8ca49c31e90"}
-Data: 70,a-mo,e{"originalText"#3A"{\\an7\\blur0.66\\fnKG Shadow of the Day\\fs20\\b1\\c&H6B6E6B&\\3c&HF9FDFA&\\fscx400\\fscy400\\pos(1331.2#2C386.4)\\frz4.907}Day 3"#2C"uuid"#3A"e6354189-a227-4f7c-bccb-2b9ac3f46b49"}
-Data: 71,a-mo,e{"originalText"#3A"{\\an7\\blur0.66\\fnKG Shadow of the Day\\fs20\\b1\\c&H6B6E6B&\\3c&HF9FDFA&\\fscx400\\fscy400\\pos(913#2C423.8)\\frz1.164}Day 2"#2C"uuid"#3A"35def9d6-a6ae-4cf9-8b9b-e8a9148132e9"}
-Data: 72,a-mo,e{"originalText"#3A"{\\an7\\blur0.66\\fnKG Shadow of the Day\\fs20\\b1\\c&H6B6E6B&\\3c&HF9FDFA&\\fscx400\\fscy400\\pos(491.2#2C446.4)\\frz0.4826}Day 1"#2C"uuid"#3A"b3b04705-4dc6-4ca6-93d3-8744b8e84b4a"}
-Data: 73,a-mo,e{"originalText"#3A"{\\an7\\blur0.66\\fnKG Shadow of the Day\\fs36\\b1\\c&H6B6866&\\3c&HF9FDFA&\\fscx400\\fscy400\\frz5.96\\pos(539.56#2C181.33)}Travel Schedule"#2C"uuid"#3A"5eaa2a7d-99f8-47a0-8577-b2e04520e038"}
-Data: 74,a-mo,e{"originalText"#3A"{\\blur36\\p1\\c&HF6F6F6&\\pos(149.81#2C83.84)}m 413.99 849.35 l 440.18 868.36 463.24 806.03 538.37 782.65 639.69 780.47 710.14 785.14 722.61 841.56 747.24 849.04 750.98 801.04 745.68 735.58 659.02 732.47 493.48 739.01 426.46 778.29"#2C"uuid"#3A"9b56ba64-e173-4df8-85f9-f5bf370ec3bc"}
-Data: 75,a-mo,e{"originalText"#3A"{\\blur36\\p1\\c&HF6F6F6&\\pos(96.81#2C112.84)}m 501.29 997.46 l 484.26 935.01 541.02 951.61 590.8 982.18 728.35 972.57 775.95 954.23 784.24 917.1 799.09 928.46 799.96 988.73 699.09 1018.42 544.52 1011.44 515.26 975.62"#2C"uuid"#3A"704925a0-c1d6-4474-a02d-4621f61cd50e"}
-Data: 76,a-mo,e{"originalText"#3A"{\\be10\\p1\\pos(203.48#2C107.87)\\c&HFAFAFA&\\clip(m 300.36 575.27 l 757.82 554.91 775.27 640 771.64 744.73 805.09 894.55 771.73 896 749.87 895.47 678.93 894.93 651.2 894.93 608.53 894.93 594.67 896 598.4 897.6 614.4 897.07 635.2 897.07 683.73 897.07 755.73 899.2 804.27 899.73 812.27 1002.13 325.33 1009.07 305.6 929.6 306.13 888.53 290.67 594.67)}m 395.62 805.31 l 551.5 777.36 737.96 777.36 730.97 831.07 772.45 843.3 789.05 961.21 754.99 983.92 571.15 998.33 497.79 949.42 538.84 907.93 537.97 890.47 508.27 869.5 389.07 889.59 384.7 822.34"#2C"uuid"#3A"ee334dba-f30a-49ce-81e0-681bd163747b"}
-Data: 77,a-mo,e{"originalText"#3A"{\\be8\\p1\\pos(176.29#2C59.06)\\c&HFDFDFD&}m 398.7 637.24 l 701.81 610.35 744.56 639.64 740.24 688.15 408.79 725.6 382.37 703.03 387.17 655.01"#2C"uuid"#3A"b686f063-3973-4ffc-8dbd-61b61bc154db"}
-Data: 78,a-mo,e{"originalText"#3A"{\\blur0.6\\fnKG Shadow of the Day\\fs30\\fscx2800\\c&H454142&\\frz276.5\\pos(1075#2C894.23)}_{\\frz275\\fscx1800}_{\\frz276\\fscx1500}_"#2C"uuid"#3A"262a3e72-8e5b-49c8-ba3a-afef8d792cd0"}
-Data: 79,a-mo,e{"originalText"#3A"{\\p1\\be1\\pos(96.73#2C129.92)\\c&HCABDB2&}m 976.81 885.49 l 1033.55 847.67 1041.35 781.93 1039.85 624.95 1058.76 791.84 1068.67 843.17 1075.27 855.78 1074.07 859.38 1171.33 866.28 1161.13 872.28 1077.07 875.29 1067.14 874.59 1066.63 879.47 1046.13 877.9"#2C"uuid"#3A"4d8a41a4-83db-4cee-b3ed-ccfe834136f1"}
-Data: 80,a-mo,e{"originalText"#3A"{\\p1\\be9\\pos(220.14#2C189.64)\\c&HF7F7F7&\\clip(m 971.67 890.28 l 1005.29 887.53 1055.73 884.79 1066.36 889.25 1074.94 886.51 1075.97 878.61 1143.22 875.87 1161.06 874.5 1178.9 864.55 1200.17 868.67 1245.12 864.21 1263.3 929.73 1268.45 1014.13 1279.43 1068.68 1310.65 1239.87 1283.2 1280.7 842.32 1318.09 825.85 1035.74 815.21 901.26)}m 824.52 906.67 l 878.95 895.46 949.79 899.87 982.61 887.06 1039.05 885.06 1088.28 877.45 1159.12 877.85 1167.53 934.29 1109.89 975.52 1158.72 977.12 1163.13 1016.75 1198.35 997.94 1249.98 1015.15 1264.79 1079.6 1265.99 1256.53 856.54 1258.93 832.92 1061.99"#2C"uuid"#3A"a5d4ad95-cf99-4d70-bf28-5de1b1cde2d3"}
-Data: 81,a-mo,e{"originalText"#3A"{\\be9\\p1\\pos(213.09#2C149.82)\\c&HFDFDFD&\\clip(m 786.67 544.67 l 1215.33 520.67 1242.67 853.33 1175.33 862 1076.71 855.06 1060.24 856.47 1031.06 847.06 975.5 885 817 890.5 796.5 755 923.5 690.5 986.5 653.5 985 649 852.5 720 842 726.5 793 730.5)}m 800 592 l 791.27 625.45 800 667.64 930.18 666.18 929.45 738.18 811.64 754.18 808.73 792.73 827.64 827.64 932.36 816 959.27 875.64 1062.55 862.55 1202.91 856 1214.55 782.55 1139.64 765.82 1120 719.27 1142.55 655.27 1216 640.73 1215.27 589.82 1192 566.55 1019.64 584.73"#2C"uuid"#3A"fd5080ef-2223-4b8c-a091-5ef6e6dd002c"}
-Data: 82,a-mo,e{"originalText"#3A"{\\blur36\\p1\\c&HFBFBFB&\\pos(117.6#2C69.6)}m 1329.6 932.8 l 1589.6 909.6 1617.6 948 1456.8 948 1364.8 962.4 1362.4 1030.4"#2C"uuid"#3A"aabdd7ca-b9b6-4896-a521-1d1854470f40"}
-Data: 83,a-mo,e{"originalText"#3A"{\\be4\\p1\\pos(130.6#2C82.8)\\c&HF5F5F5&}m 1351.2 945.6 l 1520 928 1541.6 985.6 1603.2 979.2 1608 1049.6 1572.8 1050.4 1554.4 1072.8 1400.8 1094.4 1361.6 1020"#2C"uuid"#3A"80dec897-248a-406b-9283-a5b748bef827"}
-Data: 84,a-mo,e{"originalText"#3A"{\\be8\\p1\\pos(181.82#2C87.27)\\c&HFEFEFE&}m 1273.45 590.55 l 1512 564.36 1532.36 628.36 1648.73 617.45 1644.36 715.64 1386.91 745.45 1359.27 673.45 1270.55 686.55"#2C"uuid"#3A"1efda35f-e03a-4387-a51d-23860debf88c"}
-Data: 85,a-mo,e{"originalText"#3A"{\\p1\\be4\\c&HFEFEFE&\\pos(1004#2C12.8)}m 425.33 430.67 l 438 459.33 418.67 482 440.67 500.67 426.67 539.33 452 531.33 489.33 544.67 492 508 524.67 530 558.67 506.67 589.33 526.67 637.33 512 649.33 476.67 636.67 445.33 657.33 424.67 620.67 431.33 611.33 397.33 602.67 431.33 584 402 576 432.67 550 407.33 559.33 441.33 528.67 424 494 454 462.67 430"#2C"uuid"#3A"18fcb457-2448-4c59-bc00-bb2e9abfaa8b"}
-Data: 86,a-mo,e{"originalText"#3A"{\\p1\\be4\\c&HFEFEFE&\\pos(587.33#2C40.67)\\clip(m 1021.15 421.4 l 1017.08 420.44 1008 367.56 1003.56 336 816 363.56 798.22 529.33 1210.67 507.11 1177.33 320.44 1007.11 335.56)}m 425.33 430.67 l 438 459.33 418.67 482 440.67 500.67 426.67 539.33 452 531.33 489.33 544.67 492 508 524.67 530 558.67 506.67 589.33 526.67 637.33 512 649.33 476.67 636.67 445.33 657.33 424.67 620.67 431.33 611.33 397.33 602.67 431.33 584 402 576 432.67 550 407.33 559.33 441.33 528.67 424 494 454 462.67 430"#2C"uuid"#3A"5cfb3937-4cf9-4656-912f-7e798b6b8ca6"}
-Data: 87,a-mo,e{"originalText"#3A"{\\p1\\be4\\pos(128.67#2C68)\\c&HFEFEFE&}m 425.33 430.67 l 438 459.33 418.67 482 440.67 500.67 426.67 539.33 452 531.33 489.33 544.67 492 508 524.67 530 558.67 506.67 589.33 526.67 637.33 512 649.33 476.67 636.67 445.33 657.33 424.67 620.67 431.33 611.33 397.33 602.67 431.33 584 402 576 432.67 550 407.33 559.33 441.33 528.67 424 494 454 462.67 430"#2C"uuid"#3A"6285c044-b63a-41b5-86d9-01950d6ffcee"}
-Data: 88,a-mo,e{"originalText"#3A"{\\p1\\blur40\\c&HF5F5F5&\\pos(400.72#2C112.73)\\clip(m 245.18 26.82 l 945.41 2.82)}m 520.73 301.09 l 489.45 255.27 490.18 128.73 944 106.91 1014.55 98.91 1262.55 60.36 1301.09 85.09 1288.73 130.18 1298.91 203.64 1295.27 224 1260.36 205.82 1239.27 133.09 1226.91 116.36 995.64 145.45 880 144.73 535.27 163.64 541.82 254.55"#2C"uuid"#3A"0cf5cd1b-87e1-4d8a-adce-a7e8ef908c36"}
-Data: 89,a-mo,e{"originalText"#3A"{\\be8\\p1\\pos(375.2#2C127.2)\\c&HFBFBFB&\\clip(m 245.18 26.82 l 945.41 2.82 954.82 88.47 959.06 130.35 963.76 152.94 968.47 174.12 979.29 212.24 982.59 219.76 983.53 221.18 986.82 239.06 992 273.88 994.35 272 988.71 238.12 984.47 214.12 979.29 183.53 966.59 0.94 1332.24 0.94 1358.59 93.65 1346.35 102.12 1327.53 106.35 1321.88 112.94 1314.35 118.12 1305.88 127.53 1300.24 137.41 1300.24 152.94 1304.94 166.59 1317.65 175.06 1320.94 176.94 1330.82 185.41 1318.12 251.76 1269.18 256 988.24 276.71 534.12 336 292.71 370.35)}m 594.4 121.6 l 548.8 208.8 590.4 324.8 624.8 315.2 643.2 318.4 681.6 297.6 708.8 307.2 730.4 288.8 764.8 298.4 788 282.4 799.2 248.8 843.2 264.8 884.8 256 904.8 230.4 940 259.2 983.2 254.4 1010.4 223.2 1036 220 1064 244 1100 231.2 1141.6 240 1177.6 209.6 1195.2 212 1205.6 234.4 1230.4 242.4 1267.2 221.6 1290.4 168.8 1280.8 84.8 1208.8 71.2 1149.6 96.8 1050.4 93.6 1020 131.2 933.6 112 828.8 144 703.2 120.8"#2C"uuid"#3A"e3aecea1-4b2d-4167-864b-1785e6f8b2df"}
-Data: 90,a-mo,e{"originalText"#3A"{\\fnKG Shadow of the Day\\fs30\\blur0.72\\c&H5E6161&\\frz5.906\\pos(1525.33#2C1102.22)}Escort Mission Complete!"#2C"uuid"#3A"83bcbded-a32d-4f13-b5a7-24cad5733568"}
-Data: 91,a-mo,e{"originalText"#3A"{\\be12\\pos(126.22#2C115.56)\\c&HF2F2F2&} {\\p1}m 1422.22 1056 l 1432.89 1030.22 1506.67 1021.33 1534.22 1027.56 1560.89 1014.22 1585.78 1015.11 1606.22 1005.33 1640 1013.33 1638.22 1081.78 1427.56 1112.89"#2C"uuid"#3A"9b35d39d-24bd-4ae0-baec-f5a9ccf10ee6"}
-Data: 92,_aegi_folddata,e0;1;1
-Data: 93,_aegi_folddata,e1;1;1
-Data: 96,_aegi_folddata,e0;1;2
-Data: 97,_aegi_folddata,e1;1;2
-Data: 98,_aegi_folddata,e0;1;3
-Data: 99,_aegi_folddata,e1;1;3
-Data: 100,_aegi_folddata,e0;1;4
-Data: 101,_aegi_folddata,e1;1;4
-Data: 102,_aegi_folddata,e0;1;5
-Data: 103,_aegi_folddata,e1;1;5
-Data: 104,_aegi_folddata,e0;1;6
-Data: 105,_aegi_folddata,e1;1;6
-Data: 106,_aegi_folddata,e0;1;7
-Data: 107,_aegi_folddata,e1;1;7
-Data: 108,_aegi_folddata,e0;1;8
-Data: 109,_aegi_folddata,e1;1;8
-Data: 110,_aegi_folddata,e0;1;9
-Data: 111,_aegi_folddata,e1;1;9
-Data: 112,_aegi_folddata,e0;1;10
-Data: 113,_aegi_folddata,e1;1;10
-Data: 114,_aegi_folddata,e0;1;11
-Data: 115,_aegi_folddata,e1;1;11
-Data: 116,_aegi_folddata,e0;1;12
-Data: 117,_aegi_folddata,e1;1;12
-Data: 118,_aegi_folddata,e0;1;13
-Data: 119,_aegi_folddata,e1;1;13
-Data: 120,_aegi_folddata,e0;1;14
-Data: 121,_aegi_folddata,e1;1;14
-Data: 122,_aegi_folddata,e0;1;15
-Data: 123,_aegi_folddata,e1;1;15
-Data: 124,_aegi_folddata,e0;1;16
-Data: 125,_aegi_folddata,e1;1;16
 Data: 126,_aegi_folddata,e0;1;17
 Data: 127,_aegi_folddata,e1;1;17
 Data: 128,_aegi_folddata,e0;1;18
 Data: 129,_aegi_folddata,e1;1;18
-Data: 130,_aegi_folddata,e0;0;18
-Data: 131,_aegi_folddata,e1;0;18
 Data: 132,_aegi_folddata,e0;1;19
 Data: 133,_aegi_folddata,e1;1;19
 Data: 134,_aegi_folddata,e0;1;20
@@ -5394,8 +5310,6 @@ Data: 146,_aegi_folddata,e0;1;25
 Data: 147,_aegi_folddata,e1;1;25
 Data: 148,_aegi_folddata,e0;1;26
 Data: 149,_aegi_folddata,e1;1;26
-Data: 150,_aegi_folddata,e0;1;27
-Data: 151,_aegi_folddata,e1;1;27
 Data: 152,_aegi_folddata,e0;1;28
 Data: 153,_aegi_folddata,e1;1;28
 Data: 154,_aegi_folddata,e0;1;29
@@ -5404,19 +5318,3 @@ Data: 156,_aegi_folddata,e0;1;30
 Data: 157,_aegi_folddata,e1;1;30
 Data: 158,_aegi_folddata,e0;1;31
 Data: 159,_aegi_folddata,e1;1;31
-Data: 160,_aegi_folddata,e0;0;27
-Data: 161,_aegi_folddata,e1;0;27
-Data: 162,_aegi_folddata,e0;0;26
-Data: 163,_aegi_folddata,e1;0;26
-Data: 164,_aegi_folddata,e0;0;29
-Data: 165,_aegi_folddata,e1;0;29
-Data: 166,_aegi_folddata,e0;0;28
-Data: 167,_aegi_folddata,e1;0;28
-Data: 168,_aegi_folddata,e0;0;22
-Data: 169,_aegi_folddata,e1;0;22
-Data: 170,_aegi_folddata,e0;0;17
-Data: 171,_aegi_folddata,e1;0;17
-Data: 174,_aegi_folddata,e0;0;16
-Data: 175,_aegi_folddata,e1;0;16
-Data: 176,_aegi_folddata,e0;0;25
-Data: 177,_aegi_folddata,e1;0;25
