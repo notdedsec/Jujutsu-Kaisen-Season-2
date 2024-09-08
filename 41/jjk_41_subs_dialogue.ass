@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -45,8 +44,9 @@ Dialogue: 0,0:00:44.82,0:00:49.49,Default,Fushiguro,0,0,140,,until they command 
 Dialogue: 0,0:00:53.53,0:00:54.62,Default,Shigemo,0,0,140,,You done?
 Dialogue: 0,0:00:55.70,0:00:59.87,Default,Shigemo,0,0,140,,You're really strong, just like that girl earlier.
 Dialogue: 0,0:00:59.87,0:01:01.21,Default,Shigemo,0,0,140,,And you're all still young.
-Dialogue: 0,0:01:01.96,0:01:05.21,Default,Shigemo,0,0,140,,Even on your last legs,\N you give me no openings to get close.
-Dialogue: 0,0:01:05.71,0:01:09.76,Default,Shigemo,0,0,140,,But with all that bleeding,\N I won't even have to do anything.
+Dialogue: 0,0:01:01.96,0:01:05.50,Default,Shigemo,0,0,140,,Even on your last legs,\N you give me no openings to get close.
+Dialogue: 0,0:01:06.00,0:01:09.88,Default,Shigemo,0,0,140,,But with all that bleeding,\N I won't even have to do anything.
+Dialogue: 0,0:01:10.76,0:01:12.26,Default,Shigemo,0,0,140,,There you go.
 Dialogue: 0,0:01:13.76,0:01:18.85,Default,Fushiguro,0,0,140,,Thing is, this subjugation\N can be done with multiple people.
 Dialogue: 0,0:01:19.27,0:01:25.27,Default,Fushiguro,0,0,140,,Doing so will void the ritual afterward, though.
 Dialogue: 0,0:01:25.27,0:01:30.99,Default,Fushiguro,0,0,140,,Which means it becomes pointless for the sorcerer.
@@ -65,7 +65,7 @@ Dialogue: 0,0:02:22.25,0:02:23.87,Default,Gojo,0,0,140,,I forget when.
 Dialogue: 0,0:02:23.87,0:02:29.21,Default,Gojo,0,0,140,,The heads of the clans back then got serious\N during a duel before the aristocracy, {had a duel before the aristocracy} {spectated match}
 Dialogue: 0,0:02:29.21,0:02:30.88,Default,Gojo,0,0,140,,and they both died.
 Dialogue: 0,0:02:31.51,0:02:33.38,Default,Fushiguro,0,0,140,,Were the heads of those clans...
-Dialogue: 0,0:02:34.13,0:02:39.14,Default,Gojo,0,0,140,,Just like me, one of them possessed \Nboth the Six Eyes and the Limitless technique.
+Dialogue: 0,0:02:34.05,0:02:39.14,Default,Gojo,0,0,140,,Just like me, one of them possessed \Nboth the Six Eyes and the Limitless technique.
 Dialogue: 0,0:02:39.14,0:02:43.14,Default,Gojo,0,0,140,,And coincidentally, the other had the same technique as you.
 Dialogue: 0,0:02:45.06,0:02:46.94,Default,Fushiguro,0,0,140,,The Ten Shadows Technique.
 Dialogue: 0,0:02:49.57,0:02:52.61,Default,Gojo,0,0,140,,You see what I'm getting at?
@@ -76,21 +76,21 @@ Dialogue: 0,0:03:13.21,0:03:14.97,Default,Uraume,0,0,140,,Is something the matte
 Dialogue: 0,0:03:14.97,0:03:16.38,Default,Sukuna,0,0,140,,It's urgent business.
 Dialogue: 0,0:03:16.80,0:03:18.01,Default,Uraume,0,0,140,,I see.
 Dialogue: 0,0:03:18.85,0:03:23.14,Default,Sukuna,0,0,140,,It won't be much longer before I'm free.
-Dialogue: 0,0:03:23.93,0:03:26.64,Default,Sukuna,0,0,140,,Do not slack on your preparations. {ah yes prepare the bath}
-Dialogue: 0,0:03:26.64,0:03:28.40,Default,Sukuna,0,0,140,,See you later, Uraume.
-Dialogue: 0,0:03:28.40,0:03:29.44,Default,Uraume,0,0,140,,Understood. {As you wish}
-Dialogue: 0,0:03:30.52,0:03:32.57,Default,Uraume,0,0,140,,I shall be awaiting your return.
-Dialogue: 0,0:03:50.25,0:03:51.50,Default,Shigemo,0,0,140,,{\i1}He got me!
-Dialogue: 0,0:03:52.80,0:03:54.01,Default,Shigemo,0,0,140,,{\i1}He's starting the ritual!
-Dialogue: 0,0:03:54.01,0:03:58.18,Default,Shigemo,0,0,140,,{\i1}And he's forcing me to participate \Nin the damn thing with him!
+Dialogue: 0,0:03:23.93,0:03:26.48,Default,Sukuna,0,0,140,,Do not slack on your preparations. {ah yes prepare the bath}
+Dialogue: 0,0:03:26.48,0:03:28.23,Default,Sukuna,0,0,140,,See you later, Uraume.
+Dialogue: 0,0:03:28.23,0:03:29.44,Default,Uraume,0,0,140,,Understood. {As you wish}
+Dialogue: 0,0:03:30.52,0:03:32.61,Default,Uraume,0,0,140,,I shall be awaiting your return.
+Dialogue: 0,0:03:50.21,0:03:51.50,Default,Shigemo,0,0,140,,{\i1}He got me!
+Dialogue: 0,0:03:52.75,0:03:54.01,Default,Shigemo,0,0,140,,{\i1}He's starting the ritual!
+Dialogue: 0,0:03:54.01,0:03:58.18,Default,Shigemo,0,0,140,,{\i1}Forcing me to participate in the damn thing with him!
 Dialogue: 0,0:03:58.89,0:04:03.18,Default,Fushiguro,0,0,140,,Eight-Handled Sword\N Divergent Sila Divine General
-Dialogue: 0,0:04:04.06,0:04:05.31,Default,Fushiguro,0,0,140,,Mahoraga. {its insane how that's his whole name, no commas no colon in bw}
+Dialogue: 0,0:04:04.06,0:04:05.22,Default,Fushiguro,0,0,140,,Mahoraga. {its insane how that's his whole name, no commas no colon in bw}
 Dialogue: 0,0:04:17.61,0:04:18.61,Default,Fushiguro,0,0,140,,{\an8}See you later.
 Dialogue: 0,0:04:19.07,0:04:19.95,Default,Yuji,0,0,140,,{\an8}Right!
 Dialogue: 0,0:04:21.07,0:04:22.99,Default,Fushiguro,0,0,140,,{\i1}Sorry, Itadori.
 Dialogue: 0,0:04:23.95,0:04:25.95,Default,Fushiguro,0,0,140,,Hey, asshole! {let's call him what he is}
-Dialogue: 0,0:04:26.66,0:04:28.54,Default,Fushiguro,0,0,140,,Good luck dealing with this shit.
-Dialogue: 0,0:04:28.54,0:04:30.29,Default,Fushiguro,0,0,140,,I'll see you in hell. {based megumi is so cool} {gege to the animators}
+Dialogue: 0,0:04:26.70,0:04:28.46,Default,Fushiguro,0,0,140,,Good luck dealing with this shit.
+Dialogue: 0,0:04:28.46,0:04:30.29,Default,Fushiguro,0,0,140,,I'll see you in hell. {based megumi is so cool} {gege to the animators}
 Dialogue: 0,0:04:42.47,0:04:43.85,Default,Shigemo,0,0,140,,Wait...
 Dialogue: 0,0:04:43.85,0:04:46.22,Default,Shigemo,0,0,140,,Wait, wait, wait, wait!
 Dialogue: 0,0:04:46.52,0:04:48.23,Default,Shigemo,0,0,140,,Oh, fuck you!
@@ -125,7 +125,7 @@ Dialogue: 0,0:07:41.32,0:07:42.19,Default,Sukuna,0,0,140,,You wanna go?!
 Dialogue: 0,0:09:05.78,0:09:07.03,Default,Sukuna,0,0,140,,Oh?
 Dialogue: 0,0:09:07.57,0:09:09.36,Default,Sukuna,0,0,140,,You did something, didn't you?
 Dialogue: 0,0:10:00.62,0:10:02.58,Default,Sukuna,0,0,140,,{\i1}Now that felt odd.
-Dialogue: 0,0:10:25.90,0:10:27.19,Default,Sukuna,0,0,140,,Again?!
+Dialogue: 0,0:10:25.90,0:10:27.23,Default,Sukuna,0,0,140,,Again?!
 Dialogue: 0,0:11:21.83,0:11:22.79,Default,Sukuna,0,0,140,,{\i1}Cursed energy?! {according to the manga he's surprised here because the previous attacks were packed with reverse cursed energy but this one has just cursed energy} {ohh actually the rce was from sword of exorcism, not from mahoraga, which is why he's surprised that it can now attack with cursed energy}
 Dialogue: 0,0:11:25.87,0:11:27.88,Default,Sukuna,0,0,140,,You really are something! {You've done it now!} {fits the context better}
 Dialogue: 0,0:12:01.87,0:12:04.12,Default,Sukuna,0,0,140,,You see it, don't you? {maybe more like "recognize" (?) so he can "adapt" to it (?)} {okay he says it later}
@@ -138,10 +138,11 @@ Dialogue: 0,0:15:56.98,0:16:00.11,Default,Sukuna,0,0,140,,{\i1}Both happened aft
 Dialogue: 0,0:16:00.90,0:16:06.61,Default,Sukuna,0,0,140,,{\i1}The incantation of sacred treasures and the Great Wheel\N together represent a continuous cycle of balance. {furu's incantation from what i could dig up is used to bring the dead back to life (rebirth?) and the wheel represents the eightfold path to attaining enlightenment (balance?), so how does that add up to cycles and harmony? and more importantly how does that hint at the ability to adapt?} {a more sensible reading would be the wheel representing overcoming of obstacles which would be right in line with mahoraga's ability} {nah this is fine if you think of it as a continuous cycle of balance}
 Dialogue: 0,0:16:06.61,0:16:13.29,Default,Sukuna,0,0,140,,{\i1}Which suggests that this cursed beast's ability\N is to adapt to anything and everything. {so as to maintain that cycle of balance}
 Dialogue: 0,0:16:13.29,0:16:15.87,Default,Sukuna,0,0,140,,{\i1}It's the ultimate late-throw rock-paper-scissors!
-Dialogue: 0,0:16:18.25,0:16:22.88,Default,Sukuna,0,0,140,,{\fade(0,100)\i1}You might have defeated me in the state I was in back then.
+Dialogue: 0,0:16:18.25,0:16:22.88,Default,Sukuna,0,0,140,,{\fade(0,300)\i1}You might have defeated me in the state I was in back then.
 Dialogue: 0,0:16:28.63,0:16:31.89,Default,Sukuna,0,0,140,,Well, you showed me, Fushiguro Megumi! {reply to his line back in 05: show me what you've got, Fushiguro Megumi!}
-Dialogue: 0,0:16:34.47,0:16:36.64,Default,Sukuna,0,0,140,,{\fade(0,100)}Domain Expansion:
-Dialogue: 0,0:16:38.19,0:16:40.06,Default,Sukuna,0,0,140,,{\fade(100,0)}Malevolent Shrine.
+Dialogue: 0,0:16:34.47,0:16:36.23,Default,Sukuna,0,0,140,,{\fad(0,277)}Domain Expansion:
+Dialogue: 0,0:16:38.19,0:16:40.06,Default,Sukuna,0,0,140,,{\fad(180,0)}Malevolent Shrine.
+Dialogue: 0,0:16:40.06,0:16:40.15,Default,Sukuna,0,0,140,,{\iclip(m 780.74 851.8 l 1139.7 851.8 1139.42 970 781.67 970)}Malevolent Shrine.
 Dialogue: 0,0:16:47.65,0:16:51.70,Default,Narrator,0,0,140,,Sukuna's Domain, Malevolent Shrine, is a curious one.
 Dialogue: 0,0:16:52.49,0:16:57.41,Default,Narrator,0,0,140,,Unlike other domains, it does not\N close its barrier to cut out a separate space.
 Dialogue: 0,0:16:58.00,0:17:06.17,Default,Narrator,0,0,140,,Manifesting an innate domain without closing its barrier\N\his like painting an art piece not on a canvas but in the air.
@@ -155,7 +156,7 @@ Dialogue: 0,0:17:46.00,0:17:47.63,Default,A,0,0,140,,Nope. No signal.
 Dialogue: 0,0:17:47.63,0:17:48.46,Default,Keiko,0,0,140,,Same.
 Dialogue: 0,0:17:49.05,0:17:52.38,Default,A,0,0,140,,I don't think we need to worry too much, though.
 Dialogue: 0,0:17:52.38,0:17:52.97,Default,Keiko,0,0,140,,Oh?
-Dialogue: 0,0:17:53.68,0:17:55.89,Default,A,0,0,140,,Remember what the megaphone guy said? {He should be---} {idk why this was here}
+Dialogue: 1,0:17:53.64,0:17:55.80,Default,A,0,0,140,,{\fad(0,100)\t(725,1142,\1a&H70&)\t(1225,1601,\1a&H30&)}Remember what the megaphone guy said? {He should be---} {idk why this was here}
 Dialogue: 0,0:17:59.02,0:18:01.77,Default,Narrator,0,0,140,,Sukuna's slices are comprised of two types.
 Dialogue: 0,0:18:01.77,0:18:06.94,Default,Narrator,0,0,140,,Within his sure-hit range, he uses\N Cleave for objects that possess cursed energy,
 Dialogue: 0,0:18:06.94,0:18:09.48,Default,Narrator,0,0,140,,and Dismantle for objects that do not. {the idea is that this is a temporary configuration and it only applies to his domain. the techniques don't work like this outside of it. dismantle is the base technique that works by projecting slashes outwards to cut anything in its way and loses effectiveness as it goes further out. cleave is an extension of dismantle which is more focused, requires contact, and can dynamically adjust its strength based on the target's defense and cursed energy.}
@@ -166,7 +167,8 @@ Dialogue: 0,0:18:24.08,0:18:26.50,Default,Narrator,0,0,140,,Cleave would have fu
 Dialogue: 0,0:18:26.50,0:18:32.01,Default,Narrator,0,0,140,,but rather than adapting just to Dismantle,\Nif it had adapted to slices in general,
 Dialogue: 0,0:18:32.63,0:18:35.34,Default,Narrator,0,0,140,,that would be a different story entirely. {that wouldn't necessarily hold true.}
 Dialogue: 0,0:18:53.99,0:18:57.82,Default,Narrator,0,0,140,,Mahoraga was close to finishing its regeneration.
-Dialogue: 0,0:19:25.52,0:19:26.90,Default,Sukuna,0,0,140,,Ignite. {in this case, when cleave and dismantle destroy everything in the domain, they also impart an explosive property on the dust and debris which sakuna then compresses inside the barrier effectively making a thermobaric bomb which he then ignites with this technique}
+Dialogue: 0,0:19:25.56,0:19:26.90,Default,Sukuna,0,0,140,,Ignite. {in this case, when cleave and dismantle destroy everything in the domain, they also impart an explosive property on the dust and debris which sakuna then compresses inside the barrier effectively making a thermobaric bomb which he then ignites with this technique}
+Dialogue: 1,0:19:25.56,0:19:26.31,Default,Sukuna,0,0,140,,{\bord0\shad0\be5\c&HFFFFFF&\1a&H60&}Ignite.
 Dialogue: 0,0:20:19.82,0:20:21.37,Default,Sukuna,0,0,0,,What are you looking at?
 Dialogue: 0,0:20:22.49,0:20:23.54,Default,Sukuna,0,0,0,,Begone.
 Dialogue: 0,0:20:29.29,0:20:32.21,Default,Shigemo,0,0,0,,E-Excuse me, then!

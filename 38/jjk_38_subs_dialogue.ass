@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -46,9 +45,9 @@ Dialogue: 0,0:00:55.87,0:00:59.87,Default,Mei,0,0,0,,{\i1}If I don't break out o
 Dialogue: 0,0:00:59.87,0:01:03.50,Default,Mei,0,0,0,,{\i1}I'll contract that disease and die.
 Dialogue: 0,0:01:16.93,0:01:19.06,Default,Mei,0,0,0,,{\i1}The real issue is that gravestone.
 Dialogue: 0,0:01:19.77,0:01:23.69,Default,Mei,0,0,0,,{\i1}A couple more hits would seriously affect my movement.
-Dialogue: 0,0:01:23.69,0:01:27.19,Default,Mei,0,0,0,,{\i1}I'd rather not fight Geto{**-kun} in that state.
+Dialogue: 0,0:01:23.69,0:01:27.15,Default,Mei,0,0,0,,{\i1}I'd rather not fight Geto{**-kun} in that state.
 Dialogue: 0,0:01:28.23,0:01:29.82,Default,Mei,0,0,0,,Ui Ui, are you all right?
-Dialogue: 0,0:01:30.49,0:01:32.24,Default,Ui,0,0,0,,Yes, {*}Sister{*Nee-sama}.
+Dialogue: 0,0:01:30.49,0:01:32.20,Default,Ui,0,0,0,,Yes, {*}Sister{*Nee-sama}.
 Dialogue: 0,0:01:35.58,0:01:41.21,Default,Mei,0,0,0,,{\i1}Looks like it's reflexively targeting the person\N with the strongest cursed energy inside the domain.
 Dialogue: 0,0:01:42.75,0:01:46.38,Default,Mei,0,0,0,,{\i1}Only two of my crows were sucked into the domain. {ay! there was only one in the manage}
 Dialogue: 0,0:02:03.10,0:02:04.40,Default,Mei,0,0,0,,Just as I thought.
@@ -72,7 +71,7 @@ Dialogue: 0,0:04:39.63,0:04:42.64,Default,Ui,0,0,0,,{\i1}{*}Sister{*Nee-sama}'s 
 Dialogue: 0,0:04:42.64,0:04:46.02,Default,Ui,0,0,0,,{\i1}Its crowning attack is Bird Strike! {where did kamikaze come from} {actually let's leave it be lol} {No, it messes up the Technique Name: Attack Name formatting}
 Dialogue: 0,0:04:46.72,0:04:54.61,Default,Ui,0,0,0,,{\i1}In return for the crow's life, the limit on its usually feeble cursed energy is removed, as it slams into her opponent!\h {By forcing her crow to commit suicide,\N it removes the limit on its usually feeble cursed energy,\N as she makes them slam into her opponent.}
 Dialogue: 0,0:04:54.61,0:04:57.82,Default,Ui,0,0,0,,{\i1}No one has managed to stop her Bird Strike.
-Dialogue: 0,0:04:57.82,0:05:00.74,Default,Ui,0,0,0,,{\i1}No one except Gojo Satoru.
+Dialogue: 0,0:04:57.82,0:05:00.66,Default,Ui,0,0,0,,{\i1}No one except Gojo Satoru.
 Dialogue: 0,0:05:09.04,0:05:11.87,Default,Mei,0,0,0,,All right, everyone, time for the main event.
 Dialogue: 0,0:05:13.92,0:05:17.09,Default,Mei,0,0,0,,Will you die for me?
 Dialogue: 0,0:05:18.09,0:05:19.72,Default,Geto,0,0,0,,Not bad.
@@ -84,7 +83,7 @@ Dialogue: 0,0:06:59.61,0:07:01.73,Default,Naobito,0,0,0,,I can hardly believe it
 Dialogue: 0,0:07:01.73,0:07:03.49,Default,Nanami,0,0,0,,Me, too.
 Dialogue: 0,0:07:03.49,0:07:07.74,Default,Nanami,0,0,0,,However, even if he is a fake, Geto{**-san} is involved.
 Dialogue: 0,0:07:07.74,0:07:10.20,Default,Nanami,0,0,0,,I imagine the trick lies there.
-Dialogue: 0,0:07:11.04,0:07:16.75,Default,Naobito,0,0,0,,I'd be happy to toast the fall of the Gojo clan.
+Dialogue: 0,0:07:11.04,0:07:16.67,Default,Naobito,0,0,0,,I'd be happy to toast the fall of the Gojo clan.
 Dialogue: 0,0:07:18.71,0:07:21.13,Default,Maki,0,0,0,,Go home if you're not gonna help!
 Dialogue: 0,0:07:21.46,0:07:23.80,Default,Naobito,0,0,0,,You're telling me to go home?
 Dialogue: 0,0:07:23.80,0:07:26.80,Default,Naobito,0,0,0,,That's what you should be doing, Maki.
@@ -150,7 +149,7 @@ Dialogue: 0,0:12:47.12,0:12:49.96,Default,Naobito,0,0,0,,But of course, you can 
 Dialogue: 0,0:12:49.96,0:12:52.58,Default,Naobito,0,0,0,,I'd flee up high, too. {he doesn't move his mouth but he's def supposed to be speaking this out loud because he mentions it later} {or maybe only the previous line was said out loud}
 Dialogue: 0,0:12:56.55,0:12:58.80,Default,Dagon,0,0,0,,{\i1}I can't activate my technique!
 Dialogue: 0,0:13:06.77,0:13:08.18,Default,Dagon,0,0,0,,{\i1}This man...
-Dialogue: 0,0:13:08.98,0:13:11.02,Default,Dagon,0,0,0,,{\i1}It's because of him!
+Dialogue: 0,0:13:08.98,0:13:10.89,Default,Dagon,0,0,0,,{\i1}It's because of him!
 Dialogue: 0,0:13:20.61,0:13:22.03,Default,Dagon,0,0,0,,{\i1}He's fast!
 Dialogue: 0,0:13:22.03,0:13:24.41,Default,Dagon,0,0,0,,{\i1}Faster than Jogo, even!
 Dialogue: 0,0:13:31.54,0:13:33.25,Default,Narrator,0,0,0,,Projection Sorcery.
@@ -164,7 +163,7 @@ Dialogue: 0,0:14:02.11,0:14:03.78,Default,Narrator,0,0,0,,It does have its risks
 Dialogue: 0,0:14:04.57,0:14:08.29,Default,Narrator,0,0,0,,The actions defined cannot be edited halfway through. {Once started, the defined\N course of actions cannot be edited.}
 Dialogue: 0,0:14:08.29,0:14:15.25,Default,Narrator,0,0,0,,Actions that violate the laws of physics or ignore the trajectory of motion will cause him to freeze as well.
 Dialogue: 0,0:14:25.72,0:14:30.93,Default,Narrator,0,0,0,,Still, with his innate sense for timing and keyframing, {What he does is more accurately described as keyframing}
-Dialogue: 0,0:14:30.93,0:14:36.73,Default,Narrator,0,0,0,,he's managed to become the fastest sorcerer, \Naside from Gojo Satoru.
+Dialogue: 0,0:14:30.93,0:14:36.69,Default,Narrator,0,0,0,,he's managed to become the fastest sorcerer, \Naside from Gojo Satoru.
 Dialogue: 0,0:14:41.15,0:14:42.65,Default,Naobito,0,0,0,,Don't bother. {I won't let you}
 Comment: 0,0:15:07.97,0:15:08.01,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:15:19.44,0:15:21.36,Default,Dagon,0,0,0,,Domain Expansion:
@@ -193,7 +192,7 @@ Dialogue: 0,0:17:05.09,0:17:05.67,Default,Naobito,0,0,0,,Falling{\fscx180}—{\f
 Dialogue: 0,0:17:05.67,0:17:10.93,Default,Dagon,0,0,0,,The sea is the source of all life.
 Dialogue: 0,0:17:14.51,0:17:17.72,Default,Dagon,0,0,0,,You are the weakest of the bunch.
 Dialogue: 0,0:17:21.10,0:17:26.15,Default,Dagon,0,0,0,,Death Swarm is an endless stream of cursed beasts.
-Dialogue: 0,0:17:34.70,0:17:42.04,Default,Maki,0,0,0,,If you're gonna call me weak,\N then at least kill me in one hit, Octopussy.
+Dialogue: 0,0:17:34.70,0:17:42.00,Default,Maki,0,0,0,,If you're gonna call me weak,\N then at least kill me in one hit, Octopussy.
 Dialogue: 0,0:17:43.38,0:17:46.38,Default,Dagon,0,0,0,,Then I shall grant you \Nthe same fate as the other two.
 Dialogue: 0,0:17:47.05,0:17:48.01,Default,Maki,0,0,0,,{\i1}Shit!
 Dialogue: 0,0:17:49.13,0:17:51.63,Default,Dagon,0,0,0,,By devouring you.
@@ -251,6 +250,6 @@ Dialogue: 0,0:23:43.82,0:23:47.36,Default,Ui,0,0,0,,{\an8}{*}Sister{*Nee-sama}, 
 Dialogue: 0,0:23:47.36,0:23:48.62,Default,Yuji,0,0,0,,{\an8}You're right, that's not good!
 Dialogue: 0,0:23:48.62,0:23:49.74,Default,Ui,0,0,0,,{\an8}Are you refuting {*}Sister{*Nee-sama}?
 Dialogue: 0,0:23:49.74,0:23:50.12,Default,Yuji,0,0,0,,{\an8}Huh?!
-Dialogue: 0,0:23:50.12,0:23:51.74,Default,Mei,0,0,0,,{\an8}Next time, Fluctuations, Part 2.
-Dialogue: 0,0:23:51.74,0:23:53.08,Default,Ui,0,0,0,,{\an8}What about Gojo Satoru?
+Dialogue: 0,0:23:50.12,0:23:51.70,Default,Mei,0,0,0,,{\an8}Next time, Fluctuations, Part 2.
+Dialogue: 0,0:23:51.70,0:23:53.08,Default,Ui,0,0,0,,{\an8}What about Gojo Satoru?
 Dialogue: 0,0:23:53.08,0:23:54.75,Default,Both,0,0,0,,{\an8}He's an only child, of course.

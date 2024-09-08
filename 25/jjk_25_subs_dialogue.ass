@@ -30,17 +30,16 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.40,0:00:07.82,Default,Geto,0,0,0,,Things were busy that summer.
+Dialogue: 0,0:00:05.40,0:00:07.82,Default,Geto,0,0,0,,Things were busy that summer. {ep 29 has italicized} {in 29 it's an internal thought, but this is more like a narration setting up the mood of this arc}
 Dialogue: 0,0:00:08.86,0:00:13.28,Default,Geto,0,0,0,,Perhaps due to all those frequent disasters last year.
 Dialogue: 0,0:00:13.99,0:00:16.33,Default,Geto,0,0,0,,Curses were springing up like maggots.
 Dialogue: 0,0:00:45.40,0:00:47.86,Default,Geto,0,0,0,,Exorcise. Consume.
 Dialogue: 0,0:00:47.86,0:00:49.32,Default,Geto,0,0,0,,Over and over.
 Dialogue: 0,0:00:54.12,0:00:55.12,Default,Geto,0,0,0,,Exorcise.
-Dialogue: 0,0:00:55.62,0:00:56.54,Default,Geto,0,0,0,,{\fade(0,80)}Consume.
+Dialogue: 0,0:00:55.62,0:00:56.58,Default,Geto,0,0,0,,Consume.
 Dialogue: 0,0:00:57.83,0:00:59.50,Default,Geto,0,0,0,,It's a taste nobody knows.
 Dialogue: 0,0:00:59.91,0:01:01.58,Default,Geto,0,0,0,,The taste of a curse.
 Dialogue: 0,0:01:03.54,0:01:07.80,Default,Geto,0,0,0,,Like swallowing a rag used to wipe up shit and vomit.
@@ -71,7 +70,7 @@ Dialogue: 0,0:02:50.61,0:02:55.20,Default,Mei Mei,0,0,0,,HQ seems to have the sa
 Dialogue: 0,0:02:55.82,0:02:58.37,Default,Mei Mei,0,0,0,,It must be important\Nif they're willing to pay {\i1}my{\i0} fees.
 Dialogue: 0,0:02:59.24,0:03:01.41,Default,Utahime,0,0,0,,Are you extorting them again?
 Dialogue: 0,0:03:01.91,0:03:04.04,Default,Mei Mei,0,0,0,,You make it sound so bad.
-Dialogue: 0,0:03:04.04,0:03:06.17,Default,Mei Mei,0,0,0,,It's called negotiation.
+Dialogue: 0,0:03:04.04,0:03:06.12,Default,Mei Mei,0,0,0,,It's called negotiation.
 Dialogue: 0,0:03:06.92,0:03:08.08,Default,Assistant Supervisor,0,0,0,,We're here.
 Dialogue: 0,0:03:09.00,0:03:10.84,Default,Mei Mei,0,0,0,,Let's go, then. {LET'S FUCKING GOOOOOOOOOOOOO}
 Dialogue: 0,0:03:16.22,0:03:18.68,Default,Utahime,0,0,0,,Emerge from the darkness that is darker than black.
@@ -104,7 +103,7 @@ Dialogue: 0,0:05:37.53,0:05:39.03,Default,Utahime,0,0,0,,This is the last one.
 Dialogue: 0,0:06:27.83,0:06:30.62,Default,Mei Mei,0,0,0,,You could be the next big Scream Queen.
 Dialogue: 0,0:06:33.71,0:06:37.04,Default,Utahime,0,0,0,,Jeez! Please don't startle me like that!
 Dialogue: 0,0:06:37.59,0:06:40.13,Default,Mei Mei,0,0,0,,You got startled all on your own.
-Dialogue: 0,0:06:41.09,0:06:43.84,Default,Utahime,0,0,0,,Are you done exploring the first floor?
+Dialogue: 0,0:06:41.09,0:06:43.76,Default,Utahime,0,0,0,,Are you done exploring the first floor?
 Dialogue: 0,0:06:46.97,0:06:48.51,Default,Mei Mei,0,0,0,,This is the first floor.
 Dialogue: 0,0:06:49.89,0:06:50.93,Default,Utahime,0,0,0,,Come again?
 Dialogue: 0,0:06:51.31,0:06:54.31,Default,Mei Mei,0,0,0,,I was walking down the first floor hallway.
@@ -120,15 +119,15 @@ Dialogue: 0,0:07:16.83,0:07:21.92,Default,Mei Mei,0,0,0,,Did you notice these ma
 Dialogue: 0,0:07:23.34,0:07:28.18,Default,Mei Mei,0,0,0,,It would seem that we're \Nalready inside the belly of the beast.
 Dialogue: 0,0:07:28.51,0:07:30.10,Default,Utahime,0,0,0,,No way...
 Dialogue: 0,0:07:36.06,0:07:37.52,Default,Utahime,0,0,0,,For real?
-Dialogue: 0,0:07:39.98,0:07:43.65,Default,Utahime,0,0,0,,How long {\i1}is{\i0} this hallway?
+Dialogue: 0,0:07:39.98,0:07:43.57,Default,Utahime,0,0,0,,How long {\i1}is{\i0} this hallway?
 Dialogue: 0,0:07:44.99,0:07:49.07,Default,Mei Mei,0,0,0,,We've been moving for thirty minutes, so about four kilometers so far.
 Dialogue: 0,0:07:50.12,0:07:53.04,Default,Utahime,0,0,0,,It's not an innate domain, is it?
 Dialogue: 0,0:07:53.74,0:07:54.79,Default,Mei Mei,0,0,0,,It's not.
 Dialogue: 0,0:07:55.20,0:07:58.08,Default,Mei Mei,0,0,0,,Those are manifestations of one's mindscape.
-Dialogue: 0,0:07:58.87,0:08:00.00,Default,Mei Mei,0,0,0,,Any other ideas?
-Dialogue: 0,0:08:00.46,0:08:01.84,Default,Utahime,0,0,0,,This must be a barrier.
+Dialogue: 0,0:07:58.87,0:07:59.96,Default,Mei Mei,0,0,0,,Any other ideas?
+Dialogue: 0,0:08:00.46,0:08:01.75,Default,Utahime,0,0,0,,This must be a barrier.
 Dialogue: 0,0:08:02.38,0:08:03.46,Default,Mei Mei,0,0,0,,Correct.
-Dialogue: 0,0:08:03.88,0:08:09.22,Default,Mei Mei,0,0,0,,The victims were most likely trapped here too,\Nand eventually killed by the curse.
+Dialogue: 0,0:08:03.88,0:08:09.18,Default,Mei Mei,0,0,0,,The victims were most likely trapped here too,\Nand eventually killed by the curse.
 Dialogue: 0,0:08:12.05,0:08:17.14,Default,Mei Mei,0,0,0,,Considering it's using techniques like this,\Nthe curse itself should be weak.
 Dialogue: 0,0:08:18.19,0:08:21.02,Default,Mei Mei,0,0,0,,If we can just escape this barrier...
 Dialogue: 0,0:08:24.02,0:08:25.74,Default,Mei Mei,0,0,0,,Time for a quiz.
@@ -166,9 +165,9 @@ Dialogue: 0,0:10:02.41,0:10:04.67,Default,Mei Mei,0,0,0,,How much do you have in
 Dialogue: 0,0:10:04.67,0:10:05.46,Default,Utahime,0,0,0,,What?
 Dialogue: 0,0:10:06.17,0:10:08.71,Default,Mei Mei,0,0,0,,Never mind. I'll think about it.
 Dialogue: 0,0:10:08.71,0:10:09.80,Default,Utahime,0,0,0,,Right!
-Dialogue: 0,0:10:10.55,0:10:11.72,Default,Utahime,0,0,0,,Ready.
+Dialogue: 0,0:10:10.55,0:10:11.63,Default,Utahime,0,0,0,,Ready.
 Dialogue: 0,0:10:12.34,0:10:13.93,Default,Utahime,0,0,0,,Set.
-Dialogue: 0,0:10:15.43,0:10:16.18,Default,Utahime,0,0,0,,Go!
+Dialogue: 0,0:10:15.43,0:10:16.10,Default,Utahime,0,0,0,,Go!
 Dialogue: 0,0:10:21.60,0:10:22.69,Default,Utahime,0,0,0,,It worked!
 Dialogue: 0,0:10:23.14,0:10:25.02,Default,Utahime,0,0,0,,Wait, wha{\fscx180}—{\fscx}
 Dialogue: 0,0:10:43.29,0:10:49.04,Default,Gojo,0,0,0,,I'm here to save your ass, Utahime.
@@ -185,15 +184,15 @@ Dialogue: 0,0:12:34.32,0:12:35.36,Default,Mei Mei,0,0,0,,You think?
 Dialogue: 0,0:12:36.40,0:12:39.03,Default,Utahime,0,0,0,,Gojo! You listen here!
 Dialogue: 0,0:12:39.03,0:12:40.45,Default,Utahime,0,0,0,,I don't need your hel{\fscx180}—{\fscx}
 Dialogue: 0,0:12:45.29,0:12:47.04,Default,Geto,0,0,0,,Don't swallow it.
-Dialogue: 0,0:12:47.04,0:12:48.37,Default,Geto,0,0,0,,I'll consume it later.
+Dialogue: 0,0:12:47.04,0:12:48.33,Default,Geto,0,0,0,,I'll consume it later.
 Dialogue: 0,0:12:49.21,0:12:51.96,Default,Geto,0,0,0,,Satoru, it's not nice to pick on the weak.
 Dialogue: 0,0:12:52.33,0:12:55.17,Default,Gojo,0,0,0,,What kinda idiot picks on the strong? {Who the fuck would pick on someone strong?}
 Dialogue: 0,0:12:56.05,0:12:59.55,Default,Mei Mei,0,0,0,,You're the one who is picking on her, Geto{**-kun}.\N You don't even know it.
 Dialogue: 0,0:13:00.30,0:13:01.39,Default,Geto,0,0,0,,Oops.
 Dialogue: 0,0:13:01.39,0:13:02.93,Default,Shoko,0,0,0,,Utahime{**-senpai}!
-Dialogue: 0,0:13:03.76,0:13:05.35,Default,Shoko,0,0,0,,Are you okay?
-Dialogue: 0,0:13:05.35,0:13:06.60,Default,Utahime,0,0,0,,Shoko!
-Dialogue: 0,0:13:06.60,0:13:10.73,Default,Shoko,0,0,0,,We hadn't heard from you for two whole days. I was worried.
+Dialogue: 0,0:13:03.80,0:13:05.35,Default,Shoko,0,0,0,,Are you okay?
+Dialogue: 0,0:13:05.35,0:13:06.64,Default,Utahime,0,0,0,,Shoko!
+Dialogue: 0,0:13:06.64,0:13:10.73,Default,Shoko,0,0,0,,We hadn't heard from you for two whole days. I was worried.
 Dialogue: 0,0:13:10.73,0:13:13.73,Default,Utahime,0,0,0,,Shoko!
 Dialogue: 0,0:13:14.31,0:13:18.32,Default,Utahime,0,0,0,,Shoko! Don't turn out like those two, okay?!
 Dialogue: 0,0:13:18.82,0:13:21.74,Default,Shoko,0,0,0,,No way I'll become trash like them.
@@ -211,8 +210,8 @@ Dialogue: 0,0:13:48.18,0:13:52.77,Default,Mei Mei,0,0,0,,{\an8}Maybe I should as
 Dialogue: 0,0:13:52.77,0:13:55.27,Default,Utahime,0,0,0,,{\an8}She's planning another extortion...
 Dialogue: 0,0:13:55.27,0:13:57.27,Default,Mei Mei,0,0,0,,{\an8}Back to the topic, you three.
 Dialogue: 0,0:13:57.27,0:13:58.28,Default,Mei Mei,0,0,0,,Where is the Veil?
-Dialogue: 1,0:14:02.28,0:14:06.20,Default,Announcer,0,0,0,,{\an8}Next up is the explosion that occurred yesterday\N in Hamamatsu, Shizuoka.
-Dialogue: 1,0:14:06.20,0:14:08.74,Default,Announcer,0,0,0,,{\an8}The explosion was caused due to degradation of gas pipes.
+Dialogue: 0,0:14:02.28,0:14:06.20,Default,Announcer,0,0,0,,{\an8}Next up is the explosion that occurred yesterday\N in Hamamatsu, Shizuoka.
+Dialogue: 0,0:14:06.20,0:14:08.74,Default,Announcer,0,0,0,,{\an8}The explosion was caused due to degradation of gas pipes.
 Dialogue: 0,0:14:08.74,0:14:10.16,Default,Announcer,0,0,0,,{\an8}Our reporter on the scene...
 Dialogue: 0,0:14:06.20,0:14:12.58,Default,Yaga,0,0,0,,One of you told the assistant supervisor that you'd\N cast the Veil yourself and left them behind.
 Dialogue: 0,0:14:12.58,0:14:15.13,Default,Yaga,0,0,0,,And then you forgot to do it.
@@ -225,9 +224,9 @@ Dialogue: 0,0:14:29.85,0:14:32.73,Default,Gojo,0,0,0,,Does it even matter if nor
 Dialogue: 0,0:14:32.73,0:14:35.44,Default,Gojo,0,0,0,,It's not like they can see curses or\N cursed techniques, anyway.
 Dialogue: 0,0:14:38.44,0:14:40.19,Default,Geto,0,0,0,,Of course it matters.
 Dialogue: 0,0:14:40.19,0:14:45.45,Default,Geto,0,0,0,,The primary factor preventing an outbreak\N of curses is the citizens' peace of mind.
-Dialogue: 0,0:14:46.07,0:14:51.95,Default,Geto,0,0,0,,That's why we have to conceal the\N threats they can't see as far as possible.
-Dialogue: 0,0:14:52.41,0:14:53.25,Default,Geto,0,0,0,,And that's not all{\fscx180}—{\fscx}
-Dialogue: 0,0:14:53.25,0:14:54.79,Default,Gojo,0,0,0,,Yeah, yeah, I get it.
+Dialogue: 0,0:14:46.07,0:14:51.83,Default,Geto,0,0,0,,That's why we have to conceal the\N threats they can't see as far as possible.
+Dialogue: 0,0:14:52.41,0:14:53.37,Default,Geto,0,0,0,,And that's not all{\fscx180}—{\fscx}
+Dialogue: 0,0:14:53.37,0:14:54.79,Default,Gojo,0,0,0,,Yeah, yeah, I get it.
 Dialogue: 0,0:15:01.26,0:15:04.97,Default,Gojo,0,0,0,,Looking out for the weak is a pain in the ass, honestly.
 Dialogue: 0,0:15:04.97,0:15:05.18,Default,Gojo,0,0,0,,{\alpha&HFF&}Looking out for the weak is a pain in the ass, honestly.
 Dialogue: 0,0:15:05.18,0:15:05.63,Default,Gojo,0,0,0,,Looking out for the weak is a pain in the ass, honestly.
@@ -235,7 +234,7 @@ Dialogue: 0,0:15:06.39,0:15:08.10,Default,Geto,0,0,0,,Survival of the weakest.
 Dialogue: 0,0:15:08.10,0:15:10.89,Default,Geto,0,0,0,,That's the ideal form society should take.
 Dialogue: 0,0:15:10.89,0:15:13.56,Default,Geto,0,0,0,,Help the weak and keep the strong in check.
 Dialogue: 0,0:15:13.89,0:15:15.19,Default,Geto,0,0,0,,Listen carefully, Satoru.
-Dialogue: 0,0:15:15.52,0:15:18.73,Default,Geto,0,0,0,,Sorcerers exist to protect non-sorcerers.
+Dialogue: 0,0:15:15.52,0:15:18.69,Default,Geto,0,0,0,,Sorcerers exist to protect non-sorcerers.
 Dialogue: 0,0:15:19.86,0:15:24.74,Default,Gojo,0,0,0,,Is that your moral argument? I hate moral arguments. {i do think "moral argument" is better but i'll stick to the line we used in the movie for consistency} {fuck that i'll just update the movie}
 Dialogue: 0,0:15:25.32,0:15:26.16,Default,Geto,0,0,0,,Excuse me?
 Dialogue: 0,0:15:26.78,0:15:32.95,Default,Gojo,0,0,0,,Assigning responsibilities to the strong\N in the name of some cause is what weak people do.
@@ -279,7 +278,7 @@ Dialogue: 0,0:16:52.07,0:16:52.95,Default,Gojo,0,0,0,,What's that?
 Dialogue: 0,0:16:56.58,0:16:57.54,Default,Gojo,0,0,0,,What?
 Dialogue: 0,0:16:58.33,0:17:02.92,Default,Yaga,0,0,0,,{*}Master Tengen{*Tengen-sama} has the technique of Immortality,\N but that doesn't grant him eternal youth.
 Dialogue: 0,0:17:02.92,0:17:05.71,Default,Yaga,0,0,0,,It wouldn't be an issue if all he did was get older,
-Dialogue: 0,0:17:05.71,0:17:10.80,Default,Yaga,0,0,0,,but after he ages to a certain point,\N it begins to rewrite his body.
+Dialogue: 0,0:17:05.71,0:17:10.72,Default,Yaga,0,0,0,,but after he ages to a certain point,\N it begins to rewrite his body.
 Dialogue: 0,0:17:12.39,0:17:13.76,Default,Yaga,0,0,0,,Evolution.
 Dialogue: 0,0:17:13.76,0:17:17.02,Default,Yaga,0,0,0,,He will cease to be human and\N become a higher form of existence.
 Dialogue: 0,0:17:17.35,0:17:20.81,Default,Gojo,0,0,0,,What's wrong with that? Sounds rad.
@@ -352,8 +351,8 @@ Dialogue: 0,0:21:03.07,0:21:05.08,Default,Gojo,0,0,0,,Man, you barely made it.
 Dialogue: 0,0:21:09.75,0:21:11.17,Default,Bayer,0,0,0,,Impressive.
 Dialogue: 0,0:21:11.88,0:21:14.17,Default,Bayer,0,0,0,,You're Gojo Satoru, right?
 Dialogue: 0,0:21:14.54,0:21:16.17,Default,Bayer,0,0,0,,You're famous.
-Dialogue: 0,0:21:17.30,0:21:19.09,Default,Bayer,0,0,0,,I hear you're strong.
-Dialogue: 0,0:21:19.09,0:21:21.64,Default,Bayer,0,0,0,,Let me confirm if the rumors are true.
+Dialogue: 0,0:21:17.30,0:21:19.05,Default,Bayer,0,0,0,,I hear you're strong.
+Dialogue: 0,0:21:19.05,0:21:21.64,Default,Bayer,0,0,0,,Let me confirm if the rumors are true.
 Dialogue: 0,0:21:22.43,0:21:25.47,Default,Gojo,0,0,0,,I'm down for that, but let's set a rule.
 Dialogue: 0,0:21:25.81,0:21:26.68,Default,Bayer,0,0,0,,What rule?
 Dialogue: 0,0:21:27.31,0:21:30.52,Default,Gojo,0,0,0,,I don't wanna get yelled at for going overboard.
@@ -375,7 +374,7 @@ Comment: 0,0:23:39.98,0:23:40.02,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.57,0:23:44.03,Default,Gojo,0,0,0,,{\an8}You know how sometimes these\N random words get stuck in your head?
 Dialogue: 0,0:23:44.03,0:23:45.65,Default,Geto,0,0,0,,{\an8}Like, Privatization of Reclaimed Lands Act?
 Dialogue: 0,0:23:45.65,0:23:47.49,Default,Gojo,0,0,0,,{\an8}Exactly! Or like, Corporate Governance!
-Dialogue: 0,0:23:47.49,0:23:49.95,Default,Shoko,0,0,0,,{\an8}Please look forward to the next episode,\NHidden Inventory, Part 2!
-Dialogue: 0,0:23:49.95,0:23:51.08,Default,Gojo,0,0,0,,{\an8}You tell us one too, Shoko.
-Dialogue: 0,0:23:51.08,0:23:52.74,Default,Shoko,0,0,0,,{\an8}Clippity-Cloppity Carnival.
-Dialogue: 0,0:23:52.74,0:23:54.12,Default,Shoko,0,0,0,,{\an8}Whoa!
+Dialogue: 0,0:23:47.49,0:23:49.99,Default,Shoko,0,0,0,,{\an8}Please look forward to the next episode,\NHidden Inventory, Part 2!
+Dialogue: 0,0:23:49.99,0:23:51.12,Default,Gojo,0,0,0,,{\an8}You tell us one too, Shoko.
+Dialogue: 0,0:23:51.12,0:23:52.70,Default,Shoko,0,0,0,,{\an8}Clippity-Cloppity Carnival.
+Dialogue: 0,0:23:52.70,0:23:54.12,Default,Shoko,0,0,0,,{\an8}Whoa!

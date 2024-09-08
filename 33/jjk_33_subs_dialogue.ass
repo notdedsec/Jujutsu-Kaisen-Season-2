@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -55,7 +54,7 @@ Dialogue: 0,0:02:40.68,0:02:43.23,Default,Gojo,0,0,0,,And you still haven't lear
 Dialogue: 0,0:02:43.23,0:02:45.31,Default,Gojo,0,0,0,,I'll kill you first.
 Dialogue: 0,0:02:48.48,0:02:49.98,Default,Gojo,0,0,0,,Come on, bring it.
 Dialogue: 0,0:02:50.48,0:02:51.48,Default,Gojo,0,0,0,,What's wrong?
-Dialogue: 0,0:02:51.98,0:02:56.86,Default,Gojo,0,0,0,,Didn't you guys tell me not to run away?
+Dialogue: 0,0:02:51.98,0:02:56.70,Default,Gojo,0,0,0,,Didn't you guys tell me not to run away?
 Dialogue: 0,0:03:07.63,0:03:08.84,Default,Jogo,0,0,0,,{\i1}Did he just touch{\fscx180}—{\fscx}
 Dialogue: 0,0:03:27.27,0:03:28.48,Default,Gojo,0,0,0,,Ready for it?
 Dialogue: 0,0:03:35.28,0:03:37.11,Default,Hanami,0,0,0,,{\i1}He's only targeting Jogo.
@@ -78,7 +77,7 @@ Dialogue: 0,0:05:09.16,0:05:10.16,Default,Choso,0,0,0,,Tch.
 Dialogue: 0,0:05:10.16,0:05:12.42,Default,Gojo,0,0,0,,{\i1}He's not a cursed spirit.
 Dialogue: 0,0:05:12.42,0:05:15.04,Default,Gojo,0,0,0,,{\i1}Must be one of the Death Painting Womb incarnations.
 Dialogue: 0,0:05:15.04,0:05:16.75,Default,Gojo,0,0,0,,{\i1}Annoying, but he'll have to wait.
-Dialogue: 0,0:05:20.26,0:05:21.63,Default,Gojo,0,0,0,,Are you sure about this?
+Dialogue: 0,0:05:20.26,0:05:21.55,Default,Gojo,0,0,0,,Are you sure about this?
 Dialogue: 0,0:05:22.97,0:05:29.68,Default,Gojo,0,0,0,,The more you try to neutralize my technique\N with Domain Extension, the more I will reinforce it.
 Dialogue: 0,0:05:29.68,0:05:34.11,Default,Gojo,0,0,0,,You think this asparagus here\N has the energy left to handle that?
 Comment: 0,0:05:34.44,0:05:35.23,Default,Jogo,0,0,0,,Wha{\fscx180}—{\fscx}
@@ -112,7 +111,7 @@ Dialogue: 0,0:08:58.98,0:09:02.40,Default,Gojo,0,0,0,,{\i1}People who can't see 
 Dialogue: 0,0:09:02.40,0:09:07.36,Default,Gojo,0,0,0,,{\i1}As their numbers keep dwindling,\N once there's enough space, I can catch Volcano Head.
 Dialogue: 0,0:09:07.36,0:09:11.28,Default,Gojo,0,0,0,,{\i1}I doubt I could trick them\N by deactivating my technique again. {og:No more releasing my technique to lure it in like before.}
 Dialogue: 0,0:09:11.28,0:09:14.95,Default,Gojo,0,0,0,,{\i1}I've revealed my goal of \Nbeating them to a pulp in close combat.
-Dialogue: 0,0:09:14.95,0:09:20.00,Default,Gojo,0,0,0,,{\i1}It'll be a problem if they unleash a\N large-scale coordinated attack on the crowd.
+Dialogue: 0,0:09:14.95,0:09:19.96,Default,Gojo,0,0,0,,{\i1}It'll be a problem if they unleash a\N large-scale coordinated attack on the crowd.
 Dialogue: 0,0:09:22.25,0:09:25.29,Default,Gojo,0,0,0,,{\i1}I'm sorry. I won't be able to save everyone.
 Dialogue: 0,0:09:26.38,0:09:27.88,Default,Gojo,0,0,0,,{\i1}But in return...
 Dialogue: 0,0:09:30.01,0:09:32.64,Default,Gojo,0,0,0,,{\i1}I will make sure they're exorcised.
@@ -147,7 +146,7 @@ Dialogue: 0,0:11:16.82,0:11:17.49,Default,Man,0,0,0,,What're you doing?!
 Dialogue: 0,0:11:17.49,0:11:18.37,Default,Woman,0,0,0,,Can we get in?
 Dialogue: 0,0:11:18.37,0:11:20.16,Default,Woman,0,0,0,,No, wait!
 Dialogue: 0,0:11:49.10,0:11:51.65,Default,Gojo,0,0,0,,What the hell are they thinking?
-Dialogue: 0,0:11:53.07,0:11:54.65,Default,Mahito,0,0,0,,Jogo!
+Dialogue: 0,0:11:53.07,0:11:54.61,Default,Mahito,0,0,0,,Jogo!
 Dialogue: 0,0:11:59.37,0:12:01.74,Default,Mahito,0,0,0,,Man, the air smells so nice here.
 Dialogue: 0,0:12:01.74,0:12:03.45,Default,Mahito,0,0,0,,Full of fear and dread!
 Dialogue: 0,0:12:03.45,0:12:06.12,Default,Mahito,0,0,0,,We should totally keep a few humans alive.
@@ -219,7 +218,7 @@ Dialogue: 0,0:19:48.50,0:19:51.50,Default,Gojo,0,0,0,,My {\i1}soul{\i0} denies i
 Dialogue: 0,0:19:51.50,0:19:53.21,Default,Gojo,0,0,0,,Now, give me a straight answer!
 Dialogue: 0,0:19:53.21,0:19:54.97,Default,Gojo,0,0,0,,Who the hell are you?!
 Dialogue: 0,0:19:59.43,0:20:00.80,Default,Geto,0,0,0,,Creepy.
-Dialogue: 0,0:20:09.81,0:20:11.94,Default,Geto,0,0,0,,How could you tell?
+Dialogue: 0,0:20:09.81,0:20:11.40,Default,Geto,0,0,0,,How could you tell?
 Dialogue: 0,0:20:13.90,0:20:16.32,Default,Geto,0,0,0,,That is my technique, you see.
 Dialogue: 0,0:20:16.32,0:20:20.16,Default,Geto,0,0,0,,I can hop between bodies\N by replacing its brain with myself.
 Dialogue: 0,0:20:20.16,0:20:23.41,Default,Geto,0,0,0,,It also lets me use the body's \Ninnate techniques, of course.
@@ -235,8 +234,8 @@ Dialogue: 0,0:20:57.82,0:20:59.74,Default,Gojo,0,0,0,,Aren't you forgetting some
 Dialogue: 0,0:20:59.74,0:21:04.49,Default,Gojo,0,0,0,,Before it was killed by me, who was it that\N beat the crap out of that body?
 Dialogue: 0,0:21:04.49,0:21:06.75,Default,Geto,0,0,0,,Okkotsu Yuta, huh?
 Dialogue: 0,0:21:06.75,0:21:10.83,Default,Geto,0,0,0,,I really don't get what everyone sees in that boy.
-Dialogue: 0,0:21:13.34,0:21:17.96,Default,Geto,0,0,0,,His ability to unconditionally copy techniques\N as well as his boundless cursed energy
-Dialogue: 0,0:21:17.96,0:21:24.51,Default,Geto,0,0,0,,are both merely a result of the Binding Vow that\N links him with the soul of his beloved.
+Dialogue: 0,0:21:13.34,0:21:17.92,Default,Geto,0,0,0,,His ability to copy techniques unconditionally\N as well as his boundless cursed energy
+Dialogue: 0,0:21:17.92,0:21:24.51,Default,Geto,0,0,0,,are both merely a result of the Binding Vow that\N links him with the soul of his beloved.
 Dialogue: 0,0:21:25.97,0:21:30.77,Default,Geto,0,0,0,,Sorry to say this, but Okkotsu Yuta \Nwill never replace you.
 Dialogue: 0,0:21:36.11,0:21:38.24,Default,Geto,0,0,0,,Goodnight, Gojo Satoru.
 Dialogue: 0,0:21:39.78,0:21:42.78,Default,Geto,0,0,0,,We'll meet again in the new world. {wait............. could this be what gojo said to geto? or sth similar at least, like the line from the OP}
@@ -248,11 +247,11 @@ Dialogue: 0,0:21:57.21,0:22:00.92,Default,Mechamaru,0,0,0,,{\pos(999,1020)}There
 Dialogue: 0,0:22:02.97,0:22:08.22,Default,Mechamaru,0,0,0,,{\pos(999,1020)}Gojo Satoru has been sealed.
 Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:40.02,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.32,0:23:41.86,Default,Yuji,0,0,0,,{\an8}What do you think of skin care?
-Dialogue: 0,0:23:41.86,0:23:44.19,Default,Kugisaki,0,0,0,,{\an8}What? You're asking me that? Not that I mind.
+Dialogue: 0,0:23:40.32,0:23:41.90,Default,Yuji,0,0,0,,{\an8}What do you think of skin care?
+Dialogue: 0,0:23:41.90,0:23:44.19,Default,Kugisaki,0,0,0,,{\an8}What? You're asking me that? Not that I mind.
 Dialogue: 0,0:23:44.19,0:23:46.66,Default,Kugisaki,0,0,0,,{\an8}I use all kinds of products, but like, it's just genetics.
-Dialogue: 0,0:23:46.66,0:23:50.95,Default,Kugisaki,0,0,0,,{\an8}I'm sure those with pale, smooth skin like {*}Mr. Gojo{*Gojo-sensei}\N would say, "I don't really do anything."
-Dialogue: 0,0:23:50.95,0:23:51.87,Default,Fushiguro,0,0,0,,{\an8}Next time, Pandemonium. {i do not like how these lines are 6 frames off from the title text...}
-Dialogue: 0,0:23:51.87,0:23:52.70,Default,Kugisaki,0,0,0,,{\an8}So what do you actually do?
+Dialogue: 0,0:23:46.66,0:23:50.78,Default,Kugisaki,0,0,0,,{\an8}I'm sure those with pale, smooth skin like {*}Mr. Gojo{*Gojo-sensei}\N would say, "I don't really do anything."
+Dialogue: 0,0:23:50.78,0:23:51.79,Default,Fushiguro,0,0,0,,{\an8}Next time, Pandemonium. {i do not like how these lines are 6 frames off from the title text...} {ayo? did they change this in the bd}
+Dialogue: 0,0:23:51.79,0:23:52.70,Default,Kugisaki,0,0,0,,{\an8}So what do you actually do?
 Dialogue: 0,0:23:52.70,0:23:53.45,Default,Gojo,0,0,0,,{\an8}I don't really do anything.
-Dialogue: 0,0:23:53.45,0:23:54.70,Default,Kugisaki,0,0,0,,{\an8}Grr!
+Dialogue: 0,0:23:53.45,0:23:54.71,Default,Kugisaki,0,0,0,,{\an8}Grr!

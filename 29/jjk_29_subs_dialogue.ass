@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -139,7 +138,7 @@ Dialogue: 0,0:07:02.94,0:07:05.36,Default,Tsukumo,0,0,0,,I want to treat the cau
 Dialogue: 0,0:07:05.82,0:07:07.57,Default,Geto,0,0,0,,How does that work?
 Dialogue: 0,0:07:07.57,0:07:13.04,Default,Tsukumo,0,0,0,,Instead of hunting down curses,\N I want to create a world where curses are never born.
 Dialogue: 0,0:07:15.92,0:07:17.71,Default,Tsukumo,0,0,0,,Care for a little lesson?
-Dialogue: 0,0:07:18.25,0:07:20.67,Default,Tsukumo,0,0,0,,What {\i1}are{\i0} curses to begin with?
+Dialogue: 0,0:07:18.29,0:07:20.67,Default,Tsukumo,0,0,0,,What {\i1}are{\i0} curses to begin with?
 Dialogue: 0,0:07:20.67,0:07:26.80,Default,Geto,0,0,0,,They're creatures that are formed from the\N build-up of cursed energy leaking from humans.
 Dialogue: 0,0:07:26.80,0:07:28.26,Default,Tsukumo,0,0,0,,Excellent.
 Dialogue: 0,0:07:28.84,0:07:33.06,Default,Tsukumo,0,0,0,,Therefore, we have two ways to\N create a world where curses aren't born.
@@ -217,26 +216,26 @@ Dialogue: 0,0:12:19.47,0:12:22.22,Default,Geto,0,0,0,,{\i1}If being a sorcerer i
 Dialogue: 0,0:12:24.52,0:12:26.60,Default,Geto,0,0,0,,{\i1}What if all that lies at the finish line
 Dialogue: 0,0:12:28.44,0:12:31.81,Default,Geto,0,0,0,,{\i1}is a mountain of corpses of fellow sorcerers...
 Dialogue: 0,0:12:43.28,0:12:44.70,Default,Geto,0,0,0,,What is going on here?
-Dialogue: 0,0:12:45.12,0:12:46.54,Default,Man,0,0,0,,What do you mean?
-Dialogue: 0,0:12:46.54,0:12:49.46,Default,Man,0,0,0,,These two are responsible for the latest incidents!
+Dialogue: 0,0:12:45.12,0:12:46.54,Default,Man,0,0,0,,{\1a&H20&}What do you mean?
+Dialogue: 0,0:12:46.54,0:12:49.46,Default,Man,0,0,0,,{\1a&H20&}These two are responsible for the latest incidents!
 Dialogue: 0,0:12:52.25,0:12:53.21,Default,Geto,0,0,0,,No, they're not.
-Dialogue: 0,0:13:00.01,0:13:02.34,Default,Man,0,0,0,,These two are crazy!
-Dialogue: 0,0:13:02.34,0:13:05.81,Default,Man,0,0,0,,They attacked the villagers with their weird powers again!
+Dialogue: 0,0:13:00.01,0:13:02.34,Default,Man,0,0,0,,{\1a&H20&}These two are crazy!
+Dialogue: 0,0:13:02.34,0:13:05.81,Default,Man,0,0,0,,{\1a&H20&}They attacked the villagers with their weird powers again!
 Dialogue: 0,0:13:06.31,0:13:09.44,Default,Geto,0,0,0,,{\i1}I've already exterminated the cause of those incidents.
-Dialogue: 0,0:13:09.44,0:13:12.56,Default,Woman,0,0,0,,My grandson was nearly killed by these two! {did we just assume their gender?} {yes.}
+Dialogue: 0,0:13:09.44,0:13:12.56,Default,Woman,0,0,0,,{\1a&H20&}My grandson was nearly killed by these two! {did we just assume their gender?} {yes.}
 Dialogue: 0,0:13:12.56,0:13:13.69,Default,Nanako,0,0,0,,That's because he{\fscx180}—{\fscx}
-Dialogue: 0,0:13:13.69,0:13:15.65,Default,Woman,0,0,0,,Shut up, you monsters!
-Dialogue: 0,0:13:15.65,0:13:17.74,Default,Woman,0,0,0,,You're just like your parents!
-Dialogue: 0,0:13:17.74,0:13:21.11,Default,Woman,0,0,0,,I knew we should've killed you at birth!
+Dialogue: 0,0:13:13.69,0:13:15.65,Default,Woman,0,0,0,,{\1a&H20&}Shut up, you monsters!
+Dialogue: 0,0:13:15.65,0:13:17.74,Default,Woman,0,0,0,,{\1a&H20&}You're just like your parents!
+Dialogue: 0,0:13:17.74,0:13:21.11,Default,Woman,0,0,0,,{\1a&H20&}I knew we should've killed you at birth!
 Dialogue: 0,0:13:17.74,0:13:21.11,Cursed,Curse,0,0,0,,{\an8}It... It's okay.
-Dialogue: 0,0:13:23.57,0:13:25.91,Default,Tsukumo,0,0,0,,The part of you that despises non-sorcerers,
-Dialogue: 0,0:13:25.91,0:13:27.95,Default,Tsukumo,0,0,0,,and the part of you that rejects it.
-Dialogue: 0,0:13:27.95,0:13:30.16,Default,Tsukumo,0,0,0,,Whatever your true feeling is...
+Dialogue: 0,0:13:23.57,0:13:25.91,Default,Tsukumo,0,0,0,,{\an8}The part of you that despises non-sorcerers,
+Dialogue: 0,0:13:25.91,0:13:27.95,Default,Tsukumo,0,0,0,,{\an8}and the part of you that rejects it.
+Dialogue: 0,0:13:27.95,0:13:30.16,Default,Tsukumo,0,0,0,,{\an8}Whatever your true feeling is...
 Dialogue: 0,0:13:30.83,0:13:34.63,Default,Geto,0,0,0,,Let's step outside for a moment, shall we?
-Dialogue: 0,0:13:34.63,0:13:37.38,Default,Tsukumo,0,0,0,,...it's something you have yet to decide. {If internal thoughts are italicized, why not this?} {this is treated as a flashback}
-Dialogue: 0,0:13:42.59,0:13:43.80,Default,Woman,0,0,0,,What is happening?!
-Dialogue: 0,0:13:44.55,0:13:45.05,Default,Man,0,0,0,,Why?!
-Dialogue: 0,0:13:47.56,0:13:48.56,Default,Woman,0,0,0,,No!
+Dialogue: 0,0:13:34.88,0:13:37.42,Default,Tsukumo,0,0,0,,{\an8}...it's something you have yet to decide. {If internal thoughts are italicized, why not this?} {this is treated as a flashback}
+Dialogue: 0,0:13:42.59,0:13:43.80,Default,Woman,0,0,0,,{\1a&H20&}What is happening?!
+Dialogue: 0,0:13:44.55,0:13:45.05,Default,Man,0,0,0,,{\1a&H20&}Why?!
+Dialogue: 0,0:13:47.56,0:13:48.56,Default,Woman,0,0,0,,{\1a&H20&}No!
 Dialogue: 0,0:14:16.29,0:14:17.17,Default,Gojo,0,0,0,,What?
 Dialogue: 0,0:14:18.05,0:14:20.17,Default,Yaga,0,0,0,,Don't make me repeat myself.
 Dialogue: 0,0:14:20.17,0:14:23.30,Default,Yaga,0,0,0,,Suguru killed everyone in the village and{\fscx180}—{\fscx}
@@ -324,7 +323,7 @@ Dialogue: 0,0:19:06.46,0:19:09.17,Default,Geto,0,0,0,,So everyone, please be sur
 Dialogue: 0,0:19:11.17,0:19:13.22,Default,Geto,0,0,0,,Now, that's not good.
 Dialogue: 0,0:19:13.92,0:19:15.26,Default,Geto,0,0,0,,Oh, I know!
 Dialogue: 0,0:19:15.26,0:19:18.10,Default,Geto,0,0,0,,{*}Mr. Sonoda{*Sonoda-san}, could you please come to the stage?
-Dialogue: 0,0:19:19.18,0:19:20.89,Default,Geto,0,0,0,,Yes! You there!
+Dialogue: 0,0:19:19.18,0:19:20.93,Default,Geto,0,0,0,,Yes! You there!
 Dialogue: 0,0:19:21.60,0:19:23.60,Default,Geto,0,0,0,,Now, let's try this again.
 Dialogue: 0,0:19:24.23,0:19:25.60,Default,Geto,0,0,0,,{\i1}I hate monkeys.
 Dialogue: 0,0:19:25.60,0:19:27.52,Default,Geto,0,0,0,,You {\i1}will{\i0} obey me,
@@ -366,27 +365,27 @@ Dialogue: 0,0:21:10.33,0:21:14.04,Default,Megumi,0,0,0,,Will she be happy there?
 Dialogue: 0,0:21:14.04,0:21:14.88,Default,Gojo,0,0,0,,No.
 Dialogue: 0,0:21:14.88,0:21:16.51,Default,Gojo,0,0,0,,A hundred percent no.
 Dialogue: 0,0:21:16.51,0:21:18.13,Default,Gojo,0,0,0,,That I can assure you.
-Dialogue: 0,0:21:21.64,0:21:22.97,Default,Gojo,0,0,0,,Okay!
-Dialogue: 0,0:21:23.97,0:21:25.76,Default,Gojo,0,0,0,,You can leave it to me, then.
+Dialogue: 0,0:21:21.68,0:21:22.97,Default,Gojo,0,0,0,,Okay!
+Dialogue: 0,0:21:24.05,0:21:25.76,Default,Gojo,0,0,0,,You can leave it to me, then.
 Dialogue: 0,0:21:27.68,0:21:31.19,Default,Gojo,0,0,0,,I might need you to push yourself a bit, though.
 Dialogue: 0,0:21:31.19,0:21:32.27,Default,Gojo,0,0,0,,Do your best!
 Dialogue: 0,0:21:33.06,0:21:35.02,Default,Gojo,0,0,0,,Get stronger.
 Dialogue: 0,0:21:35.48,0:21:37.99,Default,Gojo,0,0,0,,{\pos(960,1045)}Strong enough to keep up with me.
 Dialogue: 0,0:21:44.62,0:21:46.12,Default,Megumi,0,0,0,,{*}Mr. Gojo{*Gojo-sensei}!
-Dialogue: 0,0:21:46.12,0:21:47.91,Default,Yuji,0,0,0,,So even {*}Teach{*Sensei} sleeps sometimes, huh?
-Dialogue: 0,0:21:47.91,0:21:50.50,Default,Nobara,0,0,0,,Of course he does. What kinda nonsense is that?
-Dialogue: 0,0:21:50.50,0:21:51.83,Default,Megumi,0,0,0,,{*}Mr. Gojo{*Gojo-sensei}!
+Dialogue: 0,0:21:46.12,0:21:47.91,Default,Yuji,0,0,0,,{\blur1}So even {*}Teach{*Sensei} sleeps sometimes, huh?
+Dialogue: 0,0:21:47.91,0:21:50.50,Default,Nobara,0,0,0,,{\blur1}Of course he does. What kinda nonsense is that?
+Dialogue: 0,0:21:50.50,0:21:51.83,Default,Megumi,0,0,0,,{\blur1}{*}Mr. Gojo{*Gojo-sensei}!
 Dialogue: 0,0:21:53.00,0:21:54.25,Default,Yuji,0,0,0,,Oh, he's awake!
 Dialogue: 0,0:21:54.63,0:21:56.88,Default,Nobara,0,0,0,,Hey, isn't this one of those expensive chairs?
 Dialogue: 0,0:21:56.88,0:21:59.76,Default,Megumi,0,0,0,,Please don't fall asleep after calling all of us here.
 Dialogue: 0,0:22:01.38,0:22:03.26,Default,Yuji,0,0,0,,Hey, no fair! I get it next, okay?!
-Dialogue: 0,0:22:03.26,0:22:05.14,Default,Yuji,0,0,0,,Hey! Hurry up!
-Dialogue: 0,0:22:05.14,0:22:06.47,Default,Megumi,0,0,0,,What are you smiling about?
-Dialogue: 0,0:22:05.14,0:22:08.35,Default,Yuji,0,0,0,,{\an8}Don't be mean! Move it!
+Dialogue: 0,0:22:03.26,0:22:05.09,Default,Yuji,0,0,0,,Hey! Hurry up!
+Dialogue: 0,0:22:05.09,0:22:06.47,Default,Megumi,0,0,0,,What are you smiling about?
+Dialogue: 0,0:22:05.09,0:22:08.35,Default,Yuji,0,0,0,,{\an8}Don't be mean! Move it!
 Dialogue: 0,0:22:08.35,0:22:09.43,Default,Gojo,0,0,0,,It's nothing.
 Comment: 0,0:22:09.97,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:40.02,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.94,0:23:43.86,Default,Yuji,0,0,0,,{\an8}How do you write "motto" in kanji?
 Dialogue: 0,0:23:43.86,0:23:47.03,Default,Yuji,0,0,0,,{\an8}Wait, you use katakana? It's a foreign word?
-Dialogue: 0,0:23:47.03,0:23:49.16,Default,Yuji,0,0,0,,{\an8}Next time, It's Like That.
+Dialogue: 0,0:23:47.03,0:23:49.45,Default,Yuji,0,0,0,,{\an8}Next time, It's Like That.
 Dialogue: 0,0:23:50.03,0:23:53.37,Default,Yuji,0,0,0,,{\an8}I guess you learn something new every day! {The more you know!}

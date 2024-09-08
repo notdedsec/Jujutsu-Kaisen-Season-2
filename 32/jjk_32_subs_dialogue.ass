@@ -21,16 +21,15 @@ Video File: jjk_32_premux.mkv
 Keyframes File: jjk_32_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 256
-Active Line: 263
-Video Position: 34214
+Scroll Position: 218
+Active Line: 225
+Video Position: 27770
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -60,12 +59,12 @@ Dialogue: 0,0:01:35.62,0:01:41.08,Default,Ui,0,0,0,,{\an8}The family you claim t
 Dialogue: 0,0:01:42.08,0:01:44.21,Default,Mei,0,0,0,,You know me so well.
 Dialogue: 0,0:01:44.21,0:01:46.25,Default,Mei,0,0,0,,I love that part of you.
 Dialogue: 0,0:01:46.25,0:01:47.00,Default,Ui,0,0,0,,Oh, my!
-Dialogue: 0,0:01:47.59,0:01:49.09,Default,Yuji,0,0,0,,{\i1}Can we go now?
+Dialogue: 0,0:01:47.59,0:01:49.01,Default,Yuji,0,0,0,,{\i1}Can we go now?
 Dialogue: 0,0:01:50.63,0:01:52.22,Default,Mei,0,0,0,,Hello, Mei Mei here.
 Dialogue: 0,0:01:52.76,0:01:53.47,Default,Mei,0,0,0,,Oh?
 Dialogue: 0,0:01:55.85,0:01:58.39,Default,Mei,0,0,0,,Itadori{**-kun}, there has been a change of plans.
 Comment: 0,0:01:58.39,0:01:59.39,Default,Yuji,0,0,0,,Huh?
-Dialogue: 0,0:01:59.39,0:02:03.77,Default,Mei,0,0,0,,Another Veil like the one over Shibuya\N has been cast over Meiji Jingumae Station.
+Dialogue: 0,0:01:59.39,0:02:03.77,Default,Mei,0,0,0,,Another Veil like the one over Shibuya\N has been cast over Meiji-jingumae Station.
 Dialogue: 0,0:02:03.77,0:02:05.77,Default,Mei,0,0,0,,That's where we are headed.
 Dialogue: 0,0:02:08.19,0:02:11.11,Default,Mei,0,0,0,,We'll be running. Try to keep up.
 Dialogue: 0,0:02:11.78,0:02:12.90,Default,Yuji,0,0,0,,Right!
@@ -99,7 +98,7 @@ Dialogue: 0,0:05:58.21,0:06:03.63,Default,Mei,0,0,0,,Between killing a bunch of 
 Dialogue: 0,0:06:03.63,0:06:04.89,Default,Mei,0,0,0,,which would you prefer?
 Dialogue: 0,0:06:06.35,0:06:09.64,Default,Mei,0,0,0,,Knowing you, I would bet it's the latter.
 Dialogue: 0,0:06:13.73,0:06:15.90,Default,Mei,0,0,0,,Here's a map of the underground station.
-Dialogue: 0,0:06:16.27,0:06:21.11,Default,Mei,0,0,0,,The transfigured humans are mulling about\N and attacking people on level B4.
+Dialogue: 0,0:06:16.27,0:06:21.15,Default,Mei,0,0,0,,The transfigured humans are mulling about\N and attacking people on level B4.
 Dialogue: 0,0:06:23.61,0:06:27.41,Default,Mei,0,0,0,,I think most civilians are at the platform on level B5.
 Dialogue: 0,0:06:28.66,0:06:29.74,Default,Yuji,0,0,0,,You're not sure?
 Dialogue: 0,0:06:29.74,0:06:35.92,Default,Mei,0,0,0,,My crows are infused with cursed energy,\N so they couldn't enter B5.
@@ -139,7 +138,7 @@ Dialogue: 0,0:08:43.84,0:08:44.84,Cursed,Ko-guy,0,0,0,,Patch... {\alpha&HFF&}fac
 Dialogue: 0,0:08:44.84,0:08:46.01,Cursed,Ko-guy,0,0,0,,Patch... face...
 Dialogue: 0,0:08:46.01,0:08:47.59,Cursed,Ko-guy,0,0,0,,Patchface?
 Dialogue: 0,0:08:48.47,0:08:50.59,Default,Yuji,0,0,0,,The one with stitches all over his face.
-Dialogue: 0,0:08:51.43,0:08:54.14,Cursed,Ko-guy,0,0,0,,You think I'm stupid?! I know that much!
+Dialogue: 0,0:08:51.47,0:08:54.14,Cursed,Ko-guy,0,0,0,,You think I'm stupid?! I know that much!
 Dialogue: 0,0:08:54.14,0:08:56.35,Cursed,Ko-guy,0,0,0,,I told you, I'm smart!
 Dialogue: 0,0:08:56.97,0:08:58.64,Cursed,Ko-guy,0,0,0,,Mahito's down below.
 Dialogue: 0,0:08:58.64,0:09:01.85,Cursed,Ko-guy,0,0,0,,I'm here protecting the Veil.
@@ -249,7 +248,8 @@ Dialogue: 0,0:17:41.92,0:17:46.59,Default,Geto,0,0,0,,Any sorcerer alongside him
 Dialogue: 0,0:17:46.59,0:17:51.72,Default,Geto,0,0,0,,So we'll surround him with non-sorcerers\N who are even weaker.
 Dialogue: 0,0:18:09.61,0:18:11.45,Default,Choso,0,0,0,,Blood Manipulation:
 Dialogue: 0,0:18:11.86,0:18:13.45,Default,Choso,0,0,0,,Slicing Exorcism.
-Dialogue: 0,0:18:28.38,0:18:29.88,Default,Jogo&Hanami,0,0,0,,Take this!
+Dialogue: 0,0:18:28.38,0:18:29.88,Default,Jogo&Hanami,0,0,0,,{\pos(480,1020)}Take this!
+Dialogue: 0,0:18:28.38,0:18:29.88,Default,Jogo&Hanami,0,0,0,,{\pos(1440,1020)}Take this!
 Dialogue: 0,0:18:34.05,0:18:39.01,Default,Geto,0,0,0,,Cursed technique reversal outputs\N at least twice as much energy as amplification.
 Dialogue: 0,0:18:39.01,0:18:42.93,Default,Geto,0,0,0,,Using it without harming non-sorcerers\N would be next to impossible.
 Dialogue: 0,0:18:42.93,0:18:47.90,Default,Geto,0,0,0,,He won't be able to use Blue at an output\N that is effective against you either.
@@ -257,7 +257,8 @@ Dialogue: 0,0:18:51.32,0:18:54.91,Default,Geto,0,0,0,,High-speed movement using 
 Dialogue: 0,0:18:54.91,0:18:58.91,Default,Geto,0,0,0,,For non-sorcerers, it's instant death\N if he bumps into them. {the line actually says "he'd be like a dump as far as non-sorcerers are concerned." imo the dump here is supposed to create the mental image of a dumping ground full of dead bodies. it's translated as "dropping like flies" on the next line for better flow} {also, while it's true that anyone bumping into him moving at such a high speed would die instantly, i think there is more to it. they don't even need to collide with him specifically. they ded if they just get in the way of the so-called vacuum tunnel. it just makes way too much sense. or maybe i'm overthinking things. either way i'll go with the simpler interpretation here}
 Dialogue: 0,0:18:58.91,0:19:00.95,Default,Geto,0,0,0,,They would be dropping like flies.
 Dialogue: 0,0:19:00.95,0:19:05.92,Default,Geto,0,0,0,,In a situation like that, \NGojo Satoru will be forced on the defensive.
-Dialogue: 0,0:19:18.22,0:19:19.93,Default,Jogo&Hanami,0,0,0,,Domain Extension! {amplification is incorrect. it suggests the domain is being strengthened by pouring cursed energy into it but that's not it. what happens is they sort of do a small scale domain expansion: instead of expanding it over a huge area, it just covers the user like a cloak, which neutralizes other techniques, since that's one of the properties of a domain} {i'm thinking Domain Insulation} {Encapsulation? or maybe Amplification is fine} {the "accurate" translation would be Domain Extension... which kinda makes sense (?) if we look it like: they extend their domains around themselves. it's very much in line with the idea of a "small scale expansion" and the similarity to the term Domain Expansion, likely intended in japanese, is just the cherry on top}
+Dialogue: 0,0:19:18.22,0:19:19.93,Default,Jogo&Hanami,0,0,0,,{\pos(480,1020)}Domain Extension! {amplification is incorrect. it suggests the domain is being strengthened by pouring cursed energy into it but that's not it. what happens is they sort of do a small scale domain expansion: instead of expanding it over a huge area, it just covers the user like a cloak, which neutralizes other techniques, since that's one of the properties of a domain} {i'm thinking Domain Insulation} {Encapsulation? or maybe Amplification is fine} {the "accurate" translation would be Domain Extension... which kinda makes sense (?) if we look it like: they extend their domains around themselves. it's very much in line with the idea of a "small scale expansion" and the similarity to the term Domain Expansion, likely intended in japanese, is just the cherry on top}
+Dialogue: 0,0:19:18.22,0:19:19.93,Default,Jogo&Hanami,0,0,0,,{\pos(1440,1020)}Domain Extension!
 Dialogue: 0,0:19:45.16,0:19:46.62,Default,Gojo,0,0,0,,I see what you're doing.
 Dialogue: 0,0:19:46.62,0:19:50.54,Default,Gojo,0,0,0,,Was it your resident curse user who gave you the idea?
 Dialogue: 0,0:19:51.42,0:19:53.13,Default,Gojo,0,0,0,,{\i1\pos(955,1020)}Domain Extension.
@@ -293,8 +294,8 @@ Comment: 0,0:22:10.02,0:22:10.06,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:40.02,0:23:40.07,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.44,0:23:43.07,Default,Gojo,0,0,0,,{\an8}Let's play the list-the-good-things-\Nabout-Gojo-Satoru game! {og: Time for the Yamanote Line Game! The topic is Gojo Satoru's good points!} {we handled it this way back in s1 too}
 Dialogue: 0,0:23:43.07,0:23:44.24,Default,Both,0,0,0,,{\an8}Yay!
-Dialogue: 0,0:23:44.24,0:23:45.11,Default,Yuji,0,0,0,,{\an8}He's strong!
-Dialogue: 0,0:23:45.65,0:23:46.49,Default,Fushiguro,0,0,0,,{\an8}He's strong!
+Dialogue: 0,0:23:44.24,0:23:45.07,Default,Yuji,0,0,0,,{\an8}He's strong!
+Dialogue: 0,0:23:45.65,0:23:46.40,Default,Fushiguro,0,0,0,,{\an8}He's strong!
 Dialogue: 0,0:23:46.99,0:23:47.78,Default,Kugisaki,0,0,0,,{\an8}He's just strong!
 Dialogue: 0,0:23:47.78,0:23:49.70,Default,Gojo,0,0,0,,{\an8}Next time, Shibuya Incident: Gate, Open.
 Dialogue: 0,0:23:49.70,0:23:50.99,Default,Ieiri,0,0,0,,{\an8}He's rich, too, by the way.

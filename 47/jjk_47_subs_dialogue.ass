@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -48,7 +47,7 @@ Dialogue: 0,0:02:37.05,0:02:38.68,Default,Tsukumo,0,0,0,,Well, whatever.
 Dialogue: 0,0:02:39.64,0:02:41.85,Default,Tsukumo,0,0,0,,I went back to my original idea.
 Dialogue: 0,0:02:41.85,0:02:45.69,Default,Tsukumo,0,0,0,,Besides, there's one big flaw in your optimization plan.
 Dialogue: 0,0:02:45.69,0:02:51.32,Default,Tsukumo,0,0,0,,Extremely few sorcerers and curses\N emerge outside of Japan.
-Dialogue: 0,0:02:52.36,0:02:57.45,Default,Tsukumo,0,0,0,,Tengen's barrier is indispensable \Nto your optimization plan.
+Dialogue: 0,0:02:52.36,0:02:57.41,Default,Tsukumo,0,0,0,,Tengen's barrier is indispensable \Nto your optimization plan.
 Dialogue: 0,0:02:58.62,0:03:00.74,Default,Tsukumo,0,0,0,,And using Tengen {to optimize cursed energy }would mean
 Dialogue: 0,0:03:00.74,0:03:06.08,Default,Tsukumo,0,0,0,,the only ones capable of becoming sorcerers\N would be the humans of this country.
 Dialogue: 0,0:03:06.96,0:03:11.50,Default,Tsukumo,0,0,0,,Japan would practically \Nhave a monopoly on cursed energy.
@@ -138,7 +137,7 @@ Dialogue: 0,0:10:45.88,0:10:49.50,Default,Reporter,0,0,0,,{\an8}We still can't c
 Dialogue: 0,0:10:49.50,0:10:53.67,Default,Reporter,0,0,0,,{\an8}We have practically no idea what's going on.
 Dialogue: 0,0:10:41.04,0:10:44.33,Default,OldMan,0,0,0,,Looks like something {\i1}real{\i0} crazy is going down!
 Dialogue: 0,0:10:44.33,0:10:45.88,Default,Granny,0,0,0,,Are you sure it's not fake?
-Dialogue: 0,0:10:45.88,0:10:48.59,Default,Oldman,0,0,0,,It's all over the news!
+Dialogue: 0,0:10:45.88,0:10:48.54,Default,Oldman,0,0,0,,It's all over the news!
 Dialogue: 0,0:10:50.00,0:10:52.80,Default,Granny,0,0,0,,I'll be out late today, so microwave something for dinner. {ah yes frozen dinner my favourite}
 Dialogue: 0,0:10:52.80,0:10:54.34,Default,Oldman,0,0,0,,{\pos(1111,1020)}Sure.
 Dialogue: 0,0:10:54.68,0:10:57.55,Default,Official(Male),0,0,0,,All 23 wards are nearly wiped out!
@@ -180,9 +179,9 @@ Dialogue: 0,0:12:43.03,0:12:45.37,Default,Official(Male),0,0,0,,Relocate governm
 Dialogue: 0,0:12:45.37,0:12:48.87,Default,Official(Male),0,0,0,,At this rate, there'll be a massive outbreak\N of cursed spirits everywhere!
 Dialogue: 0,0:12:48.87,0:12:52.25,Default,Official(Male),0,0,0,,Sorcerers have already been dispatched\N to protect evacuees in the city!
 Dialogue: 0,0:12:52.25,0:12:53.59,Default,Official(Male),0,0,0,,The outbreak is coming!
-Dialogue: 0,0:12:53.59,0:12:57.72,Default,Official(Female),0,0,0,,With a power vacuum of this scale,\N there could be foreign military intervention!
-Dialogue: 0,0:12:57.72,0:12:58.59,Default,Official(Male),0,0,0,,Yes.
-Dialogue: 0,0:12:58.59,0:12:59.43,Default,Official(Male),0,0,0,,Huh?
+Dialogue: 0,0:12:53.59,0:12:57.59,Default,Official(Female),0,0,0,,With a power vacuum of this scale,\N there could be foreign military intervention!
+Dialogue: 0,0:12:57.59,0:12:58.55,Default,Official(Male),0,0,0,,Yes.
+Dialogue: 0,0:12:58.55,0:12:59.43,Default,Official(Male),0,0,0,,Huh?
 Dialogue: 0,0:12:59.43,0:13:00.38,Default,Official(Male),0,0,0,,Oh, no.
 Dialogue: 0,0:13:00.38,0:13:01.39,Default,Official(Male),0,0,0,,Okay.
 Dialogue: 0,0:13:02.47,0:13:03.39,Default,Official(Male),0,0,0,,Understood.
@@ -199,11 +198,11 @@ Dialogue: 0,0:13:36.59,0:13:39.84,Default,Reporter,0,0,0,,{\an8}So we are once a
 Dialogue: 0,0:13:39.84,0:13:44.39,Default,Reporter,0,0,0,,{\an8}The blackout still continues,\N and we're unable to contact anyone. {so they can't contact anyone but live broadcast works huh?}
 Dialogue: 0,0:13:44.39,0:13:48.60,Default,Reporter,0,0,0,,{\an8}There's been no official announcement either, \Nso the cause remains unknown.
 Dialogue: 0,0:13:48.60,0:13:50.85,Default,Reporter,0,0,0,,{\an8}The question is, how long will this{\fscx180}—{\fscx}
-Dialogue: 0,0:13:58.11,0:13:59.36,Default,Cameraman,0,0,0,,{\an8}What the...
-Dialogue: 0,0:13:59.36,0:14:01.07,Default,Cameraman,0,0,0,,{\an8}What's going on?
+Dialogue: 0,0:13:58.11,0:13:59.32,Default,Cameraman,0,0,0,,{\an8}What the...
+Dialogue: 0,0:13:59.32,0:14:01.07,Default,Cameraman,0,0,0,,{\an8}What's going on?
 Dialogue: 0,0:14:01.07,0:14:02.15,Default,Cameraman,0,0,0,,{\an8}Fuck!
-Dialogue: 0,0:14:15.08,0:14:16.84,Default,Woman,0,0,0,,What was that?
-Dialogue: 0,0:14:16.84,0:14:18.09,Default,Woman,0,0,0,,Some movie?
+Dialogue: 0,0:14:15.08,0:14:16.88,Default,Woman,0,0,0,,What was that?
+Dialogue: 0,0:14:16.88,0:14:18.09,Default,Woman,0,0,0,,Some movie?
 Dialogue: 0,0:14:21.63,0:14:25.26,Default,ImperialDirector,0,0,0,,The barrier around the Imperial Palace,\N rebuilt during the Meiji era.
 Dialogue: 0,0:14:25.26,0:14:30.81,Default,ImperialDirector,0,0,0,,The barrier above the Tombs of the Star,\N a site once proposed for the capital in the Bakumatsu era.
 Dialogue: 0,0:14:30.81,0:14:34.65,Default,ImperialDirector,0,0,0,,Force the expansion of the two barriers\N to the borders of the prefecture. {this part is tough, the history lesson was completely unnecessary}
@@ -230,7 +229,7 @@ Dialogue: 0,0:17:45.17,0:17:46.38,Default,Girl,0,0,0,,I dunno.
 Dialogue: 0,0:17:47.55,0:17:49.97,Default,Okkotsu,0,0,0,,{\i1}It's all commercial buildings in this area.
 Dialogue: 0,0:17:49.97,0:17:51.68,Default,Okkotsu,0,0,0,,{\i1}I doubt she's from around here.
 Dialogue: 0,0:17:53.34,0:17:54.85,Default,Okkotsu,0,0,0,,Did you walk a lot?
-Dialogue: 0,0:17:58.31,0:18:01.06,Default,Okkotsu,0,0,0,,I see, well done!
+Dialogue: 0,0:17:58.31,0:18:00.98,Default,Okkotsu,0,0,0,,I see, well done!
 Dialogue: 0,0:18:08.90,0:18:10.86,Default,Okkotsu,0,0,0,,You can see them, huh?
 Dialogue: 0,0:18:11.99,0:18:14.28,Default,Okkotsu,0,0,0,,Easy there, Rika{**-chan}.
 Dialogue: 0,0:18:15.32,0:18:16.66,Default,Okkotsu,0,0,0,,You're going overboard.

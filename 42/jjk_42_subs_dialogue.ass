@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,7 +48,7 @@ Dialogue: 0,0:00:40.94,0:00:42.44,Default,Yuji,0,0,0,,{\an8\i1}And that scares m
 Dialogue: 0,0:00:43.31,0:00:45.40,Default,Sukuna,0,0,0,,{\an8\i1}It's all your fault!
 Dialogue: 0,0:00:45.40,0:00:48.99,Default,Grandpa,0,0,0,,{\an8\i1}When it's your time to go, \Nmake sure you're surrounded by people.
 Dialogue: 0,0:00:48.99,0:00:50.91,Default,Grandpa,0,0,0,,{\an8\i1}Help people. {"people" here "others" after the next few lines...}
-Dialogue: 0,0:00:50.91,0:00:53.03,Default,Yuuji,0,0,0,,{\an8\i1}Can't afford to die now, I guess.
+Dialogue: 0,0:00:50.91,0:00:53.03,Default,Yuji,0,0,0,,{\an8\i1}Can't afford to die now, I guess.
 Dialogue: 0,0:00:53.99,0:00:59.08,Default,Fushiguro,0,0,0,,{\an8\i1}That's why I've never once regretted saving you.
 Dialogue: 0,0:00:59.08,0:01:01.37,Default,Kugisaki,0,0,0,,{\an8\i1}I guess that makes us accomplices.
 Dialogue: 0,0:01:01.37,0:01:04.42,Default,Yuji,0,0,0,,{\an8\i1}I won't lose to anything.
@@ -186,7 +185,7 @@ Dialogue: 0,0:20:33.34,0:20:36.30,Default,Kugisaki,0,0,0,,Are you Patchface?
 Dialogue: 0,0:20:36.30,0:20:40.39,Default,Kugisaki,0,0,0,,That special-grade cursed spirit\N who's been messing with our idiot?
 Dialogue: 0,0:20:40.64,0:20:42.35,Default,Mahito,0,0,0,,Aw, shucks. {Well, jeez.}
 Dialogue: 0,0:20:42.35,0:20:44.14,Default,Mahito,0,0,0,,Am I famous now?
-Dialogue: 0,0:20:44.43,0:20:47.77,Default,Kugisaki,0,0,0,,Yeah, for running away like a little bitch. {I heard you ran with your tail between your legs.}
+Dialogue: 0,0:20:44.43,0:20:47.68,Default,Kugisaki,0,0,0,,Yeah, for running away like a little bitch. {I heard you ran with your tail between your legs.}
 Dialogue: 0,0:20:49.48,0:20:50.65,Default,Mahito,0,0,0,,I like you already.
 Dialogue: 0,0:20:51.23,0:20:53.06,Default,Mahito,0,0,0,,You seem worth killing.
 Dialogue: 0,0:20:53.48,0:20:57.07,Default,Kugisaki,0,0,0,,I haven't had any good chances to shine today...

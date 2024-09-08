@@ -30,11 +30,10 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.15,0:00:03.57,Default,Geto,0,0,0,,Let's go home, Riko{**-chan}.
+Dialogue: 0,0:00:01.19,0:00:03.57,Default,Geto,0,0,0,,Let's go home, Riko{**-chan}.
 Dialogue: 0,0:00:04.15,0:00:05.11,Default,Riko,0,0,0,,Yeah!
 Dialogue: 0,0:00:16.16,0:00:17.58,Default,Geto,0,0,0,,Riko{**-chan}?
 Dialogue: 0,0:00:19.25,0:00:21.08,Default,Toji,0,0,0,,Alright, that's a wrap.
@@ -60,8 +59,8 @@ Dialogue: 0,0:03:23.81,0:03:29.27,Default,Toji,0,0,0,,Wielding a cursed tool tha
 Dialogue: 0,0:03:36.90,0:03:38.87,Default,Toji,0,0,0,,Allow me to continue.
 Dialogue: 0,0:03:40.41,0:03:43.95,Default,Toji,0,0,0,,See, I've got this cursed spirit that can store objects.
 Dialogue: 0,0:03:43.95,0:03:46.62,Default,Toji,0,0,0,,I use it to carry my cursed tools.
-Dialogue: 0,0:03:48.17,0:03:49.71,Default,Toji,0,0,0,,I know what you're thinking.
-Dialogue: 0,0:03:49.71,0:03:54.42,Default,Toji,0,0,0,,The cursed energy from the cursed spirit\N should give me away, right?
+Dialogue: 0,0:03:48.17,0:03:49.75,Default,Toji,0,0,0,,I know what you're thinking.
+Dialogue: 0,0:03:49.75,0:03:54.42,Default,Toji,0,0,0,,The cursed energy from the cursed spirit\N should give me away, right?
 Dialogue: 0,0:03:57.05,0:04:01.51,Default,Toji,0,0,0,,The cursed spirit shrinks\N by storing itself within its own body.
 Dialogue: 0,0:04:02.93,0:04:05.73,Default,Toji,0,0,0,,Then I keep it inside my stomach.
 Dialogue: 0,0:04:05.73,0:04:08.64,Default,Toji,0,0,0,,An invisible man's gonna have invisible guts, right?
@@ -69,8 +68,8 @@ Dialogue: 0,0:04:08.64,0:04:14.11,Default,Toji,0,0,0,,That's how I can move thro
 Dialogue: 0,0:04:17.78,0:04:22.03,Default,Toji,0,0,0,,That's also why I didn't use a cursed tool at the start.
 Dialogue: 0,0:04:23.87,0:04:28.83,Default,Toji,0,0,0,,I need to stay invisible if I'm gonna pull off\N a surprise attack on the Six Eyes. {I need to stay invisible \Nif I'm gonna pull a fast one on the Six Eyes.}
 Dialogue: 0,0:04:28.83,0:04:32.25,Default,Toji,0,0,0,,I could've gone straight for the Star Plasma Vessel,
-Dialogue: 0,0:04:32.25,0:04:34.55,Default,Toji,0,0,0,,but the risk of the Six Eyes seeing me{\fscx180}—{\fscx}
-Dialogue: 0,0:04:34.55,0:04:35.46,Default,Geto,0,0,0,,Enough.
+Dialogue: 0,0:04:32.25,0:04:34.59,Default,Toji,0,0,0,,but the risk of the Six Eyes seeing me{\fscx180}—{\fscx}
+Dialogue: 0,0:04:34.59,0:04:35.46,Default,Geto,0,0,0,,Enough.
 Dialogue: 0,0:04:35.46,0:04:37.34,Default,Geto,0,0,0,,You have a Heavenly Restriction, right?
 Dialogue: 0,0:04:37.34,0:04:42.43,Default,Geto,0,0,0,,I know revealing information can \Nenhance your abilities, just like us sorcerers.
 Dialogue: 0,0:04:42.43,0:04:45.01,Default,Geto,0,0,0,,That's not what I want to know.
@@ -86,7 +85,7 @@ Dialogue: 0,0:05:10.25,0:05:11.71,Default,Toji,0,0,0,,Probably dead.
 Dialogue: 0,0:05:11.71,0:05:14.04,Default,Toji,0,0,0,,She might've survived if she's lucky.
 Dialogue: 0,0:05:14.04,0:05:15.67,Default,Toji,0,0,0,,Doesn't matter to me either way.
 Dialogue: 0,0:05:16.25,0:05:19.05,Default,Geto,0,0,0,,All right, that settles it.
-Dialogue: 0,0:05:19.05,0:05:20.30,Default,Geto,0,0,0,,Die! {timing}
+Dialogue: 0,0:05:19.05,0:05:19.97,Default,Geto,0,0,0,,Die! {timing}
 Dialogue: 0,0:06:01.51,0:06:03.88,Default,Geto,0,0,0,,{\i1}Rainbow Dragon has the toughest hide there is!
 Dialogue: 0,0:06:12.14,0:06:14.10,Default,Toji,0,0,0,,Curse Manipulation.
 Dialogue: 0,0:06:15.06,0:06:16.31,Default,Toji,0,0,0,,Just some riffraff. {Wrong usage of the word "rabble"? Rabble refers to a group of people of a certain unruly type.} {he's talking about the curses from curse manipulation} {"riffraff" is the word geto later uses in the movie which he picked up from toji when he says this line} {and also "monkeys" a bit later}
@@ -230,7 +229,7 @@ Dialogue: 0,0:17:20.27,0:17:25.61,Default,Gojo,0,0,0,,{\i1}But even within the G
 Dialogue: 0,0:17:36.79,0:17:38.83,Default,Gojo,0,0,0,,{\i1}Take the amplified and the reversal
 Dialogue: 0,0:17:38.83,0:17:42.21,Default,Gojo,0,0,0,,{\i1}and smash the two expressions of infinity together
 Dialogue: 0,0:17:42.21,0:17:44.67,Default,Gojo,0,0,0,,{\i1}to create and release virtual mass. {ah yes the "kaso" word again. last time we went with "mythical spirits" while trasnlating kaso onryo, but this is unrelated.} {virtual is closer to the meaning. imaginary is almost comical.}
-Dialogue: 0,0:17:44.67,0:17:46.50,Default,Gojo,0,0,0,,{\i1}Hollow Technique: Purple.
+Dialogue: 0,0:17:44.67,0:17:46.46,Default,Gojo,0,0,0,,{\i1}Hollow Technique: Purple.
 Dialogue: 0,0:17:56.22,0:17:57.72,Default,Toji,0,0,0,,{\fade(120,120)\i1}Something's off.
 Dialogue: 0,0:17:59.31,0:18:01.94,Default,Toji,0,0,0,,{\i1}"I refuse to do any work for free."
 Dialogue: 0,0:18:01.94,0:18:05.73,Default,Toji,0,0,0,,{\i1}That's what I would usually say\N before hightailing it out of there.
@@ -273,9 +272,9 @@ Dialogue: 0,0:23:11.29,0:23:12.87,Default,Geto,0,0,0,,It'll be dissolved soon en
 Dialogue: 0,0:23:15.00,0:23:16.17,Default,Gojo,0,0,0,,No point, huh?
 Dialogue: 0,0:23:16.75,0:23:19.67,Default,Gojo,0,0,0,,Does there really need to be a point to it?
 Dialogue: 0,0:23:31.43,0:23:33.18,Default,Geto,0,0,0,,It's very important that there is.
-Dialogue: 0,0:23:34.02,0:23:36.85,Default,Geto,0,0,0,,Especially for a sorcerer.
+Dialogue: 0,0:23:34.02,0:23:36.81,Default,Geto,0,0,0,,Especially for a sorcerer.
 Comment: 0,0:23:39.81,0:23:39.86,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.27,0:23:45.20,Default,Shoko,0,0,0,,{\an8}I wonder if the person who coined the phrase\N "a surprising side" thought of people as cubes,
 Dialogue: 0,0:23:45.20,0:23:49.91,Default,Shoko,0,0,0,,{\an8}and if the creator of the insult "shallow"\N thought of people as flat surfaces.
 Dialogue: 0,0:23:49.91,0:23:51.62,Default,Shoko,0,0,0,,{\an8}Next time, Premature Death.
-Dialogue: 1,0:23:51.62,0:23:54.75,Default,Shoko,0,0,0,,{\an8}Either way, people do have two sides to them.
+Dialogue: 0,0:23:51.62,0:23:54.83,Default,Shoko,0,0,0,,{\an8}Either way, people do have two sides to them.

@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -54,7 +53,7 @@ Dialogue: 0,0:01:03.46,0:01:06.34,Default,Narrator,0,0,0,,Since the enemy unders
 Dialogue: 0,0:01:06.34,0:01:11.18,Default,Narrator,0,0,0,,they put their trust in the first-grade sorcerer\Nconveying his intention in a roundabout way.
 Dialogue: 0,0:01:12.59,0:01:20.10,Default,Narrator,0,0,0,,The previously excluded possibility of escaping\N the domain became an option once more.
 Dialogue: 0,0:01:20.94,0:01:24.23,Default,Dagon,0,0,0,,{\i1}They're bolstering their defense of the boy?
-Dialogue: 0,0:01:24.23,0:01:26.69,Default,Dagon,0,0,0,,{\i1}That just makes it easier for me to get all{\fscx180}—{\fscx}
+Dialogue: 0,0:01:24.23,0:01:26.77,Default,Dagon,0,0,0,,{\fad(0,100)\i1}That just makes it easier for me to get all{\fscx180}—{\fscx}
 Dialogue: 0,0:01:27.36,0:01:28.19,Default,Dagon,0,0,0,,{\i1}No!
 Dialogue: 0,0:01:28.48,0:01:30.90,Default,Nanami,0,0,0,,{\i1}He figured it out. But it's too late!
 Dialogue: 0,0:01:30.90,0:01:32.82,Default,Nanami,0,0,0,,Right below Fushiguro{**-kun}!
@@ -153,7 +152,7 @@ Dialogue: 0,0:14:24.47,0:14:28.89,Default,Geto,0,0,0,,{\fade(0,350)}and although
 Dialogue: 0,0:14:38.65,0:14:41.69,Default,Jogo,0,0,0,,Wake up, Sukuna!
 Comment: 0,0:14:47.99,0:14:48.03,Default,chptr,0,0,0,,{Part B}
 Dialogue: 0,0:15:09.47,0:15:11.89,Default,Jogo,0,0,0,,{\i1}I fed him all ten.
-Dialogue: 0,0:15:11.89,0:15:16.31,Default,Jogo,0,0,0,,{\i1}That means Itadori has consumed\N at least fifteen fingers. {Now there should be at least fifteen fingers inside Itadori.}
+Dialogue: 0,0:15:11.89,0:15:16.26,Default,Jogo,0,0,0,,{\i1}That means Itadori has consumed\N at least fifteen fingers. {Now there should be at least fifteen fingers inside Itadori.}
 Dialogue: 0,0:15:26.41,0:15:28.32,Default,Jogo,0,0,0,,You're alive?
 Dialogue: 0,0:15:28.82,0:15:31.41,Default,Jogo,0,0,0,,{\i1}Must have been the technique of one of them.
 Dialogue: 0,0:15:31.41,0:15:35.58,Default,Jogo,0,0,0,,{\i1}But given how frightened they are,\N I doubt they can pull it off one more time.
@@ -198,8 +197,8 @@ Dialogue: 0,0:18:39.56,0:18:41.60,Default,Nanako,0,0,0,,{\i1}You can go to hell.
 Dialogue: 0,0:18:41.93,0:18:43.81,Default,Nanako,0,0,0,,{\i1}We'll make you regret this!
 Dialogue: 0,0:18:45.31,0:18:48.98,Default,Nanako,0,0,0,,We know the location of one other finger.
 Dialogue: 0,0:18:50.65,0:18:55.36,Default,Nanako,0,0,0,,If you kill him, we'll tell you where it is.
-Dialogue: 0,0:18:55.99,0:18:58.49,Default,Nanako,0,0,0,,So please...
-Dialogue: 0,0:18:58.49,0:19:00.12,Default,Sukuna,0,0,0,,Raise your heads.
+Dialogue: 0,0:18:55.99,0:18:58.48,Default,Nanako,0,0,0,,So please...
+Dialogue: 0,0:18:58.48,0:19:00.12,Default,Sukuna,0,0,0,,Raise your heads.
 Dialogue: 0,0:19:18.76,0:19:21.77,Default,Nanako,0,0,0,,Mimiko! Mimiko! Mimiko!
 Dialogue: 0,0:19:21.77,0:19:26.73,Default,Sukuna,0,0,0,,Did you think a measly finger or two\N would grant you the right to order me around?
 Dialogue: 0,0:19:21.77,0:19:24.10,Default,Nanako,0,0,0,,{\an8}Mimiko! Mimiko!
@@ -231,7 +230,7 @@ Dialogue: 0,0:21:10.17,0:21:13.25,Default,Jogo,0,0,0,,Plenty of ways to get the 
 Dialogue: 0,0:21:18.13,0:21:20.18,Default,Sukuna,0,0,0,,There's no need.
 Dialogue: 0,0:21:23.76,0:21:26.56,Default,Sukuna,0,0,0,,I have my own plans.
 Dialogue: 0,0:21:26.56,0:21:28.81,Default,Sukuna,0,0,0,,I get the idea, though.
-Dialogue: 0,0:21:30.48,0:21:33.52,Default,Sukuna,0,0,0,,You lot sure are desperate.
+Dialogue: 0,0:21:30.48,0:21:33.46,Default,Sukuna,0,0,0,,You lot sure are desperate.
 Dialogue: 0,0:21:34.81,0:21:37.86,Default,Sukuna,0,0,0,,This is your reward for the fingers. Come at me.
 Dialogue: 0,0:21:38.36,0:21:41.32,Default,Sukuna,0,0,0,,If you manage to land even a single hit on me,
 Dialogue: 0,0:21:41.78,0:21:44.32,Default,Sukuna,0,0,0,,I'll work under you all.
@@ -240,11 +239,11 @@ Dialogue: 0,0:21:53.96,0:21:56.46,Default,Sukuna,0,0,0,,All except for one, that
 Dialogue: 0,0:22:04.93,0:22:07.47,Default,Jogo,0,0,0,,Do we have ourselves a deal? {You're not going to back out, are you?} {You're true to your word, yes?}
 Comment: 0,0:22:09.98,0:22:10.02,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:39.98,0:23:40.02,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:40.44,0:23:44.49,Default,Naobito,0,0,0,,{\an8}I'll show y'all how adults play rock-paper-scissors! {If you're gonna do jujutsu, do it like this!} {not sure what's going on here (jujutsu is not writting with its usual kanji; possible onomatopoeia?) but based on his next line, he starts teaching how to play strip rock paper scissors, but i dont see any way to convey that with the original line so we're gonna have to improvise}
-Dialogue: 0,0:23:42.82,0:23:44.49,Alt,Nanami,0,0,0,,{\an8}Um, there are minors present.
-Dialogue: 0,0:23:44.49,0:23:47.49,Default,Naobito,0,0,0,,{\an8}Rock! Paper! Scissor! Strip! {Barrier! Technique! Go!} {this doesnt make sense... but i think that's the point since he's drunk} {he was supposed to say sth like "rock, paper, scissors, go!" but he replaced those terms with jujutsu terms cause he's high, that explains the previous "jujutsu" change too} {h-o-w-e-v-e-r if i replace those terms in english, this whole thing wont make any sense at all}
+Dialogue: 0,0:23:40.44,0:23:44.46,Default,Naobito,0,0,0,,{\an8}I'll show y'all how adults play rock-paper-scissors! {If you're gonna do jujutsu, do it like this!} {not sure what's going on here (jujutsu is not written with its usual kanji; possible onomatopoeia?) but based on his next line, he starts teaching how to play strip rock paper scissors, but i dont see any way to convey that with the original line so we're gonna have to improvise}
+Dialogue: 0,0:23:42.82,0:23:44.46,Alt,Nanami,0,0,0,,{\an8}Um, there are minors present.
+Dialogue: 0,0:23:44.46,0:23:47.49,Default,Naobito,0,0,0,,{\an8}Rock! Paper! Scissor! Strip! {Barrier! Technique! Go!} {this doesnt make sense... but i think that's the point since he's drunk} {he was supposed to say sth like "rock, paper, scissors, go!" but he replaced those terms with jujutsu terms cause he's high, that explains the previous "jujutsu" change too} {h-o-w-e-v-e-r if i replace those terms in english, this whole thing wont make any sense at all}
 Dialogue: 0,0:23:45.78,0:23:47.49,Alt,Nanami,0,0,0,,{\an8}Please, students are watching.
 Dialogue: 0,0:23:47.49,0:23:50.53,Default,Naobito,0,0,0,,{\an8}I threw paper, so everyone who threw scissors\N might have a lucky day tomorrow!
 Dialogue: 0,0:23:50.53,0:23:52.16,Default,Nanami,0,0,0,,{\an8}Please don't suddenly\N try to make this kid-friendly.
-Dialogue: 0,0:23:52.16,0:23:53.45,Default,Maki,0,0,0,,{\an8}Next time, Thunderclap.
-Dialogue: 0,0:23:53.45,0:23:54.87,Default,Naobito,0,0,0,,{\an8}I'm so drunk!
+Dialogue: 0,0:23:52.16,0:23:53.44,Default,Maki,0,0,0,,{\an8}Next time, Thunderclap.
+Dialogue: 0,0:23:53.44,0:23:54.87,Default,Naobito,0,0,0,,{\an8}I'm so drunk!

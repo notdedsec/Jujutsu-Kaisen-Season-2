@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -41,7 +40,7 @@ Dialogue: 0,0:00:19.50,0:00:23.46,Default,Kugisaki,0,0,0,,...was to prevent me f
 Dialogue: 0,0:00:23.88,0:00:27.38,Default,Kugisaki,0,0,0,,That's probably why the paramedics were late too. {what. i mean it's correct but like, what did she mean by this?} {maybe it's like: that's prolly why the paramedics could afford to be late?} {she's implying that the paramedics took their sweet time just to stall her from running off doing sth reckless, as mentioned in literally the previous line} {right... i'm dumb}
 Dialogue: 0,0:00:29.80,0:00:35.81,Default,Kugisaki,0,0,0,,Whatever the case, I can't just leave\N while they're still fighting.
 Dialogue: 0,0:00:35.81,0:00:36.98,Default,Nitta,0,0,0,,W-Wait!
-Dialogue: 0,0:00:37.48,0:00:38.89,Default,Nitta,0,0,0,,Kugisaki{**-san}!
+Dialogue: 0,0:00:37.48,0:00:38.85,Default,Nitta,0,0,0,,Kugisaki{**-san}!
 Comment: 0,0:01:00.96,0:01:01.00,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:02:31.01,0:02:31.05,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:02:39.26,0:02:43.48,Default,Mahito,0,0,0,,{\i1}Maybe I should've had Dagon\N leave me a few more humans.\h
@@ -54,7 +53,7 @@ Dialogue: 0,0:03:51.00,0:03:52.09,Default,Mahito,0,0,0,,Not bad!
 Dialogue: 0,0:04:05.48,0:04:07.60,Default,Mahito,0,0,0,,{\i1}She's avoiding my hands.
 Dialogue: 0,0:04:08.10,0:04:11.36,Default,Mahito,0,0,0,,{\i1}Must've heard the report from that 7:3 sorcerer.
 Dialogue: 0,0:04:11.94,0:04:13.11,Default,Mahito,0,0,0,,You're no fun.
-Dialogue: 0,0:04:22.87,0:04:24.87,Default,Mahito,0,0,0,,{\i1}I'm only a double, though.
+Dialogue: 0,0:04:22.87,0:04:24.83,Default,Mahito,0,0,0,,{\i1}I'm only a double, though.
 Dialogue: 0,0:04:26.75,0:04:28.79,Default,Mahito,0,0,0,,{\i1}I can still alter my own shape,
 Dialogue: 0,0:04:29.04,0:04:31.54,Default,Mahito,0,0,0,,{\i1}but I can't manipulate transfigured humans
 Dialogue: 0,0:04:31.54,0:04:34.42,Default,Mahito,0,0,0,,{\i1}or interfere with the souls of others.
@@ -79,7 +78,7 @@ Dialogue: 0,0:05:50.50,0:05:56.13,Default,Mahito,0,0,0,,{\i1}Itadori Yuji wasn't
 Dialogue: 0,0:05:59.09,0:06:00.46,Default,Kugisaki,0,0,0,,That's odd.
 Dialogue: 0,0:06:01.09,0:06:05.60,Default,Kugisaki,0,0,0,,I just felt my cursed energy\N explode somewhere else nearby.
 Dialogue: 0,0:06:05.97,0:06:08.81,Default,Kugisaki,0,0,0,,Let's see, your cursed energy\N isn't all that strong,
-Dialogue: 0,0:06:08.81,0:06:12.10,Default,Kugisaki,0,0,0,,and you passed on the chance\N to grab me earlier, too.
+Dialogue: 0,0:06:08.81,0:06:12.06,Default,Kugisaki,0,0,0,,and you passed on the chance\N to grab me earlier, too.
 Dialogue: 0,0:06:12.60,0:06:17.61,Default,Kugisaki,0,0,0,,You're some kinda double who\N can't use its technique, aren't you?
 Dialogue: 0,0:06:19.36,0:06:20.61,Default,Mahito,0,0,0,,Correct.
 Dialogue: 0,0:06:33.54,0:06:35.54,Default,Mahito,0,0,0,,{\i1}Her technique's effects are still lingering!
@@ -104,7 +103,7 @@ Dialogue: 0,0:07:41.27,0:07:44.07,Default,Kugisaki,0,0,0,,{\i1}I could just igno
 Dialogue: 0,0:07:44.07,0:07:48.66,Default,Kugisaki,0,0,0,,{\i1}but letting that thing run free \Nwould only come back to bite us later.
 Dialogue: 0,0:07:56.08,0:07:57.04,Default,Kugisaki,0,0,0,,{\i1}Underground?!
 Dialogue: 0,0:07:57.58,0:07:58.96,Default,Kugisaki,0,0,0,,{\i1}This is perfect!
-Dialogue: 0,0:07:58.96,0:08:01.96,Default,Kugisaki,0,0,0,,{\i1}I'll exorcise it and head to B5!
+Dialogue: 0,0:07:58.96,0:08:02.00,Default,Kugisaki,0,0,0,,{\i1}I'll exorcise it and head to B5!
 Dialogue: 0,0:08:08.43,0:08:09.68,Default,Yuji,0,0,0,,{\i1}He split up!
 Dialogue: 0,0:08:10.47,0:08:11.51,Default,Yuji,0,0,0,,{\i1}Which one?
 Dialogue: 0,0:08:12.30,0:08:17.60,Default,Yuji,0,0,0,,{\i1}One of them must contain\N the part of the soul I need to crush!
@@ -112,10 +111,10 @@ Dialogue: 0,0:08:21.44,0:08:22.69,Default,Mahito,0,0,0,,Gotcha!
 Dialogue: 0,0:08:23.36,0:08:25.11,Default,Yuji,0,0,0,,{\i1}Dammit! He tricked me with cursed energy!
 Dialogue: 0,0:08:33.99,0:08:35.41,Default,Yuji,0,0,0,,{\i1}There are two Mahitos?!
 Dialogue: 0,0:08:36.45,0:08:39.00,Default,Yuji,0,0,0,,{\i1}He had a double acting separately?!
-Dialogue: 0,0:08:39.37,0:08:42.00,Default,Yuji,0,0,0,,{\i1}Is he planning to merge it back in to heal himself?
+Dialogue: 0,0:08:39.37,0:08:41.88,Default,Yuji,0,0,0,,{\i1}Is he planning to merge it back in to heal himself?
 Dialogue: 0,0:08:58.23,0:08:59.31,Default,Kugisaki,0,0,0,,Itadori?!
-Dialogue: 0,0:09:01.85,0:09:06.15,Default,Yuji,0,0,0,,Run! Kugisaki!
-Dialogue: 0,0:09:13.62,0:09:14.87,Default,Mahito,0,0,0,,Hit you dead-on! {nice kill}
+Dialogue: 0,0:09:01.85,0:09:06.11,Default,Yuji,0,0,0,,{\fad(0,700)}Run! Kugisaki!
+Dialogue: 0,0:09:13.57,0:09:14.83,Default,Mahito,0,0,0,,Hit you dead-on! {nice kill}
 Dialogue: 0,0:09:17.12,0:09:18.16,Default,Yuji,0,0,0,,Out of my way!
 Dialogue: 0,0:09:19.29,0:09:20.29,Default,Yuji,0,0,0,,Kugisaki!
 Dialogue: 0,0:09:22.46,0:09:23.83,Default,Mahito,0,0,0,,{\i1}Let's see.
@@ -141,8 +140,8 @@ Dialogue: 0,0:11:11.90,0:11:14.49,Default,Fumi,0,0,0,,{\i1}I liked both red and 
 Dialogue: 0,0:11:15.07,0:11:18.53,Default,Fumi,0,0,0,,{\i1}but apparently everyone hated blue.
 Dialogue: 0,0:12:01.99,0:12:03.24,Default,Fumi,0,0,0,,Thank you.
 Dialogue: 0,0:12:06.37,0:12:07.12,Default,Kugisaki,0,0,0,,Hey,
-Dialogue: 0,0:12:07.50,0:12:09.08,Default,Kugisaki,0,0,0,,{\pos(980,1020)}I like your backpack, Fumi.
-Dialogue: 0,0:12:09.08,0:12:10.21,Default,Kugisaki,0,0,0,,{\pos(980,1020)}Let's trade!
+Dialogue: 0,0:12:07.50,0:12:09.00,Default,Kugisaki,0,0,0,,{\pos(980,1020)}I like your backpack, Fumi.
+Dialogue: 0,0:12:09.00,0:12:10.21,Default,Kugisaki,0,0,0,,{\pos(980,1020)}Let's trade!
 Dialogue: 0,0:12:12.00,0:12:12.88,Default,Fumi,0,0,0,,Huh?
 Dialogue: 0,0:12:13.38,0:12:15.26,Default,Kugisaki,0,0,0,,Let's trade!
 Dialogue: 0,0:12:16.63,0:12:17.63,Default,Fumi,0,0,0,,Huh?
@@ -153,7 +152,7 @@ Dialogue: 0,0:12:32.52,0:12:34.69,Default,Teacher,0,0,0,,Knock it off, Kugisaki!
 Dialogue: 0,0:12:34.69,0:12:35.40,Default,Kugisaki,0,0,0,,Yikes!
 Dialogue: 0,0:12:35.69,0:12:38.74,Default,Teacher,0,0,0,,Why is it always you?!
 Dialogue: 0,0:12:38.74,0:12:40.74,Default,Kugisaki,0,0,0,,Shuddup, old geez!
-Dialogue: 0,0:12:40.74,0:12:43.03,Default,Kugisaki,0,0,0,,Don't don't bother catchin' up!
+Dialogue: 0,0:12:40.74,0:12:42.99,Default,Kugisaki,0,0,0,,Don't don't bother catchin' up!
 Dialogue: 0,0:12:44.99,0:12:48.41,Default,Fumi,0,0,0,,{\i1}My backpack was back with me \Nbefore the day was over.
 Dialogue: 0,0:12:48.87,0:12:51.21,Default,Kugisaki,0,0,0,,I hate all backpacks, to be honest.
 Dialogue: 0,0:12:51.75,0:12:52.92,Default,Fumi,0,0,0,,Huh?
@@ -167,7 +166,7 @@ Dialogue: 0,0:13:17.40,0:13:20.86,Default,Fumi,0,0,0,,{\i1}I thought, "Isn't tha
 Dialogue: 0,0:13:22.61,0:13:23.91,Default,Fumi,0,0,0,,{\i1}Several years later,
 Dialogue: 0,0:13:23.91,0:13:27.95,Default,Fumi,0,0,0,,{\i1}when the old lady next door brought red rice\N to celebrate my first period,
 Dialogue: 0,0:13:27.95,0:13:32.96,Default,Fumi,0,0,0,,{\i1}I finally understood the creepiness that Nobara{**-chan} was referring to.
-Dialogue: 0,0:13:36.21,0:13:37.34,Default,Kugisaki,0,0,0,,Fumi!
+Dialogue: 0,0:13:36.21,0:13:37.21,Default,Kugisaki,0,0,0,,Fumi!
 Dialogue: 0,0:13:38.51,0:13:40.97,Default,Kugisaki,0,0,0,,I found a secret base!
 Dialogue: 0,0:13:45.89,0:13:49.27,Default,Fumi,0,0,0,,{\i1}Nobara{**-chan} would sometimes say things\N you wouldn't expect from a child,
 Dialogue: 0,0:13:49.27,0:13:51.85,Default,Fumi,0,0,0,,{\i1}but then also say stuff like this all of a sudden.
@@ -251,13 +250,13 @@ Dialogue: 0,0:20:27.04,0:20:30.21,Default,Kugisaki,0,0,0,,{\i1}Trampling over ev
 Dialogue: 0,0:20:38.34,0:20:41.39,Default,Kugisaki,0,0,0,,Though, I guess there can be exceptions. {as in those who stand out above the noise}
 Dialogue: 0,0:21:03.99,0:21:05.45,Default,Kugisaki,0,0,0,,Sorry, Fumi.
 Dialogue: 0,0:21:09.83,0:21:12.54,Default,Kugisaki,0,0,0,,I couldn't keep our promise.
-Dialogue: 0,0:21:19.26,0:21:22.55,Default,Kugisaki,0,0,0,,Itadori, tell everyone for me:
+Dialogue: 0,0:21:19.26,0:21:22.51,Default,Kugisaki,0,0,0,,Itadori, tell everyone for me:
 Dialogue: 0,0:21:24.97,0:21:26.77,Default,Kugisaki,0,0,0,,It wasn't so bad! {what does "it" refer to? life? or all the craziness?}
 Dialogue: 0,0:21:52.92,0:21:54.08,Default,Yuji,0,0,0,,Kugisaki?
 Comment: 0,0:21:55.04,0:21:55.09,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:25.01,0:23:25.05,Default,chptr,0,0,0,,{Preview}
-Dialogue: 0,0:23:25.55,0:23:28.05,Default,Kugisaki,0,0,0,,{\an8}When I first stepped off at Tokyo Station,
+Dialogue: 0,0:23:25.51,0:23:28.05,Default,Kugisaki,0,0,0,,{\an8}When I first stepped off at Tokyo Station,
 Dialogue: 0,0:23:28.05,0:23:32.43,Default,Kugisaki,0,0,0,,{\an8}I was a bit grossed out because the air\N smelled like I was standing behind a truck.
 Dialogue: 0,0:23:32.43,0:23:34.93,Default,Kugisaki,0,0,0,,{\an8}Now it doesn't bother me at all, though.
 Dialogue: 0,0:23:34.93,0:23:37.06,Default,Kugisaki,0,0,0,,{\an8}Next time, Right and Wrong, Part 3.
-Dialogue: 0,0:23:37.06,0:23:39.65,Default,Kugisaki,0,0,0,,{\an8}I guess life's all about the dirt we pick up.
+Dialogue: 0,0:23:37.06,0:23:39.65,Default,Kugisaki,0,0,0,,{\an8}Maybe life is all about the dirt we pick up.

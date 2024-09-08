@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -58,7 +57,7 @@ Dialogue: 0,0:03:13.55,0:03:20.30,Default,Todo,0,0,0,,{\i1}That burst of power c
 Dialogue: 0,0:03:20.30,0:03:22.93,Default,Todo,0,0,0,,{\i1}It went all in on the offensive.
 Dialogue: 0,0:03:22.93,0:03:24.18,Default,Todo,0,0,0,,{\i1}And now...
 Dialogue: 0,0:03:25.18,0:03:27.23,Default,Todo,0,0,0,,{\i1}there's two more?
-Dialogue: 0,0:03:34.44,0:03:38.45,Default,Todo,0,0,0,,Forgive me, you pitiful souls.
+Dialogue: 0,0:03:34.40,0:03:38.45,Default,Todo,0,0,0,,Forgive me, you pitiful souls.
 Comment: 0,0:03:38.99,0:03:39.03,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:05:08.96,0:05:09.00,Default,chptr,0,0,0,,{Part A}
 Dialogue: 0,0:05:16.63,0:05:19.76,Default,Mahito,0,0,0,,{\i1}We're finally away from the topknot gorilla.
@@ -138,8 +137,8 @@ Dialogue: 0,0:14:59.46,0:15:01.96,Default,Yuji,0,0,0,,{\i1}If I want to defeat t
 Dialogue: 0,0:15:02.97,0:15:07.22,Default,Yuji,0,0,0,,{\i1}I'll have to hit him with a Black Flash\N at my maximum cursed energy.
 Dialogue: 0,0:15:09.60,0:15:11.43,Default,Yuji,0,0,0,,{\i1}That's the only way!
 Dialogue: 0,0:15:26.95,0:15:30.12,Default,Mahito,0,0,0,,{\i1}I only used Domain Expansion for a moment,
-Dialogue: 0,0:15:30.12,0:15:33.41,Default,Mahito,0,0,0,,{\i1}but taking a Black Flash right after it \Ndid some serious damage.
-Dialogue: 0,0:15:47.72,0:15:49.26,Default,Mahito,0,0,0,,Looks like
+Dialogue: 0,0:15:30.12,0:15:33.37,Default,Mahito,0,0,0,,{\i1}but taking a Black Flash right after it \Ndid some serious damage.
+Dialogue: 0,0:15:47.72,0:15:49.26,Default,Mahito,0,0,0,,Looks like...
 Dialogue: 0,0:15:50.43,0:15:53.06,Default,Mahito,0,0,0,,we still got a lot left in the tank!
 Dialogue: 0,0:16:17.71,0:16:20.79,Default,Mahito,0,0,0,,{\i1}No one can unleash a Black Flash at will.
 Dialogue: 0,0:16:21.54,0:16:26.47,Default,Mahito,0,0,0,,{\i1}But something about Itadori right now\N has me convinced that he can.
@@ -175,4 +174,4 @@ Comment: 0,0:23:24.97,0:23:25.01,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:25.55,0:23:28.64,Default,Geto,0,0,0,,{\an8}A contrived destiny may not be destiny at all,
 Dialogue: 0,0:23:28.64,0:23:34.68,Default,Geto,0,0,0,,{\an8}but the moment such fake destinies intertwine\N will no doubt be true destiny.
 Dialogue: 0,0:23:34.68,0:23:36.94,Default,Geto,0,0,0,,{\an8}Next time, Metamorphosis, Part 2.
-Dialogue: 0,0:23:36.94,0:23:39.81,Default,Geto,0,0,0,,{\an8}Sometimes, fabrications are necessary to create something genuine. {Some things can only be cultivated under pretenses.} {Even fabrications can lead to something genuine.} {Sometimes you gotta fake it till you make it. (T_T)} {im gonna bet the "something genuine" here refers to yuji and the "fabrications" and "contrived destinies" are the years of planning and backshots poor kenny had to take to get him here}
+Dialogue: 0,0:23:36.94,0:23:39.82,Default,Geto,0,0,0,,{\an8}Sometimes, fabrications are necessary to create something genuine. {Some things can only be cultivated under pretenses.} {Even fabrications can lead to something genuine.} {Sometimes you gotta fake it till you make it. (T_T)} {im gonna bet the "something genuine" here refers to yuji and the "fabrications" and "contrived destinies" are the years of planning and backshots poor kenny had to take to get him here}

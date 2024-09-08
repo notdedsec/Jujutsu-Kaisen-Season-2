@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -88,12 +87,12 @@ Dialogue: 0,0:05:15.04,0:05:18.63,Default,Geto,0,0,0,,{\fade(0,300)}And I had my
 Dialogue: 0,0:05:20.63,0:05:23.09,Default,Geto,0,0,0,,It was safer than any land route. {b-but... there is no land route to okinawa}{alright then, "any land route" in general}
 Dialogue: 0,0:05:24.51,0:05:29.64,Default,Geto,0,0,0,,I'm more curious as to why they chose\N Okinawa for the exchange.
 Dialogue: 0,0:05:30.06,0:05:32.14,Default,Kuroi,0,0,0,,Perhaps they were stalling for time?
-Dialogue: 1,0:05:32.73,0:05:34.69,Default,Kuroi,0,0,0,,Even if they failed to kill {*}Lady Riko{*Riko-sama},
-Dialogue: 1,0:05:34.69,0:05:37.15,Default,Kuroi,0,0,0,,they could keep her from \Nmaking tomorrow's full moon deadline.
+Dialogue: 0,0:05:32.73,0:05:34.69,Default,Kuroi,0,0,0,,Even if they failed to kill {*}Lady Riko{*Riko-sama},
+Dialogue: 0,0:05:34.69,0:05:37.15,Default,Kuroi,0,0,0,,they could keep her from \Nmaking tomorrow's full moon deadline.
 Dialogue: 0,0:05:37.53,0:05:42.11,Default,Geto,0,0,0,,If that were the goal, why not go for a rural area\N with limited transportation.
 Dialogue: 0,0:05:42.11,0:05:45.70,Default,Kuroi,0,0,0,,Do you think they're planning to attack the airport?
 Dialogue: 0,0:05:45.70,0:05:48.12,Default,Geto,0,0,0,,Maybe so, but there's no need to worry.
-Dialogue: 1,0:05:48.62,0:05:51.58,Default,Geto,0,0,0,,We're not the only ones who came here.
+Dialogue: 0,0:05:48.62,0:05:51.58,Default,Geto,0,0,0,,We're not the only ones who came here.
 Dialogue: 0,0:05:53.67,0:05:57.80,Default,Nanami,0,0,0,,No matter how you slice it,\N this isn't a mission fit for first-years.
 Dialogue: 0,0:05:57.80,0:05:59.80,Default,Haibara,0,0,0,,I'm totally psyched, though!
 Dialogue: 0,0:06:00.13,0:06:02.63,Default,Haibara,0,0,0,,I wanna show Geto{**-san} what I got!
@@ -272,7 +271,12 @@ Dialogue: 0,0:21:41.15,0:21:42.53,Default,Toji,0,0,0,,Why?
 Dialogue: 0,0:21:43.07,0:21:45.62,Default,Toji,0,0,0,,Oh, that's what you mean.
 Dialogue: 0,0:21:47.95,0:21:51.12,Default,Toji,0,0,0,,Because I killed Gojo Satoru.
 Dialogue: 0,0:22:05.05,0:22:06.30,Default,Geto,0,0,0,,Is that so?
-Dialogue: 0,0:22:06.97,0:22:08.35,Default,Geto,0,0,0,,Die!
+Dialogue: 1,0:22:06.97,0:22:08.35,Default,Geto,0,0,0,,{\an5\c&H000000&\fnCabin Sketch\xbord4\ybord5\fsp-0.5\pos(928.6,984.75)}D
+Dialogue: 1,0:22:06.97,0:22:08.35,Default,Geto,0,0,0,,{\an5\c&H000000&\fnCabin Sketch\xbord2.8\ybord3\fsp-0.5\pos(958.25,986)}i
+Dialogue: 1,0:22:06.97,0:22:08.35,Default,Geto,0,0,0,,{\an5\c&H000000&\fnCabin Sketch\xbord3.4\ybord3.6\fsp-0.5\pos(981.32,985.2)}e
+Dialogue: 1,0:22:06.97,0:22:08.35,Default,Geto,0,0,0,,{\an5\c&H000000&\fnCabin Sketch\xbord3\ybord4.8\fsp-0.5\pos(1005.5,983.4)}!
+Dialogue: 2,0:22:06.97,0:22:08.35,Default,Geto,0,0,0,,{\an5\c&H000000&\fnCabin Sketch\xbord4\ybord5\fsp-0.5\pos(927.6,984.75)\clip(896.46,950.42,918.71,1014.1)}D
+Dialogue: 3,0:22:06.97,0:22:08.35,Default,Geto,0,0,0,,{\pos(960,982.5)\an5\bord0\shad0}Die!
 Comment: 0,0:22:10.02,0:22:10.06,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:40.02,0:23:40.07,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:41.27,0:23:44.86,Default,Shoko,0,0,0,,{\an8}They say it's never too late to start something,

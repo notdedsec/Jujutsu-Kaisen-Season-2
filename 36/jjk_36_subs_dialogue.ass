@@ -30,7 +30,6 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Cabin,75,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Alt,Cabin,75,&H00FFFFFF,&H000000FF,&H003C3900,&HA5000000,-1,0,0,0,100,100,0,0,1,3.6,1.8,2,128,128,60,1
 Style: Cursed,KG HAPPY Solid,81,&H00FFFFFF,&H000000FF,&H00000000,&HA5000000,0,0,0,0,85,100,0,0,1,3.6,1.8,2,128,128,55,1
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -104,12 +103,12 @@ Dialogue: 0,0:06:41.21,0:06:45.22,Default,Ogami,0,0,0,,The soul lost to the body
 Dialogue: 0,0:06:45.64,0:06:46.89,Default,Ogami,0,0,0,,That is absurd!
 Dialogue: 0,0:06:48.05,0:06:49.72,Default,Toji,0,0,0,,I gotta kill sorcerers, huh?
 Dialogue: 0,0:06:54.31,0:06:56.35,Default,Toji,0,0,0,,Let's start with you.
-Dialogue: 0,0:07:00.73,0:07:02.11,Default,Maki,0,0,0,,{*}Mr. Ijichi{*Ijichi-san} got attacked?
+Dialogue: 0,0:07:00.73,0:07:01.98,Default,Maki,0,0,0,,{*}Mr. Ijichi{*Ijichi-san} got attacked?
 Dialogue: 0,0:07:07.74,0:07:10.20,Default,Kugisaki,0,0,0,,That's what it sounded like on the phone with Nitta{**-chan}.
 Dialogue: 0,0:07:10.20,0:07:13.20,Default,Kugisaki,0,0,0,,It must have happened\N after he left Fushiguro's group.
 Dialogue: 0,0:07:13.20,0:07:15.46,Default,Kugisaki,0,0,0,,We shouldn't leave him alone right now.
 Dialogue: 0,0:07:16.08,0:07:18.96,Default,Maki,0,0,0,,Nobara, you take Akari{**-san} to {*}Mr. Ijichi{*Ijichi-san}'s location.
-Dialogue: 0,0:07:19.42,0:07:24.13,Default,Maki,0,0,0,,{\i1}Without any signal, the assistant supervisors\N are critical for communication. {the voice actor made it sound like this line is an internal thought but it's supposed to be said out loud...}
+Dialogue: 0,0:07:19.38,0:07:24.13,Default,Maki,0,0,0,,{\i1}Without any signal, the assistant supervisors\N are critical for communication. {the voice actor made it sound like this line is an internal thought but it's supposed to be said out loud...}
 Dialogue: 0,0:07:25.01,0:07:30.14,Default,Maki,0,0,0,,{\i1}I doubt that dumbass would ever lose,\N but this whole situation is smelling even fishier.
 Dialogue: 0,0:07:30.81,0:07:33.06,Default,Maki,0,0,0,,I'll handle things over here.
 Dialogue: 0,0:07:34.73,0:07:37.40,Default,Maki,0,0,0,,Damn geezer's totally useless. {slacking off too much}
@@ -202,7 +201,7 @@ Dialogue: 0,0:13:39.09,0:13:42.97,Default,Shigemo,0,0,0,,was born in a world wit
 Dialogue: 0,0:13:43.97,0:13:47.01,Default,Shigemo,0,0,0,,Never mind. I can't explain it.
 Dialogue: 0,0:13:47.39,0:13:51.02,Default,Shigemo,0,0,0,,I mean, do I even {\i1}need{\i0} a reason?
 Dialogue: 0,0:13:52.23,0:13:56.02,Default,Shigemo,0,0,0,,Who cares as long as it's fun, right?
-Dialogue: 0,0:13:56.02,0:13:59.90,Default,Shigemo,0,0,0,,Nothing else matters as long as I'm having fun!
+Dialogue: 0,0:13:56.02,0:13:59.82,Default,Shigemo,0,0,0,,Nothing else matters as long as I'm having fun!
 Dialogue: 0,0:14:01.28,0:14:03.11,Default,Shigemo,0,0,0,,Wouldn't you agree?
 Dialogue: 0,0:14:03.49,0:14:05.12,Default,Kugisaki,0,0,0,,Stop it!
 Dialogue: 0,0:14:13.75,0:14:16.50,Default,Shigemo,0,0,0,,Make me stop!
@@ -228,7 +227,7 @@ Dialogue: 0,0:16:10.70,0:16:12.20,Default,Shigemo,0,0,0,,I dunno!
 Dialogue: 0,0:16:16.04,0:16:18.00,Default,Shigemo,0,0,0,,{\i1}Huh? Did I hit a wall?
 Dialogue: 0,0:16:19.79,0:16:23.21,Default,Shigemo,0,0,0,,{\i1}It didn't cut him?!
 Dialogue: 0,0:16:23.63,0:16:27.67,Default,Nanami,0,0,0,,How many allies and where?
-Dialogue: 0,0:16:32.14,0:16:32.76,Default,Smallpox,0,0,0,,I dun{\fscx180}—{\fscx}
+Dialogue: 0,0:16:32.14,0:16:32.68,Default,Shigemo,0,0,0,,I dun{\fscx180}—{\fscx}
 Dialogue: 0,0:16:48.11,0:16:49.49,Default,Shigemo,0,0,0,,{\i1}I'd be dead!
 Dialogue: 0,0:16:49.49,0:16:51.87,Default,Shigemo,0,0,0,,{\i1}If it weren't for my technique, I'd be dead!
 Dialogue: 0,0:16:53.24,0:16:55.16,Default,Shigemo,0,0,0,,{\i1}I-I need to run!
@@ -266,9 +265,9 @@ Dialogue: 0,0:19:58.43,0:20:02.35,Default,Geto,0,0,0,,I think I'll keep the huma
 Dialogue: 0,0:20:02.72,0:20:04.52,Default,Geto,0,0,0,,I'll be waiting down this line.
 Dialogue: 0,0:20:04.52,0:20:06.89,Default,Geto,0,0,0,,If you manage to exorcise that,\N I'll take you on.
 Dialogue: 0,0:20:12.77,0:20:14.40,Default,Mei,0,0,0,,{\i1}Domain Expansion?!
-Dialogue: 0,0:20:14.94,0:20:17.61,Default,Mei,0,0,0,,{\i1}This could be troublesome.
+Dialogue: 0,0:20:14.99,0:20:17.61,Default,Mei,0,0,0,,{\i1}This could be troublesome.
 Dialogue: 0,0:20:21.83,0:20:22.91,Cursed,Smallpox,0,0,0,,Grave.
-Dialogue: 0,0:20:23.41,0:20:24.79,Default,Mei,0,0,0,,{\i1}I'm trapped?
+Dialogue: 0,0:20:23.41,0:20:24.66,Default,Mei,0,0,0,,{\i1}I'm trapped?
 Dialogue: 0,0:20:25.54,0:20:27.66,Default,Mei,0,0,0,,Is this a coffin?
 Dialogue: 0,0:20:27.96,0:20:29.17,Default,Ui,0,0,0,,{*}Sister{*Nee-sama}!
 Dialogue: 0,0:20:33.00,0:20:34.42,Cursed,Smallpox,0,0,0,,Three.
@@ -302,5 +301,5 @@ Dialogue: 0,0:23:46.61,0:23:48.16,Default,Kugisaki,0,0,0,,{\an8}Excel, PowerPoin
 Dialogue: 0,0:23:48.16,0:23:49.99,Default,Ijichi,0,0,0,,{\an8}I mean it. I really am fine.
 Dialogue: 0,0:23:49.99,0:23:51.24,Default,Fushiguro,0,0,0,,{\an8}Next time, Red Scale.
 Dialogue: 0,0:23:51.24,0:23:52.49,Default,Yuji,0,0,0,,{\an8}What's "merge cells"?
-Dialogue: 0,0:23:52.49,0:23:53.33,Default,Kugisaki,0,0,0,,{\an8}Just click it.
-Dialogue: 0,0:23:53.33,0:23:54.91,Default,Ijichi,0,0,0,,{\an8}Please, just go away!
+Dialogue: 0,0:23:52.49,0:23:53.37,Default,Kugisaki,0,0,0,,{\an8}Just click it.
+Dialogue: 0,0:23:53.37,0:23:55.00,Default,Ijichi,0,0,0,,{\an8}Please, just go away!
