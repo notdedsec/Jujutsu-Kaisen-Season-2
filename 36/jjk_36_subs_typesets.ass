@@ -16,65 +16,64 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Audio File: jjk_36_premux.mkv
 Video File: jjk_36_premux.mkv
 Keyframes File: jjk_36_keyframes.txt
 Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 44
+Video Position: 30168
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:44.02,0:00:47.02,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 36\N{\fs70}Dull Blade
 Dialogue: 0,0:00:37.98,0:00:38.02,<<folder>>,,0,0,0,,{=0}- Insurance
-Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\an5\pos(1014,486.8)\fscx110\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\b1\c&HADBBC4&\blur0.69}Leave your
-Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\an5\fscx110\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\b1\c&HADBBC4&\blur0.69\pos(1096.7,487.3)}insurance
-Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\an5\fscx110\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\b1\c&HADBBC4&\blur0.69\pos(1178.74,487.8)}decisions
-Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\an5\fscx110\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\b1\c&HADBBC4&\blur0.69\pos(1246.54,487.3)}to us
+Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\blur0.69\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\c&HADBBC4&\pos(1099,487.3)\b1\clip(m 974.74 475.41 l 1218.32 476.13 1218.61 509.38 1141.8 508.55 1141.52 478.34 1134.32 478.34 1134.79 508.27 1058.38 507.71 1058.66 478.46 1052.17 477.95 1052.29 507.44 975.01 508.12)}Leave your  insurance decisions to us
 Dialogue: 0,0:00:43.98,0:00:44.02,<<folder>>,,0,0,0,,{=1}
-Dialogue: 0,0:00:05.82,0:00:05.86,<<folder>>,,0,0,0,,{=2}- Currently at Shibuya
+Dialogue: 0,0:00:05.82,0:00:05.86,<<folder>>,,0,0,0,,{=20}- Locations
 Dialogue: 0,0:00:05.82,0:00:05.86,<<folder>>,,0,0,0,,- Exit 13
-Dialogue: 0,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\pos(817.33,862.015)\blur1\p1\c&HEAF4F4&\b1}m 0 0.01 l 260.66 0.01 260.66 87.04 0 87.04
-Dialogue: 0,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\pos(1431.935,862.015)\blur1\p1\c&HEAF4F4&\b1}m 0.01 0.01 l 789.89 0.01 789.89 87.04 0.01 87.04
-Dialogue: 0,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\pos(1431.935,981.515)\blur1\p1\c&HEAF4F4&\b1}m 0.01 0.01 l 789.89 0.01 789.89 87.04 0.01 87.04
+Dialogue: 0,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\pos(817.33,862.015)\blur0.6\p1\c&HECF5F5&\b1}m 0 0.01 l 260.66 0.01 260.66 87.04 0 87.04
+Dialogue: 0,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\pos(1431.935,862.015)\blur0.6\p1\c&HECF5F5&\b1}m 0.01 0.01 l 789.89 0.01 789.89 87.04 0.01 87.04
+Dialogue: 0,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\pos(1431.935,981.515)\blur0.6\p1\c&HECF5F5&\b1}m 0.01 0.01 l 789.89 0.01 789.89 87.04 0.01 87.04
 Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(817.33,862.015)\fs66\blur0.6}21:44
 Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(1072.318,862.015)\fs66\blur0.6}Tokyo Metro, Shibuya Station
 Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(1072.318,981.515)\fs66\blur0.6}Exit 13, Outside the Veil
 Dialogue: 3,0:00:08.53,0:00:08.57,<<folder>>,,0,0,0,,
 Dialogue: 0,0:02:26.63,0:02:26.67,<<folder>>,,0,0,0,,- Between Stations
-Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&H000000&\blur1\pos(655.6,862.805)\b1}m 0 0 l 259.2 0 259.2 87.63 0 87.63
-Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&H000000&\blur1\pos(1119.45,862.815)\b1}m 0 0 l 476.9 0 476.9 87.63 0 87.63
-Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&H000000&\blur1\pos(1180.395,982.815)\b1}m 0 0 l 1308.79 0 1308.79 87.63 0 87.63
-Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(655.6,862.805)\fs73\c&HFDFAF6&\blur0.6\fscx99}22:02
-Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1119.45,859.34)\fs73\c&HFDFAF6&\blur0.6\fscx99}Tokyo Metro
-Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1180.4,979.34)\fs73\c&HFDFAF6&\blur0.6\fscx99}Between Meiji-jingumae and Shibuya Stations {ep34 12:32}
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&HF2E5DB&\blur0.6\pos(655.6,862.805)\b1}m 0 0 l 259.2 0 259.2 87.63 0 87.63
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&HF2E5DB&\blur0.6\pos(1057.45,862.82)\b1}m 0 0 l 476.9 0 476.9 87.63 0 87.63
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&HF2E5DB&\blur0.6\pos(1180.395,982.815)\b1}m 0 0 l 1308.79 0 1308.79 87.63 0 87.63
+Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(656.6,862.81)\fs73\blur0.6\fscx99}22:02
+Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1057.45,860.34)\fs73\blur0.6\fscx99}Tokyo Metro
+Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1180.4,980.34)\fs73\blur0.6\fscx98}Between Meiji-jingumae and Shibuya Stations {ep34 12:32}
 Dialogue: 0,0:02:35.84,0:02:35.89,<<folder>>,,0,0,0,,
 Dialogue: 0,0:04:45.52,0:04:45.56,<<folder>>,,0,0,0,,- Shuto Expressway, Cerulean Tower
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\p1\blur1\c&HFBFBFB&\pos(91.5,816)\clip(91.5,816,376.5,914)\b1}m 0 0 l 285 0 285 98 0 98
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\pos(414.73,816)\p1\blur1\c&HFBFBFB&\clip(415,816,1490,914)\b1}m 0.27 0 l 1075.27 0 1075.27 98 0.27 98
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\p1\blur1\c&HFBFBFB&\pos(414.73,934)\clip(415,934,1145,1028)\b1}m 0.27 0 l 730.27 0 730.27 94 0.27 94
+Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\blur0.6\c&HFBFBFB&\pos(91.5,816)\b1\p1}m 0 0 l 285 0 285 98 0 98
+Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\blur0.6\c&HFBFBFB&\pos(396.73,816)\b1\p1}m 0.27 0 l 1075.27 0 1075.27 98 0.27 98
+Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\blur0.6\c&HFBFBFB&\pos(396.73,934)\b1\p1}m 0.27 0 l 749 0 749 94 0.27 94
 Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(234,865)\fscx96\fs70\blur0.6}22:02
-Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\fscx96\fs70\blur0.6\pos(450,865)}Shuto Expressway Route 3, Shibuya Line
-Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(450,981)\fscx96\fs70\blur0.6}In Front of Cerulean Tower
+Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\fscx96\fs70\blur0.6\pos(432,865)}Shuto Expressway Route 3, Shibuya Line
+Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(432,981)\fscx99\fs70\blur0.6}In Front of Cerulean Tower
 Dialogue: 0,0:04:52.61,0:04:52.65,<<folder>>,,0,0,0,,
 Dialogue: 0,0:09:19.54,0:09:19.58,<<folder>>,,0,0,0,,- Shoto Bunkamura Street
-Dialogue: 0,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\blur1\c&HFEFEFE&\p1\pos(222.2,981.02)\b1}m 0 0 l 255.4 0 255.4 88.04 0 88.04
-Dialogue: 0,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\pos(1023.45,981.02)\blur1\c&HFEFEFE&\p1\b1}m 0 0 l 1160.9 0 1160.9 88.04 0 88.04
+Dialogue: 0,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\blur0.6\c&HF8FBFB&\pos(222.2,981.02)\b1\p1}m 0 0 l 255.4 0 255.4 88.04 0 88.04
+Dialogue: 0,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\blur0.6\c&HF8FBFB&\pos(1023.45,981.02)\b1\p1}m 0 0 l 1160.9 0 1160.9 88.04 0 88.04
 Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(222.2,981.02)\fscx99\fs70\blur0.6}22:02
 Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1023.45,981.02)\fscx99\fs70\blur0.6}Shoto Bunkamura Street, Outside the Veil
 Dialogue: 0,0:09:25.09,0:09:25.13,<<folder>>,,0,0,0,,
 Dialogue: 0,0:20:49.98,0:20:50.02,<<folder>>,,0,0,0,,- Inside Shibuya Station
-Dialogue: 0,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\blur1\p1\c&HFAFBFB&\pos(664.5,978)\b1}m 0 0 l 279 0 279 96 0 96
-Dialogue: 0,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\blur1\p1\c&HFAFBFB&\pos(1214.5,978)\b1}m 0 0 l 623 0 623 96 0 96
+Dialogue: 0,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\blur0.6\p1\c&HFAFBFB&\pos(664.5,978)\b1}m 0 0 l 279 0 279 96 0 96
+Dialogue: 0,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\blur0.6\p1\c&HFAFBFB&\pos(1214.5,978)\b1}m 0 0 l 623 0 623 96 0 96
 Dialogue: 1,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(664.5,978)\fscx98\fs70\blur0.6}22:10
 Dialogue: 1,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\fscx98\fs70\blur0.6\pos(1214.5,978)}Inside Shibuya Station
-Dialogue: 0,0:20:52.44,0:20:52.48,<<folder>>,,0,0,0,,{=3}
-Comment: 0,0:18:12.24,0:18:12.28,Signs,,0,0,0,,{\1a&HFF&\b1}falling sign
+Dialogue: 0,0:20:52.44,0:20:52.48,<<folder>>,,0,0,0,,{=21}
 Dialogue: 0,0:19:39.62,0:19:39.66,<<folder>>,,0,0,0,,{=6}- Smallpox Deity
-Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.65\fnBogart Semibold\fs93\b1\pos(960,170)}Special-Grade Disease Curse
-Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.7\fnBogart Semibold\fs135\b1\pos(960,955)}Smallpox Deity
+Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.65\fnBogart Semibold\fs93\b1\pos(960,160)}Special-Grade Disease Curse
+Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.7\fnBogart Semibold\fs135\b1\pos(960,960)}Smallpox Deity
 Dialogue: 0,0:19:43.08,0:19:43.12,<<folder>>,,0,0,0,,{=7}
 Dialogue: 0,0:20:58.24,0:20:59.74,<<folder>>,,0,0,0,,{=8}- Ticket
 Dialogue: 0,0:20:58.23,0:20:58.27,Signs,,0,0,0,,{\pos(1751.89,564.83)\org(1749.82,564.83)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
@@ -151,7 +150,7 @@ Dialogue: 0,0:20:59.61,0:20:59.65,Signs,,0,0,0,,{\pos(974.39,817.86)\org(974.93,
 Dialogue: 0,0:20:59.65,0:20:59.69,Signs,,0,0,0,,{\pos(974.73,817.59)\org(975.27,817.59)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
 Dialogue: 0,0:20:59.69,0:20:59.73,Signs,,0,0,0,,{\pos(975.05,817.27)\org(975.58,817.27)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
 Dialogue: 0,0:20:59.70,0:20:59.74,<<folder>>,,0,0,0,,{=9}
-Dialogue: 0,0:00:44.02,0:00:44.07,<<folder>>,,0,0,0,,{=10}- Episode Title
+Dialogue: 0,0:00:44.02,0:00:44.07,<<folder>>,,0,0,0,,{=10}- Episode Titles
 Dialogue: 0,0:00:44.02,0:00:47.03,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}36
 Dialogue: 0,0:00:44.02,0:00:47.03,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Dull Blade
 Dialogue: 0,0:23:49.99,0:23:50.03,<<folder>>,,0,0,0,,
@@ -164,8 +163,6 @@ Dialogue: 0,0:23:55.00,0:23:55.04,<<folder>>,,0,0,0,,{=11}
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1
 Data: 1,_aegi_folddata,e1;1;1
-Data: 2,_aegi_folddata,e0;1;2
-Data: 3,_aegi_folddata,e1;1;2
 Data: 4,_aegi_folddata,e0;0;2
 Data: 5,_aegi_folddata,e1;0;2
 Data: 6,_aegi_folddata,e0;1;3
@@ -174,11 +171,13 @@ Data: 8,_aegi_folddata,e0;1;4
 Data: 9,_aegi_folddata,e1;1;4
 Data: 10,_aegi_folddata,e0;1;5
 Data: 11,_aegi_folddata,e1;1;5
-Data: 12,_aegi_folddata,e0;0;5
-Data: 13,_aegi_folddata,e1;0;5
-Data: 14,_aegi_folddata,e0;0;1
-Data: 15,_aegi_folddata,e1;0;1
-Data: 16,_aegi_folddata,e0;0;3
-Data: 17,_aegi_folddata,e1;0;3
-Data: 18,_aegi_folddata,e0;0;4
-Data: 19,_aegi_folddata,e1;0;4
+Data: 20,_aegi_folddata,e0;1;2
+Data: 21,_aegi_folddata,e1;1;2
+Data: 22,_aegi_folddata,e0;0;1
+Data: 23,_aegi_folddata,e1;0;1
+Data: 24,_aegi_folddata,e0;0;3
+Data: 25,_aegi_folddata,e1;0;3
+Data: 26,_aegi_folddata,e0;0;4
+Data: 27,_aegi_folddata,e1;0;4
+Data: 28,_aegi_folddata,e0;0;5
+Data: 29,_aegi_folddata,e1;0;5

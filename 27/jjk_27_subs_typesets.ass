@@ -16,24 +16,37 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Audio File: jjk_27_premux.mkv
 Video File: jjk_27_premux.mkv
 Keyframes File: jjk_27_keyframes.txt
 Video AR Value: 1.777778
+Video Zoom Percent: 0.750000
+Active Line: 5178
+Video Position: 10060
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:45.27,0:02:45.31,<<folder>>,,0,0,0,,{=0}- escorting
+Dialogue: 0,0:02:45.27,0:02:45.31,<<folder>>,,0,0,0,,{=0}- Escort Mission
 Dialogue: 0,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(960,1041)\fnGo Baaa Handwritten Comic\fs62\b1\bord5.25\c&HEBEBEB&\3c&HEBEBEB&\blur0.6\fsp0.5}Escort Mission Day 2
 Dialogue: 1,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(960,1041)\fnGo Baaa Handwritten Comic\fs62\b1\c&H393837&\3c&HFFFFFF&\blur0.72\fsp0.5}E{*\c&H3C3A39&}s{*\c&H403D3B&}c{*\c&H43403E&}o{*\c&H474340&}r{*\c&H4A4643&}t {*\c&H514B47&}M{*\c&H554E4A&}i{*\c&H58514C&}s{\c&H5C544F&}s{*\c&H57504B&}i{*\c&H534D48&}o{*\c&H4E4945&}n {*\c&H45423F&}D{*\c&H413F3C&}a{*\c&H3C3B39&}y {\c&H343533&}2
 Dialogue: 0,0:02:48.02,0:02:48.06,<<folder>>,,0,0,0,,
-Dialogue: 0,0:02:48.02,0:02:51.03,Signs,Screen,0,0,0,,{\an8\pos(990,66)\fnBrushStrokes Heavy ModByArmonth\fs150\b1\blur0.66}Okinawa
+Dialogue: 0,0:02:48.02,0:02:51.03,Signs,Screen,0,0,0,,{\an8\fnBrushStrokes Heavy ModByArmonth\fs110\fscx88\b1\blur0.8\pos(892.33,528.33)}Okinawa
+Dialogue: 0,0:09:29.72,0:09:29.76,<<folder>>,,0,0,0,,
+Dialogue: 0,0:09:29.72,0:09:31.97,Signs,Screen,0,0,0,,{\pos(964,400)\fnFOT-TsukuMin Pr5 M vL\fs102\blur0.5\b1\1a&HAA&}Tokyo Jujutsu Tech, Foothills of Mt. Mushiro
+Dialogue: 0,0:09:29.72,0:09:31.97,Signs,Screen,0,0,0,,{\pos(964,400)\fnFOT-TsukuMin Pr5 M vL\fs102\blur0.5\b1}Tokyo Jujutsu Tech, Foothills of Mt. Mushiro
+Dialogue: 0,0:09:33.47,0:09:33.51,<<folder>>,,0,0,0,,
+Dialogue: 0,0:09:33.47,0:09:38.22,Signs,Screen,0,0,0,,{\pos(962,403)\fs99\blur0.5\fnFOT-TsukuMin Pr5 M vL\1a&H96&}Escort Mission Day 3   15  00
+Dialogue: 0,0:09:33.47,0:09:38.22,Signs,Screen,0,0,0,,{\pos(962,403)\fs99\blur0.5\fnFOT-TsukuMin Pr5 M vL}Escort Mission Day 3   15  00
+Dialogue: 0,0:09:33.47,0:09:38.22,Signs,:,0,0,0,,{\pos(962,391.5)\fs99\blur0.5\fnFOT-TsukuMin Pr5 M vL\1a&HFF&}Escort Mission Day 3   15{\1a&H96&}:{\1a&HFF&}00
+Dialogue: 0,0:09:33.47,0:09:38.22,Signs,:,0,0,0,,{\pos(962,391.5)\fs99\blur0.5\fnFOT-TsukuMin Pr5 M vL\1a&HFF&}Escort Mission Day 3   15{\1a&H00&}:{\1a&HFF&}00
+Dialogue: 0,0:09:38.18,0:09:38.22,<<folder>>,,0,0,0,,{=45}
 Dialogue: 0,0:02:50.98,0:02:51.03,<<folder>>,,0,0,0,,{=1}
-Dialogue: 0,0:05:32.14,0:05:32.19,<<folder>>,,0,0,0,,{=2}- plan, maskings
+Dialogue: 0,0:05:32.14,0:05:32.19,<<folder>>,,0,0,0,,{=2}- Schedule (mask)
 Dialogue: 1,0:05:32.14,0:05:32.19,Signs,mask,0,0,0,,{\pos(375.2,127.2)\c&HFBFBFB&\be8\clip(m 245.18 26.82 l 945.41 2.82 954.82 88.47 959.06 130.35 963.76 152.94 968.47 174.12 979.29 212.24 982.59 219.76 983.53 221.18 986.82 239.06 992 273.88 994.35 272 988.71 238.12 984.47 214.12 979.29 183.53 966.59 0.94 1332.24 0.94 1358.59 93.65 1346.35 102.12 1327.53 106.35 1321.88 112.94 1314.35 118.12 1305.88 127.53 1300.24 137.41 1300.24 152.94 1304.94 166.59 1317.65 175.06 1320.94 176.94 1330.82 185.41 1318.12 251.76 1269.18 256 988.24 276.71 534.12 336 292.71 370.35)\p1\b1}m 594.4 121.6 l 548.8 208.8 590.4 324.8 624.8 315.2 643.2 318.4 681.6 297.6 708.8 307.2 730.4 288.8 764.8 298.4 788 282.4 799.2 248.8 843.2 264.8 884.8 256 904.8 230.4 940 259.2 983.2 254.4 1010.4 223.2 1036 220 1064 244 1100 231.2 1141.6 240 1177.6 209.6 1195.2 212 1205.6 234.4 1230.4 242.4 1267.2 221.6 1290.4 168.8 1280.8 84.8 1208.8 71.2 1149.6 96.8 1050.4 93.6 1020 131.2 933.6 112 828.8 144 703.2 120.8
 Dialogue: 1,0:05:32.19,0:05:32.23,Signs,mask,0,0,0,,{\pos(375.2,125.96)\c&HFBFBFB&\be8\clip(m 245.18 25.58 l 945.41 1.58 954.82 87.23 959.06 129.11 963.76 151.7 968.47 172.88 979.29 211 982.59 218.52 983.53 219.94 986.82 237.82 992 272.64 994.35 270.76 988.71 236.88 984.47 212.88 979.29 182.29 966.59 -0.3 1332.24 -0.3 1358.59 92.41 1346.35 100.88 1327.53 105.11 1321.88 111.7 1314.35 116.88 1305.88 126.29 1300.24 136.17 1300.24 151.7 1304.94 165.35 1317.65 173.82 1320.94 175.7 1330.82 184.17 1318.12 250.52 1269.18 254.76 988.24 275.47 534.12 334.76 292.71 369.11)\p1\b1}m 594.4 121.6 l 548.8 208.8 590.4 324.8 624.8 315.2 643.2 318.4 681.6 297.6 708.8 307.2 730.4 288.8 764.8 298.4 788 282.4 799.2 248.8 843.2 264.8 884.8 256 904.8 230.4 940 259.2 983.2 254.4 1010.4 223.2 1036 220 1064 244 1100 231.2 1141.6 240 1177.6 209.6 1195.2 212 1205.6 234.4 1230.4 242.4 1267.2 221.6 1290.4 168.8 1280.8 84.8 1208.8 71.2 1149.6 96.8 1050.4 93.6 1020 131.2 933.6 112 828.8 144 703.2 120.8
 Dialogue: 1,0:05:32.23,0:05:32.27,Signs,mask,0,0,0,,{\pos(375.2,124.72)\c&HFBFBFB&\be8\clip(m 245.18 24.34 l 945.41 0.34 954.82 85.99 959.06 127.87 963.76 150.46 968.47 171.64 979.29 209.76 982.59 217.28 983.53 218.7 986.82 236.58 992 271.4 994.35 269.52 988.71 235.64 984.47 211.64 979.29 181.05 966.59 -1.54 1332.24 -1.54 1358.59 91.17 1346.35 99.64 1327.53 103.87 1321.88 110.46 1314.35 115.64 1305.88 125.05 1300.24 134.93 1300.24 150.46 1304.94 164.11 1317.65 172.58 1320.94 174.46 1330.82 182.93 1318.12 249.28 1269.18 253.52 988.24 274.23 534.12 333.52 292.71 367.87)\p1\b1}m 594.4 121.6 l 548.8 208.8 590.4 324.8 624.8 315.2 643.2 318.4 681.6 297.6 708.8 307.2 730.4 288.8 764.8 298.4 788 282.4 799.2 248.8 843.2 264.8 884.8 256 904.8 230.4 940 259.2 983.2 254.4 1010.4 223.2 1036 220 1064 244 1100 231.2 1141.6 240 1177.6 209.6 1195.2 212 1205.6 234.4 1230.4 242.4 1267.2 221.6 1290.4 168.8 1280.8 84.8 1208.8 71.2 1149.6 96.8 1050.4 93.6 1020 131.2 933.6 112 828.8 144 703.2 120.8
@@ -2493,7 +2506,7 @@ Dialogue: 2,0:05:37.02,0:05:37.07,Signs,glow1-2,0,0,0,,{\pos(149.8,-59.74)\c&HF6
 Dialogue: 2,0:05:37.07,0:05:37.11,Signs,glow1-2,0,0,0,,{\pos(149.8,-60.97)\c&HF6F6F6&\blur36\p1\b1}m 413.99 849.35 l 440.18 868.36 463.24 806.03 538.37 782.65 639.69 780.47 710.14 785.14 722.61 841.56 747.24 849.04 750.98 801.04 745.68 735.58 659.02 732.47 493.48 739.01 426.46 778.29
 Dialogue: 2,0:05:37.11,0:05:37.15,Signs,glow1-2,0,0,0,,{\pos(149.8,-62.05)\c&HF6F6F6&\blur36\p1\b1}m 413.99 849.35 l 440.18 868.36 463.24 806.03 538.37 782.65 639.69 780.47 710.14 785.14 722.61 841.56 747.24 849.04 750.98 801.04 745.68 735.58 659.02 732.47 493.48 739.01 426.46 778.29
 Dialogue: 0,0:05:32.14,0:05:32.19,<<folder>>,,0,0,0,,{=3}
-Dialogue: 0,0:05:32.14,0:05:32.19,<<folder>>,,0,0,0,,{=4}- plans
+Dialogue: 0,0:05:32.14,0:05:32.19,<<folder>>,,0,0,0,,{=4}- Schedule
 Dialogue: 4,0:05:32.14,0:05:32.19,Signs,,0,0,0,,{\an7\pos(539.56,181.33)\frz5.96\fnKG Shadow of the Day\fs144\b1\c&H6B6866&\3c&HF9FDFA&\blur0.73}Travel Schedule
 Dialogue: 4,0:05:32.19,0:05:32.23,Signs,,0,0,0,,{\an7\pos(539.56,180.09)\frz5.96\fnKG Shadow of the Day\fs144\b1\c&H6B6866&\3c&HF9FDFA&\blur0.73}Travel Schedule
 Dialogue: 4,0:05:32.23,0:05:32.27,Signs,,0,0,0,,{\an7\pos(539.56,178.85)\frz5.96\fnKG Shadow of the Day\fs144\b1\c&H6B6866&\3c&HF9FDFA&\blur0.73}Travel Schedule
@@ -3506,7 +3519,7 @@ Dialogue: 2,0:05:37.02,0:05:37.07,Signs,,0,0,0,,{\pos(1525.33,1050.75)\frz5.708\
 Dialogue: 2,0:05:37.07,0:05:37.11,Signs,,0,0,0,,{\pos(1525.33,1049.51)\frz5.708\fnKG Shadow of the Day\fs30\c&H5E6161&\blur0.76}Escort Mission Complete!
 Dialogue: 2,0:05:37.11,0:05:37.15,Signs,,0,0,0,,{\pos(1525.33,1048.48)\frz5.708\fnKG Shadow of the Day\fs30\c&H5E6161&\blur0.76}Escort Mission Complete!
 Dialogue: 0,0:05:37.11,0:05:37.15,<<folder>>,,0,0,0,,{=5}
-Dialogue: 0,0:05:37.15,0:05:37.19,<<folder>>,,0,0,0,,{=12}- the end
+Dialogue: 0,0:05:37.15,0:05:37.19,<<folder>>,,0,0,0,,{=12}- Schedule (close up)
 Dialogue: 1,0:05:37.15,0:05:37.19,<<folder>>,,0,0,0,,
 Dialogue: 4,0:05:37.15,0:05:42.11,Signs,mask-side-end,0,0,0,,{\pos(0,0)\p1\blur30\b1}m 495.34 603.26 l 474.11 754.04 348.77 839.38 333.01 918.55 358.24 987.76 571.57 950.45 624.67 1165.95 575.34 1288.61 403.31 1350.59 501.3 1475.68 408.19 1605.52 506.31 1954.53 71.33 1976.5 148.67 556.6
 Dialogue: 4,0:05:37.14,0:05:37.19,Signs,,0,0,0,,{\fscy100\fscx100\1a&H00&\an9\fnKG Shadow of the Day\fs80\b1\c&H5F5F5F&\3c&HF9FDFA&\blur2.6\frz9.98\pos(261.72,205.92)\fsp1}13:00 Swimming at the Beach\h\N(Now{\fnCheeky Rabbit}!{\fnKG Shadow of the Day})
@@ -4466,7 +4479,7 @@ Dialogue: 3,0:05:41.99,0:05:42.03,Signs,,0,0,0,,{\pos(1101.35,781.33)\frz12.31\f
 Dialogue: 3,0:05:42.03,0:05:42.07,Signs,,0,0,0,,{\pos(1101.35,780.74)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
 Dialogue: 3,0:05:42.07,0:05:42.11,Signs,,0,0,0,,{\pos(1101.35,780.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
 Dialogue: 0,0:05:37.15,0:05:37.19,<<folder>>,,0,0,0,,{=13}
-Dialogue: 0,0:05:49.33,0:05:49.37,<<folder>>,,0,0,0,,{=14}- port
+Dialogue: 0,0:05:49.33,0:05:49.37,<<folder>>,,0,0,0,,{=14}- Airport
 Dialogue: 1,0:05:49.28,0:05:49.32,Signs,Building,0,0,0,,{\pos(817.38,1104.91)\frz349\fax0.22\fs48\xshad-3.6\yshad2\c&HD4DADB&\4c&H6A665E&\blur0.75}Naha Airport
 Dialogue: 2,0:05:49.28,0:05:49.32,Signs,Building,0,0,0,,{\pos(817.38,1104.91)\frz349\fax0.22\fs48\c&H6A665E&\4c&H6A665E&\blur0.75}Naha Airport
 Dialogue: 3,0:05:49.28,0:05:49.32,Signs,Building,0,0,0,,{\pos(817.38,1104.91)\frz349\fax0.22\fs48\c&HD4DADB&\4c&H6A665E&\blur0.75}Naha Airport
@@ -4833,7 +4846,7 @@ Dialogue: 0,0:05:57.80,0:05:57.84,<<folder>>,,0,0,0,,
 Dialogue: 0,0:05:57.80,0:06:02.63,Signs,Screen,0,0,0,,{\p1\be2\c&HF8F8F8&\pos(1364.33,338)\b1}m 206 250 l 663 251 665 925 205 924
 Dialogue: 1,0:05:57.80,0:06:02.63,Signs,Screen,0,0,0,,{\pos(1577.21,586.89)\fnIwata Mincho Old Pro-TR\fs45\c&H000000&\blur0.66}Jujutsu Tech, First-Year{\fs10}\N\N{\fs78\blur0.7}Haibara Yu
 Dialogue: 0,0:06:02.59,0:06:02.63,<<folder>>,,0,0,0,,{=17}
-Dialogue: 0,0:06:16.86,0:06:16.90,<<folder>>,,0,0,0,,{=18}- jokes on u
+Dialogue: 0,0:06:16.86,0:06:16.90,<<folder>>,,0,0,0,,{=18}- Upperclassman wearing himself to the bone
 Dialogue: 0,0:06:16.86,0:06:16.90,Signs,masks,0,0,0,,{\pos(170.67,220.66)\c&HF1F2F4&\be8\p1\b1}m 1481.14 540.57 l 1522.29 537.14 1546.29 554.29 1614.86 532.57 1658.29 536 1677.71 553.14 1700.57 525.71 1744 530.29 1782.86 548.57 1805.71 564.57 1802.29 605.71 1763.43 630.86 1770.29 690.29 1801.14 726.86 1805.71 756.57 1782.86 785.14 1762.29 802.29 1769.14 912 1768 964.57 1742.86 974.86 1722.29 971.43 1694.86 898.29 1682.29 739.43 1666.29 757.71 1650.29 811.43 1656 898.29 1660.57 955.43 1653.71 971.43 1627.43 974.86 1584 961.14 1584 738.29 1520 748.57 1470.86 714.29 1465.14 593.14
 Dialogue: 0,0:06:16.90,0:06:16.94,Signs,masks,0,0,0,,{\pos(170.67,221.49)\c&HF1F2F4&\be8\p1\b1}m 1481.14 540.57 l 1522.29 537.14 1546.29 554.29 1614.86 532.57 1658.29 536 1677.71 553.14 1700.57 525.71 1744 530.29 1782.86 548.57 1805.71 564.57 1802.29 605.71 1763.43 630.86 1770.29 690.29 1801.14 726.86 1805.71 756.57 1782.86 785.14 1762.29 802.29 1769.14 912 1768 964.57 1742.86 974.86 1722.29 971.43 1694.86 898.29 1682.29 739.43 1666.29 757.71 1650.29 811.43 1656 898.29 1660.57 955.43 1653.71 971.43 1627.43 974.86 1584 961.14 1584 738.29 1520 748.57 1470.86 714.29 1465.14 593.14
 Dialogue: 0,0:06:16.94,0:06:16.98,Signs,masks,0,0,0,,{\pos(170.67,222.27)\c&HF1F2F4&\be8\p1\b1}m 1481.14 540.57 l 1522.29 537.14 1546.29 554.29 1614.86 532.57 1658.29 536 1677.71 553.14 1700.57 525.71 1744 530.29 1782.86 548.57 1805.71 564.57 1802.29 605.71 1763.43 630.86 1770.29 690.29 1801.14 726.86 1805.71 756.57 1782.86 785.14 1762.29 802.29 1769.14 912 1768 964.57 1742.86 974.86 1722.29 971.43 1694.86 898.29 1682.29 739.43 1666.29 757.71 1650.29 811.43 1656 898.29 1660.57 955.43 1653.71 971.43 1627.43 974.86 1584 961.14 1584 738.29 1520 748.57 1470.86 714.29 1465.14 593.14
@@ -5135,68 +5148,68 @@ Dialogue: 3,0:06:19.23,0:06:19.28,Signs,masks,0,0,0,,{\pos(1713.14,881.64)\frz80
 Dialogue: 3,0:06:19.28,0:06:19.32,Signs,masks,0,0,0,,{\pos(1713.14,881.8)\frz80.74\fs80\c&HF1F2F4&\blur15\b1}llllllllllllll
 Dialogue: 3,0:06:19.32,0:06:19.36,Signs,masks,0,0,0,,{\pos(1713.14,881.96)\frz80.74\fs80\c&HF1F2F4&\blur15\b1}llllllllllllll
 Dialogue: 0,0:06:16.86,0:06:16.90,<<folder>>,,0,0,0,,
-Dialogue: 4,0:06:16.86,0:06:16.90,Signs,,0,0,0,,{\pos(1628.09,760)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:16.90,0:06:16.94,Signs,,0,0,0,,{\pos(1628.09,760.83)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:16.94,0:06:16.98,Signs,,0,0,0,,{\pos(1628.09,761.61)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:16.98,0:06:17.02,Signs,,0,0,0,,{\pos(1628.09,762.47)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.02,0:06:17.06,Signs,,0,0,0,,{\pos(1628.09,763.17)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.06,0:06:17.11,Signs,,0,0,0,,{\pos(1628.09,763.91)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.11,0:06:17.15,Signs,,0,0,0,,{\pos(1628.09,764.51)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.15,0:06:17.19,Signs,,0,0,0,,{\pos(1628.09,765.18)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.19,0:06:17.23,Signs,,0,0,0,,{\pos(1628.09,765.75)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.23,0:06:17.27,Signs,,0,0,0,,{\pos(1628.09,766.36)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.27,0:06:17.32,Signs,,0,0,0,,{\pos(1628.09,766.86)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.32,0:06:17.36,Signs,,0,0,0,,{\pos(1628.09,767.4)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.36,0:06:17.40,Signs,,0,0,0,,{\pos(1628.09,767.88)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.40,0:06:17.44,Signs,,0,0,0,,{\pos(1628.09,768.4)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.44,0:06:17.48,Signs,,0,0,0,,{\pos(1628.09,768.9)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.48,0:06:17.52,Signs,,0,0,0,,{\pos(1628.09,769.22)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.52,0:06:17.57,Signs,,0,0,0,,{\pos(1628.09,769.68)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.57,0:06:17.61,Signs,,0,0,0,,{\pos(1628.09,770.17)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.61,0:06:17.65,Signs,,0,0,0,,{\pos(1628.09,770.44)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.65,0:06:17.69,Signs,,0,0,0,,{\pos(1628.09,770.85)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.69,0:06:17.73,Signs,,0,0,0,,{\pos(1628.09,771.23)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.73,0:06:17.77,Signs,,0,0,0,,{\pos(1628.09,771.61)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.77,0:06:17.82,Signs,,0,0,0,,{\pos(1628.1,771.87)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.82,0:06:17.86,Signs,,0,0,0,,{\pos(1628.09,772.21)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.86,0:06:17.90,Signs,,0,0,0,,{\pos(1628.09,772.54)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.90,0:06:17.94,Signs,,0,0,0,,{\pos(1628.09,772.85)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.94,0:06:17.98,Signs,,0,0,0,,{\pos(1628.09,773.11)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:17.98,0:06:18.02,Signs,,0,0,0,,{\pos(1628.09,773.38)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.02,0:06:18.07,Signs,,0,0,0,,{\pos(1628.09,773.66)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.07,0:06:18.11,Signs,,0,0,0,,{\pos(1628.09,773.92)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.11,0:06:18.15,Signs,,0,0,0,,{\pos(1628.09,774.15)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.15,0:06:18.19,Signs,,0,0,0,,{\pos(1628.09,774.4)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.19,0:06:18.23,Signs,,0,0,0,,{\pos(1628.09,774.63)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.23,0:06:18.27,Signs,,0,0,0,,{\pos(1628.09,774.88)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.27,0:06:18.32,Signs,,0,0,0,,{\pos(1628.09,775.12)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.32,0:06:18.36,Signs,,0,0,0,,{\pos(1628.09,775.32)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.36,0:06:18.40,Signs,,0,0,0,,{\pos(1628.09,775.51)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.40,0:06:18.44,Signs,,0,0,0,,{\pos(1628.09,775.68)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.44,0:06:18.48,Signs,,0,0,0,,{\pos(1628.09,775.84)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.48,0:06:18.52,Signs,,0,0,0,,{\pos(1628.09,776.06)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.52,0:06:18.57,Signs,,0,0,0,,{\pos(1628.09,776.27)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.57,0:06:18.61,Signs,,0,0,0,,{\pos(1628.09,776.46)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.61,0:06:18.65,Signs,,0,0,0,,{\pos(1628.09,776.64)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.65,0:06:18.69,Signs,,0,0,0,,{\pos(1628.09,776.78)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.69,0:06:18.73,Signs,,0,0,0,,{\pos(1628.09,776.91)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.73,0:06:18.77,Signs,,0,0,0,,{\pos(1628.09,777.06)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.77,0:06:18.82,Signs,,0,0,0,,{\pos(1628.09,777.22)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.82,0:06:18.86,Signs,,0,0,0,,{\pos(1628.09,777.37)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.86,0:06:18.90,Signs,,0,0,0,,{\pos(1628.09,777.53)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.90,0:06:18.94,Signs,,0,0,0,,{\pos(1628.09,777.69)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.94,0:06:18.98,Signs,,0,0,0,,{\pos(1628.09,777.85)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:18.98,0:06:19.03,Signs,,0,0,0,,{\pos(1628.09,777.97)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:19.03,0:06:19.07,Signs,,0,0,0,,{\pos(1628.09,778.09)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:19.07,0:06:19.11,Signs,,0,0,0,,{\pos(1628.09,778.21)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:19.11,0:06:19.15,Signs,,0,0,0,,{\pos(1628.09,778.34)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:19.15,0:06:19.19,Signs,,0,0,0,,{\pos(1628.09,778.47)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:19.19,0:06:19.23,Signs,,0,0,0,,{\pos(1628.09,778.6)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:19.23,0:06:19.28,Signs,,0,0,0,,{\pos(1628.09,778.78)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:19.28,0:06:19.32,Signs,,0,0,0,,{\pos(1628.09,778.94)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
-Dialogue: 4,0:06:19.32,0:06:19.36,Signs,,0,0,0,,{\pos(1628.09,779.1)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.66}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:16.86,0:06:16.90,Signs,,0,0,0,,{\pos(1628.09,760)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:16.90,0:06:16.94,Signs,,0,0,0,,{\pos(1628.09,760.83)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:16.94,0:06:16.98,Signs,,0,0,0,,{\pos(1628.09,761.61)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:16.98,0:06:17.02,Signs,,0,0,0,,{\pos(1628.09,762.47)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.02,0:06:17.06,Signs,,0,0,0,,{\pos(1628.09,763.17)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.06,0:06:17.11,Signs,,0,0,0,,{\pos(1628.09,763.91)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.11,0:06:17.15,Signs,,0,0,0,,{\pos(1628.09,764.51)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.15,0:06:17.19,Signs,,0,0,0,,{\pos(1628.09,765.18)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.19,0:06:17.23,Signs,,0,0,0,,{\pos(1628.09,765.75)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.23,0:06:17.27,Signs,,0,0,0,,{\pos(1628.09,766.36)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.27,0:06:17.32,Signs,,0,0,0,,{\pos(1628.09,766.86)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.32,0:06:17.36,Signs,,0,0,0,,{\pos(1628.09,767.4)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.36,0:06:17.40,Signs,,0,0,0,,{\pos(1628.09,767.88)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.40,0:06:17.44,Signs,,0,0,0,,{\pos(1628.09,768.4)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.44,0:06:17.48,Signs,,0,0,0,,{\pos(1628.09,768.9)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.48,0:06:17.52,Signs,,0,0,0,,{\pos(1628.09,769.22)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.52,0:06:17.57,Signs,,0,0,0,,{\pos(1628.09,769.68)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.57,0:06:17.61,Signs,,0,0,0,,{\pos(1628.09,770.17)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.61,0:06:17.65,Signs,,0,0,0,,{\pos(1628.09,770.44)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.65,0:06:17.69,Signs,,0,0,0,,{\pos(1628.09,770.85)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.69,0:06:17.73,Signs,,0,0,0,,{\pos(1628.09,771.23)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.73,0:06:17.77,Signs,,0,0,0,,{\pos(1628.09,771.61)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.77,0:06:17.82,Signs,,0,0,0,,{\pos(1628.1,771.87)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.82,0:06:17.86,Signs,,0,0,0,,{\pos(1628.09,772.21)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.86,0:06:17.90,Signs,,0,0,0,,{\pos(1628.09,772.54)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.90,0:06:17.94,Signs,,0,0,0,,{\pos(1628.09,772.85)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.94,0:06:17.98,Signs,,0,0,0,,{\pos(1628.09,773.11)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:17.98,0:06:18.02,Signs,,0,0,0,,{\pos(1628.09,773.38)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.02,0:06:18.07,Signs,,0,0,0,,{\pos(1628.09,773.66)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.07,0:06:18.11,Signs,,0,0,0,,{\pos(1628.09,773.92)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.11,0:06:18.15,Signs,,0,0,0,,{\pos(1628.09,774.15)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.15,0:06:18.19,Signs,,0,0,0,,{\pos(1628.09,774.4)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.19,0:06:18.23,Signs,,0,0,0,,{\pos(1628.09,774.63)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.23,0:06:18.27,Signs,,0,0,0,,{\pos(1628.09,774.88)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.27,0:06:18.32,Signs,,0,0,0,,{\pos(1628.09,775.12)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.32,0:06:18.36,Signs,,0,0,0,,{\pos(1628.09,775.32)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.36,0:06:18.40,Signs,,0,0,0,,{\pos(1628.09,775.51)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.40,0:06:18.44,Signs,,0,0,0,,{\pos(1628.09,775.68)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.44,0:06:18.48,Signs,,0,0,0,,{\pos(1628.09,775.84)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.48,0:06:18.52,Signs,,0,0,0,,{\pos(1628.09,776.06)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.52,0:06:18.57,Signs,,0,0,0,,{\pos(1628.09,776.27)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.57,0:06:18.61,Signs,,0,0,0,,{\pos(1628.09,776.46)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.61,0:06:18.65,Signs,,0,0,0,,{\pos(1628.09,776.64)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.65,0:06:18.69,Signs,,0,0,0,,{\pos(1628.09,776.78)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.69,0:06:18.73,Signs,,0,0,0,,{\pos(1628.09,776.91)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.73,0:06:18.77,Signs,,0,0,0,,{\pos(1628.09,777.06)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.77,0:06:18.82,Signs,,0,0,0,,{\pos(1628.09,777.22)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.82,0:06:18.86,Signs,,0,0,0,,{\pos(1628.09,777.37)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.86,0:06:18.90,Signs,,0,0,0,,{\pos(1628.09,777.53)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.90,0:06:18.94,Signs,,0,0,0,,{\pos(1628.09,777.69)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.94,0:06:18.98,Signs,,0,0,0,,{\pos(1628.09,777.85)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:18.98,0:06:19.03,Signs,,0,0,0,,{\pos(1628.09,777.97)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:19.03,0:06:19.07,Signs,,0,0,0,,{\pos(1628.09,778.09)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:19.07,0:06:19.11,Signs,,0,0,0,,{\pos(1628.09,778.21)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:19.11,0:06:19.15,Signs,,0,0,0,,{\pos(1628.09,778.34)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:19.15,0:06:19.19,Signs,,0,0,0,,{\pos(1628.09,778.47)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:19.19,0:06:19.23,Signs,,0,0,0,,{\pos(1628.09,778.6)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:19.23,0:06:19.28,Signs,,0,0,0,,{\pos(1628.09,778.78)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:19.28,0:06:19.32,Signs,,0,0,0,,{\pos(1628.09,778.94)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
+Dialogue: 4,0:06:19.32,0:06:19.36,Signs,,0,0,0,,{\pos(1628.09,779.1)\fscx113\fnlemon squeezy\fs59\fsp2\c&H292D28&\blur0.67\1a&H1E&}Upperclassman\Nwearing himself\Nto the bone
 Dialogue: 0,0:06:16.86,0:06:16.90,<<folder>>,,0,0,0,,{=19}
-Dialogue: 0,0:06:58.77,0:06:58.81,<<folder>>,,0,0,0,,{=20}- fish
+Dialogue: 0,0:06:58.77,0:06:58.81,<<folder>>,,0,0,0,,{=20}- Fishy Curse Users
 Dialogue: 0,0:06:58.77,0:06:58.81,Signs,,0,0,0,,{\an8\pos(1932.6,985)\fscx88\fnBrush Strokes\fs72\b1\c&H0C1B10&\blur1.6\alpha&H30&}Fishy {\c&H1C1C1C&}Curse {\c&H242424&}Use{\c&H282828&}rs
 Dialogue: 0,0:06:58.81,0:06:58.86,Signs,,0,0,0,,{\an8\pos(1903.86,985.01)\fscx88\fnBrush Strokes\fs72\b1\blur1.8\alpha&H30&\c&H0F1912&}Fishy {\c&H1C1C1C&}Curse {\c&H242424&}Use{\c&H282828&}rs
 Dialogue: 0,0:06:58.86,0:06:58.90,Signs,,0,0,0,,{\an8\pos(1852.08,985.07)\fscx88\fnBrush Strokes\fs72\b1\blur2\alpha&H30&\c&H131814&}Fishy {\c&H1C1C1C&}Curse {\c&H242424&}Use{\c&H282828&}rs
@@ -5307,32 +5320,23 @@ Dialogue: 0,0:07:03.19,0:07:03.24,Signs,,0,0,0,,{\an8\pos(1677.08,986.45)\fscx88
 Dialogue: 0,0:07:03.24,0:07:03.28,Signs,,0,0,0,,{\an8\pos(1676.68,986.45)\fscx88\fnBrush Strokes\fs72\b1\c&H171717&\blur0.67\alpha&H30&}Fishy {\c&H1C1C1C&}Curse {\c&H242424&}Use{\c&H282828&}rs
 Dialogue: 0,0:07:03.28,0:07:03.32,Signs,,0,0,0,,{\an8\pos(1676.25,986.45)\fscx88\fnBrush Strokes\fs72\b1\c&H171717&\blur0.67\alpha&H30&}Fishy {\c&H1C1C1C&}Curse {\c&H242424&}Use{\c&H282828&}rs
 Dialogue: 0,0:06:58.77,0:06:58.81,<<folder>>,,0,0,0,,{=21}
-Dialogue: 0,0:09:29.72,0:09:29.76,<<folder>>,,0,0,0,,{=22}- mission complete
-Dialogue: 0,0:09:29.72,0:09:31.97,Signs,Screen,0,0,0,,{\pos(964,400)\fnFOT-TsukuMin Pr5 M vL\fs102\blur0.5\b1\1a&HAA&}Tokyo Jujutsu Tech, Foothills of Mt. Mushiro
-Dialogue: 0,0:09:29.72,0:09:31.97,Signs,Screen,0,0,0,,{\pos(964,400)\fnFOT-TsukuMin Pr5 M vL\fs102\blur0.5\b1}Tokyo Jujutsu Tech, Foothills of Mt. Mushiro
-Dialogue: 0,0:09:33.47,0:09:33.51,<<folder>>,,0,0,0,,
-Dialogue: 0,0:09:33.47,0:09:38.22,Signs,Screen,0,0,0,,{\pos(960,390)\fs128\blur0.5\fnFOT-TsukuMin Pr5 M vL\1a&H96&}Escort Mission Day 3   15  00
-Dialogue: 0,0:09:33.47,0:09:38.22,Signs,Screen,0,0,0,,{\pos(960,390)\fs128\blur0.5\fnFOT-TsukuMin Pr5 M vL}Escort Mission Day 3   15  00
-Dialogue: 0,0:09:33.47,0:09:38.22,Signs,:,0,0,0,,{\pos(960,378.5)\fs128\blur0.5\fnFOT-TsukuMin Pr5 M vL\1a&HFF&}Escort Mission Day 3   15{\1a&H96&}:{\1a&HFF&}00
-Dialogue: 0,0:09:33.47,0:09:38.22,Signs,:,0,0,0,,{\pos(960,378.5)\fs128\blur0.5\fnFOT-TsukuMin Pr5 M vL\1a&HFF&}Escort Mission Day 3   15{\1a&H00&}:{\1a&HFF&}00
-Dialogue: 0,0:09:38.18,0:09:38.22,<<folder>>,,0,0,0,,{=23}
-Dialogue: 0,0:12:55.21,0:12:55.25,<<folder>>,,0,0,0,,{=24}- featuring windows xp
-Dialogue: 0,0:12:55.21,0:12:57.09,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1068.2,291.56)\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:55.21,0:12:55.25,<<folder>>,,0,0,0,,{=24}- Windows XP
+Dialogue: 0,0:12:55.21,0:12:57.09,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1068.2,291.56)\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:55.21,0:12:57.09,Signs,Screen,0,0,0,,{\blur0.64\pos(1120.68,519.92)\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.09,0:12:57.21,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1071.84,338.83)\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.09,0:12:57.21,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1071.84,338.83)\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.09,0:12:57.21,Signs,Screen,0,0,0,,{\blur0.64\pos(1122.86,552.65)\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.21,0:12:57.34,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1075.93,362.1)\fscy96\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.21,0:12:57.34,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1075.93,362.1)\fscy96\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.21,0:12:57.34,Signs,Screen,0,0,0,,{\blur0.64\pos(1129.41,569.65)\fscy96\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.34,0:12:57.46,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1077.93,394.1)\fscy92\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.34,0:12:57.46,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1077.93,394.1)\fscy92\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.34,0:12:57.46,Signs,Screen,0,0,0,,{\blur0.64\pos(1131.41,591.65)\fscy92\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.46,0:12:57.59,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1085.48,467.28)\fscy80\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.46,0:12:57.59,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1085.48,467.28)\fscy80\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.46,0:12:57.59,Signs,Screen,0,0,0,,{\blur0.64\pos(1135.5,634.1)\fscy80\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.59,0:12:57.67,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1085.21,541.46)\fscy64\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.59,0:12:57.67,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1085.21,541.46)\fscy64\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.59,0:12:57.67,Signs,Screen,0,0,0,,{\blur0.64\pos(1139.14,677.74)\fscy60\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
-Dialogue: 0,0:12:57.67,0:12:57.76,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1077.67,742.19)\fscy24\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second Year\NWanted Dead or Alive
+Dialogue: 0,0:12:57.67,0:12:57.76,Signs,Screen,0,0,0,,{\blur0.64\an4\pos(1077.67,742.19)\fscy24\fnDisposableDroid BB\fs20\c&H44FD39&\be1\q2}Amanai Riko\N\N\N\N\N\NRenchoku Girls' Academy\NMiddle School Second-Year\NWanted Dead or Alive
 Dialogue: 0,0:12:57.67,0:12:57.76,Signs,Screen,0,0,0,,{\blur0.64\pos(1130.91,800)\fscy20\fnDisposableDroid BB\fs18\c&H44FD39&\be1\q2}Time Remaining
 Dialogue: 0,0:12:57.72,0:12:57.76,<<folder>>,,0,0,0,,{=25}
-Dialogue: 0,0:02:51.03,0:02:51.07,<<folder>>,,0,0,0,,{=26}- Episode Title
+Dialogue: 0,0:02:51.03,0:02:51.07,<<folder>>,,0,0,0,,{=26}- Episode Titles
 Dialogue: 0,0:02:51.03,0:02:54.03,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}27
 Dialogue: 0,0:02:51.03,0:02:54.03,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Hidden Inventory III
 Dialogue: 0,0:23:49.66,0:23:49.70,<<folder>>,,0,0,0,,
@@ -5359,31 +5363,22 @@ Data: 18,_aegi_folddata,e0;1;7
 Data: 19,_aegi_folddata,e1;1;7
 Data: 20,_aegi_folddata,e0;1;8
 Data: 21,_aegi_folddata,e1;1;8
-Data: 22,_aegi_folddata,e0;1;9
-Data: 23,_aegi_folddata,e1;1;9
 Data: 24,_aegi_folddata,e0;1;10
 Data: 25,_aegi_folddata,e1;1;10
 Data: 26,_aegi_folddata,e0;1;11
 Data: 27,_aegi_folddata,e1;1;11
-Data: 28,_aegi_folddata,e0;0;1
-Data: 29,_aegi_folddata,e1;0;1
-Data: 30,_aegi_folddata,e0;0;2
-Data: 31,_aegi_folddata,e1;0;2
-Data: 32,_aegi_folddata,e0;0;3
-Data: 33,_aegi_folddata,e1;0;3
-Data: 34,_aegi_folddata,e0;0;4
-Data: 35,_aegi_folddata,e1;0;4
-Data: 36,_aegi_folddata,e0;0;5
-Data: 37,_aegi_folddata,e1;0;5
-Data: 38,_aegi_folddata,e0;0;6
-Data: 39,_aegi_folddata,e1;0;6
-Data: 40,_aegi_folddata,e0;0;7
-Data: 41,_aegi_folddata,e1;0;7
-Data: 42,_aegi_folddata,e0;0;8
-Data: 43,_aegi_folddata,e1;0;8
-Data: 44,_aegi_folddata,e0;0;9
 Data: 45,_aegi_folddata,e1;0;9
-Data: 46,_aegi_folddata,e0;0;10
-Data: 47,_aegi_folddata,e1;0;10
-Data: 48,_aegi_folddata,e0;0;11
-Data: 49,_aegi_folddata,e1;0;11
+Data: 52,_aegi_folddata,e0;0;8
+Data: 53,_aegi_folddata,e1;0;8
+Data: 54,_aegi_folddata,e0;0;5
+Data: 55,_aegi_folddata,e1;0;5
+Data: 56,_aegi_folddata,e0;0;7
+Data: 57,_aegi_folddata,e1;0;7
+Data: 58,_aegi_folddata,e0;0;6
+Data: 59,_aegi_folddata,e1;0;6
+Data: 60,_aegi_folddata,e0;0;4
+Data: 61,_aegi_folddata,e1;0;4
+Data: 62,_aegi_folddata,e0;0;3
+Data: 63,_aegi_folddata,e1;0;3
+Data: 64,_aegi_folddata,e0;0;2
+Data: 65,_aegi_folddata,e1;0;2

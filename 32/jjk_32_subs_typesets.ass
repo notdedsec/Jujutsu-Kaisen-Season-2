@@ -16,140 +16,142 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Audio File: jjk_32_premux.mkv
 Video File: jjk_32_premux.mkv
 Keyframes File: jjk_32_keyframes.txt
 Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Active Line: 75
+Video Position: 27597
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.02,<<folder>>,,0,0,0,,{=14}- Currently at Shibuya
+Dialogue: 0,0:00:00.00,0:00:00.02,<<folder>>,,0,0,0,,{=32}- Locations
 Dialogue: 0,0:00:00.00,0:00:00.02,<<folder>>,,0,0,0,,- Hikarie
-Dialogue: 0,0:00:00.00,0:00:05.99,Signs,Screen,0,0,0,,{\blur1\pos(862.5,979)\p1\c&HDEDEDE&\b1}m 0 0 l 285 0 285 106 0 106
-Dialogue: 0,0:00:00.00,0:00:05.99,Signs,Screen,0,0,0,,{\blur1\pos(1464,979)\p1\c&HDEDEDE&\b1}m 0 0 l 760 0 760 106 0 106
-Dialogue: 1,0:00:00.00,0:00:05.99,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(862.5,979)\fscx98\fs82\blur0.6}20:38
-Dialogue: 1,0:00:00.00,0:00:05.99,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1464,979)\fscx98\fs82\blur0.6}Shibuya, Hikarie, B3F
+Dialogue: 0,0:00:00.00,0:00:05.99,Signs,Screen,0,0,0,,{\blur0.6\c&HE4E4E4&\pos(862.5,979)\b1\p1}m 0 0 l 285 0 285 99 0 99
+Dialogue: 0,0:00:00.00,0:00:05.99,Signs,Screen,0,0,0,,{\blur0.6\c&HE4E4E4&\pos(1464,979)\b1\p1}m 0 0 l 760 0 760 99 0 99
+Dialogue: 1,0:00:00.00,0:00:05.99,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs82\fscx98\c&H000000&\pos(862.5,979)}20:38
+Dialogue: 1,0:00:00.00,0:00:05.99,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs82\fscx98\c&H000000&\pos(1464,979)}Shibuya, Hikarie, B3F
 Dialogue: 0,0:00:05.94,0:00:05.99,<<folder>>,,0,0,0,,
 Dialogue: 0,0:00:50.11,0:00:50.15,<<folder>>,,0,0,0,,- Aoyama Cemetery
-Dialogue: 0,0:00:50.11,0:00:53.87,Signs,Screen,0,0,0,,{\blur1\pos(230,978)\p1\c&HF6F7F8&\b1}m 0 0 l 280 0 280 104 0 104
-Dialogue: 0,0:00:50.11,0:00:53.87,Signs,Screen,0,0,0,,{\blur1\pos(740,978)\p1\c&HF6F7F8&\fscx110\b1}m 0 0 l 560 0 560 104 0 104
-Dialogue: 1,0:00:50.11,0:00:53.87,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(230,978)\fs80\blur0.6\fscx98}20:39
-Dialogue: 1,0:00:50.11,0:00:53.87,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\fs80\blur0.6\fscx98\pos(740,978)}Aoyama Cemetery
+Dialogue: 0,0:00:50.11,0:00:53.87,Signs,Screen,0,0,0,,{\blur0.6\c&HF6F7F8&\pos(227,978)\b1\p1}m 0 0 l 280 0 280 98 0 98
+Dialogue: 0,0:00:50.11,0:00:53.87,Signs,Screen,0,0,0,,{\blur0.6\fscx110\c&HF6F7F8&\pos(746,978)\b1\p1}m 0 0 l 560 0 560 98 0 98
+Dialogue: 1,0:00:50.11,0:00:53.87,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs80\fscx98\c&H000000&\pos(227,978)}20:39
+Dialogue: 1,0:00:50.11,0:00:53.87,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs80\fscx98\c&H000000&\pos(746,978)}Aoyama Cemetery
 Dialogue: 0,0:00:53.83,0:00:53.87,<<folder>>,,0,0,0,,
 Dialogue: 0,0:01:33.28,0:01:33.32,<<folder>>,,0,0,0,,- Team Mei Mei
-Dialogue: 0,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\pos(226.5,808.5)\blur1\fad(400,0)\p1\b1}m 0 0 l 313 0 313 85 0 85
-Dialogue: 0,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\pos(750,808.5)\blur1\fad(400,0)\p1\b1}m 0 0 l 692 0 692 85 0 85
-Dialogue: 0,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\pos(496,900)\blur1\fad(400,0)\p1\b1}m 0 0 l 184 0 184 85 0 85
-Dialogue: 0,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\pos(878.5,991.5)\blur1\fad(400,0)\p1\b1}m 0 0 l 949 0 949 85 0 85
-Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(227.21,808.5)\fs54\blur0.6\fad(500,0)\fscx98}Team Mei Mei
-Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(432,808.5)\fscx98\fs54\blur0.6\fad(500,0)}Mei Mei, First-Grade Sorcerer
-Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(432,900)\fscx98\fs54\blur0.6\fad(500,0)}Ui Ui
-Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(432,991.5)\fscx98\fs54\blur0.6\fad(500,0)}Itadori Yuji (Promotion Evaluation On Hold) {consistency with ep 31}
+Dialogue: 0,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(400,0)\blur0.6\c&HFBF7FC&\pos(230.5,808.5)\b1\p1}m 0 0 l 316 0 316 77 0 77
+Dialogue: 0,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(400,0)\blur0.6\c&HFBF7FC&\pos(749,808.5)\b1\p1}m 0 0 l 690 0 690 77 0 77
+Dialogue: 0,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(400,0)\blur0.6\c&HFBF7FC&\pos(494,899)\b1\p1}m 0 0 l 180 0 180 77 0 77
+Dialogue: 0,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(400,0)\blur0.6\c&HFBF7FC&\pos(876,989.5)\b1\p1}m 0 0 l 944 0 944 77 0 77
+Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\blur0.6\fnAribau Grotesk\fs54\fscx100\c&H000000&\pos(231,808.5)}Team Mei Mei
+Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\an4\blur0.6\fnAribau Grotesk\fs54\fscx100\c&H000000&\pos(435,808.5)}Mei Mei, First-Grade Sorcerer
+Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\an4\blur0.6\fnAribau Grotesk\fs54\fscx100\c&H000000&\pos(435,899)}Ui Ui
+Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\an4\blur0.6\fnAribau Grotesk\fs54\fscx100\c&H000000&\pos(435,989.5)}Itadori Yuji  (Promotion Evaluation On Hold) {consistency with ep 31}
 Dialogue: 0,0:01:41.04,0:01:41.08,<<folder>>,,0,0,0,,
 Dialogue: 0,0:02:18.12,0:02:18.16,<<folder>>,,0,0,0,,- Shibuya Platform
-Dialogue: 0,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur1\p1\pos(693,859)\c&HF1EEEE&\b1}m 0 0 l 306 0 306 102 0 102
-Dialogue: 0,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur1\p1\pos(1385,859)\c&HF1EEEE&\b1}m 0 0 l 890 0 890 102 0 102
-Dialogue: 0,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur1\p1\pos(1385,979.5)\c&HF1EEEE&\b1}m 0 0 l 890 0 890 102 0 102
-Dialogue: 1,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(693,859)\fs77\blur0.6\fad(0,400)}20:40
-Dialogue: 1,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1385,859)\fscx96\fs77\blur0.6\fad(0,400)}Tokyo Metro, Shibuya Station
-Dialogue: 1,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1385,979.5)\fscx93\fs77\blur0.6\fad(0,400)}B5F, Shin-toshin Line Platform
+Dialogue: 0,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur0.6\c&HEAE8DD&\pos(693,859)\b1\p1}m 0 0 l 306 0 306 98 0 98
+Dialogue: 0,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur0.6\c&HEAE8DD&\pos(1385,859)\b1\p1}m 0 0 l 890 0 890 98 0 98
+Dialogue: 0,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur0.6\c&HEAE8DD&\pos(1385,979.5)\b1\p1}m 0 0 l 890 0 890 98 0 98
+Dialogue: 1,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(693,859)}20:40
+Dialogue: 1,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur0.6\fnAribau Grotesk\fs77\fscx96\c&H000000&\pos(1385,859)}Tokyo Metro, Shibuya Station
+Dialogue: 1,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur0.6\fnAribau Grotesk\fs77\fscx93\c&H000000&\pos(1385,979.5)}B5F, Shin-toshin Line Platform
 Dialogue: 0,0:02:20.45,0:02:20.50,Signs,,0,0,0,,
 Dialogue: 0,0:04:18.99,0:04:19.03,<<folder>>,,0,0,0,,- Meiji-jingumae Exit 2
-Dialogue: 0,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\pos(548,859)\blur1\p1\b1}m 0 0 l 278 0 278 102 0 102
-Dialogue: 0,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\pos(1314,859)\blur1\p1\b1}m 0 0 l 1052.64 0 1052.64 102 0 102
-Dialogue: 0,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\pos(1019.84,979.5)\blur1\p1\b1}m 0 0 l 464.32 0 464.32 102 0 102
-Dialogue: 1,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(548,859)\fs78\blur0.6\fscx96}20:51
-Dialogue: 1,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(810.31,855.91)\fscx96\fs78\blur0.6}Tokyo Metro, Meiji-jingumae Station
-Dialogue: 1,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(810.307,979.5)\fscx96\fs78\blur0.6}Exit 2 {the space here is very annoying} {but it can not be helped}
+Dialogue: 0,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\blur0.6\pos(548,859)\b1\p1\c&HF2F2F2&}m 0 0 l 278 0 278 97 0 97
+Dialogue: 0,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\blur0.6\pos(1314,859)\b1\p1\c&HF2F2F2&}m 0 0 l 1052.64 0 1052.64 97 0 97
+Dialogue: 0,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\blur0.6\pos(1019.84,979.5)\b1\p1\c&HF2F2F2&}m 0 0 l 464.32 0 464.32 97 0 97
+Dialogue: 1,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs76\fscx96\c&H000000&\pos(548,859)}20:51
+Dialogue: 1,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\an4\blur0.6\fnAribau Grotesk\fs75\fscx99\c&H000000&\pos(814.31,856.91)}Tokyo Metro, Meiji-jingumae Station
+Dialogue: 1,0:04:18.99,0:04:25.66,Signs,Screen,0,0,0,,{\an4\blur0.6\fnAribau Grotesk\fs76\fscx99\c&H000000&\pos(815.11,979.5)}Exit 2 {the space here is very annoying} {but it can not be helped}
 Dialogue: 0,0:04:25.62,0:04:25.66,<<folder>>,,0,0,0,,
 Dialogue: 0,0:07:58.04,0:07:58.08,<<folder>>,,0,0,0,,- Metro
-Dialogue: 0,0:07:58.04,0:08:02.17,Signs,Screen,0,0,0,,{\pos(960,540)\p1\c&H000000&\b1}m 0 0 l 1920 0 1920 1080 0 1080
-Dialogue: 1,0:07:58.04,0:08:02.17,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\fscx96\fs88\blur0.6\c&HFFFFFF&}21:03     Tokyo Metro, Meiji-jingumae Station, B2F
+Dialogue: 0,0:07:58.04,0:08:02.17,Signs,Screen,0,0,0,,{\c&H000000&\pos(960,540)\b1\p1}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 1,0:07:58.04,0:08:02.17,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs88\fscx96\c&H000000&\c&HFFFFFF&}21:03     Tokyo Metro, Meiji-jingumae Station, B2F
 Dialogue: 0,0:08:02.13,0:08:02.17,<<folder>>,,0,0,0,,
 Dialogue: 0,0:15:30.58,0:15:30.62,<<folder>>,,0,0,0,,- Shin-toshin Line
-Dialogue: 0,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\blur1\p1\pos(564.5,859)\b1}m 0 0 l 281 0 281 106 0 106
-Dialogue: 0,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\blur1\pos(1314,859)\p1\b1}m 0 0 l 1036 0 1036 106 0 106
-Dialogue: 0,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\pos(1314,979)\blur1\p1\b1}m 0 0 l 1036 0 1036 106 0 106
-Dialogue: 1,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(564.5,859)\fs77\c&H000000&\blur0.6}21:14
-Dialogue: 1,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(819.4,859)\fscx96\fs77\c&H000000&\blur0.6}Tokyo Metro, Meiji-jingumae Station
-Dialogue: 1,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(819.4,979)\fscx96\fs77\c&H000000&\blur0.6}B5F, Shin-toshin Line Platform
+Dialogue: 0,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\blur0.6\c&HECECEC&\pos(564.5,859)\b1\p1}m 0 0 l 281 0 281 97 0 97
+Dialogue: 0,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\blur0.6\c&HECECEC&\pos(1315,859)\b1\p1}m 0 0 l 1036 0 1036 97 0 97
+Dialogue: 0,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\blur0.6\c&HECECEC&\pos(1241,979)\b1\p1}m 0 0 l 888 0 888 97 0 97
+Dialogue: 1,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs75\c&H000000&\pos(565.5,859)}21:14
+Dialogue: 1,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\an4\blur0.6\fnAribau Grotesk\fs75\fscx98\c&H000000&\pos(822.4,859)}Tokyo Metro, Meiji-jingumae Station
+Dialogue: 1,0:15:30.58,0:15:36.08,Signs,Screen,0,0,0,,{\an4\blur0.6\fnAribau Grotesk\fs75\fscx98\c&H000000&\pos(822.4,979)}B5F, Shin-toshin Line Platform
 Dialogue: 0,0:15:36.04,0:15:36.08,<<folder>>,,0,0,0,,
 Dialogue: 0,0:15:49.85,0:15:49.89,<<folder>>,,0,0,0,,- Meiji-jingumae B4F
-Dialogue: 0,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\pos(279.5,978.5)\blur1\p1\b1}m 0 0 l 277 0 277 105 0 105
-Dialogue: 1,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\pos(1172.5,978.5)\blur1\p1\b1}m 0 0 l 1325 0 1325 105 0 105
-Dialogue: 3,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(279.5,978.5)\fs79\blur0.6}20:15
-Dialogue: 3,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1172.5,978.5)\fscx101\fs79\blur0.6}Tokyo Metro, Meiji-jingumae Station, B4F
-Dialogue: 0,0:15:52.31,0:15:52.35,<<folder>>,,0,0,0,,{=15}
-Comment: 0,0:01:24.94,0:01:30.45,Signs,Sign,0,0,0,,Yamaguchi Family Grave\NAikawa Family Grave
-Dialogue: 0,0:01:24.94,0:01:24.98,<<folder>>,,0,0,0,,{=10}- SFX
-Dialogue: 0,0:01:24.94,0:01:24.98,<<folder>>,,0,0,0,,- Some Ordinary Guy
-Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&H111215&\alpha&H00&\move(0,0,-76.6,0,20,5484)\p1\b1}m 1158.36 44.65 l 1230.9 41.3 1239.27 60.28 1229.22 107.16 1234.8 116.09 1221.97 152.93 1204.67 162.42 1150.55 161.3 1143.85 131.16 1142.74 103.26 1154.46 94.88
-Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.8\fscx100\fscy100\c&H111215&\alpha&H00&\move(0,0,-76.6,0,20,5484)\p1\b1}m 1027.95 95.67 l 1028.15 115.67 1034.96 122.27 1051.25 122.27 1058.26 114.64 1059.29 124.54 1065.06 130.52 1082.8 125.36 1091.46 112.78 1089.6 93.61 1076.82 81.03 1048.77 78.35 1035.99 83.92
-Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&H131418&\alpha&H00&\move(0,0,-76.6,0,20,5484)\p1\b1}m 923.18 63.08 l 975.72 63.08 976.7 93.16 967.32 112.1 988.81 111.12 994.28 112.1 996.03 118.16 994.47 126.36 991.35 131.44 967.91 137.88 949.75 139.25 914.4 138.27 903.85 136.71 887.06 138.27 879.44 133.58 879.24 122.06 890.38 113.27 889.79 102.53 881.98 98.04 882.37 85.15 888.03 83 889.4 68.75 899.95 66.99 913.23 72.26 914.98 77.34 917.72 76.56 917.33 65.62
-Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&H131419&\alpha&H00&\move(0,0,-76.6,0,20,5484)\p1\b1}m 781.96 119.68 l 782.93 104.47 795.21 86.54 822.89 82.25 840.04 82.64 848.22 91.22 851.73 113.63 844.52 133.71 830.49 133.51 824.83 129.62 826 118.9 822.11 110.51 818.6 122.01 806.51 132.93 789.17 132.54
-Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&H15161B&\alpha&H00&\move(0,0,-76.6,0,20,5484)\p1\b1}m 680.69 60.5 l 701.8 60.06 735.53 55.71 738.8 66.59 732.27 79.21 744.02 79.65 747.07 90.74 745.98 99.01 728.57 110.33 716.38 126.21 727.26 138.62 740.97 144.93 741.19 162.55 725.09 164.3 701.8 151.02 693.97 136.44 694.4 114.46 698.54 107.5 679.61 111.63 670.03 111.42 666.98 108.81 666.98 95.1 687.22 81.82 680.48 76.82
+Dialogue: 0,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\blur0.6\c&HF2F6F7&\pos(279.5,978.5)\b1\p1}m 0 0 l 270 0 270 95 0 95
+Dialogue: 1,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\blur0.6\c&HF2F6F7&\pos(1171.5,978.5)\b1\p1}m 0 0 l 1305 0 1305 95 0 95
+Dialogue: 3,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(279.5,978.5)}20:15
+Dialogue: 3,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs77\fscx101\c&H000000&\pos(1172.5,978.5)}Tokyo Metro, Meiji-jingumae Station, B4F
+Dialogue: 0,0:15:52.31,0:15:52.35,<<folder>>,,0,0,0,,{=33}
+Dialogue: 0,0:01:24.94,0:01:24.98,<<folder>>,,0,0,0,,{=38}- Some Ordinary Guy
+Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.5\c&H111215&\move(0,0,-76.6,0,20,5484)\p1\b1}m 1158.36 44.65 l 1230.9 41.3 1239.27 60.28 1229.22 107.16 1234.8 116.09 1221.97 152.93 1204.67 162.42 1150.55 161.3 1143.85 131.16 1142.74 103.26 1154.46 94.88
+Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.8\c&H111215&\move(0,0,-76.6,0,20,5484)\p1\b1}m 1027.95 95.67 l 1028.15 115.67 1034.96 122.27 1051.25 122.27 1058.26 114.64 1059.29 124.54 1065.06 130.52 1082.8 125.36 1091.46 112.78 1089.6 93.61 1076.82 81.03 1048.77 78.35 1035.99 83.92
+Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.5\c&H131418&\move(0,0,-76.6,0,20,5484)\p1\b1}m 923.18 63.08 l 975.72 63.08 976.7 93.16 967.32 112.1 988.81 111.12 994.28 112.1 996.03 118.16 994.47 126.36 991.35 131.44 967.91 137.88 949.75 139.25 914.4 138.27 903.85 136.71 887.06 138.27 879.44 133.58 879.24 122.06 890.38 113.27 889.79 102.53 881.98 98.04 882.37 85.15 888.03 83 889.4 68.75 899.95 66.99 913.23 72.26 914.98 77.34 917.72 76.56 917.33 65.62
+Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.5\c&H131419&\move(0,0,-76.6,0,20,5484)\p1\b1}m 781.96 119.68 l 782.93 104.47 795.21 86.54 822.89 82.25 840.04 82.64 848.22 91.22 851.73 113.63 844.52 133.71 830.49 133.51 824.83 129.62 826 118.9 822.11 110.51 818.6 122.01 806.51 132.93 789.17 132.54
+Dialogue: 0,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\an7\blur2.5\c&H15161B&\move(0,0,-76.6,0,20,5484)\p1\b1}m 680.69 60.5 l 701.8 60.06 735.53 55.71 738.8 66.59 732.27 79.21 744.02 79.65 747.07 90.74 745.98 99.01 728.57 110.33 716.38 126.21 727.26 138.62 740.97 144.93 741.19 162.55 725.09 164.3 701.8 151.02 693.97 136.44 694.4 114.46 698.54 107.5 679.61 111.63 670.03 111.42 666.98 108.81 666.98 95.1 687.22 81.82 680.48 76.82
 Dialogue: 1,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\blur20\fnHui v2\fs72\c&H000000&\move(974,89,897.4,89,20,5484)}Some Ordinary Guy
-Dialogue: 2,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\blur0.6\bord2.5\fnHui v2\fs72\c&HC3C3CA&\3c&HC3C3CA&\alpha&H00&\move(974,89,897.4,89,20,5484)\b1}Some Ordinary Guy
-Dialogue: 3,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\blur0.64\bord0\fnHui v2\fs72\c&H03030B&\alpha&H00&\4a&HFF&\move(974,89,897.4,89,20,5484)\b1}Some Ordinary Guy
-Dialogue: 0,0:01:30.40,0:01:30.45,<<folder>>,,0,0,0,,
-Dialogue: 0,0:10:27.86,0:10:27.90,<<folder>>,,0,0,0,,- Well, duh
-Dialogue: 0,0:10:27.86,0:10:29.98,Signs,Screen,0,0,0,,{\move(1437.25,192.98,1455.98,174.32,17,2103)\frz354.8\fnMechanical Pencil\fs55\bord1.5\shad1.25\3c&HDCE7E6&\4c&HDCE7E6&\blur0.8}You look just like one
-Dialogue: 1,0:10:27.86,0:10:29.98,Signs,Screen,0,0,0,,{\move(1437.25,192.98,1455.98,174.32,17,2103)\frz354.8\fnMechanical Pencil\fs55\c&H131B26&\blur0.7}You look just like one
-Dialogue: 0,0:10:29.94,0:10:29.98,<<folder>>,,0,0,0,,
-Dialogue: 0,0:16:50.95,0:16:50.99,<<folder>>,,0,0,0,,- Well, duh (2)
+Dialogue: 2,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\blur0.6\bord2.5\fnHui v2\fs72\c&HC3C3CA&\3c&HC3C3CA&\move(974,89,897.4,89,20,5484)\b1}Some Ordinary Guy
+Dialogue: 3,0:01:24.94,0:01:30.45,Signs,,0,0,0,,{\blur0.64\bord0\fnHui v2\fs72\c&H03030B&\4a&HFF&\move(974,89,897.4,89,20,5484)\b1}Some Ordinary Guy
+Dialogue: 0,0:01:30.40,0:01:30.45,<<folder>>,,0,0,0,,{=39}
+Dialogue: 0,0:10:27.86,0:10:27.90,<<folder>>,,0,0,0,,{=40}- Well, duh
+Dialogue: 0,0:10:27.86,0:10:29.98,Signs,Screen,0,0,0,,{\move(1437.25,192.98,1455.98,174.32,17,2103)\frz354.8\fnBarthowheel\fs55\bord1.5\shad1.25\3c&HDCE7E6&\4c&HDCE7E6&\blur0.8}You look just like one
+Dialogue: 1,0:10:27.86,0:10:29.98,Signs,Screen,0,0,0,,{\move(1437.25,192.98,1455.98,174.32,17,2103)\frz354.8\fnBarthowheel\fs55\c&H131B26&\blur0.7}You look just like one
+Dialogue: 0,0:10:29.94,0:10:29.98,<<folder>>,,0,0,0,,{=41}
+Dialogue: 0,0:16:50.95,0:16:50.99,<<folder>>,,0,0,0,,{=42}- Well, duh (2)
 Dialogue: 1,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{\pos(960,69)\fnHui v2\fs60\b1\bord3\c&HEBECED&\3c&HEBECED&\blur0.64}Isn't that why I'm here?
 Dialogue: 2,0:16:50.95,0:16:52.45,Signs,Screen,0,0,0,,{\fnHui v2\fs60\b1\blur0.64\pos(960,69)\c&H03030B&}Isn't that why I'm here?
-Dialogue: 0,0:16:52.41,0:16:52.45,<<folder>>,,0,0,0,,{=11}
+Dialogue: 0,0:16:52.41,0:16:52.45,<<folder>>,,0,0,0,,{=43}
 Dialogue: 0,0:19:11.00,0:19:11.05,<<folder>>,Screen,0,0,0,,{=8}- heH
-Dialogue: 0,0:19:11.01,0:19:11.09,Signs,Screen,0,0,0,,{\an7\blur5\fscx100\fscy100\c&HDBC2BA&\pos(-2,-1)\p1\b1}m 626.81 616.93 l 616.78 629.46 613.28 651.01 614.78 673.56 620.79 705.13 630.31 727.68 648.35 749.23 662.88 758.76 679.92 754.25 685.43 742.22 684.43 722.17 692.94 704.63 695.95 692.1 691.94 678.07 683.92 660.53 673.9 641.48 669.39 627.45 659.87 620.94 643.34 614.42
-Dialogue: 0,0:19:11.09,0:19:11.92,Signs,Screen,0,0,0,,{\an7\blur5\fscx100\fscy100\c&HDBC2BA&\pos(-12,5)\p1\b1}m 626.81 616.93 l 616.78 629.46 613.28 651.01 614.78 673.56 620.79 705.13 630.31 727.68 648.35 749.23 662.88 758.76 679.92 754.25 685.43 742.22 684.43 722.17 692.94 704.63 695.95 692.1 691.94 678.07 683.92 660.53 673.9 641.48 669.39 627.45 659.87 620.94 643.34 614.42
-Dialogue: 1,0:19:11.00,0:19:11.04,Signs,Screen,0,0,0,,{\pos(653.39,684.94)\fscx100\fscy101\frz0\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.6}e{\blur2.4}h
-Dialogue: 1,0:19:11.04,0:19:11.08,Signs,Screen,0,0,0,,{\pos(654.65,685.97)\fscx100.9\fscy101.91\frz0.82\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.61}e{\blur2.42}h
-Dialogue: 1,0:19:11.08,0:19:11.12,Signs,Screen,0,0,0,,{\pos(642.93,689.5)\fscx100.13\fscy101.13\frz0.89\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.6}e{\blur2.4}h
-Dialogue: 1,0:19:11.12,0:19:11.17,Signs,Screen,0,0,0,,{\pos(640.95,689.61)\fscx100.94\fscy101.95\frz1.76\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.61}e{\blur2.42}h
-Dialogue: 1,0:19:11.17,0:19:11.21,Signs,Screen,0,0,0,,{\pos(639.8,691.94)\fscx101.43\fscy102.45\frz2.21\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.62}e{\blur2.43}h
-Dialogue: 1,0:19:11.21,0:19:11.25,Signs,Screen,0,0,0,,{\pos(641.51,693.36)\fscx102.37\fscy103.39\frz2.74\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.46}h
-Dialogue: 1,0:19:11.25,0:19:11.29,Signs,Screen,0,0,0,,{\pos(641.27,692)\fscx102.75\fscy103.77\frz2.85\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.47}h
-Dialogue: 1,0:19:11.29,0:19:11.33,Signs,Screen,0,0,0,,{\pos(640.11,692.81)\fscx102.87\fscy103.89\frz3.2\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.47}h
-Dialogue: 1,0:19:11.33,0:19:11.38,Signs,Screen,0,0,0,,{\pos(641.83,694.47)\fscx102.78\fscy103.81\frz3.34\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.47}h
-Dialogue: 1,0:19:11.38,0:19:11.42,Signs,Screen,0,0,0,,{\pos(643.91,694.36)\fscx102.67\fscy103.69\frz3.25\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.46}h
-Dialogue: 1,0:19:11.42,0:19:11.46,Signs,Screen,0,0,0,,{\pos(642.52,695.43)\fscx102.72\fscy103.75\frz3.22\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.47}h
-Dialogue: 1,0:19:11.46,0:19:11.50,Signs,Screen,0,0,0,,{\pos(641.83,696.44)\fscx102.52\fscy103.55\frz3.24\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.46}h
-Dialogue: 1,0:19:11.50,0:19:11.54,Signs,Screen,0,0,0,,{\pos(640.51,695.69)\fscx102.57\fscy103.6\frz3.22\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.46}h
-Dialogue: 1,0:19:11.54,0:19:11.58,Signs,Screen,0,0,0,,{\pos(638.24,695.15)\fscx102.68\fscy103.7\frz3.35\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.46}h
-Dialogue: 1,0:19:11.58,0:19:11.63,Signs,Screen,0,0,0,,{\pos(640.17,694.8)\fscx102.65\fscy103.67\frz3.48\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.46}h
-Dialogue: 1,0:19:11.63,0:19:11.67,Signs,Screen,0,0,0,,{\pos(641.83,694.08)\fscx102.68\fscy103.71\frz3.67\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.46}h
-Dialogue: 1,0:19:11.67,0:19:11.71,Signs,Screen,0,0,0,,{\pos(640.52,693.34)\fscx102.98\fscy104.01\frz3.57\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.63}e{\blur2.47}h
-Dialogue: 1,0:19:11.71,0:19:11.75,Signs,Screen,0,0,0,,{\pos(640.16,693.55)\fscx103.23\fscy104.26\frz3.5\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.64}e{\blur2.48}h
-Dialogue: 1,0:19:11.75,0:19:11.79,Signs,Screen,0,0,0,,{\pos(640.28,695.23)\fscx103.37\fscy104.4\frz3.85\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.64}e{\blur2.48}h
-Dialogue: 1,0:19:11.79,0:19:11.83,Signs,Screen,0,0,0,,{\pos(642.48,695.58)\fscx103.35\fscy104.38\frz3.99\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.64}e{\blur2.48}h
-Dialogue: 1,0:19:11.83,0:19:11.88,Signs,Screen,0,0,0,,{\pos(645.76,693.81)\fscx103.39\fscy104.42\frz4.06\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.8}H{\blur2.64}e{\blur2.48}h
-Dialogue: 1,0:19:11.88,0:19:11.92,Signs,Screen,0,0,0,,{\pos(644.92,694.23)\fscx103.45\fscy104.48\frz4.14\fax0.1\fnAji Hand\fs41\fsp1\b1\c&H6E3558&\1a&H30&\blur2.84}H{\blur2.75}e{\blur2.66}h
+Dialogue: 0,0:19:11.01,0:19:11.09,Signs,Screen,0,0,0,,{\an7\blur5\fscx100\fscy100\c&HDBC2BA&\pos(-2,-1)\b1\p1}m 626.81 616.93 l 616.78 629.46 613.28 651.01 614.78 673.56 620.79 705.13 630.31 727.68 648.35 749.23 662.88 758.76 679.92 754.25 685.43 742.22 684.43 722.17 692.94 704.63 695.95 692.1 691.94 678.07 683.92 660.53 673.9 641.48 669.39 627.45 659.87 620.94 643.34 614.42
+Dialogue: 0,0:19:11.09,0:19:11.92,Signs,Screen,0,0,0,,{\an7\blur5\fscx100\fscy100\c&HDBC2BA&\pos(-12,5)\b1\p1}m 626.81 616.93 l 616.78 629.46 613.28 651.01 614.78 673.56 620.79 705.13 630.31 727.68 648.35 749.23 662.88 758.76 679.92 754.25 685.43 742.22 684.43 722.17 692.94 704.63 695.95 692.1 691.94 678.07 683.92 660.53 673.9 641.48 669.39 627.45 659.87 620.94 643.34 614.42
+Dialogue: 1,0:19:11.00,0:19:11.04,Signs,Screen,0,0,0,,{\blur2.81\fnBlockParty\fs40\fsp1\fscx75\fscy83.08\frz0\fax0.1\c&H6E3558&\1a&H30&\pos(653.39,684.94)}H{\blur2.6}e{\blur2.4}h
+Dialogue: 1,0:19:11.04,0:19:11.08,Signs,Screen,0,0,0,,{\blur2.82\fnBlockParty\fs40\fsp1\fscx75.68\fscy83.84\frz0.82\fax0.1\c&H6E3558&\1a&H30&\pos(654.65,685.97)}H{\blur2.61}e{\blur2.42}h
+Dialogue: 1,0:19:11.08,0:19:11.12,Signs,Screen,0,0,0,,{\blur2.81\fnBlockParty\fs40\fsp1\fscx75.1\fscy83.19\frz0.89\fax0.1\c&H6E3558&\1a&H30&\pos(642.93,689.5)}H{\blur2.6}e{\blur2.4}h
+Dialogue: 1,0:19:11.12,0:19:11.17,Signs,Screen,0,0,0,,{\blur2.82\fnBlockParty\fs40\fsp1\fscx75.71\fscy83.87\frz1.76\fax0.1\c&H6E3558&\1a&H30&\pos(640.95,689.61)}H{\blur2.61}e{\blur2.42}h
+Dialogue: 1,0:19:11.17,0:19:11.21,Signs,Screen,0,0,0,,{\blur2.89\fnBlockParty\fs40\fsp1\fscx76.07\fscy84.29\frz2.21\fax0.1\c&H6E3558&\1a&H30&\pos(639.8,691.94)}H{\blur2.67}e{\blur2.48}h
+Dialogue: 1,0:19:11.21,0:19:11.25,Signs,Screen,0,0,0,,{\blur2.92\fnBlockParty\fs40\fsp1\fscx76.78\fscy85.07\frz2.74\fax0.1\c&H6E3558&\1a&H30&\pos(641.51,693.36)}H{\blur2.68}e{\blur2.51}h
+Dialogue: 1,0:19:11.25,0:19:11.29,Signs,Screen,0,0,0,,{\blur3.04\fnBlockParty\fs40\fsp1\fscx77.06\fscy85.39\frz2.85\fax0.1\c&H6E3558&\1a&H30&\pos(641.27,692)}H{\blur2.79}e{\blur2.62}h
+Dialogue: 1,0:19:11.29,0:19:11.33,Signs,Screen,0,0,0,,{\blur3.1\fnBlockParty\fs40\fsp1\fscx77.15\fscy85.49\frz3.2\fax0.1\c&H6E3558&\1a&H30&\pos(640.11,692.81)}H{\blur2.85}e{\blur2.67}h
+Dialogue: 1,0:19:11.33,0:19:11.38,Signs,Screen,0,0,0,,{\blur3.1\fnBlockParty\fs40\fsp1\fscx77.09\fscy85.42\frz3.34\fax0.1\c&H6E3558&\1a&H30&\pos(641.83,694.47)}H{\blur2.85}e{\blur2.67}h
+Dialogue: 1,0:19:11.38,0:19:11.42,Signs,Screen,0,0,0,,{\blur3.09\fnBlockParty\fs40\fsp1\fscx77\fscy85.32\frz3.25\fax0.1\c&H6E3558&\1a&H30&\pos(643.91,694.36)}H{\blur2.85}e{\blur2.66}h
+Dialogue: 1,0:19:11.42,0:19:11.46,Signs,Screen,0,0,0,,{\blur3.1\fnBlockParty\fs40\fsp1\fscx77.04\fscy85.37\frz3.22\fax0.1\c&H6E3558&\1a&H30&\pos(642.52,695.43)}H{\blur2.85}e{\blur2.67}h
+Dialogue: 1,0:19:11.46,0:19:11.50,Signs,Screen,0,0,0,,{\blur3.09\fnBlockParty\fs40\fsp1\fscx76.89\fscy85.2\frz3.24\fax0.1\c&H6E3558&\1a&H30&\pos(641.83,696.44)}H{\blur2.85}e{\blur2.66}h
+Dialogue: 1,0:19:11.50,0:19:11.54,Signs,Screen,0,0,0,,{\blur3.09\fnBlockParty\fs40\fsp1\fscx76.93\fscy85.25\frz3.22\fax0.1\c&H6E3558&\1a&H30&\pos(640.51,695.69)}H{\blur2.85}e{\blur2.66}h
+Dialogue: 1,0:19:11.54,0:19:11.58,Signs,Screen,0,0,0,,{\blur3.09\fnBlockParty\fs40\fsp1\fscx77.01\fscy85.34\frz3.35\fax0.1\c&H6E3558&\1a&H30&\pos(638.24,695.15)}H{\blur2.85}e{\blur2.66}h
+Dialogue: 1,0:19:11.58,0:19:11.63,Signs,Screen,0,0,0,,{\blur3.03\fnBlockParty\fs40\fsp1\fscx76.99\fscy85.3\frz3.48\fax0.1\c&H6E3558&\1a&H30&\pos(640.17,694.8)}H{\blur2.79}e{\blur2.61}h
+Dialogue: 1,0:19:11.63,0:19:11.67,Signs,Screen,0,0,0,,{\blur2.86\fnBlockParty\fs40\fsp1\fscx77.01\fscy85.34\frz3.67\fax0.1\c&H6E3558&\1a&H30&\pos(641.83,694.08)}H{\blur2.63}e{\blur2.46}h
+Dialogue: 1,0:19:11.67,0:19:11.71,Signs,Screen,0,0,0,,{\blur2.87\fnBlockParty\fs40\fsp1\fscx77.24\fscy85.59\frz3.57\fax0.1\c&H6E3558&\1a&H30&\pos(640.52,693.34)}H{\blur2.63}e{\blur2.47}h
+Dialogue: 1,0:19:11.71,0:19:11.75,Signs,Screen,0,0,0,,{\blur2.88\fnBlockParty\fs40\fsp1\fscx77.42\fscy85.8\frz3.5\fax0.1\c&H6E3558&\1a&H30&\pos(640.16,693.55)}H{\blur2.64}e{\blur2.48}h
+Dialogue: 1,0:19:11.75,0:19:11.79,Signs,Screen,0,0,0,,{\blur2.88\fnBlockParty\fs40\fsp1\fscx77.53\fscy85.91\frz3.85\fax0.1\c&H6E3558&\1a&H30&\pos(640.28,695.23)}H{\blur2.64}e{\blur2.48}h
+Dialogue: 1,0:19:11.79,0:19:11.83,Signs,Screen,0,0,0,,{\blur2.88\fnBlockParty\fs40\fsp1\fscx77.51\fscy85.9\frz3.99\fax0.1\c&H6E3558&\1a&H30&\pos(642.48,695.58)}H{\blur2.64}e{\blur2.48}h
+Dialogue: 1,0:19:11.83,0:19:11.88,Signs,Screen,0,0,0,,{\blur2.88\fnBlockParty\fs40\fsp1\fscx77.54\fscy85.94\frz4.06\fax0.1\c&H6E3558&\1a&H30&\pos(645.76,693.81)}H{\blur2.64}e{\blur2.48}h
+Dialogue: 1,0:19:11.88,0:19:11.92,Signs,Screen,0,0,0,,{\blur2.84\fnBlockParty\fs40\fsp1\fscx77.59\fscy85.98\frz4.14\fax0.1\c&H6E3558&\1a&H30&\pos(644.92,694.23)}H{\blur2.75}e{\blur2.66}h
 Dialogue: 0,0:19:11.88,0:19:11.92,<<folder>>,,0,0,0,,{=9}
 Dialogue: 0,0:04:12.98,0:04:13.02,<<folder>>,,0,0,0,,{=6}- Map
 Dialogue: 0,0:04:12.98,0:04:18.99,Signs,Map,0,0,0,,{\move(578.44,216.44,578.21,799.86,23,5987)\frz335.6\fax-0.16\fnArchitects Daughter\fs55\b1\c&H4F5F65&\blur0.64}Platform
+Dialogue: 0,0:04:12.98,0:04:18.99,Signs,Map,0,0,0,,{\move(578.44,216.44,578.21,799.86,23,5987)\frz335.6\fax-0.16\fnArchitects Daughter\fs55\b1\c&H4F5F65&\1a&H33&\blur0.64}Platform
 Dialogue: 0,0:04:25.66,0:04:25.70,<<folder>>,,0,0,0,,
 Dialogue: 0,0:04:25.66,0:04:32.84,Signs,Map,0,0,0,,{\move(1313.87,748.58,1361.96,748.62,22,7154)\frz172.7\fry14\frx32\fax-1.5\fnArchitects Daughter\fs40\fsp1\b1\c&H2E3033&\1a&H33&\blur0.8}Platform
 Dialogue: 0,0:04:25.66,0:04:32.84,Signs,Map,0,0,0,,{\move(1313.87,748.58,1361.96,748.62,22,7154)\frz172.7\fry14\frx32\fax-1.5\fnArchitects Daughter\fs40\fsp1\b1\c&H2E3033&\blur0.8}Platform
 Dialogue: 0,0:04:32.79,0:04:32.84,<<folder>>,,0,0,0,,{=7}
-Comment: 0,0:15:36.08,0:15:41.84,Signs,Sign,0,0,0,,{\an8\blur0.6\fnYanone Tagesschrift\fscy185\fax-0.5\c&HB5ACAB&\3c&HF1FFFF&\b1\pos(1159.32,413.24)} J {literally why} {no need for this anyway according to the internet}
 Dialogue: 0,0:17:37.33,0:17:37.37,<<folder>>,,0,0,0,,{=4}- Bang
-Dialogue: 0,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnJava Jive Regular\fs64\frz349.8\c&HC5C5C5&\3c&HC5C5C5&\pos(242.96,304.27)\b0\fsp5.5}Bang
-Dialogue: 1,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\pos(242.96,304.27)\frz349.8\fnJava Jive Regular\fs64\b0\c&H252525&\blur0.69\fsp5.5}Bang
-Dialogue: 0,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnJava Jive Regular\fs64\frz349.8\c&HC5C5C5&\3c&HC5C5C5&\pos(242.96,304.27)\b0\fsp5.5}Bang
-Dialogue: 1,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\pos(242.96,304.27)\frz349.8\fnJava Jive Regular\fs64\b0\c&H252525&\blur0.69\fsp5.5}Bang
-Dialogue: 0,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnJava Jive Regular\fs64\frz349.8\c&HC5C5C5&\3c&HC5C5C5&\pos(242.96,304.27)\b0\fsp5.5}Bang
-Dialogue: 1,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\pos(242.96,304.27)\frz349.8\fnJava Jive Regular\fs64\b0\c&H252525&\blur0.69\fsp5.5}Bang
-Dialogue: 0,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnBlueBrush-Normal\fs55\frz12.81\c&HC5C5C5&\3c&HC5C5C5&\pos(287.37,980.04)\b1\fscy90\fsp2.8}Can't Break It
-Dialogue: 1,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\pos(287.37,980.04)\frz12.81\fnBlueBrush-Normal\fs55\b1\c&H1E1E1E&\blur0.64\fscy90\fsp2.8}Can't Break It
-Dialogue: 0,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnBlueBrush-Normal\fs55\frz12.81\c&HC5C5C5&\3c&HC5C5C5&\pos(287.37,980.04)\b1\fscy90\fsp2.8}Can't Break It
-Dialogue: 1,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\pos(287.37,980.04)\frz12.81\fnBlueBrush-Normal\fs55\b1\c&H1E1E1E&\blur0.69\fscy90\fsp2.8}Can't Break It
-Dialogue: 0,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnBlueBrush-Normal\fs55\frz12.81\c&HC5C5C5&\3c&HC5C5C5&\pos(287.37,980.04)\b1\fscy90\fsp2.8}Can't Break It
-Dialogue: 1,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\pos(287.37,980.04)\frz12.81\fnBlueBrush-Normal\fs55\b1\c&H1E1E1E&\blur0.69\fscy90\fsp2.8}Can't Break It
+Dialogue: 0,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnJava Jive Regular\fs69\frz349.8\c&HC5C5C5&\3c&HC5C5C5&\pos(242.96,306.27)\b0\fsp5.5}Bang
+Dialogue: 1,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\pos(242.96,306.27)\frz349.8\fnJava Jive Regular\fs69\b0\c&H252525&\blur0.69\fsp5.5}Bang
+Dialogue: 0,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnJava Jive Regular\fs69\frz349.8\c&HC5C5C5&\3c&HC5C5C5&\pos(242.96,306.27)\b0\fsp5.5}Bang
+Dialogue: 1,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\pos(242.96,306.27)\frz349.8\fnJava Jive Regular\fs69\b0\c&H252525&\blur0.69\fsp5.5}Bang
+Dialogue: 0,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnJava Jive Regular\fs69\frz349.8\c&HC5C5C5&\3c&HC5C5C5&\pos(242.96,306.27)\b0\fsp5.5}Bang
+Dialogue: 1,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\pos(242.96,306.27)\frz349.8\fnJava Jive Regular\fs69\b0\c&H252525&\blur0.69\fsp5.5}Bang
+Dialogue: 0,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnBlueBrush-Normal\fs55\frz12.81\c&HC5C5C5&\3c&HC5C5C5&\pos(287.37,980.04)\b1\fscy90\fsp3\fax-0.06}Can't Break It
+Dialogue: 1,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\pos(287.37,980.04)\frz12.81\fnBlueBrush-Normal\fs55\b1\c&H1E1E1E&\blur0.64\fscy90\fsp3\fax-0.06}Can't Break It
+Dialogue: 0,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnBlueBrush-Normal\fs55\frz12.81\c&HC5C5C5&\3c&HC5C5C5&\pos(287.37,980.04)\b1\fscy90\fsp3\fax-0.06}Can't Break It
+Dialogue: 1,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\pos(287.37,980.04)\frz12.81\fnBlueBrush-Normal\fs55\b1\c&H1E1E1E&\blur0.69\fscy90\fsp3\fax-0.06}Can't Break It
+Dialogue: 0,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\blur0.64\bord4\fnBlueBrush-Normal\fs55\frz12.81\c&HC5C5C5&\3c&HC5C5C5&\pos(287.37,980.04)\b1\fscy90\fsp3\fax-0.06}Can't Break It
+Dialogue: 1,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\pos(287.37,980.04)\frz12.81\fnBlueBrush-Normal\fs55\b1\c&H1E1E1E&\blur0.69\fscy90\fsp3\fax-0.06}Can't Break It
 Dialogue: 0,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\an5\org(711.96,255.85)\blur0.64\bord4\fnBoBsFrAnTiC\fs50\frz3.858\c&HCBC8C7&\3c&HCBC8C7&\pos(717.96,255.85)\b1\fsp3}Eek!
 Dialogue: 1,0:17:37.33,0:17:38.08,Signs,Screen,0,0,0,,{\an5\org(711.96,255.85)\pos(717.96,255.85)\frz3.858\fnBoBsFrAnTiC\fs50\b1\c&H2C2C33&\blur0.64\fsp3}Eek!
 Dialogue: 0,0:17:38.83,0:17:39.58,Signs,Screen,0,0,0,,{\an5\org(711.96,255.85)\blur0.64\bord4\fnBoBsFrAnTiC\fs50\frz3.858\c&HCBC8C7&\3c&HCBC8C7&\pos(717.96,255.85)\b1\fsp3}Eek!
@@ -158,52 +160,52 @@ Dialogue: 0,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\an5\org(711.96,255.85)\b
 Dialogue: 1,0:17:40.33,0:17:41.08,Signs,Screen,0,0,0,,{\an5\org(711.96,255.85)\pos(717.96,255.85)\frz3.858\fnBoBsFrAnTiC\fs50\b1\c&H2C2C33&\blur0.64\fsp3}Eek!
 Dialogue: 0,0:17:41.04,0:17:41.08,<<folder>>,,0,0,0,,{=5}
 Dialogue: 0,0:20:29.92,0:20:29.96,<<folder>>,,0,0,0,,{=2}- Infinite Void
-Dialogue: 1,0:20:29.92,0:20:30.42,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\p1\b1}m 139 109.22 l 153.78 101.58 173.68 106.08 177.37 115.32 186.24 111.99 183.59 91.79 202.24 89.5 223.01 78.55 233.9 81.5 240.55 92.59 240.55 108.67 249.42 125.3 262.73 138.05 272.7 146.37 272.7 161.33 280.46 169.1 276.08 188.99 259.77 196.02 237.23 184.07 225.59 202.92 211.18 204.02 201.2 176.86 189.56 179.08 203.42 210.68 200.09 222.87 177.92 222.32 165.17 206.8 167.39 189.06 150.76 199.59 141.89 184.62 129.15 140.82 141.34 128.07
-Dialogue: 1,0:20:30.42,0:20:30.92,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
-Dialogue: 1,0:20:30.92,0:20:31.42,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\p1\b1}m 139 109.22 l 153.78 101.58 173.68 106.08 177.37 115.32 186.24 111.99 183.59 91.79 202.24 89.5 223.01 78.55 233.9 81.5 240.55 92.59 240.55 108.67 249.42 125.3 262.73 138.05 272.7 146.37 272.7 161.33 280.46 169.1 276.08 188.99 259.77 196.02 237.23 184.07 225.59 202.92 211.18 204.02 201.2 176.86 189.56 179.08 203.42 210.68 200.09 222.87 177.92 222.32 165.17 206.8 167.39 189.06 150.76 199.59 141.89 184.62 129.15 140.82 141.34 128.07
-Dialogue: 1,0:20:31.42,0:20:31.92,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
-Dialogue: 1,0:20:31.92,0:20:32.42,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\p1\b1}m 139 109.22 l 153.78 101.58 173.68 106.08 177.37 115.32 186.24 111.99 183.59 91.79 202.24 89.5 223.01 78.55 233.9 81.5 240.55 92.59 240.55 108.67 249.42 125.3 262.73 138.05 272.7 146.37 272.7 161.33 280.46 169.1 276.08 188.99 259.77 196.02 237.23 184.07 225.59 202.92 211.18 204.02 201.2 176.86 189.56 179.08 203.42 210.68 200.09 222.87 177.92 222.32 165.17 206.8 167.39 189.06 150.76 199.59 141.89 184.62 129.15 140.82 141.34 128.07
-Dialogue: 1,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 245.41 177.24 240.49 168.58 238.47 160.07 240.85 153.75 243.89 150.75 248.18 149.09 249.24 144.48 252.68 140.85 256.98 139.04 262.51 138.9 268.73 140.73 274.27 144.02 278 148.05 279.88 152.64 280.78 159.25 280.65 164.95 296.2 167.41 324.84 157.43 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
-Dialogue: 1,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 270.65 192.07 265.73 183.41 263.71 174.9 266.09 168.58 269.13 165.58 273.42 163.92 274.95 158.69 278.7 154.44 283 152.63 288.84 152.95 294.13 155.4 299.51 159.16 303.24 162.88 305.12 167.47 306.02 174.08 305.89 179.78 321.44 182.24 325.79 158.38 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
-Dialogue: 1,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 245.41 177.24 240.49 168.58 238.47 160.07 240.85 153.75 243.89 150.75 248.18 149.09 249.24 144.48 252.68 140.85 256.98 139.04 262.51 138.9 268.73 140.73 274.27 144.02 278 148.05 279.88 152.64 280.78 159.25 280.65 164.95 296.2 167.41 324.84 157.43 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
-Dialogue: 1,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 270.65 192.07 265.73 183.41 263.71 174.9 266.09 168.58 269.13 165.58 273.42 163.92 274.95 158.69 278.7 154.44 283 152.63 288.84 152.95 294.13 155.4 299.51 159.16 303.24 162.88 305.12 167.47 306.02 174.08 305.89 179.78 321.44 182.24 325.79 158.38 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
-Dialogue: 1,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 245.41 177.24 240.49 168.58 238.47 160.07 240.85 153.75 243.89 150.75 248.18 149.09 249.24 144.48 252.68 140.85 256.98 139.04 262.51 138.9 268.73 140.73 274.27 144.02 278 148.05 279.88 152.64 280.78 159.25 280.65 164.95 296.2 167.41 324.84 157.43 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
-Dialogue: 1,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 270.65 192.07 265.73 183.41 263.71 174.9 266.09 168.58 269.13 165.58 273.42 163.92 274.95 158.69 278.7 154.44 283 152.63 288.84 152.95 294.13 155.4 299.51 159.16 303.24 162.88 305.12 167.47 306.02 174.08 305.89 179.78 321.44 182.24 325.79 158.38 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
-Dialogue: 2,0:20:29.92,0:20:30.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\frz13.33\c&H3D4145&\pos(198.55,158.87)}Veil
-Dialogue: 2,0:20:30.42,0:20:30.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)}Veil
-Dialogue: 2,0:20:30.92,0:20:31.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\frz13.33\c&H3D4145&\pos(198.55,158.87)}Veil
-Dialogue: 2,0:20:31.42,0:20:31.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)}Veil
-Dialogue: 2,0:20:31.92,0:20:32.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\frz13.33\c&H3D4145&\pos(198.55,158.87)}Veil
-Dialogue: 2,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\clip(m 152.78 81.41 l 294.31 77.25 279.41 147.58 271.96 142.73 265.38 139.61 258.79 138.23 253.25 139.44 251 142.56 249.96 144.81 250.13 148.27 248.57 150.18 244.76 150.52 241.3 152.43 235.06 175.81 148.28 169.92 138.4 107.39)}Veil
-Dialogue: 2,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)}Veil
-Dialogue: 2,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\clip(m 152.78 81.41 l 294.31 77.25 279.41 147.58 271.96 142.73 265.38 139.61 258.79 138.23 253.25 139.44 251 142.56 249.96 144.81 250.13 148.27 248.57 150.18 244.76 150.52 241.3 152.43 235.06 175.81 148.28 169.92 138.4 107.39)}Veil
-Dialogue: 2,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)}Veil
-Dialogue: 2,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\clip(m 152.78 81.41 l 294.31 77.25 279.41 147.58 271.96 142.73 265.38 139.61 258.79 138.23 253.25 139.44 251 142.56 249.96 144.81 250.13 148.27 248.57 150.18 244.76 150.52 241.3 152.43 235.06 175.81 148.28 169.92 138.4 107.39)}Veil
-Dialogue: 2,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)}Veil
-Dialogue: 3,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\c&HECECED&\3c&HECECED&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\c&H2525F4&\4a&HFF&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(335.62,153.53)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(335.62,153.53)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\c&HECECED&\3c&HECECED&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\c&H2525F4&\4a&HFF&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(356.62,173.53)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(356.62,173.53)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\c&HECECED&\3c&HECECED&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\c&H2525F4&\4a&HFF&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(335.62,153.53)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(335.62,153.53)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\c&HECECED&\3c&HECECED&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\c&H2525F4&\4a&HFF&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(356.62,173.53)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(356.62,173.53)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\c&HECECED&\3c&HECECED&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\c&H2525F4&\4a&HFF&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(335.62,153.53)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(335.62,153.53)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\c&HECECED&\3c&HECECED&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\c&H2525F4&\4a&HFF&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
-Dialogue: 3,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.55\bord4.5\fnDaneehand Demo\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(356.62,173.53)\b1\fsp2.2}Ack!
-Dialogue: 4,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.64\bord0\fnDaneehand Demo\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(356.62,173.53)\b1\fsp2.2}Ack!
+Dialogue: 1,0:20:29.92,0:20:30.42,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\p1\b1}m 139 109.22 l 153.78 101.58 173.68 106.08 177.37 115.32 186.24 111.99 183.59 91.79 202.24 89.5 223.01 78.55 233.9 81.5 240.55 92.59 240.55 108.67 249.42 125.3 262.73 138.05 272.7 146.37 272.7 161.33 280.46 169.1 276.08 188.99 259.77 196.02 237.23 184.07 225.59 202.92 211.18 204.02 201.2 176.86 189.56 179.08 203.42 210.68 200.09 222.87 177.92 222.32 165.17 206.8 167.39 189.06 150.76 199.59 141.89 184.62 129.15 140.82 141.34 128.07
+Dialogue: 1,0:20:30.42,0:20:30.92,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
+Dialogue: 1,0:20:30.92,0:20:31.42,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\p1\b1}m 139 109.22 l 153.78 101.58 173.68 106.08 177.37 115.32 186.24 111.99 183.59 91.79 202.24 89.5 223.01 78.55 233.9 81.5 240.55 92.59 240.55 108.67 249.42 125.3 262.73 138.05 272.7 146.37 272.7 161.33 280.46 169.1 276.08 188.99 259.77 196.02 237.23 184.07 225.59 202.92 211.18 204.02 201.2 176.86 189.56 179.08 203.42 210.68 200.09 222.87 177.92 222.32 165.17 206.8 167.39 189.06 150.76 199.59 141.89 184.62 129.15 140.82 141.34 128.07
+Dialogue: 1,0:20:31.42,0:20:31.92,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
+Dialogue: 1,0:20:31.92,0:20:32.42,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\p1\b1}m 139 109.22 l 153.78 101.58 173.68 106.08 177.37 115.32 186.24 111.99 183.59 91.79 202.24 89.5 223.01 78.55 233.9 81.5 240.55 92.59 240.55 108.67 249.42 125.3 262.73 138.05 272.7 146.37 272.7 161.33 280.46 169.1 276.08 188.99 259.77 196.02 237.23 184.07 225.59 202.92 211.18 204.02 201.2 176.86 189.56 179.08 203.42 210.68 200.09 222.87 177.92 222.32 165.17 206.8 167.39 189.06 150.76 199.59 141.89 184.62 129.15 140.82 141.34 128.07
+Dialogue: 1,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 245.41 177.24 240.49 168.58 238.47 160.07 240.85 153.75 243.89 150.75 248.18 149.09 249.24 144.48 252.68 140.85 256.98 139.04 262.51 138.9 268.73 140.73 274.27 144.02 278 148.05 279.88 152.64 280.78 159.25 280.65 164.95 296.2 167.41 324.84 157.43 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
+Dialogue: 1,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 270.65 192.07 265.73 183.41 263.71 174.9 266.09 168.58 269.13 165.58 273.42 163.92 274.95 158.69 278.7 154.44 283 152.63 288.84 152.95 294.13 155.4 299.51 159.16 303.24 162.88 305.12 167.47 306.02 174.08 305.89 179.78 321.44 182.24 325.79 158.38 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
+Dialogue: 1,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 245.41 177.24 240.49 168.58 238.47 160.07 240.85 153.75 243.89 150.75 248.18 149.09 249.24 144.48 252.68 140.85 256.98 139.04 262.51 138.9 268.73 140.73 274.27 144.02 278 148.05 279.88 152.64 280.78 159.25 280.65 164.95 296.2 167.41 324.84 157.43 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
+Dialogue: 1,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 270.65 192.07 265.73 183.41 263.71 174.9 266.09 168.58 269.13 165.58 273.42 163.92 274.95 158.69 278.7 154.44 283 152.63 288.84 152.95 294.13 155.4 299.51 159.16 303.24 162.88 305.12 167.47 306.02 174.08 305.89 179.78 321.44 182.24 325.79 158.38 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
+Dialogue: 1,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 245.41 177.24 240.49 168.58 238.47 160.07 240.85 153.75 243.89 150.75 248.18 149.09 249.24 144.48 252.68 140.85 256.98 139.04 262.51 138.9 268.73 140.73 274.27 144.02 278 148.05 279.88 152.64 280.78 159.25 280.65 164.95 296.2 167.41 324.84 157.43 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
+Dialogue: 1,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\an7\blur2.5\c&HE5EAE6&\pos(0,0)\clip(m 193.58 199.26 l 199.54 184.75 211.98 180.35 227.01 190.97 270.65 192.07 265.73 183.41 263.71 174.9 266.09 168.58 269.13 165.58 273.42 163.92 274.95 158.69 278.7 154.44 283 152.63 288.84 152.95 294.13 155.4 299.51 159.16 303.24 162.88 305.12 167.47 306.02 174.08 305.89 179.78 321.44 182.24 325.79 158.38 313.31 60.64 257.2 29.41 184.38 26.3 145.12 64.53 124 118.56 147.71 174.93 180.51 203.69)\p1\b1}m 171.46 59.66 l 197.9 58.43 207.89 72.79 211.58 81.31 220.45 77.98 221.29 56.61 241.5 58.02 259.25 52.9 270.05 55.85 276.7 66.94 268.34 81.27 272.55 102.17 282.17 110.12 284.75 124.6 284.75 139.56 292.51 147.33 288.85 167.22 271.82 174.43 257.25 162.54 249.11 149.09 246.75 160.67 231.71 170.84 221.04 168.92 220.52 138.77 205.76 138.91 208.04 179.76 181.11 178.62 176.52 153.65 171.56 148.09 157.63 139.14 155.39 88.54 171.08 79.68
+Dialogue: 2,0:20:29.92,0:20:30.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\frz13.33\c&H3D4145&\pos(198.55,158.87)\b1}Veil
+Dialogue: 2,0:20:30.42,0:20:30.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\b1}Veil
+Dialogue: 2,0:20:30.92,0:20:31.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\frz13.33\c&H3D4145&\pos(198.55,158.87)\b1}Veil
+Dialogue: 2,0:20:31.42,0:20:31.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\b1}Veil
+Dialogue: 2,0:20:31.92,0:20:32.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\frz13.33\c&H3D4145&\pos(198.55,158.87)\b1}Veil
+Dialogue: 2,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\clip(m 152.78 81.41 l 294.31 77.25 279.41 147.58 271.96 142.73 265.38 139.61 258.79 138.23 253.25 139.44 251 142.56 249.96 144.81 250.13 148.27 248.57 150.18 244.76 150.52 241.3 152.43 235.06 175.81 148.28 169.92 138.4 107.39)\b1}Veil
+Dialogue: 2,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\b1}Veil
+Dialogue: 2,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\clip(m 152.78 81.41 l 294.31 77.25 279.41 147.58 271.96 142.73 265.38 139.61 258.79 138.23 253.25 139.44 251 142.56 249.96 144.81 250.13 148.27 248.57 150.18 244.76 150.52 241.3 152.43 235.06 175.81 148.28 169.92 138.4 107.39)\b1}Veil
+Dialogue: 2,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\b1}Veil
+Dialogue: 2,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\clip(m 152.78 81.41 l 294.31 77.25 279.41 147.58 271.96 142.73 265.38 139.61 258.79 138.23 253.25 139.44 251 142.56 249.96 144.81 250.13 148.27 248.57 150.18 244.76 150.52 241.3 152.43 235.06 175.81 148.28 169.92 138.4 107.39)\b1}Veil
+Dialogue: 2,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.64\fnRiiTegakiFude\fs64\c&H3D4145&\pos(221,123.33)\b1}Veil
+Dialogue: 3,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\c&HECECED&\3c&HECECED&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\c&H2525F4&\4a&HFF&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(335.62,153.53)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(335.62,153.53)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\c&HECECED&\3c&HECECED&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\c&H2525F4&\4a&HFF&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(356.62,173.53)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:32.92,0:20:33.42,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(356.62,173.53)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\c&HECECED&\3c&HECECED&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\c&H2525F4&\4a&HFF&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(335.62,153.53)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:33.42,0:20:33.92,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(335.62,153.53)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\c&HECECED&\3c&HECECED&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\c&H2525F4&\4a&HFF&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(356.62,173.53)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:33.92,0:20:34.42,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(356.62,173.53)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\c&HECECED&\3c&HECECED&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\c&H2525F4&\4a&HFF&\pos(1765.34,85.67)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(335.62,153.53)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(335.62,153.53)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\c&HECECED&\3c&HECECED&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\c&H2525F4&\4a&HFF&\pos(1736.34,106.67)\b1\fsp2.2}Ack!
+Dialogue: 3,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.51\bord4.5\fnRiiTegakiFude\fs50\frz34.53\c&HECECED&\3c&HECECED&\pos(356.62,173.53)\b1\fsp2.2}Ack!
+Dialogue: 4,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs50\frz34.53\c&H2525F4&\4a&HFF&\pos(356.62,173.53)\b1\fsp2.2}Ack!
 Dialogue: 1,0:20:32.30,0:20:32.42,Signs,,0,0,0,,{\blur0.60\bord4.2\fnRiiTegakiFude\fs32\fsp-16.06\frz340.457\c&HFEFCF8&\3c&HFEFCF8&\pos(980,412)\org(980.01,926.67)\b1}I{\fsp-18.47\frz338.665}n{\fsp-15.27\frz336.606}f{\fsp-15.27\frz334.903}i{\fsp-15.27\frz333.201}n{\fsp-14.46\frz331.498}i{\fsp-16.86\frz329.885}t{\fsp-16.86\frz328.005}e{\fsp-19.26\frz326.125} {\fsp-20.06\frz323.977}V{\fsp-15.27\frz321.740}o{\fsp-15.27\frz320.037}i{\fsp0.00\frz318.335}d
 Dialogue: 2,0:20:32.30,0:20:32.42,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs32\fsp-16.06\frz340.457\c&H19191B&\4a&HFF&\pos(980,412)\org(980.01,926.67)\b1}I{\fsp-18.47\frz338.665}n{\fsp-15.27\frz336.606}f{\fsp-15.27\frz334.903}i{\fsp-15.27\frz333.201}n{\fsp-14.46\frz331.498}i{\fsp-16.86\frz329.885}t{\fsp-16.86\frz328.005}e{\fsp-19.26\frz326.125} {\fsp-20.06\frz323.977}V{\fsp-15.27\frz321.740}o{\fsp-15.27\frz320.037}i{\fsp0.00\frz318.335}d
 Dialogue: 1,0:20:32.42,0:20:32.92,Signs,,0,0,0,,{\blur0.60\bord4.2\fnRiiTegakiFude\fs44\fsp-22.09\frz338.880\c&HFEFCF8&\3c&HFEFCF8&\pos(1012,264)\org(1012.01,941.34)\b1}I{\fsp-25.39\frz337.010}n{\fsp-20.99\frz334.861}f{\fsp-20.99\frz333.084}i{\fsp-20.99\frz331.307}n{\fsp-19.89\frz329.530}i{\fsp-23.19\frz327.846}t{\fsp-23.19\frz325.884}e{\fsp-26.48\frz323.921} {\fsp-27.59\frz321.679}V{\fsp-20.99\frz319.344}o{\fsp-20.99\frz317.567}i{\fsp0.00\frz315.790}d
@@ -219,7 +221,7 @@ Dialogue: 2,0:20:34.42,0:20:34.92,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude
 Dialogue: 1,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.60\bord4.2\fnRiiTegakiFude\fs44\fsp-22.09\frz338.880\c&HFEFCF8&\3c&HFEFCF8&\pos(1009,273)\org(1012.01,941.34)\b1}I{\fsp-25.39\frz337.010}n{\fsp-20.99\frz334.861}f{\fsp-20.99\frz333.084}i{\fsp-20.99\frz331.307}n{\fsp-19.89\frz329.530}i{\fsp-23.19\frz327.846}t{\fsp-23.19\frz325.884}e{\fsp-26.48\frz323.921} {\fsp-27.59\frz321.679}V{\fsp-20.99\frz319.344}o{\fsp-20.99\frz317.567}i{\fsp0.00\frz315.790}d
 Dialogue: 2,0:20:34.92,0:20:35.17,Signs,,0,0,0,,{\blur0.64\bord0\fnRiiTegakiFude\fs44\fsp-22.09\frz338.880\c&H19191B&\4a&HFF&\pos(1009,273)\org(1012.01,941.34)\b1}I{\fsp-25.39\frz337.010}n{\fsp-20.99\frz334.861}f{\fsp-20.99\frz333.084}i{\fsp-20.99\frz331.307}n{\fsp-19.89\frz329.530}i{\fsp-23.19\frz327.846}t{\fsp-23.19\frz325.884}e{\fsp-26.48\frz323.921} {\fsp-27.59\frz321.679}V{\fsp-20.99\frz319.344}o{\fsp-20.99\frz317.567}i{\fsp0.00\frz315.790}d
 Dialogue: 0,0:20:35.13,0:20:35.17,<<folder>>,,0,0,0,,{=3}
-Dialogue: 0,0:02:40.01,0:02:40.06,<<folder>>,,0,0,0,,{=0}- Episode Title
+Dialogue: 0,0:02:40.01,0:02:40.06,<<folder>>,,0,0,0,,{=0}- Episode Titles
 Dialogue: 0,0:02:40.01,0:02:43.02,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}32
 Dialogue: 0,0:02:40.01,0:02:43.02,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}The Shibuya Incident
 Dialogue: 0,0:23:47.78,0:23:47.82,<<folder>>,,0,0,0,,
@@ -240,25 +242,15 @@ Data: 6,_aegi_folddata,e0;1;4
 Data: 7,_aegi_folddata,e1;1;4
 Data: 8,_aegi_folddata,e0;1;5
 Data: 9,_aegi_folddata,e1;1;5
-Data: 10,_aegi_folddata,e0;1;6
-Data: 11,_aegi_folddata,e1;1;6
-Data: 12,_aegi_folddata,e0;1;7
-Data: 13,_aegi_folddata,e1;1;7
-Data: 14,_aegi_folddata,e0;1;8
-Data: 15,_aegi_folddata,e1;1;8
-Data: 16,_aegi_folddata,e0;0;8
-Data: 17,_aegi_folddata,e1;0;8
-Data: 18,_aegi_folddata,e0;0;7
-Data: 19,_aegi_folddata,e1;0;7
-Data: 20,_aegi_folddata,e0;0;6
-Data: 21,_aegi_folddata,e1;0;6
-Data: 22,_aegi_folddata,e0;0;5
-Data: 23,_aegi_folddata,e1;0;5
-Data: 24,_aegi_folddata,e0;0;4
-Data: 25,_aegi_folddata,e1;0;4
-Data: 26,_aegi_folddata,e0;0;3
-Data: 27,_aegi_folddata,e1;0;3
-Data: 28,_aegi_folddata,e0;0;2
-Data: 29,_aegi_folddata,e1;0;2
-Data: 30,_aegi_folddata,e0;0;1
-Data: 31,_aegi_folddata,e1;0;1
+Data: 32,_aegi_folddata,e0;1;8
+Data: 33,_aegi_folddata,e1;1;8
+Data: 38,_aegi_folddata,e0;1;9
+Data: 39,_aegi_folddata,e1;1;9
+Data: 40,_aegi_folddata,e0;1;10
+Data: 41,_aegi_folddata,e1;1;10
+Data: 42,_aegi_folddata,e0;1;11
+Data: 43,_aegi_folddata,e1;1;11
+Data: 58,_aegi_folddata,e0;0;2
+Data: 59,_aegi_folddata,e1;0;2
+Data: 60,_aegi_folddata,e0;0;5
+Data: 61,_aegi_folddata,e1;0;5

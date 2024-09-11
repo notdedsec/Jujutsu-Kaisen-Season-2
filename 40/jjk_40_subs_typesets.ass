@@ -16,117 +16,121 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Audio File: jjk_40_premux.mkv
 Video File: jjk_40_premux.mkv
 Keyframes File: jjk_40_keyframes.txt
 Video AR Value: 1.777778
+Video Zoom Percent: 0.750000
+Active Line: 120
+Video Position: 31817
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:03:33.86,0:03:37.82,<<folder>>,,0,0,0,,{=0}- Ramen
-Dialogue: 2,0:03:33.86,0:03:34.24,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\c&H181818&\blur0.6\pos(1036.5,228.5)}Ramen
-Dialogue: 2,0:03:34.24,0:03:34.36,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\c&H181818&\blur0.6\pos(1036.5,228.5)\clip(m 1053.7 218.97 b 1053.24 226.44 1053.3 240.65 1053.82 247.38 l 981.76 245.31 992.98 208)}Ramen
-Dialogue: 2,0:03:34.36,0:03:34.94,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\c&H181818&\blur0.6\pos(1036.5,228.5)}Ramen
-Dialogue: 2,0:03:33.86,0:03:34.24,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H1D1D1D&\blur0.6}Miso Ramen
-Dialogue: 2,0:03:34.36,0:03:34.94,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H1D1D1D&\blur0.6}Miso Ramen
-Dialogue: 2,0:03:33.86,0:03:34.15,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur0.6}Jumbo Ramen
-Dialogue: 2,0:03:34.15,0:03:34.24,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur0.6}J{\1a&HFF&}umbo Ramen
-Dialogue: 2,0:03:34.24,0:03:34.36,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur0.6\clip(m 1487.15 208.82 l 1483.93 214.76 1481.32 219.4 1483.46 226.07 1495.95 219.76)}Jumbo Ramen
-Dialogue: 2,0:03:34.36,0:03:34.94,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur0.6}Jumbo Ramen
-Dialogue: 2,0:03:33.86,0:03:34.15,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\c&H292929&\blur0.6\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)}Gyoza
-Dialogue: 2,0:03:34.24,0:03:34.94,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\c&H292929&\blur0.6\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)}Gyoza
+Dialogue: 2,0:03:33.86,0:03:34.24,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H181818&\blur0.6\pos(1036.5,212.5)}Ramen
+Dialogue: 2,0:03:34.24,0:03:34.36,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H181818&\blur0.6\pos(1036.5,212.5)\clip(m 1053.7 218.97 b 1053.24 226.44 1053.3 240.65 1053.82 247.38 l 981.76 245.31 981.65 194 1056.67 188)}Ramen
+Dialogue: 2,0:03:34.36,0:03:34.94,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H181818&\blur0.6\pos(1036.5,212.5)}Ramen
+Dialogue: 2,0:03:33.86,0:03:34.24,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H1D1D1D&\blur0.6}Miso Ramen
+Dialogue: 2,0:03:34.36,0:03:34.94,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H1D1D1D&\blur0.6}Miso Ramen
+Dialogue: 2,0:03:33.86,0:03:34.15,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur0.6}Jumbo Ramen
+Dialogue: 2,0:03:34.15,0:03:34.24,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur0.6}J{\1a&HFF&}umbo Ramen
+Dialogue: 2,0:03:34.24,0:03:34.36,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur0.6\clip(m 1487.15 208.82 l 1483.93 214.76 1481.32 219.4 1483.46 226.07 1495.95 219.76)}Jumbo Ramen
+Dialogue: 2,0:03:34.36,0:03:34.94,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur0.6}Jumbo Ramen
+Dialogue: 2,0:03:33.86,0:03:34.15,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H292929&\blur0.6\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)}Gyoza
+Dialogue: 2,0:03:34.24,0:03:34.94,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H292929&\blur0.6\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)}Gyoza
 Dialogue: 0,0:03:34.94,0:03:34.99,<<folder>>,,0,0,0,,
-Dialogue: 2,0:03:34.94,0:03:34.99,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\1c&H181818&\pos(1036.5,228.5)\blur1.011}Ramen
-Dialogue: 2,0:03:34.99,0:03:35.03,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\pos(1036.5,228.5)\blur1.276\1c&H191919&}Ramen
-Dialogue: 2,0:03:35.03,0:03:35.07,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\pos(1036.5,228.5)\blur1.535\1c&H191919&}Ramen
-Dialogue: 2,0:03:35.07,0:03:35.11,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\pos(1036.5,228.5)\blur1.8\1c&H1A1A1A&}Ramen
-Dialogue: 2,0:03:35.11,0:03:35.15,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\pos(1036.5,228.5)\blur2.065\1c&H1A1A1A&}Ramen
-Dialogue: 2,0:03:35.15,0:03:35.19,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\pos(1036.5,228.5)\blur2.331\1c&H1A1A1A&}Ramen
-Dialogue: 2,0:03:35.19,0:03:35.24,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\pos(1036.5,228.5)\blur2.589\1c&H1B1B1B&}Ramen
-Dialogue: 2,0:03:35.24,0:03:35.28,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs34\pos(1036.5,228.5)\blur2.855\c&H1B1B1B&}Ramen
-Dialogue: 2,0:03:34.94,0:03:34.99,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H1D1D1D&\blur1.011}Miso Ramen
-Dialogue: 2,0:03:34.99,0:03:35.03,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H1D1D1D&\blur1.276}Miso Ramen
-Dialogue: 2,0:03:35.03,0:03:35.07,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\blur1.535\1c&H1E1E1E&}Miso Ramen
-Dialogue: 2,0:03:35.07,0:03:35.11,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\blur1.8\1c&H1E1E1E&}Miso Ramen
-Dialogue: 2,0:03:35.11,0:03:35.15,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\blur2.065\1c&H1F1F1F&}Miso Ramen
-Dialogue: 2,0:03:35.15,0:03:35.19,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\blur2.33\1c&H1F1F1F&\clip(m 1215.91 201.66 b 1210.6 206.89 1200.39 218.78 1196.63 223.76 l 1159.74 228.65 1168.22 187.26)}Miso Ramen
-Dialogue: 2,0:03:35.19,0:03:35.23,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\blur2.589\c&H1F1F1F&\clip(m 1215.91 201.66 b 1210.6 206.89 1200.39 218.78 1196.63 223.76 l 1159.74 228.65 1168.22 187.26)}Miso Ramen
-Dialogue: 2,0:03:35.23,0:03:35.27,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\blur2.855\c&H1F1F1F&\clip(m 1215.91 201.66 b 1210.6 206.89 1200.39 218.78 1196.63 223.76 l 1159.74 228.65 1168.22 187.26)}Miso Ramen
-Dialogue: 2,0:03:34.94,0:03:34.99,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur1.011}Jumbo Ramen
-Dialogue: 2,0:03:34.99,0:03:35.03,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur1.276}Jumbo Ramen
-Dialogue: 2,0:03:35.03,0:03:35.07,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur1.535}Jumbo Ramen
-Dialogue: 2,0:03:35.07,0:03:35.11,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur1.8}Jumbo Ramen
-Dialogue: 2,0:03:35.11,0:03:35.15,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur2.065}Jumbo Ramen
-Dialogue: 2,0:03:34.94,0:03:34.99,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur1.011}Gyoza
-Dialogue: 2,0:03:34.99,0:03:35.03,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur1.276}Gyoza
-Dialogue: 2,0:03:35.03,0:03:35.07,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur1.535}Gyoza
+Dialogue: 2,0:03:34.94,0:03:34.99,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H181818&\pos(1036.5,212.5)\blur1.011}Ramen
+Dialogue: 2,0:03:34.99,0:03:35.03,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\pos(1036.5,212.5)\blur1.276\1c&H191919&}Ramen
+Dialogue: 2,0:03:35.03,0:03:35.07,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\pos(1036.5,212.5)\blur1.535\1c&H191919&}Ramen
+Dialogue: 2,0:03:35.07,0:03:35.11,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\pos(1036.5,212.5)\blur1.8\1c&H1A1A1A&}Ramen
+Dialogue: 2,0:03:35.11,0:03:35.15,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\pos(1036.5,212.5)\blur2.065\1c&H1A1A1A&}Ramen
+Dialogue: 2,0:03:35.15,0:03:35.19,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\pos(1036.5,212.5)\blur2.331\1c&H1A1A1A&}Ramen
+Dialogue: 2,0:03:35.19,0:03:35.24,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\pos(1036.5,212.5)\blur2.589\1c&H1B1B1B&}Ramen
+Dialogue: 2,0:03:35.24,0:03:35.28,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\pos(1036.5,212.5)\blur2.855\c&H1B1B1B&}Ramen
+Dialogue: 2,0:03:34.94,0:03:34.99,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H1D1D1D&\blur1.011}Miso Ramen
+Dialogue: 2,0:03:34.99,0:03:35.03,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H1D1D1D&\blur1.276}Miso Ramen
+Dialogue: 2,0:03:35.03,0:03:35.07,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\blur1.535\1c&H1E1E1E&}Miso Ramen
+Dialogue: 2,0:03:35.07,0:03:35.11,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\blur1.8\1c&H1E1E1E&}Miso Ramen
+Dialogue: 2,0:03:35.11,0:03:35.15,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\blur2.065\1c&H1F1F1F&}Miso Ramen
+Dialogue: 2,0:03:35.15,0:03:35.19,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\blur2.33\1c&H1F1F1F&\clip(m 1215.91 201.66 b 1210.6 206.89 1200.39 218.78 1196.63 223.76 l 1159.74 228.65 1168.22 187.26)}Miso Ramen
+Dialogue: 2,0:03:35.19,0:03:35.23,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\blur2.589\c&H1F1F1F&\clip(m 1215.91 201.66 b 1210.6 206.89 1200.39 218.78 1196.63 223.76 l 1159.74 228.65 1168.22 187.26)}Miso Ramen
+Dialogue: 2,0:03:35.23,0:03:35.27,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\blur2.855\c&H1F1F1F&\clip(m 1215.91 201.66 b 1210.6 206.89 1200.39 218.78 1196.63 223.76 l 1159.74 228.65 1168.22 187.26)}Miso Ramen
+Dialogue: 2,0:03:34.94,0:03:34.99,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur1.011}Jumbo Ramen
+Dialogue: 2,0:03:34.99,0:03:35.03,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur1.276}Jumbo Ramen
+Dialogue: 2,0:03:35.03,0:03:35.07,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur1.535}Jumbo Ramen
+Dialogue: 2,0:03:35.07,0:03:35.11,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur1.8}Jumbo Ramen
+Dialogue: 2,0:03:35.11,0:03:35.15,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur2.065}Jumbo Ramen
+Dialogue: 2,0:03:34.94,0:03:34.99,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur1.011}Gyoza
+Dialogue: 2,0:03:34.99,0:03:35.03,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur1.276}Gyoza
+Dialogue: 2,0:03:35.03,0:03:35.07,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur1.535}Gyoza
 Dialogue: 0,0:03:34.94,0:03:34.99,<<folder>>,,0,0,0,,
-Dialogue: 2,0:03:35.65,0:03:35.70,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H1F1F1F&\blur3.166\clip(m 1260.22 205.87 l 1267.19 215.28 1273.64 224.7 1323.17 229.08 1307.3 183.03)}Miso Ramen
-Dialogue: 2,0:03:35.70,0:03:35.74,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H1F1F1F&\blur3.203\clip(m 1260.22 205.87 l 1267.19 215.28 1273.64 224.7 1323.17 229.08 1307.3 183.03)}Miso Ramen
-Dialogue: 2,0:03:35.74,0:03:35.78,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H1F1F1F&\blur3.24\clip(m 1260.22 205.87 l 1267.19 215.28 1273.64 224.7 1323.17 229.08 1307.3 183.03)}Miso Ramen
-Dialogue: 2,0:03:35.78,0:03:35.82,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H1F1F1F&\blur3.277\iclip(m 1198.77 199.98 l 1207.19 210.15 1214.6 219.69 1196.39 244.94 1144.64 230.62 1165.24 185.4)}Miso Ramen
-Dialogue: 2,0:03:35.82,0:03:35.86,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H1F1F1F&\blur3.314\iclip(m 1198.77 199.98 l 1207.19 210.15 1214.6 219.69 1196.39 244.94 1144.64 230.62 1165.24 185.4)}Miso Ramen
-Dialogue: 2,0:03:35.86,0:03:35.90,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H1F1F1F&\blur3.351\iclip(m 1198.77 199.98 l 1207.19 210.15 1214.6 219.69 1196.39 244.94 1144.64 230.62 1165.24 185.4)}Miso Ramen
-Dialogue: 2,0:03:35.90,0:03:35.95,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H1F1F1F&\blur3.387\clip(m 1280.64 205.1 l 1290.58 222.51 1329.87 225.69 1291.37 178.43)}Miso Ramen
-Dialogue: 2,0:03:35.95,0:03:35.99,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H1F1F1F&\blur3.424\clip(m 1280.64 205.1 l 1290.58 222.51 1329.87 225.69 1291.37 178.43)}Miso Ramen
-Dialogue: 2,0:03:35.99,0:03:36.03,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H1F1F1F&\blur3.462\clip(m 1280.64 205.1 l 1290.58 222.51 1329.87 225.69 1291.37 178.43)}Miso Ramen
-Dialogue: 2,0:03:35.53,0:03:35.57,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.019}Jumbo Ramen
-Dialogue: 2,0:03:35.57,0:03:35.61,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.061}Jumbo Ramen
-Dialogue: 2,0:03:35.61,0:03:35.65,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.103}Jumbo Ramen
-Dialogue: 2,0:03:35.65,0:03:35.70,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.145}Jumbo Ramen
-Dialogue: 2,0:03:35.70,0:03:35.74,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.187}Jumbo Ramen
-Dialogue: 2,0:03:35.74,0:03:35.78,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.228}Jumbo Ramen
-Dialogue: 2,0:03:35.78,0:03:35.82,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.271}Jumbo Ramen
-Dialogue: 2,0:03:35.82,0:03:35.86,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.313}Jumbo Ramen
-Dialogue: 2,0:03:35.86,0:03:35.90,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.355}Jumbo Ramen
-Dialogue: 2,0:03:35.90,0:03:35.95,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.396}Jumbo Ramen
-Dialogue: 2,0:03:35.95,0:03:35.99,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.438}Jumbo Ramen
-Dialogue: 2,0:03:35.99,0:03:36.03,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur3.481}Jumbo Ramen
-Dialogue: 2,0:03:36.03,0:03:36.07,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur3.522\iclip(m 1361.24 196.97 l 1373.59 228.05 1327.86 231.24)}Jumbo Ramen
-Dialogue: 2,0:03:36.07,0:03:36.11,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur3.564\iclip(m 1361.24 196.97 l 1373.59 228.05 1327.86 231.24)}Jumbo Ramen
-Dialogue: 2,0:03:36.95,0:03:36.99,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur4.445\clip(m 1473.99 197.62 l 1488.88 229.84 1548.94 199.08)}Jumbo Ramen
-Dialogue: 2,0:03:36.99,0:03:37.03,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur4.487\clip(m 1473.99 197.62 l 1488.88 229.84 1548.94 199.08)}Jumbo Ramen
-Dialogue: 2,0:03:37.03,0:03:37.07,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur4.528\clip(m 1473.99 197.62 l 1488.88 229.84 1548.94 199.08)}Jumbo Ramen
-Dialogue: 2,0:03:37.07,0:03:37.11,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur4.571\clip(m 1444.48 204.1 l 1457.04 231.05 1526.05 224.22 1501.18 175.94)}Jumbo Ramen
-Dialogue: 2,0:03:37.11,0:03:37.16,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur4.613\clip(m 1444.48 204.1 l 1457.04 231.05 1526.05 224.22 1501.18 175.94)}Jumbo Ramen
-Dialogue: 2,0:03:37.16,0:03:37.20,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur4.655\clip(m 1444.48 204.1 l 1457.04 231.05 1526.05 224.22 1501.18 175.94)}Jumbo Ramen
-Dialogue: 2,0:03:37.20,0:03:37.24,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\1c&H242424&\blur4.696\clip(m 1423.12 204.2 l 1435.69 228.26 1534.09 239.03 1487.28 183.61)}Jumbo Ramen
-Dialogue: 2,0:03:37.24,0:03:37.28,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur4.739\clip(m 1423.12 204.2 l 1435.69 228.26 1534.09 239.03 1487.28 183.61)}Jumbo Ramen
-Dialogue: 2,0:03:37.28,0:03:37.32,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs27\c&H242424&\blur4.781\clip(m 1423.12 204.2 l 1435.69 228.26 1534.09 239.03 1487.28 183.61)}Jumbo Ramen
-Dialogue: 2,0:03:35.40,0:03:35.45,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.42}Gyoza
-Dialogue: 2,0:03:35.45,0:03:35.49,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.455}Gyoza
-Dialogue: 2,0:03:35.49,0:03:35.53,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.489}Gyoza
-Dialogue: 2,0:03:35.53,0:03:35.57,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.524}Gyoza
-Dialogue: 2,0:03:35.57,0:03:35.61,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.559}Gyoza
-Dialogue: 2,0:03:35.61,0:03:35.65,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.593}Gyoza
-Dialogue: 2,0:03:35.65,0:03:35.70,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.628}Gyoza
-Dialogue: 2,0:03:35.70,0:03:35.74,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.663}Gyoza
-Dialogue: 2,0:03:35.74,0:03:35.78,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.698}Gyoza
-Dialogue: 2,0:03:35.78,0:03:35.82,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.733}Gyoza
-Dialogue: 2,0:03:35.82,0:03:35.86,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.767}Gyoza
-Dialogue: 2,0:03:35.86,0:03:35.90,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.802}Gyoza
-Dialogue: 2,0:03:35.90,0:03:35.95,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.837}Gyoza
-Dialogue: 2,0:03:35.95,0:03:35.99,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.872}Gyoza
-Dialogue: 2,0:03:35.99,0:03:36.03,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.907}Gyoza
-Dialogue: 2,0:03:36.03,0:03:36.07,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.941}Gyoza
-Dialogue: 2,0:03:36.07,0:03:36.11,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur3.976}Gyoza
-Dialogue: 2,0:03:36.11,0:03:36.15,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\pos(1613.94,280.16)\blur4.011\clip(m 1637 189.7 l 1637 650.49 1596.26 311.7 b 1592.38 298.38 1583.05 267.79 1576.91 252.91)}Gyoza
-Dialogue: 2,0:03:36.15,0:03:36.20,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.046\clip(m 1637 189.7 l 1637 650.49 1596.26 311.7 b 1592.38 298.38 1583.05 267.79 1576.91 252.91)}Gyoza
-Dialogue: 2,0:03:36.95,0:03:36.99,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.706}Gyoza
-Dialogue: 2,0:03:36.99,0:03:37.03,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.741}Gyoza
-Dialogue: 2,0:03:37.03,0:03:37.07,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.775}Gyoza
-Dialogue: 2,0:03:37.07,0:03:37.11,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.81}Gyoza
-Dialogue: 2,0:03:37.11,0:03:37.16,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.845}Gyoza
-Dialogue: 2,0:03:37.16,0:03:37.20,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.88}Gyoza
-Dialogue: 2,0:03:37.20,0:03:37.24,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.914}Gyoza
-Dialogue: 2,0:03:37.24,0:03:37.28,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.949}Gyoza
-Dialogue: 2,0:03:37.28,0:03:37.32,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs37\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,280.16)\blur4.984}Gyoza
+Dialogue: 2,0:03:35.65,0:03:35.70,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H1F1F1F&\blur3.166\clip(m 1260.22 205.87 l 1267.19 215.28 1273.64 224.7 1323.17 229.08 1307.3 183.03)}Miso Ramen
+Dialogue: 2,0:03:35.70,0:03:35.74,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H1F1F1F&\blur3.203\clip(m 1260.22 205.87 l 1267.19 215.28 1273.64 224.7 1323.17 229.08 1307.3 183.03)}Miso Ramen
+Dialogue: 2,0:03:35.74,0:03:35.78,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H1F1F1F&\blur3.24\clip(m 1260.22 205.87 l 1267.19 215.28 1273.64 224.7 1323.17 229.08 1307.3 183.03)}Miso Ramen
+Dialogue: 2,0:03:35.78,0:03:35.82,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H1F1F1F&\blur3.277\iclip(m 1198.77 199.98 l 1207.19 210.15 1214.6 219.69 1196.39 244.94 1144.64 230.62 1165.24 185.4)}Miso Ramen
+Dialogue: 2,0:03:35.82,0:03:35.86,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H1F1F1F&\blur3.314\iclip(m 1198.77 199.98 l 1207.19 210.15 1214.6 219.69 1196.39 244.94 1144.64 230.62 1165.24 185.4)}Miso Ramen
+Dialogue: 2,0:03:35.86,0:03:35.90,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H1F1F1F&\blur3.351\iclip(m 1198.77 199.98 l 1207.19 210.15 1214.6 219.69 1196.39 244.94 1144.64 230.62 1165.24 185.4)}Miso Ramen
+Dialogue: 2,0:03:35.90,0:03:35.95,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H1F1F1F&\blur3.387\clip(m 1280.64 205.1 l 1290.58 222.51 1329.87 225.69 1291.37 178.43)}Miso Ramen
+Dialogue: 2,0:03:35.95,0:03:35.99,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H1F1F1F&\blur3.424\clip(m 1280.64 205.1 l 1290.58 222.51 1329.87 225.69 1291.37 178.43)}Miso Ramen
+Dialogue: 2,0:03:35.99,0:03:36.03,Signs,Sign,0,0,0,,{\pos(1229.7,211.9)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H1F1F1F&\blur3.462\clip(m 1280.64 205.1 l 1290.58 222.51 1329.87 225.69 1291.37 178.43)}Miso Ramen
+Dialogue: 2,0:03:35.53,0:03:35.57,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.019}Jumbo Ramen
+Dialogue: 2,0:03:35.57,0:03:35.61,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.061}Jumbo Ramen
+Dialogue: 2,0:03:35.61,0:03:35.65,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.103}Jumbo Ramen
+Dialogue: 2,0:03:35.65,0:03:35.70,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.145}Jumbo Ramen
+Dialogue: 2,0:03:35.70,0:03:35.74,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.187}Jumbo Ramen
+Dialogue: 2,0:03:35.74,0:03:35.78,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.228}Jumbo Ramen
+Dialogue: 2,0:03:35.78,0:03:35.82,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.271}Jumbo Ramen
+Dialogue: 2,0:03:35.82,0:03:35.86,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.313}Jumbo Ramen
+Dialogue: 2,0:03:35.86,0:03:35.90,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.355}Jumbo Ramen
+Dialogue: 2,0:03:35.90,0:03:35.95,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.396}Jumbo Ramen
+Dialogue: 2,0:03:35.95,0:03:35.99,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.438}Jumbo Ramen
+Dialogue: 2,0:03:35.99,0:03:36.03,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur3.481}Jumbo Ramen
+Dialogue: 2,0:03:36.03,0:03:36.07,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur3.522\iclip(m 1361.24 196.97 l 1373.59 228.05 1327.86 231.24)}Jumbo Ramen
+Dialogue: 2,0:03:36.07,0:03:36.11,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur3.564\iclip(m 1361.24 196.97 l 1373.59 228.05 1327.86 231.24)}Jumbo Ramen
+Dialogue: 2,0:03:36.95,0:03:36.99,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur4.445\clip(m 1473.99 197.62 l 1488.88 229.84 1548.94 199.08)}Jumbo Ramen
+Dialogue: 2,0:03:36.99,0:03:37.03,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur4.487\clip(m 1473.99 197.62 l 1488.88 229.84 1548.94 199.08)}Jumbo Ramen
+Dialogue: 2,0:03:37.03,0:03:37.07,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur4.528\clip(m 1473.99 197.62 l 1488.88 229.84 1548.94 199.08)}Jumbo Ramen
+Dialogue: 2,0:03:37.07,0:03:37.11,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur4.571\clip(m 1444.48 204.1 l 1457.04 231.05 1526.05 224.22 1501.18 175.94)}Jumbo Ramen
+Dialogue: 2,0:03:37.11,0:03:37.16,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur4.613\clip(m 1444.48 204.1 l 1457.04 231.05 1526.05 224.22 1501.18 175.94)}Jumbo Ramen
+Dialogue: 2,0:03:37.16,0:03:37.20,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur4.655\clip(m 1444.48 204.1 l 1457.04 231.05 1526.05 224.22 1501.18 175.94)}Jumbo Ramen
+Dialogue: 2,0:03:37.20,0:03:37.24,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H242424&\blur4.696\clip(m 1423.12 204.2 l 1435.69 228.26 1534.09 239.03 1487.28 183.61)}Jumbo Ramen
+Dialogue: 2,0:03:37.24,0:03:37.28,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur4.739\clip(m 1423.12 204.2 l 1435.69 228.26 1534.09 239.03 1487.28 183.61)}Jumbo Ramen
+Dialogue: 2,0:03:37.28,0:03:37.32,Signs,Sign,0,0,0,,{\pos(1422,211.6)\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H242424&\blur4.781\clip(m 1423.12 204.2 l 1435.69 228.26 1534.09 239.03 1487.28 183.61)}Jumbo Ramen
+Dialogue: 2,0:03:35.40,0:03:35.45,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.42}Gyoza
+Dialogue: 2,0:03:35.45,0:03:35.49,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.455}Gyoza
+Dialogue: 2,0:03:35.49,0:03:35.53,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.489}Gyoza
+Dialogue: 2,0:03:35.53,0:03:35.57,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.524}Gyoza
+Dialogue: 2,0:03:35.57,0:03:35.61,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.559}Gyoza
+Dialogue: 2,0:03:35.61,0:03:35.65,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.593}Gyoza
+Dialogue: 2,0:03:35.65,0:03:35.70,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.628}Gyoza
+Dialogue: 2,0:03:35.70,0:03:35.74,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.663}Gyoza
+Dialogue: 2,0:03:35.74,0:03:35.78,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.698}Gyoza
+Dialogue: 2,0:03:35.78,0:03:35.82,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.733}Gyoza
+Dialogue: 2,0:03:35.82,0:03:35.86,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.767}Gyoza
+Dialogue: 2,0:03:35.86,0:03:35.90,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.802}Gyoza
+Dialogue: 2,0:03:35.90,0:03:35.95,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.837}Gyoza
+Dialogue: 2,0:03:35.95,0:03:35.99,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.872}Gyoza
+Dialogue: 2,0:03:35.99,0:03:36.03,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.907}Gyoza
+Dialogue: 2,0:03:36.03,0:03:36.07,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.941}Gyoza
+Dialogue: 2,0:03:36.07,0:03:36.11,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur3.976}Gyoza
+Dialogue: 2,0:03:36.11,0:03:36.15,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\pos(1613.94,214.16)\blur4.011\clip(m 1637 189.7 l 1637 650.49 1596.26 311.7 b 1592.38 298.38 1583.05 267.79 1576.91 252.91)}Gyoza
+Dialogue: 2,0:03:36.15,0:03:36.20,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.046\clip(m 1637 189.7 l 1637 650.49 1596.26 311.7 b 1592.38 298.38 1583.05 267.79 1576.91 252.91)}Gyoza
+Dialogue: 2,0:03:36.95,0:03:36.99,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.706}Gyoza
+Dialogue: 2,0:03:36.99,0:03:37.03,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.741}Gyoza
+Dialogue: 2,0:03:37.03,0:03:37.07,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.775}Gyoza
+Dialogue: 2,0:03:37.07,0:03:37.11,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.81}Gyoza
+Dialogue: 2,0:03:37.11,0:03:37.16,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.845}Gyoza
+Dialogue: 2,0:03:37.16,0:03:37.20,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.88}Gyoza
+Dialogue: 2,0:03:37.20,0:03:37.24,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.914}Gyoza
+Dialogue: 2,0:03:37.24,0:03:37.28,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.949}Gyoza
+Dialogue: 2,0:03:37.28,0:03:37.32,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Stripped\fs26\1c&H292929&\clip(1544.55,189.7,1637,650.49)\pos(1613.94,214.16)\blur4.984}Gyoza
 Dialogue: 0,0:03:37.78,0:03:37.82,<<folder>>,,0,0,0,,{=1}
-Dialogue: 0,0:03:30.57,0:03:30.61,<<folder>>,,0,0,0,,{=2}- Currently at Shibuya
+Dialogue: 0,0:03:30.57,0:03:30.61,<<folder>>,,0,0,0,,{=2}- Locations
 Dialogue: 0,0:03:30.57,0:03:30.61,<<folder>>,,0,0,0,,- Shibuya Stream
 Dialogue: 0,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\p1\c&HD9DFE2&\blur1\pos(216.5,984)\fad(300,0)\b1}m 0 0 l 245 0 245 88 0 88
 Dialogue: 0,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\pos(727,984)\p1\c&HD9DFE2&\blur1\fad(300,0)\b1}m 0 0 l 558 0 558 88 0 88
@@ -147,12 +151,7 @@ Dialogue: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\pos(904,984)\blur1\c&HFA
 Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(225,984)\fs66\blur0.6\fscx98}23:07
 Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(904,984)\fscx98\fs66\blur0.6}Dogenzaka, In Front of Shibuya 109
 Dialogue: 0,0:21:57.09,0:21:57.13,<<folder>>,,0,0,0,,{=3}
-Comment: 0,0:05:30.64,0:05:37.36,Signs,Sign,0,0,0,,Height limit
-Comment: 0,0:05:59.51,0:06:02.22,Signs,Sign,0,0,0,,博多大神
-Comment: 0,0:06:03.30,0:06:04.68,Signs,Sign,0,0,0,,sake... something
-Comment: 0,0:07:30.35,0:07:32.43,Signs,Sign,0,0,0,,random store sign on the right that's TSable
-Comment: 0,0:17:18.93,0:17:20.31,Signs,Sign,0,0,0,,Pork cutlet bowl... maybe, idk. this is kinda TSable
-Dialogue: 0,0:22:07.01,0:22:07.06,<<folder>>,,0,0,0,,{=4}- Episode Title
+Dialogue: 0,0:22:07.01,0:22:07.06,<<folder>>,,0,0,0,,{=4}- Episode Titles
 Dialogue: 0,0:22:07.01,0:22:10.02,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}38
 Dialogue: 0,0:22:07.01,0:22:10.02,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Thunderclap
 Dialogue: 0,0:23:51.24,0:23:51.28,<<folder>>,,0,0,0,,

@@ -16,34 +16,40 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Audio File: jjk_39_premux.mkv
 Video File: jjk_39_premux.mkv
 Keyframes File: jjk_39_keyframes.txt
 Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 2
+Video Position: 30224
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:46.73,0:00:46.78,<<folder>>,,0,0,0,,{=0}>signs
-Dialogue: 0,0:00:46.73,0:00:46.78,<<folder>>,,0,0,0,,- Episode Title
+Dialogue: 0,0:21:00.57,0:21:00.61,<<folder>>,,0,0,0,,{=9}- Notice
+Dialogue: 0,0:21:00.57,0:21:05.33,Signs,,0,0,0,,{\blur8\be4\an7\pos(0,-13)\fscx100\fscy100\p1\c&H050505&\b1}m 572.65 0 l 1401.37 0 1401.37 117.84 572.65 117.84 566.17 60.54
+Dialogue: 1,0:21:00.57,0:21:05.33,Signs,,0,0,0,,{\an5\blur0.8\fnArial Nova\fs107\c&H1D261E&\pos(995,59)\b1}NOTICE
+Dialogue: 0,0:21:00.57,0:21:00.61,<<folder>>,,0,0,0,,{=10}
+Dialogue: 0,0:00:46.73,0:00:46.78,<<folder>>,,0,0,0,,{=5}- Episode Titles
 Dialogue: 0,0:00:46.73,0:00:49.74,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}39
 Dialogue: 0,0:00:46.73,0:00:49.74,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Fluctuations II
-Comment: 0,0:19:03.12,0:19:12.38,<<folder>>,,0,0,0,,Den-en-toshi Line\NHattori-mon Line
-Dialogue: 0,0:21:00.57,0:21:00.61,<<folder>>,,0,0,0,,- Notice
-Dialogue: 0,0:21:00.57,0:21:05.33,Signs,,0,0,0,,{\blur8\an7\pos(0,-13)\fscx100\fscy100\p1\c&H050505&\b1}m 572.65 0 l 1401.37 0 1401.37 117.84 572.65 117.84 566.17 60.54
-Dialogue: 1,0:21:00.57,0:21:05.33,Signs,,0,0,0,,{\an5\blur0.8\fnArial Nova\fs107\c&H1D261E&\pos(995,59)\b1}NOTICE
-Dialogue: 0,0:23:52.16,0:23:52.20,<<folder>>,,0,0,0,,- title, next
+Dialogue: 0,0:23:54.95,0:23:55.00,<<folder>>,,0,0,0,,{=3}
 Dialogue: 0,0:23:52.16,0:23:55.00,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs69\c&H000000&\3c&H000000&\alpha&H20&\pos(960,762)}Next Episode
 Dialogue: 0,0:23:52.16,0:23:55.00,Signs,Next,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Next Episode
 Dialogue: 1,0:23:52.16,0:23:55.00,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs96\fsp-1\c&H000000&\3c&H000000&\alpha&H20&\pos(960,826)}Thunderclap
 Dialogue: 1,0:23:52.16,0:23:55.00,Signs,Next,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\fsp-1\pos(960,826)}Thunderclap
-Dialogue: 0,0:23:54.95,0:23:55.00,<<folder>>,,0,0,0,,{=1}
+Dialogue: 0,0:23:54.95,0:23:55.00,<<folder>>,,0,0,0,,{=6}
 
 [Aegisub Extradata]
-Data: 0,_aegi_folddata,e0;1;1
-Data: 1,_aegi_folddata,e1;1;1
-Data: 2,_aegi_folddata,e0;0;1
 Data: 3,_aegi_folddata,e1;0;1
+Data: 5,_aegi_folddata,e0;1;3
+Data: 6,_aegi_folddata,e1;1;3
+Data: 9,_aegi_folddata,e0;1;4
+Data: 10,_aegi_folddata,e1;1;4
+Data: 11,_aegi_folddata,e0;0;4
+Data: 12,_aegi_folddata,e1;0;4

@@ -9,13 +9,18 @@ PlayResY: 1080
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Audio File: jjk_30_premux.mkv
 Video File: jjk_30_premux.mkv
 Keyframes File: jjk_30_keyframes.txt
 Video AR Value: 1.777778
+Video Zoom Percent: 0.750000
+Scroll Position: 216
+Active Line: 408
+Video Position: 101
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
@@ -212,7 +217,7 @@ Dialogue: 3,0:00:04.69,0:00:04.73,Signs,Phone,0,0,0,,{\pos(945.4,111.22)\fscx106
 Dialogue: 3,0:00:04.73,0:00:04.81,Signs,Phone,0,0,0,,{\pos(945.4,111.21)\fscx106.14\fscy101.08\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
 Dialogue: 3,0:00:04.81,0:00:04.85,Signs,Phone,0,0,0,,{\pos(952.38,111.49)\fscx106.11\fscy101.06\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
 Dialogue: 0,0:00:04.82,0:00:04.86,<<folder>>,,0,0,0,,{=27}
-Dialogue: 0,0:00:02.32,0:00:04.86,<<folder>>,,0,0,0,,{=24}- Blockbuster
+Dialogue: 0,0:00:02.32,0:00:04.86,<<folder>>,,0,0,0,,{=74}- Blockbuster
 Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\pos(620.42,245.13)\frz12.8\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Last Night Boys {Screening time: minutes}
 Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\pos(616.95,244.83)\frz12.8\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Last Night Boys
 Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\pos(610.04,245.3)\frz12.8\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Last Night Boys
@@ -270,62 +275,62 @@ Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(623.35,307.03)\frz13
 Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(611.96,275.04)\frz13.92\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
 Dialogue: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(602.9,249.15)\frz13.92\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
 Dialogue: 0,0:00:02.98,0:00:03.02,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(972.97,781.11)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(927.74,657.07)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(902.04,570.17)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(879.01,508.67)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(861.76,460.6)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(853.55,421.72)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(842.06,389.95)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(832.47,363.42)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.31,0:00:03.35,Signs,movies,0,0,0,,{\pos(831.46,341.28)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(824.82,322.15)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(818.92,306.08)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(816.6,292.96)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(812.42,281.41)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(808.9,271.66)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(810.24,264.12)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(807.91,257.63)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(806.17,252.69)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(798,248.36)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(797.13,245.86)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(796.55,244.26)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(792.75,242.98)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(792.58,242.55)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(792.52,242.34)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.94,0:00:03.98,Signs,movies,0,0,0,,{\pos(789.05,242.04)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:03.98,0:00:04.02,Signs,movies,0,0,0,,{\pos(789.05,242.03)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:04.02,0:00:04.06,Signs,movies,0,0,0,,{\pos(789.04,242.02)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:04.06,0:00:04.15,Signs,movies,0,0,0,,{\pos(779.78,243.12)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(773.68,225.2)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(972.97,781.11)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(927.74,657.07)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(902.04,570.17)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(879.01,508.67)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(861.76,460.6)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(853.55,421.72)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(842.06,389.95)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(832.47,363.42)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.31,0:00:03.35,Signs,movies,0,0,0,,{\pos(831.46,341.28)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(824.82,322.15)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(818.92,306.08)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(816.6,292.96)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(812.42,281.41)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(808.9,271.66)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(810.24,264.12)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(807.91,257.63)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(806.17,252.69)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(798,248.36)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(797.13,245.86)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(796.55,244.26)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(792.75,242.98)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(792.58,242.55)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(792.52,242.34)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.94,0:00:03.98,Signs,movies,0,0,0,,{\pos(789.05,242.04)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:03.98,0:00:04.02,Signs,movies,0,0,0,,{\pos(789.05,242.03)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:04.02,0:00:04.06,Signs,movies,0,0,0,,{\pos(789.04,242.02)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:04.06,0:00:04.15,Signs,movies,0,0,0,,{\pos(779.78,243.12)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
+Comment: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(773.68,225.2)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
 Dialogue: 0,0:00:02.98,0:00:03.02,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(1036.09,891.52)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\clip(m 990.35 910.59 l 1100.1 881.21 1092.95 860.78 982.59 893.89)}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(990.8,765.65)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(963.58,678.44)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(941.14,615.16)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(924.06,565.82)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(916.46,525.6)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(904.74,493.59)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(895.34,466.59)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.31,0:00:03.35,Signs,movies,0,0,0,,{\pos(894.31,444.56)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(887.62,425.45)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(881.83,409.31)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(879.28,395.86)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(875.12,384.16)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(871.76,374.64)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(873.05,366.96)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(870.71,360.43)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(868.92,355.43)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(860.73,351.05)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(859.85,348.54)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(859.28,346.96)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(855.45,345.69)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(855.27,345.2)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(855.24,345.01)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:03.94,0:00:04.07,Signs,movies,0,0,0,,{\pos(851.75,344.73)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:04.06,0:00:04.15,Signs,movies,0,0,0,,{\pos(841.99,345.72)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(836,328.19)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\pos(808.28,265.39)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(1036.09,891.52)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\clip(m 990.35 910.59 l 1100.1 881.21 1092.95 860.78 982.59 893.89)}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(990.8,765.65)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(963.58,678.44)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(941.14,615.16)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(924.06,565.82)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(916.46,525.6)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(904.74,493.59)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(895.34,466.59)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.31,0:00:03.35,Signs,movies,0,0,0,,{\pos(894.31,444.56)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(887.62,425.45)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(881.83,409.31)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(879.28,395.86)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(875.12,384.16)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(871.76,374.64)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(873.05,366.96)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(870.71,360.43)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(868.92,355.43)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(860.73,351.05)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(859.85,348.54)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(859.28,346.96)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(855.45,345.69)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(855.27,345.2)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(855.24,345.01)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:03.94,0:00:04.07,Signs,movies,0,0,0,,{\pos(851.75,344.73)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:04.06,0:00:04.15,Signs,movies,0,0,0,,{\pos(841.99,345.72)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(836,328.19)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Comment: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\pos(808.28,265.39)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
 Dialogue: 0,0:00:03.02,0:00:03.07,<<folder>>,,0,0,0,,
 Dialogue: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(927.33,856.5)\frz14.86\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
 Dialogue: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(900.16,769.95)\frz14.86\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
@@ -535,9 +540,8 @@ Dialogue: 0,0:00:04.73,0:00:04.78,<<folder>>,,0,0,0,,
 Dialogue: 0,0:00:04.73,0:00:04.77,Signs,movies,0,0,0,,{\pos(917.63,923.75)\frz14.7\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\clip(m 798 963.41 l 1058.61 893.28 1045.27 862.26 784.81 933.29)}Sword of the Dragon (Subtitled)
 Dialogue: 0,0:00:04.77,0:00:04.81,Signs,movies,0,0,0,,{\pos(912.96,910.45)\frz14.7\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sword of the Dragon (Subtitled)
 Dialogue: 0,0:00:04.81,0:00:04.85,Signs,movies,0,0,0,,{\pos(916.67,901.24)\frz14.7\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sword of the Dragon (Subtitled)
-Dialogue: 0,0:00:04.82,0:00:04.86,<<folder>>,,0,0,0,,{=25}
-Comment: 0,0:01:23.61,0:01:23.65,Signs,,0,0,0,,{\blur2\be10\fs205\c&HFF0000&\pos(948.71,82.57)}Human Earthworm 4 {original}
-Dialogue: 0,0:01:23.61,0:01:23.65,<<folder>>,Phone,0,0,0,,{=22}- Trailer
+Dialogue: 0,0:00:04.82,0:00:04.86,<<folder>>,,0,0,0,,{=75}
+Dialogue: 0,0:01:23.61,0:01:23.65,<<folder>>,Phone,0,0,0,,{=22}- Human Earthworm 4
 Dialogue: 0,0:01:23.60,0:01:23.64,Signs,,0,0,0,,{\pos(964.5,38.36)\fscx286.46\fscy286.46\fnCoolvetica Rg\fs76.21\fsp0.5\b1\c&H1B268E&\alpha&H10&\blur20}Human Earthworm 4
 Dialogue: 0,0:01:23.60,0:01:23.64,Signs,,0,0,0,,{\fscx286.46\fscy286.46\fnCoolvetica Rg\fs76.21\fsp0.5\b1\c&H1B268E&\alpha&H10&\blur2.29\be0\pos(964.5,38.36)}Human Earthworm 4
 Dialogue: 0,0:01:23.65,0:01:24.85,Signs,,0,0,0,,{\move(951.71,366.57,951.69,369.34,17,1185)\fnCoolvetica Rg\fs76.21\fsp0.5\b1\c&H1D2B99&\alpha&H10&\blur0.8\t(17,1185,\fscx98.28)\t(17,1185,\fscy98.28)\t(17,585,\c&H06067E&&)}Human Earthworm 4
@@ -548,46 +552,46 @@ Dialogue: 0,0:01:25.23,0:01:25.36,Signs,,0,0,0,,{\pos(1467.38,348.23)\frz9.83\fn
 Dialogue: 0,0:01:25.36,0:01:25.48,Signs,,0,0,0,,{\pos(1742.05,529.56)\frz347.5\fnCoolvetica Rg\fs16.89\fsp0.5\b1\c&H0A0D7F&\alpha&H10&\blur0.6}Human Earthworm 4
 Dialogue: 0,0:01:25.44,0:01:25.48,<<folder>>,,0,0,0,,{=23}
 Dialogue: 0,0:08:03.17,0:08:07.63,<<folder>>,,0,0,0,,{=20}- Heartbeat
-Dialogue: 0,0:08:03.17,0:08:04.63,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\1a&HFF&\blur0.8\fad(563,0)\frz1.707\t(518,563,\1a&H00&)}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:03.17,0:08:04.63,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\fad(563,0)\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:04.63,0:08:04.71,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:04.63,0:08:04.71,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:04.71,0:08:04.80,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx111\fscy111\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:04.71,0:08:04.80,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx111\fscy111\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:04.80,0:08:04.88,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:04.80,0:08:04.88,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:04.88,0:08:04.92,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:04.88,0:08:04.92,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:04.92,0:08:05.01,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx109\fscy109\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:04.92,0:08:05.01,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx109\fscy109\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.01,0:08:05.21,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.01,0:08:05.21,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.21,0:08:05.34,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx111\fscy111\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.21,0:08:05.34,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx111\fscy111\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.34,0:08:05.46,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.34,0:08:05.46,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.46,0:08:05.55,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.46,0:08:05.55,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.55,0:08:05.63,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx108\fscy108\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.55,0:08:05.63,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx108\fscy108\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.63,0:08:05.72,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx95\fscy95\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.63,0:08:05.72,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx95\fscy95\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.72,0:08:05.76,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx88\fscy88\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.72,0:08:05.76,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx88\fscy88\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.76,0:08:05.84,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx106.5\fscy106.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.76,0:08:05.84,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx106.5\fscy106.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.84,0:08:05.97,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx94.5\fscy94.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.84,0:08:05.97,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx94.5\fscy94.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:05.97,0:08:06.05,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx107.5\fscy107.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:05.97,0:08:06.05,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx107.5\fscy107.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:06.05,0:08:06.13,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx93\fscy93\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:06.05,0:08:06.13,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx93\fscy93\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:06.13,0:08:06.22,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:06.13,0:08:06.22,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:06.22,0:08:06.34,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx95\fscy95\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:06.22,0:08:06.34,Signs,heart,0,0,0,,{\an5\pos(1315.04,193.35)\fscx95\fscy95\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707}Skipping beats{\fnChiller\fs77}?
-Dialogue: 0,0:08:06.34,0:08:07.63,Signs,heart,0,0,0,,{\an5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.8\frz1.707\pos(1315.04,193.35)}Skipping beats{\fnChiller\fs77}?
-Dialogue: 1,0:08:06.34,0:08:07.63,Signs,heart,0,0,0,,{\an5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.8\frz1.707\pos(1315.04,193.35)}Skipping beats{\fnChiller\fs77}?
+Dialogue: 0,0:08:03.17,0:08:04.63,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\1a&HFF&\blur0.7\fad(563,0)\t(518,563,\1a&H00&)}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:03.17,0:08:04.63,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7\fad(563,0)}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:04.63,0:08:04.71,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:04.63,0:08:04.71,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:04.71,0:08:04.80,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx111\fscy111\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:04.71,0:08:04.80,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx111\fscy111\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:04.80,0:08:04.88,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:04.80,0:08:04.88,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:04.88,0:08:04.92,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:04.88,0:08:04.92,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:04.92,0:08:05.01,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx109\fscy109\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:04.92,0:08:05.01,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx109\fscy109\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.01,0:08:05.21,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.01,0:08:05.21,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.21,0:08:05.34,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx111\fscy111\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.21,0:08:05.34,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx111\fscy111\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.34,0:08:05.46,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.34,0:08:05.46,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx97\fscy97\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.46,0:08:05.55,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.46,0:08:05.55,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.55,0:08:05.63,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx108\fscy108\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.55,0:08:05.63,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx108\fscy108\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.63,0:08:05.72,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx95\fscy95\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.63,0:08:05.72,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx95\fscy95\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.72,0:08:05.76,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx88\fscy88\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.72,0:08:05.76,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx88\fscy88\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.76,0:08:05.84,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx106.5\fscy106.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.76,0:08:05.84,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx106.5\fscy106.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.84,0:08:05.97,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx94.5\fscy94.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.84,0:08:05.97,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx94.5\fscy94.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:05.97,0:08:06.05,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx107.5\fscy107.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:05.97,0:08:06.05,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx107.5\fscy107.5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:06.05,0:08:06.13,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx93\fscy93\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:06.05,0:08:06.13,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx93\fscy93\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:06.13,0:08:06.22,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:06.13,0:08:06.22,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx90\fscy90\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:06.22,0:08:06.34,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx95\fscy95\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:06.22,0:08:06.34,Signs,heart,0,0,0,,{\an5\pos(1266,152)\fscx95\fscy95\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 0,0:08:06.34,0:08:07.63,Signs,heart,0,0,0,,{\an5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\bord1.25\c&H241462&\3c&H241462&\blur0.7\pos(1266,152)}Did my heart\Njust skip a beat{\fnChiller\fs77}?
+Dialogue: 1,0:08:06.34,0:08:07.63,Signs,heart,0,0,0,,{\an5\fax0.05\fnHOT-Karakusa Std R vL2\fs70\c&H16178A&\blur0.7\pos(1266,152)}Did my heart\Njust skip a beat{\fnChiller\fs77}?
 Dialogue: 0,0:08:07.59,0:08:07.63,<<folder>>,,0,0,0,,{=21}
 Dialogue: 0,0:09:07.80,0:09:12.06,<<folder>>,,0,0,0,,{=52}- Summoning
 Dialogue: 2,0:09:07.59,0:09:12.06,Signs,Phone,0,0,0,,{\pos(939.56,134.92)\fs84\b1\c&H626671&\blur0.88}I{\c&H636773&}I{\c&H646976&}I{\c&H666B79&}I{\c&H676D7B&}I{\c&H686F7E&}I{\c&H6A7181&}I{\c&H6B7383&}I{\c&H6C7586&}I{\c&H6E7789&}I
@@ -616,13 +620,13 @@ Dialogue: 5,0:09:07.59,0:09:12.06,Signs,Phone,0,0,0,,{\blur0.7\fnFOT-Rodin ProN 
 Dialogue: 5,0:09:07.80,0:09:12.06,Signs,Phone,0,0,0,,{\blur0.7\fnFOT-Rodin ProN DB vL\fs32\fscy99\pos(1129,327)}hey
 Dialogue: 5,0:09:08.02,0:09:12.06,Signs,Phone,0,0,0,,{\blur0.7\fnBlockParty\fs26\fscx112\c&H999EEE&\pos(1145.35,514.17)}FAM\N{\fscx90\fscy90}rest
 Dialogue: 5,0:09:08.22,0:09:12.06,Signs,Phone,0,0,0,,{\blur0.75\fnFOT-Rodin ProN DB vL\fs32\fscy99\pos(1130,699)}come
-Dialogue: 5,0:09:09.30,0:09:12.06,Signs,Phone,0,0,0,,{\blur0.75\fnFOT-Rodin ProN DB vL\fs32\fscy99\c&H606060&\pos(759,797)}ytho?
+Dialogue: 5,0:09:09.30,0:09:12.06,Signs,Phone,0,0,0,,{\alpha&H10&\blur0.75\fnFOT-Rodin ProN DB vL\fs32\fscy99\c&H606060&\pos(759,797)}ytho?
 Dialogue: 5,0:09:09.64,0:09:12.06,Signs,Phone,0,0,0,,{\blur0.75\fnFOT-Rodin ProN DB vL\fs32\fscy99\pos(1130,893)}come
-Dialogue: 5,0:09:10.43,0:09:12.06,Signs,Phone,0,0,0,,{\blur0.75\fnFOT-Rodin ProN DB vL\fs32\fscy99\c&H606060&\pos(758,987)}alright
+Dialogue: 5,0:09:10.43,0:09:12.06,Signs,Phone,0,0,0,,{\alpha&H10&\blur0.75\fnFOT-Rodin ProN DB vL\fs32\fscy99\c&H606060&\pos(758,987)}alright
 Dialogue: 0,0:09:12.03,0:09:12.07,<<folder>>,Phone,0,0,0,,{=53}
 Dialogue: 0,0:14:58.46,0:14:59.00,<<folder>>,,0,0,0,,{=54}- Poke, poke, poke
-Dialogue: 1,0:14:58.46,0:14:59.00,Signs,sfx,0,0,0,,{\fad(150,150)\blur0.6\bord1.5\fnAirstream ITC TT\fs80\c&H312395&\3c&H312395&\1a&HFF&\move(1238,510,1238,438,22,522)\t(105,150,\1a&H00&)\t(390,435,\1a&HFF&)}Poke
-Dialogue: 2,0:14:58.46,0:14:59.00,Signs,sfx,0,0,0,,{\move(1238,510,1238,438,22,522)\fnAirstream ITC TT\fs80\c&H7054D7&\blur0.6\fad(150,150)}Poke
+Dialogue: 1,0:14:58.46,0:14:59.00,Signs,,0,0,0,,{\fad(150,150)\blur0.6\bord1.5\fnAirstream ITC TT\fs80\c&H312395&\3c&H312395&\1a&HFF&\move(1238,510,1238,438,22,522)\t(105,150,\1a&H00&)\t(390,435,\1a&HFF&)}Poke
+Dialogue: 2,0:14:58.46,0:14:59.00,Signs,,0,0,0,,{\move(1238,510,1238,438,22,522)\fnAirstream ITC TT\fs80\c&H7054D7&\blur0.6\fad(150,150)}Poke
 Dialogue: 0,0:14:59.59,0:15:00.13,Signs,,0,0,0,,{\fad(150,150)\blur0.6\bord1.5\fnAirstream ITC TT\fs80\c&H312395&\3c&H312395&\1a&HFF&\move(1517,691,1517,614,18,518)\t(105,150,\1a&H00&)\t(390,435,\1a&HFF&)}Poke
 Dialogue: 1,0:14:59.59,0:15:00.13,Signs,,0,0,0,,{\move(1517,691,1517,614,18,518)\fnAirstream ITC TT\fs80\c&H7054D7&\blur0.6\fad(150,150)}Poke
 Dialogue: 0,0:15:00.67,0:15:01.21,Signs,,0,0,0,,{\fad(150,150)\blur0.6\bord1.5\fnAirstream ITC TT\fs80\c&H312395&\3c&H312395&\1a&HFF&\move(1440,490,1440,398,22,522)\t(105,150,\1a&H00&)\t(390,435,\1a&HFF&)}Poke
@@ -648,13 +652,13 @@ Dialogue: 1,0:15:03.59,0:15:03.88,Signs,,0,0,0,,{\move(1293,489,1293,452,22,272)
 Dialogue: 0,0:15:03.72,0:15:03.88,Signs,,0,0,0,,{\fad(150,0)\blur0.6\bord1.5\fnAirstream ITC TT\fs80\c&H312395&\3c&H312395&\1a&HFF&\move(1545,395,1544,378,17,142)\t(105,150,\1a&H00&)}Poke
 Dialogue: 1,0:15:03.72,0:15:03.88,Signs,,0,0,0,,{\move(1545,395,1544,378,17,142)\fnAirstream ITC TT\fs80\c&H7054D7&\blur0.6\fad(150,0)}Poke
 Dialogue: 0,0:15:03.84,0:15:03.88,<<folder>>,,0,0,0,,{=55}
-Dialogue: 0,0:20:19.99,0:20:20.03,<<folder>>,,0,0,0,,{=56}- I Choose the Form of Eva
-Dialogue: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\an2\blur0.7\bord5\fnHOT-KyoMadoka Std R vL2\fs88\fscx85\c&HFFFFFF&\3c&HFFFFFF&\pos(960,800)}Ultimate Mechamaru, Mode: Absolute
-Dialogue: 1,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\an2\blur0.7\fnHOT-KyoMadoka Std R vL2\fs88\fscx85\c&H000000&\pos(960,800)}Ultimate Mechamaru, Mode: Absolute
-Dialogue: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\an2\blur0.7\bord5\fnHOT-KyoMadoka Std R vL2\fs88\fscx85\c&HFFFFFF&\3c&HFFFFFF&\pos(960,885)}Armored Puppet Ultimate Mechamaru Prototype O
-Dialogue: 1,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\an2\blur0.7\fnHOT-KyoMadoka Std R vL2\fs88\fscx85\c&H000000&\pos(960,885)}Armored Puppet Ultimate Mechamaru Prototype O
+Dialogue: 0,0:20:19.99,0:20:20.03,<<folder>>,,0,0,0,,{=56}- Ultimate Mechamaru
+Dialogue: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord6\fnHOT-KyoMadoka Std R vL2\fs99\fscx85\c&HFFFFFF&\3c&HFFFFFF&\pos(960,735)}Ultimate Mechamaru, Mode: Absolute
+Dialogue: 1,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnHOT-KyoMadoka Std R vL2\fs99\fscx85\c&H000000&\4a&HFF&\pos(960,735)}Ultimate Mechamaru, Mode: Absolute
+Dialogue: 0,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord6\fnHOT-KyoMadoka Std R vL2\fs99\fscx85\c&HFFFFFF&\3c&HFFFFFF&\pos(960,835)}Armored Puppet Ultimate Mechamaru Prototype O
+Dialogue: 1,0:20:19.99,0:20:22.99,Signs,Screen,0,0,0,,{\blur0.69\bord0\fnHOT-KyoMadoka Std R vL2\fs99\fscx85\c&H000000&\4a&HFF&\pos(960,835)}Armored Puppet Ultimate Mechamaru Prototype O
 Dialogue: 0,0:20:22.95,0:20:22.99,Signs,,0,0,0,,{=57}
-Dialogue: 0,0:20:48.06,0:20:48.10,<<folder>>,,0,0,0,,{=58}- Counter 1
+Dialogue: 0,0:20:48.06,0:20:48.10,<<folder>>,,0,0,0,,{=58}- Counter: Glance
 Dialogue: 0,0:20:48.01,0:20:48.05,Signs,Y,0,0,0,,{\pos(745.94,1134.68)\fscx100.08\fscy100.08\frz6.3\fax-0.06\fnGentium Basic\fs16\b1\c&HC6F8F2&\1a&H55&\blur3}Years
 Dialogue: 0,0:20:48.05,0:20:48.10,Signs,Y,0,0,0,,{\pos(746.59,1079.84)\fscx100\fscy100\frz6.3\fax-0.06\fnGentium Basic\fs16\b1\c&HC6F8F2&\1a&H55&\blur3}Years
 Dialogue: 0,0:20:48.10,0:20:48.14,Signs,Y,0,0,0,,{\pos(746.58,1025.57)\fscx99.95\fscy99.95\frz6.3\fax-0.06\fnGentium Basic\fs16\b1\c&HC6F8F2&\1a&H55&\blur3}Years
@@ -892,20 +896,14 @@ Dialogue: 1,0:20:49.51,0:20:49.56,Signs,D,0,0,0,,{\pos(1338,520.94)\fscx99.85\fs
 Dialogue: 1,0:20:49.56,0:20:49.60,Signs,D,0,0,0,,{\pos(1334.35,517.57)\fscx99.85\fscy99.85\frz6.3\fax-0.06\fnGentium Basic\fs19\b1\c&HF9F9FA&\blur0.7}Days
 Dialogue: 1,0:20:49.60,0:20:49.64,Signs,D,0,0,0,,{\pos(1332.5,514.82)\fscx100\fscy100\frz6.3\fax-0.06\fnGentium Basic\fs19\b1\c&HF9F9FA&\blur0.7}Days
 Dialogue: 0,0:21:17.96,0:21:18.01,<<folder>>,,0,0,0,,{=59}
-Dialogue: 0,0:21:17.96,0:21:18.01,<<folder>>,,0,0,0,,{=60}- Counter 2
+Dialogue: 0,0:21:17.96,0:21:18.01,<<folder>>,,0,0,0,,{=60}- Counter: Background
 Dialogue: 0,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur1.7\pos(1030.87,202.5)\1a&H41&}Years
 Dialogue: 1,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur0.3\pos(1030.87,202.5)}Years
 Dialogue: 0,0:21:17.96,0:21:18.01,<<folder>>,,0,0,0,,
 Dialogue: 0,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur1.7\1a&H41&\pos(1135.27,202.5)}Months
 Dialogue: 0,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur0.3\pos(1135.27,202.5)}Months
 Dialogue: 0,0:21:19.17,0:21:19.22,<<folder>>,,0,0,0,,{=61}
-Comment: 0,0:21:37.36,0:21:37.40,Signs,Counter,0,0,0,,{\blur6.11\fnRagnar\fs30\fscx100\fscy100\c&HC6F8F2&\alpha&H80&\pos(647.34,774)\b1}Years
-Comment: 1,0:21:37.36,0:21:37.40,Signs,Counter,0,0,0,,{\blur0.77\fnRagnar\fs30\fscx100\fscy100\c&HC6F8F2&\alpha&H00&\pos(647.34,774)\b1}Years
-Comment: 0,0:21:37.36,0:21:37.40,Signs,Counter,0,0,0,,{\blur6.11\fnRagnar\fs30\fscx100\fscy100\c&HC6F8F2&\alpha&H80&\pos(1307.67,774)\b1}Months
-Comment: 1,0:21:37.36,0:21:37.40,Signs,Counter,0,0,0,,{\blur0.77\fnRagnar\fs30\fscx100\fscy100\c&HC6F8F2&\alpha&H00&\pos(1307.67,774)\b1}Months
-Comment: 0,0:21:37.36,0:21:37.40,Signs,Counter,0,0,0,,{\fscx100\fscy100\blur6.78\fnRagnar\fs30\c&HC6F8F2&\alpha&H80&\pos(1786.34,774)\b1}Days
-Comment: 1,0:21:37.36,0:21:37.40,Signs,Counter,0,0,0,,{\fscx100\fscy100\alpha&H00&\blur0.85\fnRagnar\fs30\c&HC6F8F2&\pos(1786.34,774)\b1}Days
-Dialogue: 0,0:21:37.36,0:21:37.40,<<folder>>,,0,0,0,,{=62}- Counter 3
+Dialogue: 0,0:21:37.36,0:21:37.40,<<folder>>,,0,0,0,,{=62}- Counter: Zoom out
 Dialogue: 0,0:21:37.35,0:21:37.40,Signs,Counter,0,0,0,,{\pos(648.67,594)\fscx100\fscy100\fnGentium Basic\fs38\b1\c&H91CBC9&\1a&H33&\blur5.5}Years
 Dialogue: 0,0:21:37.40,0:21:37.44,Signs,Counter,0,0,0,,{\pos(649.77,593.29)\fscx99.68\fscy99.68\fnGentium Basic\fs38\b1\c&H91CBC9&\1a&H33&\blur5.48}Years
 Dialogue: 0,0:21:37.44,0:21:37.48,Signs,Counter,0,0,0,,{\pos(650.94,592.66)\fscx99.28\fscy99.28\fnGentium Basic\fs38\b1\c&H91CBC9&\1a&H33&\blur5.46}Years
@@ -2229,7 +2227,7 @@ Dialogue: 3,0:21:42.23,0:21:42.28,Signs,Counter,0,0,0,,{\pos(1571.59,540.07)\fsc
 Dialogue: 3,0:21:42.28,0:21:42.32,Signs,Counter,0,0,0,,{\pos(1570.05,539.62)\fscx69.07\fscy69.07\fnGentium Basic\fs38\b1\c&HFBFBFC&\blur0.62}Days
 Dialogue: 3,0:21:42.32,0:21:42.36,Signs,Counter,0,0,0,,{\pos(1568.66,539.39)\fscx68.87\fscy68.87\fnGentium Basic\fs38\b1\c&HFBFBFC&\blur0.62}Days
 Dialogue: 0,0:21:42.32,0:21:42.36,<<folder>>,,0,0,0,,{=63}
-Dialogue: 0,0:21:51.46,0:21:51.50,<<folder>>,,0,0,0,,{=64}- locking in (chuck this out if it's trash looking)
+Dialogue: 0,0:21:48.50,0:21:48.54,<<folder>>,,0,0,0,,{=64}- Counter: Locking in
 Dialogue: 0,0:21:48.50,0:21:48.54,Signs,Counter,0,0,0,,{\pos(1064.54,708.708)\org(1066.18,635.16)\fscx100.25\fscy94.712\frz4.965\fry-14.721\frx3.125\fax-0.104\fnGentium Basic\fs101\b1\c&HFAFAFA&\blur4\be4\1a&HFF&}Days
 Dialogue: 0,0:21:48.54,0:21:48.58,Signs,Counter,0,0,0,,{\pos(1133.061,700.991)\org(1134.03,635.13)\fscx108.153\fscy98.785\frz4.602\fry-13.904\frx3.117\fax-0.094\fnGentium Basic\fs101\b1\c&HFAFAFA&\be4\blur4.25\1a&HEE&}Days
 Dialogue: 0,0:21:48.58,0:21:48.63,Signs,Counter,0,0,0,,{\pos(1207.639,692.459)\org(1207.49,635.1)\fscx117.603\fscy103.483\frz4.662\fry-13.59\frx2.953\fax-0.094\fnGentium Basic\fs101\b1\c&HFAFAFA&\blur4.25\be4\1a&HDE&}Days
@@ -2435,7 +2433,7 @@ Dialogue: 0,0:21:51.59,0:21:51.63,Signs,Counter,0,0,0,Z,{\pos(1736.889,570.734)\
 Dialogue: 1,0:21:51.63,0:21:52.50,Signs,Counter,0,0,0,Z,{\pos(1736.889,570.734)\org(1454.48,649.71)\fscx294.934\fscy176.294\frz3.096\fry-12.499\frx-0.051\fax-0.071\fnGentium Basic\1c&H0200FD&\blur4.5\be0}Years
 Dialogue: 0,0:21:51.63,0:21:52.50,Signs,Counter,0,0,0,Z,{\pos(1736.889,570.734)\org(1454.48,649.71)\fscx294.934\fscy176.294\frz3.096\fry-12.499\frx-0.051\fax-0.071\fnGentium Basic\1c&H0200FD&\blur8\1a&HB4&\t(18,352,\blur18\1a&HAA&)}Years
 Dialogue: 0,0:21:52.46,0:21:52.50,<<folder>>,,0,0,0,,{=65}
-Dialogue: 0,0:13:02.97,0:13:03.01,<<folder>>,,0,0,0,,{=66}- Episode Title
+Dialogue: 0,0:13:02.97,0:13:03.01,<<folder>>,,0,0,0,,{=66}- Episode Titles
 Dialogue: 0,0:13:02.97,0:13:05.97,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}30
 Dialogue: 0,0:13:02.97,0:13:05.97,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)}It's Like That
 Dialogue: 0,0:23:48.78,0:23:48.82,<<folder>>,,0,0,0,,
@@ -2454,24 +2452,10 @@ Data: 24,_aegi_folddata,e0;1;11
 Data: 25,_aegi_folddata,e1;1;11
 Data: 26,_aegi_folddata,e0;1;12
 Data: 27,_aegi_folddata,e1;1;12
-Data: 34,_aegi_folddata,e0;0;9
-Data: 35,_aegi_folddata,e1;0;9
 Data: 36,_aegi_folddata,e0;0;8
 Data: 37,_aegi_folddata,e1;0;8
-Data: 38,_aegi_folddata,e0;0;7
-Data: 39,_aegi_folddata,e1;0;7
-Data: 40,_aegi_folddata,e0;0;6
-Data: 41,_aegi_folddata,e1;0;6
-Data: 42,_aegi_folddata,e0;0;5
-Data: 43,_aegi_folddata,e1;0;5
-Data: 44,_aegi_folddata,e0;0;4
-Data: 45,_aegi_folddata,e1;0;4
-Data: 46,_aegi_folddata,e0;0;3
-Data: 47,_aegi_folddata,e1;0;3
 Data: 48,_aegi_folddata,e0;0;2
 Data: 49,_aegi_folddata,e1;0;2
-Data: 50,_aegi_folddata,e0;0;1
-Data: 51,_aegi_folddata,e1;0;1
 Data: 52,_aegi_folddata,e0;1;8
 Data: 53,_aegi_folddata,e1;1;8
 Data: 54,_aegi_folddata,e0;1;7
@@ -2488,5 +2472,9 @@ Data: 64,_aegi_folddata,e0;1;2
 Data: 65,_aegi_folddata,e1;1;2
 Data: 66,_aegi_folddata,e0;1;1
 Data: 67,_aegi_folddata,e1;1;1
-Data: 68,_aegi_folddata,e0;0;12
-Data: 69,_aegi_folddata,e1;0;12
+Data: 70,_aegi_folddata,e0;0;10
+Data: 71,_aegi_folddata,e1;0;10
+Data: 72,_aegi_folddata,e0;0;9
+Data: 73,_aegi_folddata,e1;0;9
+Data: 74,_aegi_folddata,e0;0;11
+Data: 75,_aegi_folddata,e1;0;11

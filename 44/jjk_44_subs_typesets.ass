@@ -16,13 +16,18 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
+Audio File: jjk_44_premux.mkv
 Video File: jjk_44_premux.mkv
 Keyframes File: jjk_44_keyframes.txt
 Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 1
+Active Line: 57
+Video Position: 9494
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
@@ -84,29 +89,29 @@ Dialogue: 0,0:00:32.17,0:00:32.42,Signs,c,0,0,0,,{\fnChocolate Covered Raindrops
 Dialogue: 0,0:00:32.42,0:00:32.67,Signs,a,0,0,0,,{\frz-31.5\fnChocolate Covered Raindrops Bol\fs99\fsp5\c&H3E3F3D&\blur0.7\fscy96\pos(1437.3,321.78)}Me
 Dialogue: 0,0:00:32.67,0:00:32.76,Signs,b,0,0,0,,{\fnChocolate Covered Raindrops Bol\fs99\fsp5\c&H3E3F3D&\blur0.7\fax-0.016341\fscx104\fscy94\frz-31.3921\frx3.9162\fry3.8291\org(1436.72,321.96)\pos(1437.56,321.96)}Me
 Dialogue: 0,0:00:32.72,0:00:32.76,<<folder>>,,0,0,0,,{=3}
-Dialogue: 0,0:06:35.96,0:06:36.00,<<folder>>,,0,0,0,,{=4}- Currently at Shibuya
+Dialogue: 0,0:06:35.96,0:06:36.00,<<folder>>,,0,0,0,,{=4}- Locations
 Dialogue: 0,0:06:35.96,0:06:39.17,<<folder>>,,0,0,0,,- Shin-toshin Line Platform
-Dialogue: 0,0:06:35.96,0:06:39.17,Signs,Screen,0,0,0,,{\p1\blur1\pos(226,864)\b1}m 0 0 l 276 0 276 100 0 100
-Dialogue: 0,0:06:35.96,0:06:39.17,Signs,Screen,0,0,0,,{\p1\blur1\pos(850.5,864)\fscx101\b1}m 0 0 l 805 0 805 100 0 100
-Dialogue: 0,0:06:35.96,0:06:39.17,Signs,Screen,0,0,0,,{\pos(850.5,983)\p1\blur1\fscx101\b1}m 0 0 l 805 0 805 100 0 100
+Dialogue: 0,0:06:35.96,0:06:39.17,Signs,Screen,0,0,0,,{\blur0.6\pos(226,864)\b1\p1}m 0 0 l 276 0 276 100 0 100
+Dialogue: 0,0:06:35.96,0:06:39.17,Signs,Screen,0,0,0,,{\blur0.6\fscx101\pos(850.5,864)\b1\p1}m 0 0 l 805 0 805 100 0 100
+Dialogue: 0,0:06:35.96,0:06:39.17,Signs,Screen,0,0,0,,{\blur0.6\fscx101\pos(850.5,983)\b1\p1}m 0 0 l 805 0 805 100 0 100
 Dialogue: 0,0:06:35.96,0:06:39.17,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(226,864)\fs73\blur0.6}23:09
 Dialogue: 0,0:06:35.96,0:06:39.17,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(850.5,864)\fscx96\fs73\blur0.6}Tokyo Metro, Shibuya Station
 Dialogue: 0,0:06:35.96,0:06:39.17,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(850.5,983)\fscx93\fs73\blur0.6}B5F, Shin-toshin Line Platform
 Dialogue: 0,0:06:39.13,0:06:39.17,<<folder>>,,0,0,0,,
 Dialogue: 0,0:06:39.17,0:06:39.21,<<folder>>,,0,0,0,,- Nitta Arata
-Dialogue: 0,0:06:39.17,0:06:41.67,Signs,Screen,0,0,0,,{\pos(1634.75,877.5)\p1\blur1\b1}m 37.75 0 l 360.75 0 360.75 89 37.75 89
-Dialogue: 0,0:06:39.17,0:06:41.67,Signs,Screen,0,0,0,,{\pos(1435.5,987.5)\p1\blur1\b1}m 0 0 l 797 0 797 89 0 89
+Dialogue: 0,0:06:39.17,0:06:41.67,Signs,Screen,0,0,0,,{\blur0.6\pos(1634.75,877.5)\b1\p1}m 37.75 0 l 360.75 0 360.75 89 37.75 89
+Dialogue: 0,0:06:39.17,0:06:41.67,Signs,Screen,0,0,0,,{\blur0.6\pos(1435.5,987.5)\b1\p1}m 0 0 l 797 0 797 89 0 89
 Dialogue: 0,0:06:39.17,0:06:41.67,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(1535.573,877.5)\fscx96\fs70\blur0.6}Nitta Arata
 Dialogue: 0,0:06:39.17,0:06:41.67,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1435.5,987.5)\fscx96\fs70\blur0.6}Kyoto Jujutsu Tech, First-Year
 Dialogue: 0,0:06:41.63,0:06:41.67,<<folder>>,,0,0,0,,
-Dialogue: 0,0:14:00.03,0:14:00.07,<<folder>>,,0,0,0,,- Closed off
+Dialogue: 0,0:14:00.03,0:14:00.07,<<folder>>,,0,0,0,,- Station Closed
 Dialogue: 0,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\pos(596.45,900.29)\p1\c&H32292B&\blur0.6\b1}m 103.73 29.69 l 103.68 74.84 746.26 225.03 743.76 140.32
 Dialogue: 1,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\pos(596.45,900.29)\p1\c&H1A0D0A&\blur0.6\clip(m 380.5 835.2 l 380.61 876.03 1017.56 1023.66 1015.15 945.83)\b1}m 102.58 29.14 l 102.68 69.97 739.63 217.6 737.22 139.77
 Dialogue: 2,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\blur3\fs43\fnGrain\c&H424141&\fax0.335250\fscx93.77\fscy144.23\frz-10.8024\frx-1.5594\fry-18.6818\org(601.48,900.29)\pos(596.45,900.29)\1a&H64&\clip(m 380.5 835.2 l 380.61 876.03 1017.56 1023.66 1015.15 945.83)}uiehncdkpkadsiakp
-Dialogue: 4,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\blur2.6\fs32\fnRECTAXEL\c&H0D3DD2&\4c&H0D3DD2&\fax0.391528\fscx93.47\fscy143.86\frz-10.7951\frx-0.1164\fry-18.4173\xshad0.01\yshad0.01\org(600.88,900.12)\pos(595.03,900.12)}Shibuya Station has been closed off
-Dialogue: 5,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\blur1.2\fs32\fnRECTAXEL\c&H62C6F6&\4c&H0D3DD2&\fax0.391528\fscx93.47\fscy143.86\frz-10.7951\frx-0.1164\fry-18.4173\xshad0.01\yshad0.01\org(600.88,900.12)\pos(595.03,900.12)}Shibuya Station has been closed off
+Dialogue: 4,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\blur2.6\fs32\fnRECTAXEL\c&H0D3DD2&\4c&H0D3DD2&\fax0.391528\fscx93.47\fscy143.86\frz-10.7951\frx-0.1164\fry-18.4173\xshad0.01\yshad0.01\org(600.88,900.12)\pos(598.03,900.12)}Shibuya Station has been closed off
+Dialogue: 5,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\blur1.2\fs32\fnRECTAXEL\c&H62C6F6&\4c&H0D3DD2&\fax0.391528\fscx93.47\fscy143.86\frz-10.7951\frx-0.1164\fry-18.4173\xshad0.01\yshad0.01\org(600.88,900.12)\pos(598.03,900.12)}Shibuya Station has been closed off
 Dialogue: 0,0:14:03.99,0:14:04.03,<<folder>>,,0,0,0,,{=5}
-Dialogue: 0,0:05:02.95,0:05:02.99,<<folder>>,,0,0,0,,{=6}- Episode Title
+Dialogue: 0,0:05:02.95,0:05:02.99,<<folder>>,,0,0,0,,{=6}- Episode Titles
 Dialogue: 0,0:05:02.95,0:05:05.95,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}44
 Dialogue: 0,0:05:02.95,0:05:05.95,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Right and Wrong III
 Dialogue: 0,0:23:34.60,0:23:34.64,<<folder>>,,0,0,0,,
