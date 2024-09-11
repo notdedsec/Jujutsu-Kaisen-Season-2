@@ -16,66 +16,88 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jjk_33_premux.mkv
 Video File: jjk_33_premux.mkv
 Keyframes File: jjk_33_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Video Position: 14168
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.98,Signs,Screen,0,0,0,,{\c&H000000&\p1}m 0 0 l 1920 -1 l 1920 1080 l -1 1080
-Dialogue: 1,0:00:00.00,0:00:02.98,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs80\fscx110\pos(960,536)}Question: What do you think of Gojo Satoru?
-Dialogue: 0,0:02:26.00,0:02:29.00,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 33\N{\fs70}Shibuya Incident: Gate, Open
-Dialogue: 0,0:12:18.01,0:12:18.05,Signs,,0,0,0,,{=9=14}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&HFF&\1a&HF0&\pos(1234.92,180.98)\b1}Seriously?
-Dialogue: 0,0:12:18.05,0:12:18.09,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&HFF&\1a&HDE&\pos(1234.92,186.98)\b1}Seriously?
-Dialogue: 0,0:12:18.09,0:12:18.13,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&HE8&\1a&HD2&\pos(1234.92,196.94)\b1}Seriously?
-Dialogue: 0,0:12:18.13,0:12:18.18,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&HD2&\1a&HCA&\pos(1234.92,206.92)\b1}Seriously?
-Dialogue: 0,0:12:18.18,0:12:18.22,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&HBB&\pos(1234.92,216.31)\b1}Seriously?
-Dialogue: 0,0:12:18.22,0:12:18.26,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&HA4&\pos(1234.93,225.45)\b1}Seriously?
-Dialogue: 0,0:12:18.26,0:12:18.30,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H8E&\pos(1235.03,234.23)\b1}Seriously?
-Dialogue: 0,0:12:18.30,0:12:18.34,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H71&\pos(1235.04,242.71)\b1}Seriously?
-Dialogue: 0,0:12:18.34,0:12:18.38,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H5B&\pos(1235.1,250.66)\b1}Seriously?
-Dialogue: 0,0:12:18.38,0:12:18.43,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H44&\pos(1235.09,257.93)\b1}Seriously?
-Dialogue: 0,0:12:18.43,0:12:18.47,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H2D&\pos(1235.1,264.68)\b1}Seriously?
-Dialogue: 0,0:12:18.47,0:12:18.51,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H17&\pos(1235.09,270.49)\b1}Seriously?
-Dialogue: 0,0:12:18.51,0:12:18.55,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1235.11,275.65)\b1}Seriously?
-Dialogue: 0,0:12:18.55,0:12:18.59,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1235.09,279.95)\b1}Seriously?
-Dialogue: 0,0:12:18.59,0:12:18.63,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1235.1,283.07)\b1}Seriously?
-Dialogue: 0,0:12:18.63,0:12:18.68,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1235.09,285.23)\b1}Seriously?
-Dialogue: 0,0:12:18.68,0:12:18.72,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1235.11,285.9)\b1}Seriously?
-Dialogue: 0,0:12:18.72,0:12:18.97,Signs,,0,0,0,,{=9}{\blur0.64\bord4\fnBarthowheel\fs69\c&HFFFFFF&\3c&HFFFFFF&\alpha&H00&\pos(1235.11,285.89)\b1}Seriously?
-Dialogue: 1,0:12:18.01,0:12:18.05,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&HFF&\1a&HF0&\4a&HFF&\pos(1234.92,180.98)\b1}Seriously?
-Dialogue: 1,0:12:18.05,0:12:18.09,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&HFF&\1a&HDE&\4a&HFF&\pos(1234.92,186.98)\b1}Seriously?
-Dialogue: 1,0:12:18.09,0:12:18.13,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&HE8&\1a&HD2&\4a&HFF&\pos(1234.92,196.94)\b1}Seriously?
-Dialogue: 1,0:12:18.13,0:12:18.18,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&HD2&\1a&HCA&\4a&HFF&\pos(1234.92,206.92)\b1}Seriously?
-Dialogue: 1,0:12:18.18,0:12:18.22,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&HBB&\4a&HFF&\pos(1234.92,216.31)\b1}Seriously?
-Dialogue: 1,0:12:18.22,0:12:18.26,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&HA4&\4a&HFF&\pos(1234.93,225.45)\b1}Seriously?
-Dialogue: 1,0:12:18.26,0:12:18.30,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H8E&\4a&HFF&\pos(1235.03,234.23)\b1}Seriously?
-Dialogue: 1,0:12:18.30,0:12:18.34,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H71&\4a&HFF&\pos(1235.04,242.71)\b1}Seriously?
-Dialogue: 1,0:12:18.34,0:12:18.38,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H5B&\4a&HFF&\pos(1235.1,250.66)\b1}Seriously?
-Dialogue: 1,0:12:18.38,0:12:18.43,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H44&\4a&HFF&\pos(1235.09,257.93)\b1}Seriously?
-Dialogue: 1,0:12:18.43,0:12:18.47,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H2D&\4a&HFF&\pos(1235.1,264.68)\b1}Seriously?
-Dialogue: 1,0:12:18.47,0:12:18.51,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H17&\4a&HFF&\pos(1235.09,270.49)\b1}Seriously?
-Dialogue: 1,0:12:18.51,0:12:18.55,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H00&\4a&HFF&\pos(1235.11,275.65)\b1}Seriously?
-Dialogue: 1,0:12:18.55,0:12:18.59,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H00&\4a&HFF&\pos(1235.09,279.95)\b1}Seriously?
-Dialogue: 1,0:12:18.59,0:12:18.63,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H00&\4a&HFF&\pos(1235.1,283.07)\b1}Seriously?
-Dialogue: 1,0:12:18.63,0:12:18.68,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H00&\4a&HFF&\pos(1235.09,285.23)\b1}Seriously?
-Dialogue: 1,0:12:18.68,0:12:18.72,Signs,,0,0,0,,{=8}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H00&\4a&HFF&\pos(1235.11,285.9)\b1}Seriously?
-Dialogue: 1,0:12:18.72,0:12:18.97,Signs,,0,0,0,,{=8=15}{\blur0.64\bord0\fnBarthowheel\fs69\c&H282C29&\alpha&H00&\4a&HFF&\pos(1235.11,285.89)\b1}Seriously?
-Dialogue: 0,0:23:50.78,0:23:55.00,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Pandemonium
-Dialogue: 1,0:23:50.78,0:23:55.00,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Pandemonium
+Dialogue: 0,0:00:00.00,0:00:00.02,<<folder>>,,0,0,0,,{=0}- Gojo question
+Dialogue: 0,0:00:00.00,0:00:02.98,Signs,Screen,0,0,0,,{\pos(960,540)\c&H000000&\p1\b1}m 0 0 l 1920 0 1920 1080 0 1080
+Dialogue: 1,0:00:00.00,0:00:02.98,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs80\fscx108\pos(960,536)}Question: What do you think of Gojo Satoru?
+Dialogue: 0,0:00:02.94,0:00:02.98,<<folder>>,,0,0,0,,{=1}
+Dialogue: 0,0:12:18.01,0:12:18.05,<<folder>>,,0,0,0,,{=2}- Seriously
+Dialogue: 0,0:12:18.01,0:12:18.05,Signs,,0,0,0,,{\pos(1224.4,180.98)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&HED&\blur0.68\1a&HFF&}Seriously?
+Dialogue: 0,0:12:18.05,0:12:18.09,Signs,,0,0,0,,{\pos(1224.4,186.98)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&HD5&\blur0.68\1a&HFF&}Seriously?
+Dialogue: 0,0:12:18.09,0:12:18.13,Signs,,0,0,0,,{\pos(1224.4,196.94)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&HBD&\blur0.68\1a&HFF&}Seriously?
+Dialogue: 0,0:12:18.13,0:12:18.18,Signs,,0,0,0,,{\pos(1224.4,206.92)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&HA5&\blur0.68\1a&HFF&}Seriously?
+Dialogue: 0,0:12:18.18,0:12:18.22,Signs,,0,0,0,,{\pos(1224.4,216.31)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&H8E&\blur0.68\1a&HFF&}Seriously?
+Dialogue: 0,0:12:18.22,0:12:18.26,Signs,,0,0,0,,{\pos(1224.41,225.45)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&H76&\blur0.68\1a&HFF&}Seriously?
+Dialogue: 0,0:12:18.26,0:12:18.30,Signs,,0,0,0,,{\pos(1224.51,234.23)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&H5E&\blur0.68\1a&HFF&}Seriously?
+Dialogue: 0,0:12:18.30,0:12:18.34,Signs,,0,0,0,,{\pos(1224.52,242.71)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&H47&\blur0.68\1a&HFF&}Seriously?
+Dialogue: 0,0:12:18.34,0:12:18.38,Signs,,0,0,0,,{\pos(1224.58,250.66)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&H2F&\blur0.68\1a&HAA&}Seriously?
+Dialogue: 0,0:12:18.38,0:12:18.43,Signs,,0,0,0,,{\pos(1224.57,257.93)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\alpha&H17&\blur0.68\1a&H55&}Seriously?
+Dialogue: 0,0:12:18.43,0:12:18.47,Signs,,0,0,0,,{\pos(1224.58,264.68)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\blur0.68\1a&H00&}Seriously?
+Dialogue: 0,0:12:18.47,0:12:18.51,Signs,,0,0,0,,{\pos(1224.57,270.49)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\blur0.68}Seriously?
+Dialogue: 0,0:12:18.51,0:12:18.55,Signs,,0,0,0,,{\pos(1224.59,275.65)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\blur0.68}Seriously?
+Dialogue: 0,0:12:18.55,0:12:18.59,Signs,,0,0,0,,{\pos(1224.57,279.95)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\blur0.68}Seriously?
+Dialogue: 0,0:12:18.59,0:12:18.63,Signs,,0,0,0,,{\pos(1224.58,283.07)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\blur0.68}Seriously?
+Dialogue: 0,0:12:18.63,0:12:18.68,Signs,,0,0,0,,{\pos(1224.57,285.23)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\blur0.68}Seriously?
+Dialogue: 0,0:12:18.68,0:12:18.72,Signs,,0,0,0,,{\pos(1224.59,285.9)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\blur0.68}Seriously?
+Dialogue: 0,0:12:18.72,0:12:18.97,Signs,,0,0,0,,{\pos(1224.59,285.89)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\bord4\c&HFFFFFF&\3c&HFFFFFF&\blur0.68}Seriously?
+Dialogue: 1,0:12:18.01,0:12:18.05,Signs,,0,0,0,,{\pos(1224.4,180.98)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\c&H342007&\alpha&HED&\blur0.68}Seriously?
+Dialogue: 1,0:12:18.05,0:12:18.09,Signs,,0,0,0,,{\pos(1224.4,186.98)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\1a&HDE&\blur0.68\alpha&HD5&\c&H34220C&}Seriously?
+Dialogue: 1,0:12:18.09,0:12:18.13,Signs,,0,0,0,,{\pos(1224.4,196.94)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\1a&HD2&\blur0.68\alpha&HBD&\c&H342511&}Seriously?
+Dialogue: 1,0:12:18.13,0:12:18.18,Signs,,0,0,0,,{\pos(1224.4,206.92)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\1a&HCA&\blur0.68\alpha&HA5&\c&H342716&}Seriously?
+Dialogue: 1,0:12:18.18,0:12:18.22,Signs,,0,0,0,,{\pos(1224.4,216.31)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\blur0.68\alpha&H8E&\c&H342A1B&}Seriously?
+Dialogue: 1,0:12:18.22,0:12:18.26,Signs,,0,0,0,,{\pos(1224.41,225.45)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\blur0.68\alpha&H76&\c&H342D20&}Seriously?
+Dialogue: 1,0:12:18.26,0:12:18.30,Signs,,0,0,0,,{\pos(1224.51,234.23)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\blur0.68\alpha&H5E&\c&H342F25&}Seriously?
+Dialogue: 1,0:12:18.30,0:12:18.34,Signs,,0,0,0,,{\pos(1224.52,242.71)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\blur0.68\alpha&H47&\c&H34322A&}Seriously?
+Dialogue: 1,0:12:18.34,0:12:18.38,Signs,,0,0,0,,{\pos(1224.58,250.66)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\blur0.68\alpha&H2F&\c&H34342F&}Seriously?
+Dialogue: 1,0:12:18.38,0:12:18.43,Signs,,0,0,0,,{\pos(1224.57,257.93)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\blur0.68\alpha&H17&\c&H343734&}Seriously?
+Dialogue: 1,0:12:18.43,0:12:18.47,Signs,,0,0,0,,{\pos(1224.58,264.68)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\c&H343A3A&\blur0.68}Seriously?
+Dialogue: 1,0:12:18.47,0:12:18.51,Signs,,0,0,0,,{\pos(1224.57,270.49)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\c&H343A3A&\blur0.68}Seriously?
+Dialogue: 1,0:12:18.51,0:12:18.55,Signs,,0,0,0,,{\pos(1224.59,275.65)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\c&H343A3A&\blur0.68}Seriously?
+Dialogue: 1,0:12:18.55,0:12:18.59,Signs,,0,0,0,,{\pos(1224.57,279.95)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\c&H343A3A&\blur0.68}Seriously?
+Dialogue: 1,0:12:18.59,0:12:18.63,Signs,,0,0,0,,{\pos(1224.58,283.07)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\c&H343A3A&\blur0.68}Seriously?
+Dialogue: 1,0:12:18.63,0:12:18.68,Signs,,0,0,0,,{\pos(1224.57,285.23)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\c&H343A3A&\blur0.68}Seriously?
+Dialogue: 1,0:12:18.68,0:12:18.72,Signs,,0,0,0,,{\pos(1224.59,285.9)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\c&H343A3A&\blur0.68}Seriously?
+Dialogue: 1,0:12:18.72,0:12:18.97,Signs,,0,0,0,,{\pos(1224.59,285.89)\frz7.313\fnGo Baaa Handwritten Comic\fs61\b1\c&H343A3A&\blur0.68}Seriously?
+Dialogue: 0,0:12:18.93,0:12:18.97,<<folder>>,,0,0,0,,{=3}
+Dialogue: 0,0:18:53.82,0:18:53.86,<<folder>>,,0,0,0,,{=4}- Grind (ep 26)
+Dialogue: 0,0:18:53.82,0:18:53.90,Signs,sfx,0,0,0,,{\pos(1087.07,351.52)\fscx103.64\fscy87.06\fnBarthowheel\fs86\bord1\c&H5C326C&\3c&H5C326C&\blur0.9\alpha&H28&}Grind
+Dialogue: 1,0:18:53.82,0:18:53.90,Signs,sfx,0,0,0,,{\pos(1087.07,351.52)\fscx103.64\fscy87.06\fnBarthowheel\fs86\c&HB683F3&\blur0.9\1a&H28&}Grind
+Dialogue: 1,0:18:53.82,0:18:53.90,Signs,sfx,0,0,0,,{\pos(1087.07,351.52)\fscx103.64\fscy87.06\fnBarthowheel\fs86\c&HA86EFC&\blur11\1a&H1E&}Grind
+Dialogue: 0,0:18:53.86,0:18:53.90,<<folder>>,,0,0,0,,{=5}
+Dialogue: 0,0:02:26.00,0:02:26.04,<<folder>>,,0,0,0,,{=6}- Episode Title
+Dialogue: 0,0:02:26.00,0:02:29.00,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}33
+Dialogue: 0,0:02:26.00,0:02:29.00,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Shibuya Incident: Gate, Open
+Dialogue: 0,0:23:50.78,0:23:50.83,<<folder>>,,0,0,0,,
+Dialogue: 0,0:23:50.78,0:23:55.00,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs69\c&H000000&\3c&H000000&\alpha&H20&\pos(960,762)}Next Episode
+Dialogue: 0,0:23:50.78,0:23:55.00,Signs,Next,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Next Episode
+Dialogue: 1,0:23:50.78,0:23:55.00,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs96\fsp-1\c&H000000&\3c&H000000&\alpha&H20&\pos(960,826)}Pandemonium
+Dialogue: 1,0:23:50.78,0:23:55.00,Signs,Next,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\fsp-1\pos(960,826)}Pandemonium
+Dialogue: 0,0:23:54.95,0:23:55.00,<<folder>>,,0,0,0,,{=7}
 
 [Aegisub Extradata]
-Data: 8,a-mo,e{"uuid"#3A"fcd3d21f-b02b-418d-b343-47f5f5d8fc73"#2C"originalText"#3A"{\\fade(450#2C0)\\blur0.6\\bord0\\fnBarthowheel\\fs69\\c&H282C29&\\blur0.64\\b1\\pos(1247.92#2C186.98)\\4a&HFF&}Really?"}
-Data: 9,a-mo,e{"uuid"#3A"dd20d485-41ee-460a-9c86-b4cc521cf086"#2C"originalText"#3A"{\\fade(450#2C0)\\blur0.6\\bord4\\fnBarthowheel\\fs69\\3c&HFFFFFF&\\c&HFFFFFF&\\blur0.64\\b1\\pos(1247.92#2C186.98)}Really?"}
-Data: 11,_aegi_folddata,e1;1;1
-Data: 14,_aegi_folddata,e0;1;2
-Data: 15,_aegi_folddata,e1;1;2
-Data: 16,_aegi_folddata,e0;0;2
-Data: 17,_aegi_folddata,e1;0;2
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;1;2
+Data: 3,_aegi_folddata,e1;1;2
+Data: 4,_aegi_folddata,e0;1;3
+Data: 5,_aegi_folddata,e1;1;3
+Data: 6,_aegi_folddata,e0;1;4
+Data: 7,_aegi_folddata,e1;1;4
+Data: 8,_aegi_folddata,e0;0;1
+Data: 9,_aegi_folddata,e1;0;1
+Data: 10,_aegi_folddata,e0;0;2
+Data: 11,_aegi_folddata,e1;0;2
+Data: 12,_aegi_folddata,e0;0;3
+Data: 13,_aegi_folddata,e1;0;3
+Data: 14,_aegi_folddata,e0;0;4
+Data: 15,_aegi_folddata,e1;0;4

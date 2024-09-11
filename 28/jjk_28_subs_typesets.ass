@@ -16,33 +16,40 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jjk_28_premux.mkv
 Video File: jjk_28_premux.mkv
 Keyframes File: jjk_28_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 13
-Video Position: 13634
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:13.97,0:01:16.97,Signs,Screen,0,0,0,,{\pos(960,800)\fnRagnar\fs60\b1\blur0.5}Episode 28\N{\fs70}Hidden Inventory IV
-Comment: 1,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\fs44\blur1\fnIwata Mincho Pro En B\an8\3c&H1F6C87&\4c&H314264&\c&HB5E4EF&\fax-0.527271\fscx90.15\fscy97.83\frz-2.4489\frx13.0437\fry-13.6638\xshad2.2\yshad2.8\org(793.44,487.04)\pos(743.32,476.59)}Star Religious Group Headquarters{\c&HE1FEFD&}
-Comment: 1,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\fs44\blur1\fnIwata Mincho Pro En B\an8\3c&H1F6C87&\4c&H314264&\c&HB5E4EF&\fax-0.470630\fscx90.93\fscy90.84\frz-3.6942\frx12.3899\fry-12.6753\xshad2.2\yshad2.8\org(766.75,537.92)\pos(725.44,519.21)}House of the Children of the Star{\c&HE1FEFD&}
-Comment: 2,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\fs44\blur1\fnIwata Mincho Pro En B\an8\3c&H1F6C87&\4c&H314264&\c&H71BDDA&\fax-0.527271\fscx90.15\fscy97.83\frz-2.4489\frx13.0437\fry-13.6638\xbord0.90\ybord0.98\xshad2.2\yshad2.8\org(793.44,487.04)\pos(743.32,476.59)}Star Religious Group Headquarters{\c&HE1FEFD&}
-Comment: 2,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\fs44\blur1\fnIwata Mincho Pro En B\an8\3c&H1F6C87&\4c&H314264&\c&H71BDDA&\fax-0.470630\fscx90.93\fscy90.84\frz-3.6942\frx12.3899\fry-12.6753\xbord0.91\ybord0.91\xshad2.2\yshad2.8\org(766.75,537.92)\pos(725.44,519.21)}House of the Children of the Star{\c&HE1FEFD&}
-Comment: 3,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\fs44\blur0.6\fnIwata Mincho Pro En B\an8\3c&H1F6C87&\4c&H314264&\c&H8DD3F1&\fax-0.527271\fscx90.15\fscy97.83\frz-2.4489\frx13.0437\fry-13.6638\org(793.44,487.04)\pos(743.32,476.59)}Star Religious Group Headquarters{\c&HE1FEFD&}
-Comment: 3,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\fs44\blur0.6\fnIwata Mincho Pro En B\an8\3c&H1F6C87&\4c&H314264&\c&H8DD3F1&\fax-0.470630\fscx90.93\fscy90.84\frz-3.6942\frx12.3899\fry-12.6753\org(766.75,537.92)\pos(725.44,519.21)}House of the Children of the Star{\c&HE1FEFD&}
-Dialogue: 0,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\blur4\fnIwata Mincho Pro En B\an8\fs70\pos(960,36)\c&H000000&}Star Religious Group Headquarters\N{\fs60}House of the Children of the Star
-Dialogue: 1,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\blur1\fnIwata Mincho Pro En B\bord2.4\an8\fs70\pos(960,36)\c&H314264&\3c&H314264&}Star Religious Group Headquarters\N{\fs60}House of the Children of the Star
-Dialogue: 2,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\blur1\b1\fnIwata Mincho Pro En B\shad2.5\an8\fs70\pos(960,36)\c&H314264&\4c&H263A63&}Star Religious Group Headquarters\N{\fs60}House of the Children of the Star
-Dialogue: 3,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\blur0.6\b1\fnIwata Mincho Pro En B\an8\fs70\pos(960,36)\c&HABDFE7&}Star Religious Group Headquarters\N{\fs60}House of the Children of the Star
-Dialogue: 0,0:09:28.63,0:09:33.09,Signs,Screen,0,0,0,,{\fade(500,0)\p1\blur0.6\bord7\c&H000000&\pos(239.05,348.47)}m 1380 135 l 1862 135 1862 835 1380 835
-Dialogue: 1,0:09:28.63,0:09:33.09,Signs,Screen,0,0,0,,{\fade(500,0)\p1\blur1\pos(239.05,348.47)}m 1380 135 l 1862 135 1862 835 1380 835
-Dialogue: 2,0:09:28.63,0:09:33.09,Signs,Screen,0,0,0,,{\fade(500,0)\fs48\fnIwata Mincho Pro En B\bord0\c&H000000&\blur0.62\c&H000000&\pos(1621.67,484.67)}Star Religious Group\NRepresentative\N{\fs77\blur0.7}Shigeru Sonoda
-Dialogue: 0,0:23:49.91,0:23:54.83,Signs,,0,0,0,,{\fnRagnar\fs60\b1\bord6\blur6\pos(960,800)\3c&H000000&\c&H000000&}Next Episode\N{\fs70}Premature Death
-Dialogue: 1,0:23:49.91,0:23:54.83,Signs,,0,0,0,,{\fnRagnar\fs60\blur0.4\b1\pos(960,800)}Next Episode\N{\fs70}Premature Death
+Dialogue: 0,0:01:13.97,0:01:14.01,<<folder>>,,0,0,0,,{=0}>signs
+Dialogue: 0,0:01:13.97,0:01:14.01,<<folder>>,,0,0,0,,- Episode Title
+Dialogue: 0,0:01:13.97,0:01:16.97,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}28
+Dialogue: 0,0:01:13.97,0:01:16.97,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Hidden Inventory IV
+Dialogue: 0,0:08:53.97,0:08:54.01,<<folder>>,,0,0,0,,- Headquarters
+Dialogue: 0,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\an8\pos(960,36)\fnIwata Mincho Old Pro-TR\fs70\c&H000000&\blur4}Star Religious Group Headquarters\N{\fs60}House of the Children of the Star
+Dialogue: 1,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\an8\pos(960,36)\fnIwata Mincho Old Pro-TR\fs70\bord2.4\c&H314264&\3c&H314264&\blur1}Star Religious Group Headquarters\N{\fs60}House of the Children of the Star
+Dialogue: 2,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\an8\pos(960,36)\fnIwata Mincho Old Pro-TR\fs70\b1\shad2.5\c&H314264&\4c&H263A63&\blur1}Star Religious Group Headquarters\N{\fs60}House of the Children of the Star
+Dialogue: 3,0:08:53.97,0:08:56.72,Signs,Sign,0,0,0,,{\an8\pos(960,36)\fnIwata Mincho Old Pro-TR\fs70\b1\c&HABDFE7&\blur0.6}Star Religious Group Headquarters\N{\fs60}House of the Children of the Star
+Dialogue: 0,0:09:28.63,0:09:28.67,Signs,,0,0,0,,
+Dialogue: 0,0:09:28.63,0:09:33.09,Signs,Screen,0,0,0,,{\fade(500,0)\p1\blur0.6\bord7\c&H000000&\pos(239.05,348.47)\b1}m 1380 135 l 1862 135 1862 835 1380 835
+Dialogue: 1,0:09:28.63,0:09:33.09,Signs,Screen,0,0,0,,{\fade(500,0)\p1\blur1\pos(239.05,348.47)\b1}m 1380 135 l 1862 135 1862 835 1380 835
+Dialogue: 2,0:09:28.63,0:09:33.09,Signs,Screen,0,0,0,,{\fade(500,0)\fs48\fnIwata Mincho Old Pro-TR\c&H000000&\blur0.62\pos(1621.67,484.67)}Star Religious Group\NRepresentative\N{\fs77\blur0.7}Shigeru Sonoda
+Dialogue: 0,0:09:33.05,0:09:33.09,Signs,,0,0,0,,
+Dialogue: 0,0:23:49.91,0:23:49.95,<<folder>>,,0,0,0,,- title, next
+Dialogue: 0,0:23:49.91,0:23:54.83,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs69\c&H000000&\3c&H000000&\alpha&H20&\pos(960,762)}Next Episode
+Dialogue: 0,0:23:49.91,0:23:54.83,Signs,Next,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Next Episode
+Dialogue: 1,0:23:49.91,0:23:54.83,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs96\fsp-1\c&H000000&\3c&H000000&\alpha&H20&\pos(960,826)}Premature Death
+Dialogue: 1,0:23:49.91,0:23:54.83,Signs,Next,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\fsp-1\pos(960,826)}Premature Death
+Dialogue: 0,0:23:54.79,0:23:54.83,<<folder>>,,0,0,0,,{=1}
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;0;1
+Data: 3,_aegi_folddata,e1;0;1

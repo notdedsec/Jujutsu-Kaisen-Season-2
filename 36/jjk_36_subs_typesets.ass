@@ -16,79 +16,169 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Audio File: jjk_36_premux.mkv
 Video File: jjk_36_premux.mkv
 Keyframes File: jjk_36_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Active Line: 41
-Video Position: 34286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Signs,Cabin,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs,Cabin,50,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,100,100,0,0,1,0,0,1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:05.82,0:00:08.57,Signs,,0,0,0,,{=0}Exit 13
-Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an7\fscx23\fscy80\pos(532.08,106.26)\p1}m 677 880 l 1869 880 1869 999 677 999 677 900
-Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(467.08,106.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
-Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an7\fscx77\fscy80\pos(467.08,226.26)\p1}m 677 880 l 1822 880 1822 999 677 999 677 900
-Dialogue: 3,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs78\c&H000000&\pos(741.4,898.4)\b1}21:44
-Dialogue: 3,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx98\c&H000000&\pos(1012.91,895.69)\b1}Tokyo Metro, Shibuya Station
-Dialogue: 3,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\fscx100\c&H000000&\pos(1012.91,1018.69)\b1}Exit 13, Outside the Veil
-Dialogue: 3,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{=1}
-Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\blur0.69\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\c&HADBBC4&\pos(1099,487.3)\b1\clip(m 974.74 475.41 l 1218.32 476.13 1218.61 509.38 1141.8 508.55 1141.52 478.34 1134.32 478.34 1134.79 508.27 1058.38 507.71 1058.66 478.46 1052.17 477.95 1052.29 507.44 975.01 508.12)}Leave your  insurance decisions to us
-Dialogue: 0,0:00:44.02,0:00:47.03,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 36\N{\fs70}Dull Blade
-Comment: 0,0:02:26.63,0:02:35.89,Signs,,0,0,0,,{=10}Between Meiji Shrine Station and Shibuya Station
-Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an7\fscx23\fscy73\pos(354.08,177.26)\p1}m 677 880 l 1877 880 1877 999 677 999 677 900
-Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an7\fscx77\fscy73\pos(296.08,177.26)\p1}m 677 880 l 1270 880 1270 999 677 999 677 900
-Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an7\fscx77\fscy73\pos(-10.92,297.26)\p1}m 677 880 l 2444 880 2444 999 677 999 677 900
-Dialogue: 3,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(565.4,901.4)\b1}22:02
-Dialogue: 3,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs75\fscx99\c&H000000&\pos(868.91,899.69)\b1}Tokyo Metro
-Dialogue: 3,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs72\fscx94\c&H000000&\pos(531.91,1019.69)\b1}Between Meiji Jingumae Station and Shibuya Station
-Dialogue: 0,0:02:26.63,0:02:35.89,Signs,,0,0,0,,{=11}
-Comment: 0,0:04:45.52,0:04:52.65,Signs,,0,0,0,,{=14}Shuto Expressway, Cerulean Tower
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\fscx24\fscy80\pos(-71,112.86)\p1}m 677 880 l 1870 880 1870 999 677 999 677 900
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\fscx75\fscy80\pos(-106.52,112.86)\p1}m 677 880 l 2080 880 2080 999 677 999 677 900
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\fscx75\fscy80\pos(-106.52,230.86)\p1}m 677 880 l 1669 880 1669 999 677 999 677 900
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs74\c&H000000&\pos(154,903)\b1}22:04
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs70\fscx96\c&H000000&\pos(427,902)\b1}Shuto Expressway Route 3, Shibuya Line
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs70\fscx99\c&H000000&\pos(427,1019)\b1}In Front of Cerulean Tower
-Dialogue: 0,0:04:45.52,0:04:52.65,Signs,,0,0,0,,{=15}
-Comment: 0,0:09:19.54,0:09:25.13,Signs,,0,0,0,,{=6}Shoto Bunkamura Street
-Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\an7\fscx22\fscy73\pos(-53.52,295.86)\p1}m 677 880 l 1833 880 1833 999 677 999 677 900
-Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\an7\fscx117\fscy73\pos(-399,295.86)\p1}m 677 880 l 1710 880 1710 999 677 999 677 900
-Dialogue: 3,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs75\c&H000000&\pos(144,1020)\b1}21:40
-Dialogue: 3,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs75\c&H000000&\pos(422,1020)\b1}Shoto Bunkamura Street, Outside the Veil
-Dialogue: 0,0:09:19.54,0:09:25.13,Signs,,0,0,0,,{=7}
-Comment: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{=26}Smallpox Deity
-Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.64\fnRagnar\fs88\fscx105\pos(960,144)\b1}Special-Grade Disease Curse
-Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.64\fnRagnar\fs128\fscx105\pos(960,960)\b1}Smallpox Deity
-Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{=27}
-Comment: 0,0:20:49.98,0:20:52.48,Signs,,0,0,0,,{=16}Inside Shibuya Station
-Dialogue: 1,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\an7\fscx20\fscy80\pos(310.48,226.86)\p1}m 677 880 l 1840 880 1840 999 677 999 677 900
-Dialogue: 1,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\an7\fscx70\fscy80\pos(230,226.86)\p1}m 677 880 l 1666 880 1666 999 677 999 677 900
-Dialogue: 3,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(483.8,1019)\b1}22:10
-Dialogue: 3,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\an1\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(731.4,1018.4)\b1}Inside Shibuya Station
-Dialogue: 0,0:20:49.98,0:20:52.48,Signs,,0,0,0,,{=17}
-Dialogue: 0,0:23:49.99,0:23:55.04,Signs,Screen,0,0,0,,{\blur6\bord6\fnRagnar\fs60\c&H000000&\3c&H000000&\pos(960,800)\b1}Next Episode\N{\fs70}Red Scale
-Dialogue: 1,0:23:49.99,0:23:55.04,Signs,Screen,0,0,0,,{\blur0.4\fnRagnar\fs60\pos(960,800)\b1}Next Episode\N{\fs70}Red Scale
+Comment: 0,0:00:44.02,0:00:47.02,Signs,Screen,0,0,0,,{\blur0.5\fnRagnar\fs60\pos(960,800)\b1}Episode 36\N{\fs70}Dull Blade
+Dialogue: 0,0:00:37.98,0:00:38.02,<<folder>>,,0,0,0,,{=0}- Insurance
+Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\an5\pos(1014,486.8)\fscx110\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\b1\c&HADBBC4&\blur0.69}Leave your
+Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\an5\fscx110\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\b1\c&HADBBC4&\blur0.69\pos(1096.7,487.3)}insurance
+Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\an5\fscx110\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\b1\c&HADBBC4&\blur0.69\pos(1178.74,487.8)}decisions
+Dialogue: 0,0:00:37.98,0:00:44.02,Signs,,0,0,0,,{\an5\fscx110\fnFOT-TsukuARdGothic Std E\fs17\fsp0.6\b1\c&HADBBC4&\blur0.69\pos(1246.54,487.3)}to us
+Dialogue: 0,0:00:43.98,0:00:44.02,<<folder>>,,0,0,0,,{=1}
+Dialogue: 0,0:00:05.82,0:00:05.86,<<folder>>,,0,0,0,,{=2}- Currently at Shibuya
+Dialogue: 0,0:00:05.82,0:00:05.86,<<folder>>,,0,0,0,,- Exit 13
+Dialogue: 0,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\pos(817.33,862.015)\blur1\p1\c&HEAF4F4&\b1}m 0 0.01 l 260.66 0.01 260.66 87.04 0 87.04
+Dialogue: 0,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\pos(1431.935,862.015)\blur1\p1\c&HEAF4F4&\b1}m 0.01 0.01 l 789.89 0.01 789.89 87.04 0.01 87.04
+Dialogue: 0,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\pos(1431.935,981.515)\blur1\p1\c&HEAF4F4&\b1}m 0.01 0.01 l 789.89 0.01 789.89 87.04 0.01 87.04
+Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(817.33,862.015)\fs66\blur0.6}21:44
+Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(1072.318,862.015)\fs66\blur0.6}Tokyo Metro, Shibuya Station
+Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(1072.318,981.515)\fs66\blur0.6}Exit 13, Outside the Veil
+Dialogue: 3,0:00:08.53,0:00:08.57,<<folder>>,,0,0,0,,
+Dialogue: 0,0:02:26.63,0:02:26.67,<<folder>>,,0,0,0,,- Between Stations
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&H000000&\blur1\pos(655.6,862.805)\b1}m 0 0 l 259.2 0 259.2 87.63 0 87.63
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&H000000&\blur1\pos(1119.45,862.815)\b1}m 0 0 l 476.9 0 476.9 87.63 0 87.63
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&H000000&\blur1\pos(1180.395,982.815)\b1}m 0 0 l 1308.79 0 1308.79 87.63 0 87.63
+Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(655.6,862.805)\fs73\c&HFDFAF6&\blur0.6\fscx99}22:02
+Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1119.45,859.34)\fs73\c&HFDFAF6&\blur0.6\fscx99}Tokyo Metro
+Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1180.4,979.34)\fs73\c&HFDFAF6&\blur0.6\fscx99}Between Meiji-jingumae and Shibuya Stations {ep34 12:32}
+Dialogue: 0,0:02:35.84,0:02:35.89,<<folder>>,,0,0,0,,
+Dialogue: 0,0:04:45.52,0:04:45.56,<<folder>>,,0,0,0,,- Shuto Expressway, Cerulean Tower
+Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\p1\blur1\c&HFBFBFB&\pos(91.5,816)\clip(91.5,816,376.5,914)\b1}m 0 0 l 285 0 285 98 0 98
+Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\pos(414.73,816)\p1\blur1\c&HFBFBFB&\clip(415,816,1490,914)\b1}m 0.27 0 l 1075.27 0 1075.27 98 0.27 98
+Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\p1\blur1\c&HFBFBFB&\pos(414.73,934)\clip(415,934,1145,1028)\b1}m 0.27 0 l 730.27 0 730.27 94 0.27 94
+Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(234,865)\fscx96\fs70\blur0.6}22:02
+Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\fscx96\fs70\blur0.6\pos(450,865)}Shuto Expressway Route 3, Shibuya Line
+Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(450,981)\fscx96\fs70\blur0.6}In Front of Cerulean Tower
+Dialogue: 0,0:04:52.61,0:04:52.65,<<folder>>,,0,0,0,,
+Dialogue: 0,0:09:19.54,0:09:19.58,<<folder>>,,0,0,0,,- Shoto Bunkamura Street
+Dialogue: 0,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\blur1\c&HFEFEFE&\p1\pos(222.2,981.02)\b1}m 0 0 l 255.4 0 255.4 88.04 0 88.04
+Dialogue: 0,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\pos(1023.45,981.02)\blur1\c&HFEFEFE&\p1\b1}m 0 0 l 1160.9 0 1160.9 88.04 0 88.04
+Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(222.2,981.02)\fscx99\fs70\blur0.6}22:02
+Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1023.45,981.02)\fscx99\fs70\blur0.6}Shoto Bunkamura Street, Outside the Veil
+Dialogue: 0,0:09:25.09,0:09:25.13,<<folder>>,,0,0,0,,
+Dialogue: 0,0:20:49.98,0:20:50.02,<<folder>>,,0,0,0,,- Inside Shibuya Station
+Dialogue: 0,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\blur1\p1\c&HFAFBFB&\pos(664.5,978)\b1}m 0 0 l 279 0 279 96 0 96
+Dialogue: 0,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\blur1\p1\c&HFAFBFB&\pos(1214.5,978)\b1}m 0 0 l 623 0 623 96 0 96
+Dialogue: 1,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(664.5,978)\fscx98\fs70\blur0.6}22:10
+Dialogue: 1,0:20:49.98,0:20:52.48,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\fscx98\fs70\blur0.6\pos(1214.5,978)}Inside Shibuya Station
+Dialogue: 0,0:20:52.44,0:20:52.48,<<folder>>,,0,0,0,,{=3}
+Comment: 0,0:18:12.24,0:18:12.28,Signs,,0,0,0,,{\1a&HFF&\b1}falling sign
+Dialogue: 0,0:19:39.62,0:19:39.66,<<folder>>,,0,0,0,,{=6}- Smallpox Deity
+Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.65\fnBogart Semibold\fs93\b1\pos(960,170)}Special-Grade Disease Curse
+Dialogue: 0,0:19:39.62,0:19:43.12,Signs,Screen,0,0,0,,{\blur0.7\fnBogart Semibold\fs135\b1\pos(960,955)}Smallpox Deity
+Dialogue: 0,0:19:43.08,0:19:43.12,<<folder>>,,0,0,0,,{=7}
+Dialogue: 0,0:20:58.24,0:20:59.74,<<folder>>,,0,0,0,,{=8}- Ticket
+Dialogue: 0,0:20:58.23,0:20:58.27,Signs,,0,0,0,,{\pos(1751.89,564.83)\org(1749.82,564.83)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.27,0:20:58.32,Signs,,0,0,0,,{\pos(1751.87,565.27)\org(1749.8,565.27)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.32,0:20:58.36,Signs,,0,0,0,,{\pos(1751.91,565.66)\org(1749.84,565.66)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.36,0:20:58.40,Signs,,0,0,0,,{\pos(1752.04,566.02)\org(1749.97,566.02)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.40,0:20:58.44,Signs,,0,0,0,,{\pos(1752.22,566.26)\org(1750.15,566.26)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.44,0:20:58.48,Signs,,0,0,0,,{\pos(1752.46,566.44)\org(1750.39,566.44)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.48,0:20:58.52,Signs,,0,0,0,,{\pos(1752.76,566.52)\org(1750.69,566.52)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.52,0:20:58.57,Signs,,0,0,0,,{\pos(1753.1,566.54)\org(1751.03,566.54)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.57,0:20:58.61,Signs,,0,0,0,,{\pos(1753.52,566.48)\org(1751.45,566.48)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.61,0:20:58.65,Signs,,0,0,0,,{\pos(1753.93,566.37)\org(1751.86,566.37)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.65,0:20:58.69,Signs,,0,0,0,,{\pos(1754.38,566.2)\org(1752.31,566.2)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.69,0:20:58.73,Signs,,0,0,0,,{\pos(1754.85,565.95)\org(1752.78,565.95)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.73,0:20:58.77,Signs,,0,0,0,,{\pos(1755.27,565.67)\org(1753.2,565.67)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.77,0:20:58.82,Signs,,0,0,0,,{\pos(1755.51,565.13)\org(1753.44,565.13)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.82,0:20:58.86,Signs,,0,0,0,,{\pos(1755.44,564.41)\org(1753.37,564.41)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.86,0:20:58.90,Signs,,0,0,0,,{\pos(1755.01,563.86)\org(1752.94,563.86)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.90,0:20:58.94,Signs,,0,0,0,,{\pos(1754.28,563.67)\org(1752.21,563.67)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.94,0:20:58.98,Signs,,0,0,0,,{\pos(1753.45,563.97)\org(1751.38,563.97)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.98,0:20:59.02,Signs,,0,0,0,,{\pos(1752.5,564.73)\org(1750.43,564.73)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.02,0:20:59.07,Signs,,0,0,0,,{\pos(1752.41,565.54)\org(1750.34,565.54)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.07,0:20:59.11,Signs,,0,0,0,,{\pos(1751.97,566.26)\org(1749.9,566.26)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.11,0:20:59.15,Signs,,0,0,0,,{\pos(1751.54,566.98)\org(1749.47,566.98)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.15,0:20:59.19,Signs,,0,0,0,,{\pos(1751.2,567.66)\org(1749.13,567.66)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.19,0:20:59.23,Signs,,0,0,0,,{\pos(1750.93,568.31)\org(1748.86,568.31)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.23,0:20:59.27,Signs,,0,0,0,,{\pos(1750.71,568.97)\org(1748.64,568.97)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.27,0:20:59.32,Signs,,0,0,0,,{\pos(1750.69,569.51)\org(1748.62,569.51)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.32,0:20:59.36,Signs,,0,0,0,,{\pos(1750.7,570.03)\org(1748.63,570.03)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.36,0:20:59.40,Signs,,0,0,0,,{\pos(1750.78,570.42)\org(1748.71,570.42)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.40,0:20:59.44,Signs,,0,0,0,,{\pos(1750.97,570.75)\org(1748.9,570.75)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.44,0:20:59.48,Signs,,0,0,0,,{\pos(1751.27,570.97)\org(1749.2,570.97)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.48,0:20:59.52,Signs,,0,0,0,,{\pos(1751.58,571.08)\org(1749.51,571.08)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.52,0:20:59.57,Signs,,0,0,0,,{\pos(1752.07,571.09)\org(1750,571.09)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.57,0:20:59.61,Signs,,0,0,0,,{\pos(1752.53,571.02)\org(1750.46,571.02)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.61,0:20:59.65,Signs,,0,0,0,,{\pos(1752.91,570.84)\org(1750.84,570.84)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.65,0:20:59.69,Signs,,0,0,0,,{\pos(1753.27,570.56)\org(1751.2,570.56)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:59.69,0:20:59.73,Signs,,0,0,0,,{\pos(1753.56,570.25)\org(1751.49,570.25)\fscx39.81\fscy38.51\frz18.29\fry0.56\frx-18.966\fax-0.208\fnAveria Libre\c&H062D3E&\blur0.93}Ticket
+Dialogue: 0,0:20:58.24,0:20:58.28,<<folder>>,,0,0,0,,
+Dialogue: 0,0:20:58.23,0:20:58.27,Signs,,0,0,0,,{\pos(973.36,811.96)\org(973.9,811.96)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.27,0:20:58.32,Signs,,0,0,0,,{\pos(973.34,812.37)\org(973.88,812.37)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.32,0:20:58.36,Signs,,0,0,0,,{\pos(973.38,812.74)\org(973.92,812.74)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.36,0:20:58.40,Signs,,0,0,0,,{\pos(973.54,813.15)\org(974.08,813.15)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.40,0:20:58.44,Signs,,0,0,0,,{\pos(973.74,813.38)\org(974.28,813.38)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.44,0:20:58.48,Signs,,0,0,0,,{\pos(973.96,813.56)\org(974.5,813.56)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.48,0:20:58.52,Signs,,0,0,0,,{\pos(974.24,813.65)\org(974.78,813.65)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.52,0:20:58.57,Signs,,0,0,0,,{\pos(974.58,813.66)\org(975.11,813.66)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.57,0:20:58.61,Signs,,0,0,0,,{\pos(975,813.64)\org(975.54,813.64)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.61,0:20:58.65,Signs,,0,0,0,,{\pos(975.39,813.53)\org(975.93,813.53)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.65,0:20:58.69,Signs,,0,0,0,,{\pos(975.85,813.34)\org(976.39,813.34)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.69,0:20:58.73,Signs,,0,0,0,,{\pos(976.37,813.07)\org(976.91,813.07)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.73,0:20:58.77,Signs,,0,0,0,,{\pos(976.74,812.77)\org(977.28,812.77)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.77,0:20:58.82,Signs,,0,0,0,,{\pos(977,812.22)\org(977.54,812.22)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.82,0:20:58.86,Signs,,0,0,0,,{\pos(976.92,811.51)\org(977.46,811.51)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.86,0:20:58.90,Signs,,0,0,0,,{\pos(976.49,810.97)\org(977.03,810.97)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.90,0:20:58.94,Signs,,0,0,0,,{\pos(975.76,810.77)\org(976.3,810.77)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.94,0:20:58.98,Signs,,0,0,0,,{\pos(974.92,811.05)\org(975.46,811.05)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:58.98,0:20:59.02,Signs,,0,0,0,,{\pos(973.99,811.82)\org(974.53,811.82)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.02,0:20:59.07,Signs,,0,0,0,,{\pos(973.93,812.62)\org(974.47,812.62)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.07,0:20:59.11,Signs,,0,0,0,,{\pos(973.49,813.34)\org(974.03,813.34)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.11,0:20:59.15,Signs,,0,0,0,,{\pos(973.04,814.06)\org(973.58,814.06)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.15,0:20:59.19,Signs,,0,0,0,,{\pos(972.68,814.73)\org(973.22,814.73)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.19,0:20:59.23,Signs,,0,0,0,,{\pos(972.39,815.34)\org(972.93,815.34)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.23,0:20:59.27,Signs,,0,0,0,,{\pos(972.16,816.03)\org(972.7,816.03)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.27,0:20:59.32,Signs,,0,0,0,,{\pos(972.13,816.56)\org(972.67,816.56)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.32,0:20:59.36,Signs,,0,0,0,,{\pos(972.15,817.08)\org(972.69,817.08)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.36,0:20:59.40,Signs,,0,0,0,,{\pos(972.2,817.45)\org(972.74,817.45)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.40,0:20:59.44,Signs,,0,0,0,,{\pos(972.42,817.8)\org(972.96,817.8)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.44,0:20:59.48,Signs,,0,0,0,,{\pos(972.71,818)\org(973.25,818)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.48,0:20:59.52,Signs,,0,0,0,,{\pos(973.04,818.14)\org(973.58,818.14)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.52,0:20:59.57,Signs,,0,0,0,,{\pos(973.56,818.13)\org(974.1,818.13)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.57,0:20:59.61,Signs,,0,0,0,,{\pos(974,818.08)\org(974.54,818.08)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.61,0:20:59.65,Signs,,0,0,0,,{\pos(974.39,817.86)\org(974.93,817.86)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.65,0:20:59.69,Signs,,0,0,0,,{\pos(974.73,817.59)\org(975.27,817.59)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.69,0:20:59.73,Signs,,0,0,0,,{\pos(975.05,817.27)\org(975.58,817.27)\fscx13.72\fscy19.28\frz13.34\fry-42.599\frx21.236\fax0.156\fnAveria Libre\c&H062D3E&\blur0.66}Ticket
+Dialogue: 0,0:20:59.70,0:20:59.74,<<folder>>,,0,0,0,,{=9}
+Dialogue: 0,0:00:44.02,0:00:44.07,<<folder>>,,0,0,0,,{=10}- Episode Title
+Dialogue: 0,0:00:44.02,0:00:47.03,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}36
+Dialogue: 0,0:00:44.02,0:00:47.03,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Dull Blade
+Dialogue: 0,0:23:49.99,0:23:50.03,<<folder>>,,0,0,0,,
+Dialogue: 0,0:23:49.99,0:23:55.04,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs69\c&H000000&\3c&H000000&\alpha&H20&\pos(960,762)}Next Episode
+Dialogue: 0,0:23:49.99,0:23:55.04,Signs,Next,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Next Episode
+Dialogue: 1,0:23:49.99,0:23:55.04,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs96\fsp-1\c&H000000&\3c&H000000&\alpha&H20&\pos(960,826)}Red Scale
+Dialogue: 1,0:23:49.99,0:23:55.04,Signs,Next,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\fsp-1\pos(960,826)}Red Scale
+Dialogue: 0,0:23:55.00,0:23:55.04,<<folder>>,,0,0,0,,{=11}
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1
 Data: 1,_aegi_folddata,e1;1;1
-Data: 6,_aegi_folddata,e0;1;2
-Data: 7,_aegi_folddata,e1;1;2
-Data: 10,_aegi_folddata,e0;1;3
-Data: 11,_aegi_folddata,e1;1;3
-Data: 14,_aegi_folddata,e0;1;4
-Data: 15,_aegi_folddata,e1;1;4
-Data: 16,_aegi_folddata,e0;1;5
-Data: 17,_aegi_folddata,e1;1;5
-Data: 22,_aegi_folddata,e0;0;3
-Data: 23,_aegi_folddata,e1;0;3
-Data: 26,_aegi_folddata,e0;1;6
-Data: 27,_aegi_folddata,e1;1;6
-Data: 28,_aegi_folddata,e0;0;6
-Data: 29,_aegi_folddata,e1;0;6
+Data: 2,_aegi_folddata,e0;1;2
+Data: 3,_aegi_folddata,e1;1;2
+Data: 4,_aegi_folddata,e0;0;2
+Data: 5,_aegi_folddata,e1;0;2
+Data: 6,_aegi_folddata,e0;1;3
+Data: 7,_aegi_folddata,e1;1;3
+Data: 8,_aegi_folddata,e0;1;4
+Data: 9,_aegi_folddata,e1;1;4
+Data: 10,_aegi_folddata,e0;1;5
+Data: 11,_aegi_folddata,e1;1;5
+Data: 12,_aegi_folddata,e0;0;5
+Data: 13,_aegi_folddata,e1;0;5
+Data: 14,_aegi_folddata,e0;0;1
+Data: 15,_aegi_folddata,e1;0;1
+Data: 16,_aegi_folddata,e0;0;3
+Data: 17,_aegi_folddata,e1;0;3
+Data: 18,_aegi_folddata,e0;0;4
+Data: 19,_aegi_folddata,e1;0;4
