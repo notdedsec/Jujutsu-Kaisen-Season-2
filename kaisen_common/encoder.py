@@ -3,7 +3,7 @@ from typing import Any, Dict, List, Tuple, Optional, Union
 
 from vapoursynth import VideoNode
 from vardautomation import (
-    X265, FFV1, PassthroughAudioEncoder, RunnerConfig, SelfRunner, FileInfo, MatroskaFile, MediaTrack,
+    X265, FFV1, QAACEncoder, RunnerConfig, SelfRunner, FileInfo, MatroskaFile, MediaTrack,
     EztrimCutter, FFmpegAudioExtracter, SlowPicsConf, VPath, make_comps, patch, JAPANESE
 )
 
@@ -34,7 +34,7 @@ class Encoder:
             v_lossless_encoder = FFV1(),
             a_extracters = FFmpegAudioExtracter(self.file, track_in=1, track_out=1),
             a_cutters = EztrimCutter(self.file, track=1),
-            a_encoders = PassthroughAudioEncoder(self.file, track=1),
+            a_encoders = QAACEncoder(self.file, track=1),
             mkv = out_mkv
         )
 
