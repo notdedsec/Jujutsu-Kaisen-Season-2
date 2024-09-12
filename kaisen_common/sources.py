@@ -70,6 +70,36 @@ class Source:
         'NCED4': VOLUME[3] / 'BDMV/STREAM/00010.m2ts',
     }
 
+    TRIMS = {
+        25: (None, -26),
+        26: (None, -27),
+        27: (None, -25),
+        28: (None, -26),
+        29: (None, -26),
+        30: (None, -26),
+        31: (None, -26),
+        32: (None, -25),
+        33: (None, -26),
+        34: (None, -25),
+        35: (None, -25),
+        36: (None, -25),
+        37: (None, -25),
+        38: (None, -25),
+        39: (None, -26),
+        40: (None, -25),
+        41: (None, -26),
+        42: (None, -27),
+        43: (None, -27),
+        44: (None, -24),
+        45: (None, -24),
+        46: (None, -24),
+        47: (None, -26),
+        'NCOP3': (None, -26),
+        'NCED3': (None, -26),
+        'NCOP4': (None, -26),
+        'NCED4': (None, -26),
+    }
+
 
     def __init__(self, episode: Optional[int] = None, bouns: Optional[str] = None):
         assert episode or bouns
@@ -78,10 +108,10 @@ class Source:
         self.sources = self.ROOT / str(episode) / 'sources'
 
         if bouns in self.BONUS and self.BONUS[bouns].exists():
-            self.FILE = FileInfo(self.BONUS[bouns], preset=[PresetBD, PresetAAC])
+            self.FILE = FileInfo(self.BONUS[bouns], trims_or_dfs=self.TRIMS[bouns], preset=[PresetBD, PresetAAC])
 
         if episode in self.EPISODE and self.EPISODE[episode].exists():
-            self.FILE = FileInfo(self.EPISODE[episode], preset=[PresetBD, PresetAAC])
+            self.FILE = FileInfo(self.EPISODE[episode], trims_or_dfs=self.TRIMS[episode], preset=[PresetBD, PresetAAC])
 
 
     def get_file(self):
