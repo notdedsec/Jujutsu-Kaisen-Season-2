@@ -59,7 +59,7 @@ Dialogue: 0,0:01:21.10,0:01:23.31,Default,Kokun,0,0,0,,Yeah... that's him.
 Dialogue: 0,0:01:33.28,0:01:35.78,Default,Announcer,0,0,0,,{\an8}All the boats are lining up.
 Dialogue: 0,0:01:35.78,0:01:39.04,Default,Announcer,0,0,0,,{\an8}Starting from the inside,\N we have Numbers 1, 2, 4, 5, 3, and 6.
 Dialogue: 0,0:01:39.04,0:01:41.79,Default,Announcer,0,0,0,,{\an8}They're off with a beautiful straight shot.
-Dialogue: 0,0:01:42.79,0:01:46.29,Default,Kong,0,0,0,,And just what are you doing here\N after disappearing on me all of a sudden?
+Dialogue: 0,0:01:42.79,0:01:46.29,Default,Kong,0,0,0,,And just what are you doing here\N after disappearing on me like that?
 Dialogue: 0,0:01:49.17,0:01:51.13,Default,Toji,0,0,0,,Making money.
 Dialogue: 0,0:01:51.76,0:01:54.68,Default,Kong,0,0,0,,I've never seen you win before.
 Dialogue: 0,0:01:55.14,0:01:56.64,Default,Kong,0,0,0,,What about work?
@@ -213,7 +213,7 @@ Dialogue: 0,0:10:33.40,0:10:37.62,Default,Toji,0,0,0,,No one can kill the Star P
 Dialogue: 0,0:10:37.62,0:10:38.95,Default,Kong,0,0,0,,Not even you?
 Dialogue: 0,0:10:47.88,0:10:49.88,Default,Announcer,0,0,0,,{\an8}Number 3, Kawano, is making a rushing comeback!
 Dialogue: 0,0:10:49.88,0:10:51.76,Default,Announcer,0,0,0,,{\an8}He's pulled into first place!
-Dialogue: 0,0:10:51.76,0:10:54.34,Default,Toji,0,0,0,,Who knows?
+Dialogue: 0,0:10:51.76,0:10:54.34,Default,Toji,0,0,0,,I guess we'll find out.
 Dialogue: 0,0:10:54.72,0:10:57.14,Default,Announcer,0,0,0,,{\an8}He's managed to take the lead twice now.{typeset this}
 Dialogue: 0,0:10:57.14,0:10:59.89,Default,Announcer,0,0,0,,{\an8}This race has been filled with ups and downs.{no, gtfo}
 Dialogue: 0,0:10:59.89,0:11:02.64,Default,Announcer,0,0,0,,{\an8}Can Number 3, Kawano, defend his position at the top?{nooooooooooo get lost, nobody cares!}{cope, seethe, mald}
@@ -227,8 +227,8 @@ Dialogue: 0,0:11:27.83,0:11:31.92,Default,Toji,0,0,0,,They can't kill the Star P
 Dialogue: 0,0:11:32.34,0:11:34.84,Default,Kong,0,0,0,,Putting a timer on it was a smart move.
 Dialogue: 0,0:11:35.26,0:11:37.47,Default,Kong,0,0,0,,Curse users are flocking to them.
 Dialogue: 0,0:11:37.97,0:11:39.89,Default,Toji,0,0,0,,That wasn't the only reason.
-Dialogue: 0,0:11:39.89,0:11:40.39,Default,Kong,0,0,0,,Eh?
-Dialogue: 0,0:11:41.89,0:11:43.18,Default,Toji,0,0,0,,Just talking to myself.
+Dialogue: 0,0:11:39.89,0:11:40.39,Default,Kong,0,0,0,,Yeah?
+Dialogue: 0,0:11:41.89,0:11:43.18,Default,Toji,0,0,0,,That's {\i1}my{\i0} business.
 Dialogue: 0,0:11:43.18,0:11:44.27,Default,Announcer,0,0,0,,{\an8}Look at that!
 Dialogue: 0,0:11:45.06,0:11:46.85,Default,Announcer,0,0,0,,{\an8}Number 3, Kawano, just lost his balance.
 Dialogue: 0,0:11:46.85,0:11:48.73,Default,Announcer,0,0,0,,{\an8}Number 2, Yamazaki, is passing him!
