@@ -270,7 +270,7 @@ Dialogue: 0,0:14:41.28,0:14:42.74,Default,Mechamaru,0,0,0,,I'm going to sleep fo
 Dialogue: 0,0:14:44.28,0:14:46.91,Default,Mechamaru,0,0,0,,Please take the notebook from my desk.
 Dialogue: 0,0:14:46.91,0:14:49.99,Default,Miwa,0,0,0,,Sleep? It's still only evening?
 Dialogue: 0,0:14:53.16,0:14:54.54,Default,Miwa,0,0,0,,Jeez!
-Dialogue: 0,0:14:58.92,0:15:00.63,Default,Miwa,0,0,0,,{\i1}He really did go to sleep.
+Dialogue: 0,0:14:58.92,0:15:00.63,Default,Miwa,0,0,0,,{\i1}He really did fall asleep.
 Dialogue: 0,0:15:00.63,0:15:03.42,Default,Miwa,0,0,0,,{\i1}I wonder where the real Mechamaru is.
 Dialogue: 0,0:15:05.22,0:15:09.89,Default,Utahime,0,0,0,,The real Mechamaru, Muta Kokichi, is in this basement.
 Dialogue: 0,0:15:10.81,0:15:15.14,Default,Utahime,0,0,0,,Now, it's not that he is suspicious, \Nit's more like no one else is.
@@ -366,4 +366,4 @@ Dialogue: 0,0:23:44.03,0:23:48.78,Default,Miwa,0,0,0,,{\an8}I wrote out what typ
 Dialogue: 0,0:23:48.78,0:23:50.33,Default,Miwa,0,0,0,,{\an8}Next episode, Evening Festival!
 Dialogue: 0,0:23:50.33,0:23:51.45,Default,Mai,0,0,0,,{\an8}What did you write down?
 Dialogue: 0,0:23:51.45,0:23:52.66,Default,Miwa,0,0,0,,{\an8}Mittermeyer. {from LOGH??}
-Dialogue: 0,0:23:52.66,0:23:54.75,Default,Mai,0,0,0,,{\an8}Sure got that fast-runner vibe. {cause elementary school girls like fast guys}
+Dialogue: 0,0:23:52.66,0:23:54.75,Default,Mai,0,0,0,,{\an8}Bet he was the fastest kid in class. {cause elementary school girls like fast guys}
