@@ -181,11 +181,11 @@ Dialogue: 0,0:11:47.94,0:11:48.94,Default,Uraume,0,0,0,,Yes.
 Dialogue: 0,0:11:48.94,0:11:54.44,Default,Uraume,0,0,0,,Please continue patrolling the outside of the Veil \Nand hunt down any humans in suits.
 Dialogue: 0,0:11:54.44,0:11:56.03,Default,Shigemo,0,0,0,,You got it!
 Dialogue: 0,0:11:56.03,0:11:58.20,Default,Shigemo,0,0,0,,I can go inside once I'm done, right?
-Dialogue: 0,0:12:02.83,0:12:05.16,Default,Mahito,0,0,0,,So what's the deal here? {What's this? What's going on?}
-Dialogue: 0,0:12:05.66,0:12:08.00,Default,Geto,0,0,0,,The sealing is complete.
-Dialogue: 0,0:12:08.00,0:12:13.92,Default,Geto,0,0,0,,However, the Prison Realm \Nhas yet to finish processing Gojo Satoru.
-Dialogue: 0,0:12:14.42,0:12:17.38,Default,Geto,0,0,0,,We won't be able to move it for some time.
-Dialogue: 0,0:12:27.18,0:12:28.19,Default,Geto,0,0,0,,{\pos(999,1020)}They got one over on us.
+Dialogue: 0,0:12:02.83,0:12:05.16,Default,Mahito,0,0,0,,{\c&HF6FBF4&}So what's the deal here? {What's this? What's going on?}
+Dialogue: 0,0:12:05.66,0:12:08.00,Default,Geto,0,0,0,,{\c&HF6FBF4&}The sealing is complete.
+Dialogue: 0,0:12:08.00,0:12:13.92,Default,Geto,0,0,0,,{\c&HF6FBF4&}However, the Prison Realm \Nhas yet to finish processing Gojo Satoru.
+Dialogue: 0,0:12:14.42,0:12:17.38,Default,Geto,0,0,0,,{\c&HF6FBF4&}We won't be able to move it for some time.
+Dialogue: 0,0:12:27.18,0:12:28.19,Default,Geto,0,0,0,,{\c&HF6FBF4&\pos(999,1020)}They got one over on us.
 Dialogue: 0,0:12:29.69,0:12:31.56,Default,Mechamaru,0,0,0,,{\an8}Itadori, good news!
 Dialogue: 0,0:12:31.56,0:12:32.19,Default,Yuji,0,0,0,,{\an8}Yeah?
 Dialogue: 0,0:12:32.19,0:12:35.94,Default,Mechamaru,0,0,0,,{\an8}They can't move Gojo from where he was sealed. { on B5}
