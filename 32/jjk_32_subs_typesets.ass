@@ -52,7 +52,7 @@ Dialogue: 0,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(400,0)\blur0.6\c&HFB
 Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\blur0.6\fnAribau Grotesk\fs54\fscx100\c&H000000&\pos(231,808.5)}Team Mei Mei
 Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\an4\blur0.6\fnAribau Grotesk\fs54\fscx100\c&H000000&\pos(435,808.5)}Mei Mei, First-Grade Sorcerer
 Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\an4\blur0.6\fnAribau Grotesk\fs54\fscx100\c&H000000&\pos(435,899)}Ui Ui
-Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\an4\blur0.6\fnAribau Grotesk\fs54\fscx100\c&H000000&\pos(435,989.5)}Itadori Yuji  (Promotion Evaluation On Hold) {consistency with ep 31}
+Dialogue: 3,0:01:33.28,0:01:41.08,Signs,Screen,0,0,0,,{\fad(500,0)\an4\blur0.6\fnAribau Grotesk\fs54\fscx100\c&H000000&\pos(435,989.5)}Itadori Yuji (Promotion Evaluation On Hold) {consistency with ep 31}
 Dialogue: 0,0:01:41.04,0:01:41.08,<<folder>>,,0,0,0,,
 Dialogue: 0,0:02:18.12,0:02:18.16,<<folder>>,,0,0,0,,- Shibuya Platform
 Dialogue: 0,0:02:18.12,0:02:20.50,Signs,Screen,0,0,0,,{\fad(0,400)\blur0.6\c&HEAE8DD&\pos(693,859)\b1\p1}m 0 0 l 306 0 306 98 0 98
