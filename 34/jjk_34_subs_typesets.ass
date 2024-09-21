@@ -227,17 +227,17 @@ Dialogue: 0,0:11:03.85,0:11:03.89,<<folder>>,,0,0,0,,{=6}
 Dialogue: 0,0:11:16.41,0:11:25.29,<<folder>>,,0,0,0,,{=7}- Last Message
 Dialogue: 0,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an7\c&HFEFEFE&\blur1\p1\pos(1366.89,571.83)\1a&H7F&\b1}m 519.57 -33.26 b 524.76 -32.94 528.55 -29.23 528.94 -24.03 l 528.94 480.64 528.9 481.45 b 528.35 486.31 524.66 489.71 519.84 490.13 l 5.49 490.14 4.68 490.1 b -0.18 489.55 -3.58 485.86 -4 481.04 l -4.01 -23.76 -3.97 -24.57 b -3.42 -29.42 0.27 -32.83 5.09 -33.25 l 519.44 -33.26
 Dialogue: 1,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an7\c&HFCFBE0&\p1\blur0.7\pos(1644.38,632.22)\1a&H33&\b1}m 222.82 -78.12 b 227.92 -77.73 231.9 -74.11 232.16 -68.87 l 232.16 68.65 232.15 69.44 b 231.59 74.26 227.91 77.76 223.09 78.11 l -231.07 78.15 -231.88 78.11 b -236.65 77.46 -240.26 73.94 -240.56 69.05 l -240.57 -68.62 -240.53 -69.43 b -240.09 -74.29 -236.22 -77.69 -231.47 -78.11 l 222.66 -78.12 m 229.48 -69.04 l 243.06 -75.39 230.36 -58.25
-Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\c&H787878&\fnBlogger Sans\fs35\fscx104\blur0.7\pos(1418,630)}We're moving inside the veil to protect \Nthe civilians and will be unreachable. \NThe assistant supervisors there will \Nhandle the follow-up communications.
+Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\c&H787878&\fnBlogger Sans\fs35\fscx104\blur0.7\pos(1418,630)}They're moving in to breach the Veil\N and rescue civilians. Since they will be\N unreachable, the assistant supervisors\N must handle all communications.
 Dialogue: 1,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\c&HEBEDED&\blur0.7\p1\pos(1381.55,783.5)\1a&H33&\fscx137.4\b1}m 303.07 0 b 308.26 0.26 312.06 4.09 312.44 9.24 l 312.44 83.44 312.4 84.25 b 311.8 89.07 308.19 92.57 303.33 92.93 l 9.49 92.94 8.69 92.91 b 3.83 92.3 0.42 88.7 0 83.84 l -0.01 9.5 0.03 8.7 b 0.64 3.84 4.24 0.43 9.1 0 l 302.94 0
 Dialogue: 1,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an7\c&HEBEDED&\blur0.7\p1\pos(1557.38,783.5)\1a&H33&\b1}m -173.94 -35.14 l -185.08 -44.87 -174.36 -22.87 -173.8 -21.46
-Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\c&H787878&\fnBlogger Sans\fs35\blur0.7\fscx104\pos(1393.24,780.7)}Sakai, Misumi, and Urita will arrive\N in 30 minutes.
+Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\c&H787878&\fnBlogger Sans\fs35\blur0.7\fscx104\pos(1393.24,780.7)}I'll get Sakai, Misumi, and Uritan\N here in 30 minutes.
 Dialogue: 1,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an7\c&HFCFBE0&\p1\pos(1644.38,934.5)\1a&H33&\b1}m 222.81 -78.12 b 227.92 -77.74 231.9 -74.11 232.16 -68.87 l 232.16 -4.12 232.14 -3.32 b 231.58 1.49 227.91 4.99 223.08 5.35 l -177.92 5.38 -178.73 5.34 b -183.5 4.69 -187.1 1.17 -187.4 -3.72 l -187.42 -68.62 -187.37 -69.43 b -186.93 -74.29 -183.07 -77.69 -178.32 -78.11 l 222.66 -78.12 m 229.48 -69.04 l 243.05 -75.39 230.35 -58.25
-Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\c&H787878&\fnBlogger Sans\fs35\blur0.7\fscx104\pos(1470,895.82)}Thank you. Have them on standby \Noutside the veil.
+Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\c&H787878&\fnBlogger Sans\fs35\blur0.7\fscx104\pos(1470,895.82)}Thank you. Have them on standby \Noutside the Veil.
 Dialogue: 1,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an7\c&HEBEDED&\blur0.7\p1\pos(1557.38,1042.93)\1a&H33&\b1}m 307.25 -46.46 b 312.44 -46.2 316.24 -42.38 316.62 -37.23 l 316.62 -9.53 316.58 -8.72 b 315.98 -3.9 312.37 -0.4 307.51 -0.04 l -166.34 -0.03 -167.14 -0.06 b -172 -0.67 -175.41 -4.27 -175.83 -9.13 l -175.84 -36.96 -175.8 -37.77 b -175.19 -42.63 -171.59 -46.04 -166.73 -46.46 l 307.12 -46.46
 Dialogue: 1,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an7\c&HFEFEFE&\blur20\p1\fscx200\fscy200\clip(m 1864.63 454.23 b 1869.82 454.49 1873.62 458.31 1874 463.46 l 1874 533.55 1873.96 534.36 b 1873.36 539.18 1869.75 542.68 1864.89 543.04 l 1391.04 543.05 1390.24 543.02 b 1385.38 542.41 1381.97 538.81 1381.55 533.95 l 1381.54 463.73 1381.58 462.92 b 1382.19 458.06 1385.79 454.65 1390.65 454.23 l 1864.5 454.23)\pos(1947.33,1063.08)\1a&H33&\b1}m 307.25 -46.46 b 312.44 -46.2 316.24 -42.38 316.62 -37.23 l 316.62 -9.53 316.58 -8.72 b 315.98 -3.9 312.37 -0.4 307.51 -0.04 l -166.34 -0.03 -167.14 -0.06 b -172 -0.67 -175.41 -4.27 -175.83 -9.13 l -175.84 -36.96 -175.8 -37.77 b -175.19 -42.63 -171.59 -46.04 -166.73 -46.46 l 307.12 -46.46
-Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\c&H787878&\fnBlogger Sans\fs35\an4\blur0.7\fscx104\pos(1394,1016.44)}The rest will go inside
-Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\fscx104\fscy111\fnBlogger Sans\fs35\c&HE8BCA4&\blur0.7\pos(1657,1016.4)}|
-Dialogue: 2,0:11:17.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\pos(1657,1016.4)\fscx104\fscy111\fnBlogger Sans\fs35\c&HE8BCA4&\blur0.7}|
+Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\c&H787878&\fnBlogger Sans\fs35\an4\blur0.7\fscx104\pos(1394,1018)}Furthermore, inside the Veil
+Dialogue: 2,0:11:16.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\fscx104\fscy111\fnBlogger Sans\fs35\c&HE8BCA4&\blur0.7\pos(1717,1017)}|
+Dialogue: 2,0:11:17.41,0:11:18.41,Signs,Phone,0,0,0,,{\fad(0,399)\an4\fscx104\fscy111\fnBlogger Sans\fs35\c&HE8BCA4&\blur0.7\pos(1717,1017)}|
 Dialogue: 0,0:11:25.25,0:11:25.29,<<folder>>,,0,0,0,,{=8}
 Dialogue: 2,0:20:42.01,0:20:42.05,<<folder>>,,0,0,0,,{=9}- The Honored One
 Dialogue: 0,0:20:48.39,0:20:48.43,Signs,Our topic,0,0,0,,{\pos(960,-34.33)\fnMuscleheadITC TT\fs75\c&HE3E287&\blur0.9}Throughout Heaven and Earth, I Alone Am the Honored One
@@ -473,3 +473,5 @@ Data: 25,_aegi_folddata,e0;1;1
 Data: 26,_aegi_folddata,e1;1;1
 Data: 29,_aegi_folddata,e0;0;2
 Data: 30,_aegi_folddata,e1;0;2
+Data: 31,_aegi_folddata,e0;0;5
+Data: 32,_aegi_folddata,e1;0;5
