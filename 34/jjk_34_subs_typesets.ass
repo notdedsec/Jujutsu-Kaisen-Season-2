@@ -20,9 +20,9 @@ Audio File: jjk_34_premux.mkv
 Video File: jjk_34_premux.mkv
 Keyframes File: jjk_34_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 208
-Video Position: 29969
+Video Zoom Percent: 0.750000
+Active Line: 48
+Video Position: 15870
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -72,10 +72,10 @@ Dialogue: 0,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an7\blur5\fscx100\fscy10
 Dialogue: 0,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an7\blur5\fscx100\fscy100\c&HF1EEE5&\pos(0,0)\p1\b1}m 552.38 846.14 l 914.52 846.14 914.52 1001.38 552.38 1001.38 552.38 926.1
 Dialogue: 0,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an7\blur5\fscx100\fscy100\c&HFBF5EF&\pos(0,0)\p1\b1}m 783.74 466.73 l 1158.48 466.73 1158.48 582.76 1144.92 615.53 1045.12 609.88 931.14 614.51 810.25 609.9 782.99 585.82
 Dialogue: 1,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an7\blur0.8\fscx100\fscy100\c&HF9A01F&\pos(0,0)\p1\b1}m 987.46 407.39 l 1066.56 377.89 1135.62 560.87 1056.52 591 1077.55 647.5 973.03 686.42 952.62 630.24 793.49 689.87 771.52 630.24 886.4 586.29 857.52 507.52 1004.73 453.22
-Dialogue: 1,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an4\pos(699.8,132.75)\fscx96\fnAribau Grotesk\fs40\c&H202020&\blur0.7}Shin-toshin Line\N{\b1\blur0.8}Meiji-jingumae Station
-Dialogue: 1,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an4\pos(1468.55,235.15)\fscx96\fnAribau Grotesk\fs36\c&H202020&\blur0.7}Fukubumon Line \N{\b1\blur0.8}Omotesando Station
-Dialogue: 1,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an4\fscx96\fnAribau Grotesk\fs36\c&H202020&\blur0.7\pos(1512.2,578.4)}Seiyoko Line \N{\b1\blur0.8}Daikanyama Station
-Dialogue: 1,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an4\fscx96\fnAribau Grotesk\fs40\c&H202020&\blur0.7\pos(586.9,923.25)}Den-en-toshin Line \N{\b1\blur0.8}Ikejiri-ohashi Station
+Dialogue: 1,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an4\blur0.7\fnAribau Grotesk\fs40\fscx96\c&H202020&\pos(699.8,132.75)}Shin-toshin Line\N{\b1}Meiji-jingumae Station
+Dialogue: 1,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an4\blur0.7\fnAribau Grotesk\fs36\fscx96\c&H202020&\pos(1468.55,235.15)}Fukubumon Line \N{\b1}Omotesando Station
+Dialogue: 1,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an4\blur0.7\fnAribau Grotesk\fs36\fscx96\c&H202020&\pos(1512.2,578.4)}Seiyoko Line \N{\b1}Daikanyama Station
+Dialogue: 1,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\an4\blur0.7\fnAribau Grotesk\fs40\fscx96\c&H202020&\pos(586.9,923.25)}Den-en-toshin Line \N{\b1}Ikejiri-ohashi Station
 Dialogue: 2,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\blur0.7\bord2.8\fnAribau Grotesk\fs60\c&H31312F&\3c&H31312F&\pos(985.57,554.43)\b1}Shibuya Station
 Dialogue: 3,0:12:46.45,0:12:49.96,Signs,Layout,0,0,0,,{\blur0.7\fnAribau Grotesk\fs60\c&HFBF5EF&\pos(985.57,554.43)\b1}Shibuya Station
 Dialogue: 0,0:12:49.92,0:12:49.96,<<folder>>,,0,0,0,,{=3}
@@ -471,3 +471,5 @@ Data: 13,_aegi_folddata,e0;0;1
 Data: 14,_aegi_folddata,e1;0;1
 Data: 25,_aegi_folddata,e0;1;1
 Data: 26,_aegi_folddata,e1;1;1
+Data: 29,_aegi_folddata,e0;0;2
+Data: 30,_aegi_folddata,e1;0;2
