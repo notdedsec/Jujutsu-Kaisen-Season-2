@@ -226,8 +226,8 @@ Dialogue: 0,0:15:18.98,0:15:20.19,Default,Choso,0,0,0,,Not my problem.
 Dialogue: 0,0:15:23.78,0:15:26.03,Default,Mahito,0,0,0,,Jogo, calm down.
 Dialogue: 0,0:15:29.91,0:15:32.54,Default,Mahito,0,0,0,,Honestly, I wanna kill Itadori too!
 Dialogue: 0,0:15:32.54,0:15:34.66,Default,Jogo,0,0,0,,Mahito! Explain yourself!
-Dialogue: 0,0:15:35.00,0:15:38.29,Default,Mahito,0,0,0,,After seeing Gojo Satoru in person,\Nnow that he's been sealed,
-Dialogue: 0,0:15:38.29,0:15:42.30,Default,Mahito,0,0,0,,I'd say the sorcerers and cursed spirits\N are evenly matched.
+Dialogue: 0,0:15:35.00,0:15:38.29,Default,Mahito,0,0,0,,Here's what I think after seeing \NGojo Satoru in person.
+Dialogue: 0,0:15:38.29,0:15:42.30,Default,Mahito,0,0,0,,Now that he's been sealed, sorcerers and \Ncursed spirits are evenly matched.
 Dialogue: 0,0:15:42.30,0:15:45.26,Default,Mahito,0,0,0,,Sukuna's resurrection gives us an \Noverwhelming advantage.
 Dialogue: 0,0:15:45.26,0:15:47.22,Default,Mahito,0,0,0,,It basically guarantees victory, right?
 Dialogue: 0,0:15:47.22,0:15:48.80,Default,Geto,0,0,0,,Yes, that is true.
@@ -252,7 +252,7 @@ Dialogue: 0,0:16:56.16,0:16:58.16,Default,Mahito,0,0,0,,That's what it means to 
 Dialogue: 0,0:16:58.54,0:17:02.50,Default,Mahito,0,0,0,,Oh, when I said you were wrong,\N that was about the nature of us curses.
 Dialogue: 0,0:17:02.50,0:17:04.92,Default,Mahito,0,0,0,,I agree resurrecting Sukuna is\N a legitimate strategy.
 Dialogue: 0,0:17:04.92,0:17:07.05,Default,Mahito,0,0,0,,I don't wanna fight you over it.
-Dialogue: 0,0:17:07.05,0:17:09.68,Default,Mahito,0,0,0,,So how about we play a game?
+Dialogue: 0,0:17:07.05,0:17:09.68,Default,Mahito,0,0,0,,How about we settle this with a game?
 Dialogue: 0,0:17:09.68,0:17:13.93,Default,Mahito,0,0,0,,If I run into Itadori first, I'll kill him.
 Dialogue: 0,0:17:14.39,0:17:18.68,Default,Mahito,0,0,0,,If you find him first, you can give him the fingers\N and let Sukuna regain his power.
 Dialogue: 0,0:17:18.68,0:17:21.81,Default,Choso,0,0,0,,And if I find him first, I kill him. That okay?
@@ -263,8 +263,8 @@ Dialogue: 0,0:17:26.86,0:17:29.57,Default,Mahito,0,0,0,,If Geto had to pick,\N h
 Dialogue: 0,0:17:29.57,0:17:30.95,Default,Mahito,0,0,0,,Am I right? {lit: What are you gonna do?}
 Dialogue: 0,0:17:30.95,0:17:33.95,Default,Geto,0,0,0,,I need to stay here and\N watch over the Prison Realm.
 Dialogue: 0,0:17:33.95,0:17:35.87,Default,Geto,0,0,0,,I'm afraid I'll have to abstain.
-Dialogue: 0,0:17:37.45,0:17:39.50,Default,Geto,0,0,0,,You can do as you wish.
-Dialogue: 0,0:17:39.50,0:17:44.46,Default,Geto,0,0,0,,Sukuna was just an alternative to me\Nif the Prison Realm failed.
+Dialogue: 0,0:17:37.45,0:17:39.16,Default,Geto,0,0,0,,You can do as you wish.
+Dialogue: 0,0:17:39.54,0:17:44.46,Default,Geto,0,0,0,,Sukuna was just my backup plan\N in case the Prison Realm failed.
 Dialogue: 0,0:17:44.46,0:17:46.21,Default,Jogo,0,0,0,,This is ridiculous.
 Dialogue: 0,0:17:46.21,0:17:50.97,Default,Jogo,0,0,0,,All the sorcerers, including Itadori,\N will be heading this way to rescue Gojo.
 Dialogue: 0,0:17:50.97,0:17:53.09,Default,Jogo,0,0,0,,We just need to wait here.
