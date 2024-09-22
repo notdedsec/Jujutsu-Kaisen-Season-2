@@ -77,9 +77,10 @@ Dialogue: 0,0:04:44.39,0:04:46.43,Default,Mechamaru,0,0,0,,Sorry, but I don't ha
 Dialogue: 0,0:04:46.43,0:04:50.02,Default,Mechamaru,0,0,0,,If I must provide something, it's the very fact that I'm here.
 Dialogue: 0,0:04:50.44,0:04:56.11,Default,Mechamaru,0,0,0,,I was killed on October 19th by the\N special-grade cursed spirit called Mahito.
 Dialogue: 0,0:04:56.11,0:05:00.03,Default,Mechamaru,0,0,0,,What I am now is just an insurance\N I planned when I was still alive.
-Dialogue: 0,0:05:00.03,0:05:06.87,Default,Mechamaru,0,0,0,,Since it's a complex insurance, I had to set its\N condition for activation to Gojo Satoru being sealed. {"complex insurance" means... something else entirely but}
-Dialogue: 0,0:05:06.87,0:05:13.04,Default,Mechamaru,0,0,0,,I even sneaked these puppets into three locations\Nto counter the risk of a malfunction.
-Dialogue: 0,0:05:13.04,0:05:19.05,Default,Mechamaru,0,0,0,,Out of all the sorcerers at Jujutsu Tech,\N Itadori Yuji was least likely to be the mole.
+Dialogue: 0,0:05:00.03,0:05:01.91,Default,Mechamaru,0,0,0,,It's an elaborate one, too.
+Dialogue: 0,0:05:01.91,0:05:06.87,Default,Mechamaru,0,0,0,,I had to set its condition for activation\N to Gojo Satoru being sealed. {"complex insurance" means... something else entirely but} {this line is stil a bit awkward} {better}
+Dialogue: 0,0:05:06.87,0:05:13.04,Default,Mechamaru,0,0,0,,To counter the risk of a malfunction,\N I sneaked these puppets into three locations.
+Dialogue: 0,0:05:13.04,0:05:19.05,Default,Mechamaru,0,0,0,,Itadori Yuji was the least likely to be a mole\N out of all the sorcerers at Jujutsu Tech. {he himself is the mole so why is he suspecting others?} {we may never know... but we can make it "a mole" instead of "the mole" implying there could be other moles}
 Dialogue: 0,0:05:19.55,0:05:24.60,Default,Mechamaru,0,0,0,,And Mei Mei, given the situation,\N I'm now certain that you can be trusted too.
 Dialogue: 0,0:05:24.60,0:05:25.56,Default,Mei,0,0,0,,Why is that?
 Dialogue: 0,0:05:26.89,0:05:30.52,Default,Mechamaru,0,0,0,,Because instead of having you \Ngather intel from the shadows in Shibuya,
@@ -162,7 +163,7 @@ Dialogue: 0,0:10:14.64,0:10:18.31,Default,Fushiguro,0,0,0,,It's been some time s
 Dialogue: 0,0:10:18.31,0:10:20.18,Default,Fushiguro,0,0,0,,Why deploy it now?
 Dialogue: 0,0:10:20.18,0:10:22.56,Default,Nanami,0,0,0,,Either something has happened inside
 Dialogue: 0,0:10:22.56,0:10:26.19,Default,Nanami,0,0,0,,or they were waiting for this moment\N as part of their strategy.
-Dialogue: 0,0:10:26.56,0:10:32.07,Default,Nanami,0,0,0,,What I can say for certain is\N they wouldn't move without a plan.
+Dialogue: 0,0:10:26.56,0:10:32.07,Default,Nanami,0,0,0,,What I can say for certain is that\N they're not ones to move without a plan.
 Dialogue: 0,0:10:32.61,0:10:35.36,Default,Nanami,0,0,0,,I'll focus on the enemies who lowered the Veils.
 Dialogue: 0,0:10:35.36,0:10:38.62,Default,Nanami,0,0,0,,You two do your best to rescue the civilians.
 Dialogue: 0,0:10:52.55,0:10:54.59,Default,Ijichi,0,0,0,,Yes, understood.
