@@ -80,7 +80,8 @@ Dialogue: 0,0:02:57.41,0:03:00.24,Default,Fushiguro,0,0,0,,It won't let us open 
 Dialogue: 0,0:03:10.88,0:03:12.21,Default,Naobito,0,0,0,,Toji!
 Dialogue: 0,0:03:13.59,0:03:18.01,Default,Narrator,0,0,0,,Granny Ogami's seance technique\N continued even after her death.
 Dialogue: 0,0:03:18.64,0:03:24.68,Default,Narrator,0,0,0,,It should have ceased once her grandson,\N the vessel, ran out of cursed energy.
-Dialogue: 0,0:03:27.73,0:03:36.70,Default,Narrator,0,0,0,,The soul overwritten by Zenin Toji's body never had any\N cursed energy, and his body never consumed any.
+Dialogue: 0,0:03:27.73,0:03:32.82,Default,Narrator,0,0,0,,The soul overwritten by Zenin Toji's body\N never had any cursed energy
+Dialogue: 0,0:03:32.82,0:03:36.70,Default,Narrator,0,0,0,,and his body never consumed any.
 Dialogue: 0,0:03:37.61,0:03:41.03,Default,Narrator,0,0,0,,Her technique had lost its chance to terminate.
 Dialogue: 0,0:03:41.83,0:03:46.71,Default,Narrator,0,0,0,,The compounding irregularities\N left her technique running rampant.
 Dialogue: 0,0:03:47.25,0:03:52.96,Default,Narrator,0,0,0,,Zenin Toji would now fight on instinct\N until the vessel broke.
@@ -160,7 +161,7 @@ Dialogue: 0,0:15:35.58,0:15:37.67,Default,Jogo,0,0,0,,You're wasting my time!
 Dialogue: 0,0:15:44.55,0:15:46.09,Default,Sukuna,0,0,0,,I'll give you one second.
 Dialogue: 0,0:15:48.47,0:15:49.60,Default,Sukuna,0,0,0,,Move.
 Dialogue: 0,0:15:56.77,0:15:58.60,Default,Jogo,0,0,0,,{\i1}This is Sukuna...
-Dialogue: 0,0:15:59.35,0:16:04.36,Default,Jogo,0,0,0,,{\i1}Strength that rivals Gojo Satoru,\N except overwhelming evil!
+Dialogue: 0,0:15:59.35,0:16:04.36,Default,Jogo,0,0,0,,{\i1}Strength that rivals Gojo Satoru, except overwhelming evil!
 Dialogue: 0,0:16:04.69,0:16:09.62,Default,Jogo,0,0,0,,{\i1}Fear that even the slightest move could mean death!
 Dialogue: 0,0:16:11.91,0:16:13.20,Default,Nanako,0,0,0,,{\i1}Breathe!
 Dialogue: 0,0:16:13.20,0:16:15.12,Default,Nanako,0,0,0,,{\i1}Breathe, breathe!
