@@ -78,7 +78,7 @@ Dialogue: 0,0:05:18.09,0:05:19.72,Default,Geto,0,0,0,,Not bad.
 Dialogue: 0,0:05:20.38,0:05:22.97,Default,Geto,0,0,0,,At least for a sorcerer of this era. {> sorcerers these days}
 Comment: 0,0:05:25.97,0:05:26.01,Default,chptr,0,0,0,,{Opening}
 Comment: 0,0:06:55.98,0:06:56.02,Default,chptr,0,0,0,,{Part A}
-Dialogue: 0,0:06:56.44,0:06:59.61,Default,Naobito,0,0,0,,Gojo Satoru has been sealed, huh?
+Dialogue: 0,0:06:56.44,0:06:59.61,Default,Naobito,0,0,0,,Gojo Satoru has been sealed, is it?
 Dialogue: 0,0:06:59.61,0:07:01.73,Default,Naobito,0,0,0,,I can hardly believe it. {I feel like I've been bushwhacked.}
 Dialogue: 0,0:07:01.73,0:07:03.49,Default,Nanami,0,0,0,,Me, too.
 Dialogue: 0,0:07:03.49,0:07:07.74,Default,Nanami,0,0,0,,However, even if he is a fake, Geto{**-san} is involved.
@@ -97,7 +97,7 @@ Dialogue: 0,0:07:45.70,0:07:49.07,Default,Nanami,0,0,0,,{\i1}Being alone couldn'
 Dialogue: 0,0:08:00.67,0:08:01.59,Default,Maki,0,0,0,,{*}Mr. Nanami{*Nanami-san}.
 Dialogue: 0,0:08:02.13,0:08:02.80,Default,Nanami,0,0,0,,Yes.
 Dialogue: 0,0:08:10.59,0:08:11.80,Default,Nanami,0,0,0,,I'll take this one.
-Dialogue: 0,0:08:21.06,0:08:27.11,Default,Naobito,0,0,0,,You two are a little too slow.
+Dialogue: 0,0:08:21.06,0:08:27.11,Default,Naobito,0,0,0,,You two are a tad too slow.
 Dialogue: 0,0:08:36.12,0:08:37.50,Default,Maki,0,0,0,,Did you see what happened?
 Dialogue: 0,0:08:37.91,0:08:38.71,Default,Nanami,0,0,0,,No.
 Dialogue: 0,0:08:39.46,0:08:41.71,Default,Nanami,0,0,0,,{\i1}It must be his technique.
@@ -137,7 +137,7 @@ Dialogue: 0,0:12:04.87,0:12:05.79,Default,Maki,0,0,0,,{\i1}Shit!
 Dialogue: 0,0:12:06.12,0:12:08.58,Default,Maki,0,0,0,,{\i1}If the old man hadn't used his technique,
 Dialogue: 0,0:12:08.58,0:12:10.79,Default,Maki,0,0,0,,{\i1}I would have died there.
 Dialogue: 0,0:12:11.88,0:12:13.13,Default,Maki,0,0,0,,{\i1}It's humiliating.
-Dialogue: 0,0:12:13.38,0:12:15.71,Default,Naobito,0,0,0,,A defensive barrier of water, huh?
+Dialogue: 0,0:12:13.38,0:12:15.71,Default,Naobito,0,0,0,,A defensive barrier of water, is it?
 Dialogue: 0,0:12:15.71,0:12:18.80,Default,Naobito,0,0,0,,And you can use it alongside strong attacks?
 Dialogue: 0,0:12:18.80,0:12:22.89,Default,Naobito,0,0,0,,You have too much cursed energy and \Nyou're still hiding techniques up your sleeve.
 Dialogue: 0,0:12:22.89,0:12:24.93,Default,Naobito,0,0,0,,So what should I do?
