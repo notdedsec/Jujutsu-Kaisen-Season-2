@@ -20,10 +20,10 @@ Audio File: jjk_41_premux.mkv
 Video File: jjk_41_premux.mkv
 Keyframes File: jjk_41_keyframes.txt
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 152
-Active Line: 156
-Video Position: 34351
+Video Zoom Percent: 1.000000
+Scroll Position: 132
+Active Line: 135
+Video Position: 27946
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,8 +85,8 @@ Dialogue: 0,0:03:52.75,0:03:54.01,Default,Shigemo,0,0,140,,{\i1}He's starting th
 Dialogue: 0,0:03:54.01,0:03:58.18,Default,Shigemo,0,0,140,,{\i1}Forcing me to participate in the damn thing with him!
 Dialogue: 0,0:03:58.89,0:04:03.18,Default,Fushiguro,0,0,140,,Eight-Handled Sword\N Divergent Sila Divine General
 Dialogue: 0,0:04:04.06,0:04:05.22,Default,Fushiguro,0,0,140,,Mahoraga. {its insane how that's his whole name, no commas no colon in bw}
-Dialogue: 0,0:04:17.61,0:04:18.61,Default,Fushiguro,0,0,140,,{\an8}See you later.
-Dialogue: 0,0:04:19.07,0:04:19.95,Default,Yuji,0,0,140,,{\an8}Right!
+Dialogue: 0,0:04:17.61,0:04:18.61,Default,Fushiguro,0,0,140,,{\an8\1a&H20&}See you later.
+Dialogue: 0,0:04:19.07,0:04:19.95,Default,Yuji,0,0,140,,{\an8\1a&H20&}Right!
 Dialogue: 0,0:04:21.07,0:04:22.99,Default,Fushiguro,0,0,140,,{\i1}Sorry, Itadori.
 Dialogue: 0,0:04:23.95,0:04:25.95,Default,Fushiguro,0,0,140,,Hey, asshole! {let's call him what he is}
 Dialogue: 0,0:04:26.70,0:04:28.46,Default,Fushiguro,0,0,140,,Good luck dealing with this shit.
@@ -156,7 +156,7 @@ Dialogue: 0,0:17:46.00,0:17:47.63,Default,A,0,0,140,,Nope. No signal.
 Dialogue: 0,0:17:47.63,0:17:48.46,Default,Keiko,0,0,140,,Same.
 Dialogue: 0,0:17:49.05,0:17:52.38,Default,A,0,0,140,,I don't think we need to worry too much, though.
 Dialogue: 0,0:17:52.38,0:17:52.97,Default,Keiko,0,0,140,,Oh?
-Dialogue: 1,0:17:53.64,0:17:55.80,Default,A,0,0,140,,{\fad(0,100)\t(725,1142,\1a&H70&)\t(1225,1601,\1a&H30&)}Remember what the megaphone guy said? {He should be---} {idk why this was here}
+Dialogue: 1,0:17:53.64,0:17:55.85,Default,A,0,0,140,,{\fad(0,100)\t(725,1142,\1a&H70&)\t(1425,1601,\1a&H40&)}Remember what the megaphone guy said? {He should be---} {idk why this was here}
 Dialogue: 0,0:17:59.02,0:18:01.77,Default,Narrator,0,0,140,,Sukuna's slices are comprised of two types.
 Dialogue: 0,0:18:01.77,0:18:06.94,Default,Narrator,0,0,140,,Within his sure-hit range, he uses\N Cleave for objects that possess cursed energy,
 Dialogue: 0,0:18:06.94,0:18:09.48,Default,Narrator,0,0,140,,and Dismantle for objects that do not. {the idea is that this is a temporary configuration and it only applies to his domain. the techniques don't work like this outside of it. dismantle is the base technique that works by projecting slashes outwards to cut anything in its way and loses effectiveness as it goes further out. cleave is an extension of dismantle which is more focused, requires contact, and can dynamically adjust its strength based on the target's defense and cursed energy.}
@@ -168,7 +168,7 @@ Dialogue: 0,0:18:26.50,0:18:32.01,Default,Narrator,0,0,140,,but rather than adap
 Dialogue: 0,0:18:32.63,0:18:35.34,Default,Narrator,0,0,140,,that would be a different story entirely. {that wouldn't necessarily hold true.}
 Dialogue: 0,0:18:53.99,0:18:57.82,Default,Narrator,0,0,140,,Mahoraga was close to finishing its regeneration.
 Dialogue: 0,0:19:25.56,0:19:26.90,Default,Sukuna,0,0,140,,Ignite. {in this case, when cleave and dismantle destroy everything in the domain, they also impart an explosive property on the dust and debris which sakuna then compresses inside the barrier effectively making a thermobaric bomb which he then ignites with this technique}
-Dialogue: 1,0:19:25.56,0:19:26.31,Default,Sukuna,0,0,140,,{\bord0\shad0\be5\c&HFFFFFF&\1a&H60&}Ignite.
+Dialogue: 1,0:19:25.56,0:19:26.31,Default,Sukuna,0,0,140,,{\bord0\shad0\blur4\c&HFFFFFF&\1a&H60&}Ignite.
 Dialogue: 0,0:20:19.82,0:20:21.37,Default,Sukuna,0,0,0,,What are you looking at?
 Dialogue: 0,0:20:22.49,0:20:23.54,Default,Sukuna,0,0,0,,Begone.
 Dialogue: 0,0:20:29.29,0:20:32.21,Default,Shigemo,0,0,0,,E-Excuse me, then!
