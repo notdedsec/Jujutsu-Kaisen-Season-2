@@ -293,7 +293,7 @@ Dialogue: 1,0:20:12.98,0:20:13.02,Signs,Screen,0,0,0,c,{\an4\pos(1195.2,570.46)\
 Dialogue: 0,0:20:12.98,0:20:13.02,<<folder>>,Screen,0,0,0,,{=13}
 Dialogue: 0,0:01:41.00,0:01:41.04,<<folder>>,,0,0,0,,{=16}- Episode Titles
 Dialogue: 0,0:01:41.00,0:01:44.00,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)\c&H000000&}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}42
-Dialogue: 0,0:01:41.00,0:01:44.00,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Right and Wrong
+Dialogue: 0,0:01:41.00,0:01:44.00,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\c&H000000&\fsp-1}Right and Wrong
 Dialogue: 0,0:23:33.27,0:23:33.31,<<folder>>,,0,0,0,,
 Dialogue: 0,0:23:33.27,0:23:39.94,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs69\c&H000000&\3c&H000000&\alpha&H20&\pos(960,762)}Next Episode
 Dialogue: 0,0:23:33.27,0:23:39.94,Signs,Next,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Next Episode
