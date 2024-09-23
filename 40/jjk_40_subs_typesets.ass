@@ -132,27 +132,27 @@ Dialogue: 2,0:03:37.28,0:03:37.32,Signs,Sign,0,0,0,,{\fnFOT-TsukuMin Pr5 H Strip
 Dialogue: 0,0:03:37.78,0:03:37.82,<<folder>>,,0,0,0,,{=1}
 Dialogue: 0,0:03:30.57,0:03:30.61,<<folder>>,,0,0,0,,{=2}- Locations
 Dialogue: 0,0:03:30.57,0:03:30.61,<<folder>>,,0,0,0,,- Shibuya Stream
-Dialogue: 0,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\p1\c&HD9DFE2&\blur1\pos(216.5,984)\fad(300,0)\b1}m 0 0 l 245 0 245 88 0 88
-Dialogue: 0,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\pos(727,984)\p1\c&HD9DFE2&\blur1\fad(300,0)\b1}m 0 0 l 558 0 558 88 0 88
+Dialogue: 0,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\p1\c&HD9DFE2&\blur0.6\pos(216.5,984)\fad(300,0)\b1}m 0 0 l 245 0 245 88 0 88
+Dialogue: 0,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\pos(727,984)\p1\c&HD9DFE2&\blur0.6\fad(300,0)\b1}m 0 0 l 558 0 558 88 0 88
 Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(216.5,984)\fs72\blur0.6\fad(300,0)}23:01
 Dialogue: 2,0:03:30.57,0:03:33.86,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(727,984)\fs72\blur0.6\fad(300,0)}Shibuya Stream
 Dialogue: 0,0:03:33.82,0:03:33.86,<<folder>>,,0,0,0,,
 Dialogue: 0,0:06:29.95,0:06:35.21,<<folder>>,,0,0,0,,- Shuto Expressway
-Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fad(0,300)\p1\c&HDFEEF3&\blur1\pos(194.5,910.5)\b1}m 0 0 l 203 0 203 75 0 75
-Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fad(0,300)\pos(840.75,910.5)\p1\c&HDFEEF3&\blur1\b1}m 0 0 l 909.5 0 909.5 75 0 75
-Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fad(0,300)\p1\c&HDFEEF3&\blur1\pos(685.5,991.5)\b1}m -77 0 l 368 0 368 75 -77 75
+Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fad(0,300)\p1\c&HDFEEF3&\blur0.6\pos(194.5,910.5)\b1}m 0 0 l 203 0 203 75 0 75
+Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fad(0,300)\pos(840.75,910.5)\p1\c&HDFEEF3&\blur0.6\b1}m 0 0 l 909.5 0 909.5 75 0 75
+Dialogue: 0,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fad(0,300)\p1\c&HDFEEF3&\blur0.6\pos(685.5,991.5)\b1}m -77 0 l 368 0 368 75 -77 75
 Dialogue: 2,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(194.5,910.5)\fs61\blur0.6\fad(0,300)}22:51
 Dialogue: 2,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(405.5,910.5)\fscx96\fs61\blur0.6\fad(0,300)}Shuto Expressway Route 3, Shibuya Line
 Dialogue: 2,0:06:29.95,0:06:35.21,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(405.5,991.5)\fscx96\fs61\blur0.6\fad(0,300)}Shibuya Toll Booth
 Dialogue: 0,0:06:35.17,0:06:35.21,<<folder>>,,0,0,0,,
 Dialogue: 0,0:21:54.13,0:21:57.13,<<folder>>,,0,0,0,,- Shibuya 109
-Dialogue: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\blur1\c&HFAFAFA&\p1\pos(225,984)\b1}m 0 0 l 262 0 262 88 0 88
-Dialogue: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\pos(904,984)\blur1\c&HFAFAFA&\p1\b1}m 0 0 l 908 0 908 88 0 88
+Dialogue: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\blur0.6\c&HFAFAFA&\p1\pos(225,984)\b1}m 0 0 l 262 0 262 88 0 88
+Dialogue: 0,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\pos(904,984)\blur0.6\c&HFAFAFA&\p1\b1}m 0 0 l 908 0 908 88 0 88
 Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(225,984)\fs66\blur0.6\fscx98}23:07
 Dialogue: 2,0:21:54.13,0:21:57.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(904,984)\fscx98\fs66\blur0.6}Dogenzaka, In Front of Shibuya 109
 Dialogue: 0,0:21:57.09,0:21:57.13,<<folder>>,,0,0,0,,{=3}
 Dialogue: 0,0:22:07.01,0:22:07.06,<<folder>>,,0,0,0,,{=4}- Episode Titles
-Dialogue: 0,0:22:07.01,0:22:10.02,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}38
+Dialogue: 0,0:22:07.01,0:22:10.02,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs69\pos(960,762)}Episode {\fnFOT-Matisse Pro B Stripped\fs54\fsp-2}40
 Dialogue: 0,0:22:07.01,0:22:10.02,Signs,,0,0,0,,{\blur0.5\fnFOT-TsukuMin Pr5 B Stripped\fs96\pos(960,826)\fsp-1}Thunderclap
 Dialogue: 0,0:23:51.24,0:23:51.28,<<folder>>,,0,0,0,,
 Dialogue: 0,0:23:51.24,0:23:55.04,Signs,Next,0,0,0,,{\blur6\bord6\fnFOT-TsukuMin Pr5 B Stripped\fs69\c&H000000&\3c&H000000&\alpha&H20&\pos(960,762)}Next Episode

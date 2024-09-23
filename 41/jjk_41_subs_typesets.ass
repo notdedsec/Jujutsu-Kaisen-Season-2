@@ -112,14 +112,14 @@ Dialogue: 0,0:10:17.05,0:10:17.09,Signs,Screen,0,0,0,,{\blur0.7\fnBroke Stone\fs
 Dialogue: 0,0:10:17.09,0:10:17.13,Signs,Screen,0,0,0,,{\blur0.7\fnBroke Stone\fs22\fax0.15\alpha&HEA&\pos(590.83,954.55)\b1\frz4.88}Danger: Do Not Mix
 Dialogue: 0,0:10:13.88,0:10:17.14,Signs,,0,0,0,,{=21}
 Dialogue: 0,0:00:21.54,0:00:21.58,<<folder>>,,0,0,0,,{=12}- Shibuya 109 (2)
-Dialogue: 0,0:00:21.54,0:00:26.76,Signs,Screen,0,0,0,,{\fad(0,300)\pos(205,930.5)\p1\c&HD7D7D7&\blur1\b1}m 0 0 l 222 0 222 73 0 73
-Dialogue: 0,0:00:21.54,0:00:26.76,Signs,Screen,0,0,0,,{\fad(0,300)\pos(774,930.5)\p1\c&HD7D7D7&\blur1\fscx110\b1}m 0 0 l 762 0 762 73 0 73
+Dialogue: 0,0:00:21.54,0:00:26.76,Signs,Screen,0,0,0,,{\fad(0,300)\pos(205,930.5)\p1\c&HD7D7D7&\blur0.6\b1}m 0 0 l 222 0 222 73 0 73
+Dialogue: 0,0:00:21.54,0:00:26.76,Signs,Screen,0,0,0,,{\fad(0,300)\pos(774,930.5)\p1\c&HD7D7D7&\blur0.6\fscx110\b1}m 0 0 l 762 0 762 73 0 73
 Dialogue: 2,0:00:21.54,0:00:26.76,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(205,930.5)\fs64\blur0.6\fad(0,300)\fscx96}23:05
 Dialogue: 2,0:00:21.54,0:00:26.76,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(774,930.5)\fscx96\fs60\blur0.6\fad(0,300)}Dogenzaka, In Front of Shibuya 109
 Dialogue: 0,0:00:21.54,0:00:21.58,<<folder>>,,0,0,0,,{=13}
 Dialogue: 0,0:21:04.03,0:21:04.08,<<folder>>,,0,0,0,,{=14}- Shibuya 109 (2)
-Dialogue: 0,0:21:04.03,0:21:08.41,Signs,Screen,0,0,0,,{\pos(221,984)\c&HD7D7D7&\blur1\p1\b1}m 0 0 l 256 0 256 88 0 88
-Dialogue: 0,0:21:04.03,0:21:08.41,Signs,Screen,0,0,0,,{\pos(894.5,984)\c&HD7D7D7&\blur1\p1\fscx105\b1}m 0 0 l 909 0 909 88 0 88
+Dialogue: 0,0:21:04.03,0:21:08.41,Signs,Screen,0,0,0,,{\pos(221,984)\c&HD7D7D7&\blur0.6\p1\b1}m 0 0 l 256 0 256 88 0 88
+Dialogue: 0,0:21:04.03,0:21:08.41,Signs,Screen,0,0,0,,{\pos(894.5,984)\c&HD7D7D7&\blur0.6\p1\fscx105\b1}m 0 0 l 909 0 909 88 0 88
 Dialogue: 2,0:21:04.03,0:21:08.41,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an5\pos(221,984)\fs69\blur0.6\fscx96}23:14
 Dialogue: 2,0:21:04.03,0:21:08.41,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an5\pos(894.5,984)\fscx96\fs69\blur0.6}Dogenzaka, In Front of Shibuya 109
 Dialogue: 0,0:21:08.37,0:21:08.41,<<folder>>,,0,0,0,,{=15}
