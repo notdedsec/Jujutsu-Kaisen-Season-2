@@ -67,7 +67,7 @@ class Source:
         'NCOP3': VOLUME[1] / 'BDMV/STREAM/00005.m2ts',
         'NCED3': VOLUME[1] / 'BDMV/STREAM/00010.m2ts',
         'NCOP4': VOLUME[3] / 'BDMV/STREAM/00005.m2ts',
-        'NCED4': VOLUME[3] / 'BDMV/STREAM/00010.m2ts',
+        'NCED4': VOLUME[3] / 'BDMV/STREAM/00007.m2ts',
     }
 
     TRIMS = {
