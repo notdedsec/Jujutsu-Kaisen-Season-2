@@ -44,9 +44,9 @@ Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H0000
 Dialogue: 1,0:00:05.82,0:00:08.57,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(1072.318,981.515)\fs66\blur0.6}Exit 13, Outside the Veil
 Dialogue: 3,0:00:08.53,0:00:08.57,<<folder>>,,0,0,0,,
 Dialogue: 0,0:02:26.63,0:02:26.67,<<folder>>,,0,0,0,,- Between Stations
-Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&HF2E5DB&\blur0.6\pos(655.6,862.805)\b1}m 0 0 l 259.2 0 259.2 87.63 0 87.63
-Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&HF2E5DB&\blur0.6\pos(1057.45,862.82)\b1}m 0 0 l 476.9 0 476.9 87.63 0 87.63
-Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&HF2E5DB&\blur0.6\pos(1180.395,982.815)\b1}m 0 0 l 1308.79 0 1308.79 87.63 0 87.63
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&HDCD3CC&\blur0.6\pos(655.6,862.805)\b1}m 0 0 l 259.2 0 259.2 87.63 0 87.63
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&HDCD3CC&\blur0.6\pos(1057.45,862.82)\b1}m 0 0 l 476.9 0 476.9 87.63 0 87.63
+Dialogue: 0,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\p1\c&HDCD3CC&\blur0.6\pos(1180.395,982.815)\b1}m 0 0 l 1308.79 0 1308.79 87.63 0 87.63
 Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(656.6,862.81)\fs73\blur0.6\fscx99}22:02
 Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1057.45,860.34)\fs73\blur0.6\fscx99}Tokyo Metro
 Dialogue: 1,0:02:26.63,0:02:35.89,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1180.4,980.34)\fs73\blur0.6\fscx98}Between Meiji-jingumae and Shibuya Stations {ep34 12:32}
