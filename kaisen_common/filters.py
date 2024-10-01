@@ -8,10 +8,11 @@ from vsaa import Nnedi3
 from vsaa.antialiasers.eedi3 import Eedi3SR
 from vskernels import Bicubic, BicubicDidee
 from vsscale import SSIM, descale_detail_mask
-from vsdenoise import MVTools, SADMode, Prefilter, ccd
-from vstools import Matrix, core, replace_ranges, join, set_output
+from vsdenoise import MVTools, SADMode, Prefilter
+from vstools import core, replace_ranges, join, set_output
 from havsfunc import FineDehalo, EdgeCleaner
 from vsutil import get_w, get_y, depth
+from vsrgtools import contrasharpening
 from jvsfunc import retinex_edgemask
 from adptvgrnMod import adptvgrnMod
 from debandshit import dumb3kdb
@@ -81,7 +82,7 @@ class Filter:
         dehalo = core.std.Expr([fine_dehalo, edge_clean], 'x y min')
 
         ssim_downscale = SSIM(sigmoid=True, kernel=BicubicDidee()).scale(dehalo, src.width, src.height)
-        retinex_mask = retinex_edgemask(src_y).std.Inflate().std.Maximum().std.Inflate()
+        retinex_mask = retinex_edgemask(src_y, brz=7000).std.Inflate().std.Maximum().std.Inflate()
         downscaled = core.std.MaskedMerge(src_y, ssim_downscale, retinex_mask)
 
         bicubic_upscale = Bicubic().scale(descaled, src.width, src.height)
@@ -93,16 +94,16 @@ class Filter:
 
         denoise_y = MVTools.denoise(get_y(rescale), thSAD=48, block_size=32, overlap=16, prefilter=Prefilter.MINBLUR2, sad_mode=SADMode.SPATIAL.same_recalc)
         denoise_y = denoise_y.ttmpsm.TTempSmooth(maxr=1, thresh=1, mdiff=0, strength=1)
-        denoise_c = ccd(rescale, thr=1, planes=[1, 2], matrix=Matrix.BT709)
-        denoise = join(denoise_y, denoise_c)
+        denoise = join(denoise_y, rescale)
         denoise = replace_ranges(denoise, rescale, self.NO_DENOISE_RANGES)
 
         dumb_deband_normal = dumb3kdb(denoise, radius=16, threshold=24, use_neo=True)
         dumb_deband_strong = dumb3kdb(denoise, radius=16, threshold=48, use_neo=True)
         dumb_deband = replace_ranges(dumb_deband_normal, dumb_deband_strong, self.STRONG_DEBAND_RANGES)
         deband = core.std.MaskedMerge(dumb_deband, denoise, retinex_mask)
+        contra = contrasharpening(deband, rescale)
 
-        grain = adptvgrnMod(deband, strength=0.24, luma_scaling=8, sharp=64, grain_chroma=False, static=True)
+        grain = adptvgrnMod(contra, strength=0.24, luma_scaling=8, sharp=64, grain_chroma=False, static=True)
         final = depth(grain, 10).std.Limiter(16 << 2, [235 << 2, 240 << 2], [0, 1, 2])
 
         for ranges, params in self.LETTERBOX_RANGES.items():
@@ -117,8 +118,10 @@ class Filter:
         # set_output(retinex_mask)
         # set_output(restore_mask)
         # set_output(restored)
+        # set_output(rescale)
         # set_output(denoise)
         # set_output(deband)
+        # set_output(contra)
         set_output(final)
 
         return final
