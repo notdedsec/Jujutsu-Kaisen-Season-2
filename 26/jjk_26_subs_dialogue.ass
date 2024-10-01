@@ -58,7 +58,7 @@ Dialogue: 0,0:01:12.89,0:01:16.31,Default,Geto,0,0,0,,Tell me, is this the Bayer
 Dialogue: 0,0:01:21.10,0:01:23.31,Default,Kokun,0,0,0,,Yeah... that's him.
 Dialogue: 0,0:01:33.28,0:01:35.78,Default,Announcer,0,0,0,,{\an8}All the boats are lining up.
 Dialogue: 0,0:01:35.78,0:01:39.04,Default,Announcer,0,0,0,,{\an8}Starting from the inside,\N we have Numbers 1, 2, 4, 5, 3, and 6.
-Dialogue: 0,0:01:39.04,0:01:41.79,Default,Announcer,0,0,0,,{\an8}They're off with a beautiful straight shot.
+Dialogue: 0,0:01:39.04,0:01:41.79,Default,Announcer,0,0,0,,{\an8}They're off with a \Nbeautiful straight shot.
 Dialogue: 0,0:01:42.79,0:01:46.29,Default,Kong,0,0,0,,And just what are you doing here\N after disappearing on me like that?
 Dialogue: 0,0:01:49.17,0:01:51.13,Default,Toji,0,0,0,,Making money.
 Dialogue: 0,0:01:51.76,0:01:54.68,Default,Kong,0,0,0,,I've never seen you win before.
@@ -77,9 +77,9 @@ Dialogue: 0,0:02:28.25,0:02:30.42,Default,Toji,0,0,0,,I just told you, it's to w
 Dialogue: 0,0:02:30.42,0:02:33.22,Default,Toji,0,0,0,,Don't you worry. I'll win it all back.
 Dialogue: 0,0:02:33.22,0:02:35.01,Default,Toji,0,0,0,,Just like this race.
 Dialogue: 0,0:02:36.84,0:02:39.22,Default,Announcer,0,0,0,,{\an8}Number 6, Hateno, crosses the line first!
-Dialogue: 0,0:02:39.22,0:02:41.31,Default,Announcer,0,0,0,,{\an8}Number 1, Doguchi, finishes next!
+Dialogue: 0,0:02:39.22,0:02:41.31,Default,Announcer,0,0,0,,{\an8}Number 1, Toguchi, finishes next!
 Dialogue: 0,0:02:41.31,0:02:43.48,Default,Announcer,0,0,0,,{\an8}Following them in third is Number 2, Matsuda.
-Dialogue: 0,0:02:43.48,0:02:45.27,Default,Announcer,0,0,0,,{\an8}In fourth is Number 4, Nakaoka.
+Dialogue: 0,0:02:43.48,0:02:45.27,Default,Announcer,0,0,0,,{\an8}In fourth is Number 4, Hanaoka.
 Dialogue: 0,0:02:45.27,0:02:47.11,Default,Announcer,0,0,0,,{\an8}In fifth is Number 3, Tanaka.
 Dialogue: 0,0:02:47.11,0:02:49.32,Default,Announcer,0,0,0,,{\an8}In sixth is Number 5, Okazaki, finishing last!
 Dialogue: 0,0:02:49.32,0:02:53.74,Default,Announcer,0,0,0,,{\an8}Number 6, Hateno, has given us an\N amazing comeback in his very first race!
@@ -196,7 +196,7 @@ Dialogue: 0,0:09:55.53,0:09:57.79,Default,Announcer,0,0,0,,{\an8}Number 3 trails
 Dialogue: 0,0:09:57.79,0:10:01.08,Default,Announcer,0,0,0,,{\an8}Taking the lead at the first mark of the first lap\N is Number 2, Yamazaki.{seriously these lines are distracting. Especially when they can't be heard over the main dialogues, and not relevant to the episode}{no way the commentary is more fun than the actual episode rn}
 Dialogue: 0,0:10:01.08,0:10:02.50,Default,Announcer,0,0,0,,{\an8}Behind him is Number 1, Masaki.
 Dialogue: 0,0:10:02.50,0:10:04.71,Default,Announcer,0,0,0,,{\an8}They're followed by Number 3, Kawano.
-Dialogue: 0,0:10:04.71,0:10:09.51,Default,Announcer,0,0,0,,{\an8}Then comes Number 4, Nomiya, Number 5, Mifune,\N and in the last place is Number 6, Funegi.{even this. shoo bye bye.}
+Dialogue: 0,0:10:04.71,0:10:09.51,Default,Announcer,0,0,0,,{\an8}Then comes Number 4, Nomiya, Number 5, Mifune,\N and in the last place is Number 6, Funaki.{even this. shoo bye bye.}
 Dialogue: 0,0:09:56.33,0:09:58.12,Default,Touji,0,0,0,,Oh, really?
 Dialogue: 0,0:09:58.12,0:10:00.29,Default,Touji,0,0,0,,They didn't go back to Jujutsu Tech?
 Dialogue: 0,0:10:00.29,0:10:01.79,Default,Touji,0,0,0,,Lucky me.
@@ -214,7 +214,7 @@ Dialogue: 0,0:10:37.62,0:10:38.95,Default,Kong,0,0,0,,Not even you?
 Dialogue: 0,0:10:47.88,0:10:49.88,Default,Announcer,0,0,0,,{\an8}Number 3, Kawano, is making a rushing comeback!
 Dialogue: 0,0:10:49.88,0:10:51.76,Default,Announcer,0,0,0,,{\an8}He's pulled into first place!
 Dialogue: 0,0:10:51.76,0:10:54.34,Default,Toji,0,0,0,,I guess we'll find out.
-Dialogue: 0,0:10:54.72,0:10:57.14,Default,Announcer,0,0,0,,{\an8}He's managed to take the lead twice now.{typeset this}
+Dialogue: 0,0:10:54.72,0:10:57.14,Default,Announcer,0,0,0,,{\an8}He's taken the lead twice so far. {typeset this}{ok done}
 Dialogue: 0,0:10:57.14,0:10:59.89,Default,Announcer,0,0,0,,{\an8}This race has been filled with ups and downs.{no, gtfo}
 Dialogue: 0,0:10:59.89,0:11:02.64,Default,Announcer,0,0,0,,{\an8}Can Number 3, Kawano, defend his position at the top?{nooooooooooo get lost, nobody cares!}{cope, seethe, mald}
 Dialogue: 0,0:11:02.64,0:11:04.81,Default,Announcer,0,0,0,,{\an8}The race is now entering its third lap.
@@ -238,7 +238,7 @@ Dialogue: 0,0:11:53.32,0:11:55.86,Default,Announcer,0,0,0,,{\an8}However, the ga
 Dialogue: 0,0:11:56.61,0:11:58.82,Default,Announcer,0,0,0,,{\an8}Number 2, Yamazaki, crosses the line first!
 Dialogue: 0,0:11:58.82,0:12:00.53,Default,Announcer,0,0,0,,{\an8}Number 5, Mifune, crosses next.
 Dialogue: 0,0:12:00.53,0:12:03.08,Default,Announcer,0,0,0,,{\an8}Followed by Number 1, Masaki, and Number 3, Kawano.{bruh the race is long over}
-Dialogue: 0,0:12:03.08,0:12:05.75,Default,Announcer,0,0,0,,{\an8}Next is Number 4, Nomiya, and finally Number 6, Funegi.{fek off}
+Dialogue: 0,0:12:03.08,0:12:05.75,Default,Announcer,0,0,0,,{\an8}Next is Number 4, Nomiya, and finally Number 6, Funaki.{fek off}
 Dialogue: 0,0:11:49.02,0:11:50.86,Default,Toji,0,0,0,,I'll head out soon enough.
 Dialogue: 0,0:11:50.86,0:11:53.32,Default,Toji,0,0,0,,Things are developing faster than I expected.
 Dialogue: 0,0:11:53.78,0:11:56.61,Default,Toji,0,0,0,,Make sure you get all of that thirty million back for me.
