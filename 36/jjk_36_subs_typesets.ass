@@ -55,14 +55,14 @@ Dialogue: 0,0:04:45.52,0:04:45.56,<<folder>>,,0,0,0,,- Shuto Expressway, Cerulea
 Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\blur0.6\c&HFBFBFB&\pos(91.5,816)\b1\p1}m 0 0 l 285 0 285 98 0 98
 Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\blur0.6\c&HFBFBFB&\pos(396.73,816)\b1\p1}m 0.27 0 l 1075.27 0 1075.27 98 0.27 98
 Dialogue: 0,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\an7\blur0.6\c&HFBFBFB&\pos(396.73,934)\b1\p1}m 0.27 0 l 749 0 749 94 0.27 94
-Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(234,865)\fscx96\fs70\blur0.6}22:02
+Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(234,865)\fscx96\fs70\blur0.6}22:04
 Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\fscx96\fs70\blur0.6\pos(432,865)}Shuto Expressway Route 3, Shibuya Line
 Dialogue: 1,0:04:45.52,0:04:52.65,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\an4\pos(432,981)\fscx99\fs70\blur0.6}In Front of Cerulean Tower
 Dialogue: 0,0:04:52.61,0:04:52.65,<<folder>>,,0,0,0,,
 Dialogue: 0,0:09:19.54,0:09:19.58,<<folder>>,,0,0,0,,- Shoto Bunkamura Street
 Dialogue: 0,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\blur0.6\c&HF8FBFB&\pos(222.2,981.02)\b1\p1}m 0 0 l 255.4 0 255.4 88.04 0 88.04
 Dialogue: 0,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\blur0.6\c&HF8FBFB&\pos(1023.45,981.02)\b1\p1}m 0 0 l 1160.9 0 1160.9 88.04 0 88.04
-Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(222.2,981.02)\fscx99\fs70\blur0.6}22:02
+Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(222.2,981.02)\fscx99\fs70\blur0.6}21:40
 Dialogue: 1,0:09:19.54,0:09:25.13,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1023.45,981.02)\fscx99\fs70\blur0.6}Shoto Bunkamura Street, Outside the Veil
 Dialogue: 0,0:09:25.09,0:09:25.13,<<folder>>,,0,0,0,,
 Dialogue: 0,0:20:49.98,0:20:50.02,<<folder>>,,0,0,0,,- Inside Shibuya Station
