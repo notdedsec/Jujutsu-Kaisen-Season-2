@@ -105,8 +105,8 @@ Dialogue: 0,0:06:39.17,0:06:41.67,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H0000
 Dialogue: 0,0:06:39.17,0:06:41.67,Signs,Screen,0,0,0,,{\fnAribau Grotesk\c&H000000&\pos(1435.5,987.5)\fscx96\fs70\blur0.6}Kyoto Jujutsu Tech, First-Year
 Dialogue: 0,0:06:41.63,0:06:41.67,<<folder>>,,0,0,0,,
 Dialogue: 0,0:14:00.03,0:14:00.07,<<folder>>,,0,0,0,,- Station Closed
-Dialogue: 0,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\pos(596.45,900.29)\p1\c&H32292B&\blur0.6\b1}m 103.73 29.69 l 103.68 74.84 746.26 225.03 743.76 140.32
-Dialogue: 1,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\pos(596.45,900.29)\p1\c&H1A0D0A&\blur0.6\clip(m 380.5 835.2 l 380.61 876.03 1017.56 1023.66 1015.15 945.83)\b1}m 102.58 29.14 l 102.68 69.97 739.63 217.6 737.22 139.77
+Dialogue: 0,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\pos(596.45,900.29)\p1\c&H32292B&\blur0.8\b1}m 103.73 29.69 l 103.68 74.84 746.26 225.03 743.76 140.32
+Dialogue: 1,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\pos(596.45,900.29)\p1\c&H1A0D0A&\blur1.2\clip(m 380.5 835.2 l 380.61 876.03 1017.56 1023.66 1015.15 945.83)\b1}m 102.58 29.14 l 102.68 69.97 739.63 217.6 737.22 139.77
 Dialogue: 2,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\blur3\fs43\fnGrain\c&H424141&\fax0.335250\fscx93.77\fscy144.23\frz-10.8024\frx-1.5594\fry-18.6818\org(601.48,900.29)\pos(596.45,900.29)\1a&H64&\clip(m 380.5 835.2 l 380.61 876.03 1017.56 1023.66 1015.15 945.83)}uiehncdkpkadsiakp
 Dialogue: 4,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\blur2.6\fs32\fnRECTAXEL\c&H0D3DD2&\4c&H0D3DD2&\fax0.391528\fscx93.47\fscy143.86\frz-10.7951\frx-0.1164\fry-18.4173\xshad0.01\yshad0.01\org(600.88,900.12)\pos(598.03,900.12)}Shibuya Station has been closed off
 Dialogue: 5,0:14:00.03,0:14:04.03,Signs,Flasher,0,0,0,,{\blur1.2\fs32\fnRECTAXEL\c&H62C6F6&\4c&H0D3DD2&\fax0.391528\fscx93.47\fscy143.86\frz-10.7951\frx-0.1164\fry-18.4173\xshad0.01\yshad0.01\org(600.88,900.12)\pos(598.03,900.12)}Shibuya Station has been closed off
