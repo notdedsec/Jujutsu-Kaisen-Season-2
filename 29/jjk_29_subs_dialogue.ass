@@ -58,12 +58,12 @@ Dialogue: 0,0:02:42.98,0:02:44.31,Default,Shoko,0,0,0,,Uh...
 Dialogue: 0,0:02:44.31,0:02:46.65,Default,Geto,0,0,0,,{\i1}Satoru became "the strongest."
 Dialogue: 0,0:02:46.65,0:02:49.32,Default,Gojo,0,0,0,,Suguru, have you lost weight?
 Dialogue: 0,0:02:49.32,0:02:50.65,Default,Gojo,0,0,0,,You okay?
-Dialogue: 0,0:02:50.94,0:02:53.65,Default,Geto,0,0,0,,{\i1}He handled all of his missions alone.
+Dialogue: 0,0:02:50.94,0:02:53.65,Default,Geto,0,0,0,,{\i1}He handled all his missions alone.
 Dialogue: 0,0:02:53.65,0:02:57.28,Default,Geto,0,0,0,,{\i1}Shoko was never sent out on\N dangerous missions in the first place,
 Dialogue: 0,0:02:57.78,0:03:01.54,Default,Geto,0,0,0,,{\i1}which naturally meant I was sent on missions alone more often too.
 Dialogue: 0,0:03:01.83,0:03:03.45,Default,Geto,0,0,0,,It's just heat fatigue.
 Dialogue: 0,0:03:03.45,0:03:04.75,Default,Geto,0,0,0,,I'll be fine.
-Dialogue: 0,0:03:05.54,0:03:07.29,Default,Gojo,0,0,0,,Did you eat too much somen? {what is somen?}{noodles}
+Dialogue: 0,0:03:05.54,0:03:07.29,Default,Gojo,0,0,0,,Had too much somen? {what is somen?}{noodles}
 Dialogue: 0,0:03:08.79,0:03:11.25,Default,Geto,0,0,0,,{\i1}Things were busy that summer.
 Dialogue: 0,0:03:16.34,0:03:19.85,Default,Geto,0,0,0,,{\i1}Perhaps due to all those frequent disasters last year.
 Dialogue: 0,0:03:20.60,0:03:22.93,Default,Geto,0,0,0,,{\i1}Curses were springing up like maggots.
@@ -340,15 +340,15 @@ Dialogue: 0,0:19:55.59,0:20:00.80,Default,Gojo,0,0,0,,but the reason he ran away
 Dialogue: 0,0:20:00.80,0:20:05.52,Default,Gojo,0,0,0,,You have the ability to see the unseen,\N and the power to manipulate it as well, right? {he actually means to say he can see cursed spirits and has cursed energy}
 Dialogue: 0,0:20:05.52,0:20:08.69,Default,Gojo,0,0,0,,You've noticed the talent within yourself too, yeah?
 Dialogue: 0,0:20:08.69,0:20:11.36,Default,Gojo,0,0,0,,The Zenin clan {\i1}loves{\i0} talent like that.
-Dialogue: 0,0:20:11.36,0:20:14.53,Default,Gojo,0,0,0,,Most become aware of it at around four to six years of age.
+Dialogue: 0,0:20:11.36,0:20:14.53,Default,Gojo,0,0,0,,Most become aware of it at around\N four to six years of age.
 Dialogue: 0,0:20:14.53,0:20:16.95,Default,Gojo,0,0,0,,A ripe time to sell, indeed!
 Dialogue: 0,0:20:16.95,0:20:23.20,Default,Gojo,0,0,0,,You, my dear Megumi{**-kun}, are your dad's\N ace against the Zenin clan! {check tl} {yep, wrong. go fix it in s1 too.}
 Dialogue: 0,0:20:23.20,0:20:25.04,Default,Gojo,0,0,0,,Pisses you off, doesn't it?
 Dialogue: 0,0:20:25.04,0:20:29.17,Default,Gojo,0,0,0,,So I took care of that dad of yours by ki{\fscx180}—{\fscx}
 Dialogue: 0,0:20:27.79,0:20:29.17,Alt,Megumi,0,0,0,,I don't care.
-Dialogue: 0,0:20:29.17,0:20:32.17,Default,Megumi,0,0,0,,I have no interest in where he is or what he's doing.
-Dialogue: 0,0:20:32.17,0:20:35.55,Default,Megumi,0,0,0,,Haven't seen him in years. Barely remember his face. {he legit went out to buy milk}
-Dialogue: 0,0:20:35.55,0:20:38.51,Default,Megumi,0,0,0,,Though I get the general idea from what you just said.
+Dialogue: 0,0:20:29.17,0:20:32.17,Default,Megumi,0,0,0,,I have no interest in where he is\N or what he's doing.
+Dialogue: 0,0:20:32.17,0:20:35.55,Default,Megumi,0,0,0,,Haven't seen him in years.\N Barely remember his face. {he legit went out to buy milk}
+Dialogue: 0,0:20:35.55,0:20:38.51,Default,Megumi,0,0,0,,Though I get the general idea\N from what you just said.
 Dialogue: 0,0:20:38.51,0:20:41.68,Default,Megumi,0,0,0,,Tsumiki's mother hasn't come home\N for a while now, either.
 Dialogue: 0,0:20:41.68,0:20:43.68,Default,Tsumiki,0,0,0,,{\an8}Ah, Megumi's back!
 Dialogue: 0,0:20:44.35,0:20:49.10,Default,Megumi,0,0,0,,That means they're done with us\N and are off enjoying themselves elsewhere.
