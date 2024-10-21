@@ -21,8 +21,8 @@ Video File: jjk_27_premux.mkv
 Keyframes File: jjk_27_keyframes.txt
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 5178
-Video Position: 10060
+Active Line: 4687
+Video Position: 8202
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,7 +33,7 @@ Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:02:45.27,0:02:45.31,<<folder>>,,0,0,0,,{=0}- Escort Mission
 Dialogue: 0,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(960,1041)\fnGo Baaa Handwritten Comic\fs62\b1\bord5.25\c&HEBEBEB&\3c&HEBEBEB&\blur0.6\fsp0.5}Escort Mission Day 2
-Dialogue: 1,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(960,1041)\fnGo Baaa Handwritten Comic\fs62\b1\c&H393837&\3c&HFFFFFF&\blur0.72\fsp0.5}E{*\c&H3C3A39&}s{*\c&H403D3B&}c{*\c&H43403E&}o{*\c&H474340&}r{*\c&H4A4643&}t {*\c&H514B47&}M{*\c&H554E4A&}i{*\c&H58514C&}s{\c&H5C544F&}s{*\c&H57504B&}i{*\c&H534D48&}o{*\c&H4E4945&}n {*\c&H45423F&}D{*\c&H413F3C&}a{*\c&H3C3B39&}y {\c&H343533&}2
+Dialogue: 1,0:02:45.27,0:02:48.02,Signs,Screen,0,0,0,,{\pos(960,1041)\fnGo Baaa Handwritten Comic\fs62\b1\c&H393837&\3c&HFFFFFF&\blur0.8\fsp0.5}E{*\c&H3C3A39&}s{*\c&H403D3B&}c{*\c&H43403E&}o{*\c&H474340&}r{*\c&H4A4643&}t {*\c&H514B47&}M{*\c&H554E4A&}i{*\c&H58514C&}s{\c&H5C544F&}s{*\c&H57504B&}i{*\c&H534D48&}o{*\c&H4E4945&}n {*\c&H45423F&}D{*\c&H413F3C&}a{*\c&H3C3B39&}y {\c&H343533&}2
 Dialogue: 0,0:02:48.02,0:02:48.06,<<folder>>,,0,0,0,,
 Dialogue: 0,0:02:48.02,0:02:51.03,Signs,Screen,0,0,0,,{\an8\fnBrushStrokes Heavy ModByArmonth\fs110\fscx88\b1\blur0.8\pos(892.33,528.33)}Okinawa
 Dialogue: 0,0:09:29.72,0:09:29.76,<<folder>>,,0,0,0,,
@@ -3354,126 +3354,247 @@ Dialogue: 4,0:05:37.02,0:05:37.07,Signs,,0,0,0,,{\an7\pos(1293.57,419.07)\frz4.7
 Dialogue: 4,0:05:37.07,0:05:37.11,Signs,,0,0,0,,{\an7\pos(1293.57,417.84)\frz4.743\fnKG Shadow of the Day\fs44\b1\c&H5F5F5F&\3c&HF9FDFA&\blur0.73}11:00 Amanai's Bounty\N\h     Taken Down
 Dialogue: 4,0:05:37.11,0:05:37.15,Signs,,0,0,0,,{\an7\pos(1293.57,416.76)\frz4.743\fnKG Shadow of the Day\fs44\b1\c&H5F5F5F&\3c&HF9FDFA&\blur0.73}11:00 Amanai's Bounty\N\h     Taken Down
 Dialogue: 0,0:05:32.14,0:05:32.19,<<folder>>,,0,0,0,,
-Dialogue: 4,0:05:32.14,0:05:32.19,Signs,,0,0,0,***,{\an8\pos(1479.2,980)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.19,0:05:32.23,Signs,,0,0,0,***,{\an8\pos(1479.2,978.76)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.23,0:05:32.27,Signs,,0,0,0,***,{\an8\pos(1479.2,977.52)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.27,0:05:32.31,Signs,,0,0,0,***,{\an8\pos(1479.2,976.27)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.31,0:05:32.35,Signs,,0,0,0,***,{\an8\pos(1479.2,975.03)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.35,0:05:32.40,Signs,,0,0,0,***,{\an8\pos(1479.2,973.85)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.40,0:05:32.44,Signs,,0,0,0,***,{\an8\pos(1479.2,972.61)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.44,0:05:32.48,Signs,,0,0,0,***,{\an8\pos(1479.2,971.36)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.48,0:05:32.52,Signs,,0,0,0,***,{\an8\pos(1479.2,970.1)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.52,0:05:32.56,Signs,,0,0,0,***,{\an8\pos(1479.2,968.91)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.56,0:05:32.60,Signs,,0,0,0,***,{\an8\pos(1479.2,967.72)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.60,0:05:32.65,Signs,,0,0,0,***,{\an8\pos(1479.19,966.46)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.65,0:05:32.69,Signs,,0,0,0,***,{\an8\pos(1479.19,965.2)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.69,0:05:32.73,Signs,,0,0,0,***,{\an8\pos(1479.19,963.99)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.73,0:05:32.77,Signs,,0,0,0,***,{\an8\pos(1479.2,962.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.77,0:05:32.81,Signs,,0,0,0,***,{\an8\pos(1479.2,961.58)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.81,0:05:32.85,Signs,,0,0,0,***,{\an8\pos(1479.2,960.31)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.85,0:05:32.90,Signs,,0,0,0,***,{\an8\pos(1479.19,959.08)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.90,0:05:32.94,Signs,,0,0,0,***,{\an8\pos(1479.2,957.92)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.94,0:05:32.98,Signs,,0,0,0,***,{\an8\pos(1479.2,956.66)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:32.98,0:05:33.02,Signs,,0,0,0,***,{\an8\pos(1479.2,955.42)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.02,0:05:33.06,Signs,,0,0,0,***,{\an8\pos(1479.2,954.18)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.06,0:05:33.10,Signs,,0,0,0,***,{\an8\pos(1479.2,952.98)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.10,0:05:33.15,Signs,,0,0,0,***,{\an8\pos(1479.2,951.74)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.15,0:05:33.19,Signs,,0,0,0,***,{\an8\pos(1479.19,950.52)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.19,0:05:33.23,Signs,,0,0,0,***,{\an8\pos(1479.19,949.29)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.23,0:05:33.27,Signs,,0,0,0,***,{\an8\pos(1479.19,948.03)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.27,0:05:33.31,Signs,,0,0,0,***,{\an8\pos(1479.19,946.79)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.31,0:05:33.35,Signs,,0,0,0,***,{\an8\pos(1479.19,945.61)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.35,0:05:33.40,Signs,,0,0,0,***,{\an8\pos(1479.19,944.37)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.40,0:05:33.44,Signs,,0,0,0,***,{\an8\pos(1479.19,943.11)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.44,0:05:33.48,Signs,,0,0,0,***,{\an8\pos(1479.19,941.87)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.48,0:05:33.52,Signs,,0,0,0,***,{\an8\pos(1479.19,940.73)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.52,0:05:33.56,Signs,,0,0,0,***,{\an8\pos(1479.19,939.49)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.56,0:05:33.60,Signs,,0,0,0,***,{\an8\pos(1479.19,938.22)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.60,0:05:33.65,Signs,,0,0,0,***,{\an8\pos(1479.19,936.98)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.65,0:05:33.69,Signs,,0,0,0,***,{\an8\pos(1479.19,935.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.69,0:05:33.73,Signs,,0,0,0,***,{\an8\pos(1479.19,934.59)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.73,0:05:33.77,Signs,,0,0,0,***,{\an8\pos(1479.19,933.33)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.77,0:05:33.81,Signs,,0,0,0,***,{\an8\pos(1479.19,932.09)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.81,0:05:33.86,Signs,,0,0,0,***,{\an8\pos(1479.19,930.93)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.86,0:05:33.90,Signs,,0,0,0,***,{\an8\pos(1479.19,929.7)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.90,0:05:33.94,Signs,,0,0,0,***,{\an8\pos(1479.19,928.42)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.94,0:05:33.98,Signs,,0,0,0,***,{\an8\pos(1479.19,927.18)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:33.98,0:05:34.02,Signs,,0,0,0,***,{\an8\pos(1479.19,926.01)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.02,0:05:34.06,Signs,,0,0,0,***,{\an8\pos(1479.19,924.77)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.06,0:05:34.11,Signs,,0,0,0,***,{\an8\pos(1479.19,923.54)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.11,0:05:34.15,Signs,,0,0,0,***,{\an8\pos(1479.19,922.29)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.15,0:05:34.19,Signs,,0,0,0,***,{\an8\pos(1479.19,921.07)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.19,0:05:34.23,Signs,,0,0,0,***,{\an8\pos(1479.19,919.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.23,0:05:34.27,Signs,,0,0,0,***,{\an8\pos(1479.19,918.64)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.27,0:05:34.31,Signs,,0,0,0,***,{\an8\pos(1479.19,917.41)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.31,0:05:34.36,Signs,,0,0,0,***,{\an8\pos(1479.19,916.15)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.36,0:05:34.40,Signs,,0,0,0,***,{\an8\pos(1479.19,914.91)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.40,0:05:34.44,Signs,,0,0,0,***,{\an8\pos(1479.19,913.75)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.44,0:05:34.48,Signs,,0,0,0,***,{\an8\pos(1479.19,912.52)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.48,0:05:34.52,Signs,,0,0,0,***,{\an8\pos(1479.19,911.26)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.52,0:05:34.56,Signs,,0,0,0,***,{\an8\pos(1479.19,910.01)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.56,0:05:34.61,Signs,,0,0,0,***,{\an8\pos(1479.19,908.85)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.61,0:05:34.65,Signs,,0,0,0,***,{\an8\pos(1479.19,907.62)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.65,0:05:34.69,Signs,,0,0,0,***,{\an8\pos(1479.19,906.36)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.69,0:05:34.73,Signs,,0,0,0,***,{\an8\pos(1479.19,905.1)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.73,0:05:34.77,Signs,,0,0,0,***,{\an8\pos(1479.19,903.93)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.77,0:05:34.81,Signs,,0,0,0,***,{\an8\pos(1479.19,902.72)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.81,0:05:34.86,Signs,,0,0,0,***,{\an8\pos(1479.19,901.44)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.86,0:05:34.90,Signs,,0,0,0,***,{\an8\pos(1479.19,900.19)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.90,0:05:34.94,Signs,,0,0,0,***,{\an8\pos(1479.19,899.02)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.94,0:05:34.98,Signs,,0,0,0,***,{\an8\pos(1479.19,897.81)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:34.98,0:05:35.02,Signs,,0,0,0,***,{\an8\pos(1479.19,896.55)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.02,0:05:35.06,Signs,,0,0,0,***,{\an8\pos(1479.19,895.31)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.06,0:05:35.11,Signs,,0,0,0,***,{\an8\pos(1479.2,894.08)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.11,0:05:35.15,Signs,,0,0,0,***,{\an8\pos(1479.19,892.89)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.15,0:05:35.19,Signs,,0,0,0,***,{\an8\pos(1479.19,891.64)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.19,0:05:35.23,Signs,,0,0,0,***,{\an8\pos(1479.19,890.4)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.23,0:05:35.27,Signs,,0,0,0,***,{\an8\pos(1479.2,889.18)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.27,0:05:35.31,Signs,,0,0,0,***,{\an8\pos(1479.19,887.94)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.31,0:05:35.36,Signs,,0,0,0,***,{\an8\pos(1479.19,886.76)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.36,0:05:35.40,Signs,,0,0,0,***,{\an8\pos(1479.19,885.53)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.40,0:05:35.44,Signs,,0,0,0,***,{\an8\pos(1479.19,884.3)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.44,0:05:35.48,Signs,,0,0,0,***,{\an8\pos(1479.19,883.04)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.48,0:05:35.52,Signs,,0,0,0,***,{\an8\pos(1479.19,881.86)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.52,0:05:35.57,Signs,,0,0,0,***,{\an8\pos(1479.19,880.63)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.57,0:05:35.61,Signs,,0,0,0,***,{\an8\pos(1479.19,879.39)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.61,0:05:35.65,Signs,,0,0,0,***,{\an8\pos(1479.19,878.14)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.65,0:05:35.69,Signs,,0,0,0,***,{\an8\pos(1479.19,876.96)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.69,0:05:35.73,Signs,,0,0,0,***,{\an8\pos(1479.19,875.74)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.73,0:05:35.77,Signs,,0,0,0,***,{\an8\pos(1479.19,874.48)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.77,0:05:35.82,Signs,,0,0,0,***,{\an8\pos(1479.19,873.23)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.82,0:05:35.86,Signs,,0,0,0,***,{\an8\pos(1479.19,872.03)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.86,0:05:35.90,Signs,,0,0,0,***,{\an8\pos(1479.19,870.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.90,0:05:35.94,Signs,,0,0,0,***,{\an8\pos(1479.19,869.57)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.94,0:05:35.98,Signs,,0,0,0,***,{\an8\pos(1479.19,868.33)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:35.98,0:05:36.02,Signs,,0,0,0,***,{\an8\pos(1479.19,867.11)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.02,0:05:36.07,Signs,,0,0,0,***,{\an8\pos(1479.19,865.9)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.07,0:05:36.11,Signs,,0,0,0,***,{\an8\pos(1479.19,864.66)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.11,0:05:36.15,Signs,,0,0,0,***,{\an8\pos(1479.19,863.43)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.15,0:05:36.19,Signs,,0,0,0,***,{\an8\pos(1479.19,862.21)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.19,0:05:36.23,Signs,,0,0,0,***,{\an8\pos(1479.19,860.97)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.23,0:05:36.27,Signs,,0,0,0,***,{\an8\pos(1479.19,859.76)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.27,0:05:36.32,Signs,,0,0,0,***,{\an8\pos(1479.19,858.54)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.32,0:05:36.36,Signs,,0,0,0,***,{\an8\pos(1479.19,857.31)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.36,0:05:36.40,Signs,,0,0,0,***,{\an8\pos(1479.19,856.04)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.40,0:05:36.44,Signs,,0,0,0,***,{\an8\pos(1479.19,854.85)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.44,0:05:36.48,Signs,,0,0,0,***,{\an8\pos(1479.19,853.63)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.48,0:05:36.52,Signs,,0,0,0,***,{\an8\pos(1479.19,852.39)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.52,0:05:36.57,Signs,,0,0,0,***,{\an8\pos(1479.19,851.13)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.57,0:05:36.61,Signs,,0,0,0,***,{\an8\pos(1479.19,849.92)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.61,0:05:36.65,Signs,,0,0,0,***,{\an8\pos(1479.19,848.75)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.65,0:05:36.69,Signs,,0,0,0,***,{\an8\pos(1479.19,847.49)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.69,0:05:36.73,Signs,,0,0,0,***,{\an8\pos(1479.19,846.21)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.73,0:05:36.77,Signs,,0,0,0,***,{\an8\pos(1479.19,845.04)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.77,0:05:36.82,Signs,,0,0,0,***,{\an8\pos(1479.19,843.84)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.82,0:05:36.86,Signs,,0,0,0,***,{\an8\pos(1479.19,842.59)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.86,0:05:36.90,Signs,,0,0,0,***,{\an8\pos(1479.19,841.34)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.90,0:05:36.94,Signs,,0,0,0,***,{\an8\pos(1479.19,840.12)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.94,0:05:36.98,Signs,,0,0,0,***,{\an8\pos(1479.19,838.93)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:36.98,0:05:37.02,Signs,,0,0,0,***,{\an8\pos(1479.19,837.66)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:37.02,0:05:37.07,Signs,,0,0,0,***,{\an8\pos(1479.19,836.42)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:37.07,0:05:37.11,Signs,,0,0,0,***,{\an8\pos(1479.19,835.19)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 4,0:05:37.11,0:05:37.15,Signs,,0,0,0,***,{\an8\pos(1479.19,834.11)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.73}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.14,0:05:32.19,Signs,,0,0,0,***,{\an8\pos(1479.2,980)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.19,0:05:32.23,Signs,,0,0,0,***,{\an8\pos(1479.2,978.76)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.23,0:05:32.27,Signs,,0,0,0,***,{\an8\pos(1479.2,977.52)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.27,0:05:32.31,Signs,,0,0,0,***,{\an8\pos(1479.2,976.27)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.31,0:05:32.35,Signs,,0,0,0,***,{\an8\pos(1479.2,975.03)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.35,0:05:32.40,Signs,,0,0,0,***,{\an8\pos(1479.2,973.85)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.40,0:05:32.44,Signs,,0,0,0,***,{\an8\pos(1479.2,972.61)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.44,0:05:32.48,Signs,,0,0,0,***,{\an8\pos(1479.2,971.36)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.48,0:05:32.52,Signs,,0,0,0,***,{\an8\pos(1479.2,970.1)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.52,0:05:32.56,Signs,,0,0,0,***,{\an8\pos(1479.2,968.91)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.56,0:05:32.60,Signs,,0,0,0,***,{\an8\pos(1479.2,967.72)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.60,0:05:32.65,Signs,,0,0,0,***,{\an8\pos(1479.19,966.46)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.65,0:05:32.69,Signs,,0,0,0,***,{\an8\pos(1479.19,965.2)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.69,0:05:32.73,Signs,,0,0,0,***,{\an8\pos(1479.19,963.99)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.73,0:05:32.77,Signs,,0,0,0,***,{\an8\pos(1479.2,962.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.77,0:05:32.81,Signs,,0,0,0,***,{\an8\pos(1479.2,961.58)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.81,0:05:32.85,Signs,,0,0,0,***,{\an8\pos(1479.2,960.31)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.85,0:05:32.90,Signs,,0,0,0,***,{\an8\pos(1479.19,959.08)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.90,0:05:32.94,Signs,,0,0,0,***,{\an8\pos(1479.2,957.92)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.94,0:05:32.98,Signs,,0,0,0,***,{\an8\pos(1479.2,956.66)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:32.98,0:05:33.02,Signs,,0,0,0,***,{\an8\pos(1479.2,955.42)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.02,0:05:33.06,Signs,,0,0,0,***,{\an8\pos(1479.2,954.18)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.06,0:05:33.10,Signs,,0,0,0,***,{\an8\pos(1479.2,952.98)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.10,0:05:33.15,Signs,,0,0,0,***,{\an8\pos(1479.2,951.74)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.15,0:05:33.19,Signs,,0,0,0,***,{\an8\pos(1479.19,950.52)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.19,0:05:33.23,Signs,,0,0,0,***,{\an8\pos(1479.19,949.29)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.23,0:05:33.27,Signs,,0,0,0,***,{\an8\pos(1479.19,948.03)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.27,0:05:33.31,Signs,,0,0,0,***,{\an8\pos(1479.19,946.79)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.31,0:05:33.35,Signs,,0,0,0,***,{\an8\pos(1479.19,945.61)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.35,0:05:33.40,Signs,,0,0,0,***,{\an8\pos(1479.19,944.37)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.40,0:05:33.44,Signs,,0,0,0,***,{\an8\pos(1479.19,943.11)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.44,0:05:33.48,Signs,,0,0,0,***,{\an8\pos(1479.19,941.87)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.48,0:05:33.52,Signs,,0,0,0,***,{\an8\pos(1479.19,940.73)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.52,0:05:33.56,Signs,,0,0,0,***,{\an8\pos(1479.19,939.49)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.56,0:05:33.60,Signs,,0,0,0,***,{\an8\pos(1479.19,938.22)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.60,0:05:33.65,Signs,,0,0,0,***,{\an8\pos(1479.19,936.98)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.65,0:05:33.69,Signs,,0,0,0,***,{\an8\pos(1479.19,935.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.69,0:05:33.73,Signs,,0,0,0,***,{\an8\pos(1479.19,934.59)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.73,0:05:33.77,Signs,,0,0,0,***,{\an8\pos(1479.19,933.33)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.77,0:05:33.81,Signs,,0,0,0,***,{\an8\pos(1479.19,932.09)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.81,0:05:33.86,Signs,,0,0,0,***,{\an8\pos(1479.19,930.93)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.86,0:05:33.90,Signs,,0,0,0,***,{\an8\pos(1479.19,929.7)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.90,0:05:33.94,Signs,,0,0,0,***,{\an8\pos(1479.19,928.42)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.94,0:05:33.98,Signs,,0,0,0,***,{\an8\pos(1479.19,927.18)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:33.98,0:05:34.02,Signs,,0,0,0,***,{\an8\pos(1479.19,926.01)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.02,0:05:34.06,Signs,,0,0,0,***,{\an8\pos(1479.19,924.77)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.06,0:05:34.11,Signs,,0,0,0,***,{\an8\pos(1479.19,923.54)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.11,0:05:34.15,Signs,,0,0,0,***,{\an8\pos(1479.19,922.29)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.15,0:05:34.19,Signs,,0,0,0,***,{\an8\pos(1479.19,921.07)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.19,0:05:34.23,Signs,,0,0,0,***,{\an8\pos(1479.19,919.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.23,0:05:34.27,Signs,,0,0,0,***,{\an8\pos(1479.19,918.64)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.27,0:05:34.31,Signs,,0,0,0,***,{\an8\pos(1479.19,917.41)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.31,0:05:34.36,Signs,,0,0,0,***,{\an8\pos(1479.19,916.15)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.36,0:05:34.40,Signs,,0,0,0,***,{\an8\pos(1479.19,914.91)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.40,0:05:34.44,Signs,,0,0,0,***,{\an8\pos(1479.19,913.75)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.44,0:05:34.48,Signs,,0,0,0,***,{\an8\pos(1479.19,912.52)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.48,0:05:34.52,Signs,,0,0,0,***,{\an8\pos(1479.19,911.26)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.52,0:05:34.56,Signs,,0,0,0,***,{\an8\pos(1479.19,910.01)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.56,0:05:34.61,Signs,,0,0,0,***,{\an8\pos(1479.19,908.85)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.61,0:05:34.65,Signs,,0,0,0,***,{\an8\pos(1479.19,907.62)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.65,0:05:34.69,Signs,,0,0,0,***,{\an8\pos(1479.19,906.36)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.69,0:05:34.73,Signs,,0,0,0,***,{\an8\pos(1479.19,905.1)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.73,0:05:34.77,Signs,,0,0,0,***,{\an8\pos(1479.19,903.93)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.77,0:05:34.81,Signs,,0,0,0,***,{\an8\pos(1479.19,902.72)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.81,0:05:34.86,Signs,,0,0,0,***,{\an8\pos(1479.19,901.44)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.86,0:05:34.90,Signs,,0,0,0,***,{\an8\pos(1479.19,900.19)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.90,0:05:34.94,Signs,,0,0,0,***,{\an8\pos(1479.19,899.02)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.94,0:05:34.98,Signs,,0,0,0,***,{\an8\pos(1479.19,897.81)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:34.98,0:05:35.02,Signs,,0,0,0,***,{\an8\pos(1479.19,896.55)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.02,0:05:35.06,Signs,,0,0,0,***,{\an8\pos(1479.19,895.31)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.06,0:05:35.11,Signs,,0,0,0,***,{\an8\pos(1479.2,894.08)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.11,0:05:35.15,Signs,,0,0,0,***,{\an8\pos(1479.19,892.89)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.15,0:05:35.19,Signs,,0,0,0,***,{\an8\pos(1479.19,891.64)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.19,0:05:35.23,Signs,,0,0,0,***,{\an8\pos(1479.19,890.4)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.23,0:05:35.27,Signs,,0,0,0,***,{\an8\pos(1479.2,889.18)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.27,0:05:35.31,Signs,,0,0,0,***,{\an8\pos(1479.19,887.94)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.31,0:05:35.36,Signs,,0,0,0,***,{\an8\pos(1479.19,886.76)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.36,0:05:35.40,Signs,,0,0,0,***,{\an8\pos(1479.19,885.53)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.40,0:05:35.44,Signs,,0,0,0,***,{\an8\pos(1479.19,884.3)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.44,0:05:35.48,Signs,,0,0,0,***,{\an8\pos(1479.19,883.04)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.48,0:05:35.52,Signs,,0,0,0,***,{\an8\pos(1479.19,881.86)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.52,0:05:35.57,Signs,,0,0,0,***,{\an8\pos(1479.19,880.63)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.57,0:05:35.61,Signs,,0,0,0,***,{\an8\pos(1479.19,879.39)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.61,0:05:35.65,Signs,,0,0,0,***,{\an8\pos(1479.19,878.14)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.65,0:05:35.69,Signs,,0,0,0,***,{\an8\pos(1479.19,876.96)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.69,0:05:35.73,Signs,,0,0,0,***,{\an8\pos(1479.19,875.74)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.73,0:05:35.77,Signs,,0,0,0,***,{\an8\pos(1479.19,874.48)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.77,0:05:35.82,Signs,,0,0,0,***,{\an8\pos(1479.19,873.23)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.82,0:05:35.86,Signs,,0,0,0,***,{\an8\pos(1479.19,872.03)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.86,0:05:35.90,Signs,,0,0,0,***,{\an8\pos(1479.19,870.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.90,0:05:35.94,Signs,,0,0,0,***,{\an8\pos(1479.19,869.57)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.94,0:05:35.98,Signs,,0,0,0,***,{\an8\pos(1479.19,868.33)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:35.98,0:05:36.02,Signs,,0,0,0,***,{\an8\pos(1479.19,867.11)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.02,0:05:36.07,Signs,,0,0,0,***,{\an8\pos(1479.19,865.9)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.07,0:05:36.11,Signs,,0,0,0,***,{\an8\pos(1479.19,864.66)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.11,0:05:36.15,Signs,,0,0,0,***,{\an8\pos(1479.19,863.43)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.15,0:05:36.19,Signs,,0,0,0,***,{\an8\pos(1479.19,862.21)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.19,0:05:36.23,Signs,,0,0,0,***,{\an8\pos(1479.19,860.97)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.23,0:05:36.27,Signs,,0,0,0,***,{\an8\pos(1479.19,859.76)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.27,0:05:36.32,Signs,,0,0,0,***,{\an8\pos(1479.19,858.54)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.32,0:05:36.36,Signs,,0,0,0,***,{\an8\pos(1479.19,857.31)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.36,0:05:36.40,Signs,,0,0,0,***,{\an8\pos(1479.19,856.04)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.40,0:05:36.44,Signs,,0,0,0,***,{\an8\pos(1479.19,854.85)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.44,0:05:36.48,Signs,,0,0,0,***,{\an8\pos(1479.19,853.63)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.48,0:05:36.52,Signs,,0,0,0,***,{\an8\pos(1479.19,852.39)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.52,0:05:36.57,Signs,,0,0,0,***,{\an8\pos(1479.19,851.13)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.57,0:05:36.61,Signs,,0,0,0,***,{\an8\pos(1479.19,849.92)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.61,0:05:36.65,Signs,,0,0,0,***,{\an8\pos(1479.19,848.75)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.65,0:05:36.69,Signs,,0,0,0,***,{\an8\pos(1479.19,847.49)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.69,0:05:36.73,Signs,,0,0,0,***,{\an8\pos(1479.19,846.21)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.73,0:05:36.77,Signs,,0,0,0,***,{\an8\pos(1479.19,845.04)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.77,0:05:36.82,Signs,,0,0,0,***,{\an8\pos(1479.19,843.84)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.82,0:05:36.86,Signs,,0,0,0,***,{\an8\pos(1479.19,842.59)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.86,0:05:36.90,Signs,,0,0,0,***,{\an8\pos(1479.19,841.34)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.90,0:05:36.94,Signs,,0,0,0,***,{\an8\pos(1479.19,840.12)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.94,0:05:36.98,Signs,,0,0,0,***,{\an8\pos(1479.19,838.93)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:36.98,0:05:37.02,Signs,,0,0,0,***,{\an8\pos(1479.19,837.66)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:37.02,0:05:37.07,Signs,,0,0,0,***,{\an8\pos(1479.19,836.42)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:37.07,0:05:37.11,Signs,,0,0,0,***,{\an8\pos(1479.19,835.19)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 4,0:05:37.11,0:05:37.15,Signs,,0,0,0,***,{\an8\pos(1479.19,834.11)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 0,0:05:34.94,0:05:34.98,<<folder>>,,0,0,0,,
+Comment: 4,0:05:32.14,0:05:32.19,Signs,,0,0,0,***,{\an8\pos(1479.2,980)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.19,0:05:32.23,Signs,,0,0,0,***,{\an8\pos(1479.2,978.76)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.23,0:05:32.27,Signs,,0,0,0,***,{\an8\pos(1479.2,977.52)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.27,0:05:32.31,Signs,,0,0,0,***,{\an8\pos(1479.2,976.27)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.31,0:05:32.35,Signs,,0,0,0,***,{\an8\pos(1479.2,975.03)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.35,0:05:32.40,Signs,,0,0,0,***,{\an8\pos(1479.2,973.85)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.40,0:05:32.44,Signs,,0,0,0,***,{\an8\pos(1479.2,972.61)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.44,0:05:32.48,Signs,,0,0,0,***,{\an8\pos(1479.2,971.36)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.48,0:05:32.52,Signs,,0,0,0,***,{\an8\pos(1479.2,970.1)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.52,0:05:32.56,Signs,,0,0,0,***,{\an8\pos(1479.2,968.91)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.56,0:05:32.60,Signs,,0,0,0,***,{\an8\pos(1479.2,967.72)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.60,0:05:32.65,Signs,,0,0,0,***,{\an8\pos(1479.19,966.46)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.65,0:05:32.69,Signs,,0,0,0,***,{\an8\pos(1479.19,965.2)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.69,0:05:32.73,Signs,,0,0,0,***,{\an8\pos(1479.19,963.99)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.73,0:05:32.77,Signs,,0,0,0,***,{\an8\pos(1479.2,962.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.77,0:05:32.81,Signs,,0,0,0,***,{\an8\pos(1479.2,961.58)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.81,0:05:32.85,Signs,,0,0,0,***,{\an8\pos(1479.2,960.31)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.85,0:05:32.90,Signs,,0,0,0,***,{\an8\pos(1479.19,959.08)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.90,0:05:32.94,Signs,,0,0,0,***,{\an8\pos(1479.2,957.92)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.94,0:05:32.98,Signs,,0,0,0,***,{\an8\pos(1479.2,956.66)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:32.98,0:05:33.02,Signs,,0,0,0,***,{\an8\pos(1479.2,955.42)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.02,0:05:33.06,Signs,,0,0,0,***,{\an8\pos(1479.2,954.18)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.06,0:05:33.10,Signs,,0,0,0,***,{\an8\pos(1479.2,952.98)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.10,0:05:33.15,Signs,,0,0,0,***,{\an8\pos(1479.2,951.74)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.15,0:05:33.19,Signs,,0,0,0,***,{\an8\pos(1479.19,950.52)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.19,0:05:33.23,Signs,,0,0,0,***,{\an8\pos(1479.19,949.29)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.23,0:05:33.27,Signs,,0,0,0,***,{\an8\pos(1479.19,948.03)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.27,0:05:33.31,Signs,,0,0,0,***,{\an8\pos(1479.19,946.79)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.31,0:05:33.35,Signs,,0,0,0,***,{\an8\pos(1479.19,945.61)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.35,0:05:33.40,Signs,,0,0,0,***,{\an8\pos(1479.19,944.37)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.40,0:05:33.44,Signs,,0,0,0,***,{\an8\pos(1479.19,943.11)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.44,0:05:33.48,Signs,,0,0,0,***,{\an8\pos(1479.19,941.87)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.48,0:05:33.52,Signs,,0,0,0,***,{\an8\pos(1479.19,940.73)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.52,0:05:33.56,Signs,,0,0,0,***,{\an8\pos(1479.19,939.49)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.56,0:05:33.60,Signs,,0,0,0,***,{\an8\pos(1479.19,938.22)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.60,0:05:33.65,Signs,,0,0,0,***,{\an8\pos(1479.19,936.98)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.65,0:05:33.69,Signs,,0,0,0,***,{\an8\pos(1479.19,935.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.69,0:05:33.73,Signs,,0,0,0,***,{\an8\pos(1479.19,934.59)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.73,0:05:33.77,Signs,,0,0,0,***,{\an8\pos(1479.19,933.33)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.77,0:05:33.81,Signs,,0,0,0,***,{\an8\pos(1479.19,932.09)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.81,0:05:33.86,Signs,,0,0,0,***,{\an8\pos(1479.19,930.93)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.86,0:05:33.90,Signs,,0,0,0,***,{\an8\pos(1479.19,929.7)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.90,0:05:33.94,Signs,,0,0,0,***,{\an8\pos(1479.19,928.42)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.94,0:05:33.98,Signs,,0,0,0,***,{\an8\pos(1479.19,927.18)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:33.98,0:05:34.02,Signs,,0,0,0,***,{\an8\pos(1479.19,926.01)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.02,0:05:34.06,Signs,,0,0,0,***,{\an8\pos(1479.19,924.77)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.06,0:05:34.11,Signs,,0,0,0,***,{\an8\pos(1479.19,923.54)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.11,0:05:34.15,Signs,,0,0,0,***,{\an8\pos(1479.19,922.29)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.15,0:05:34.19,Signs,,0,0,0,***,{\an8\pos(1479.19,921.07)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.19,0:05:34.23,Signs,,0,0,0,***,{\an8\pos(1479.19,919.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.23,0:05:34.27,Signs,,0,0,0,***,{\an8\pos(1479.19,918.64)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.27,0:05:34.31,Signs,,0,0,0,***,{\an8\pos(1479.19,917.41)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.31,0:05:34.36,Signs,,0,0,0,***,{\an8\pos(1479.19,916.15)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.36,0:05:34.40,Signs,,0,0,0,***,{\an8\pos(1479.19,914.91)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.40,0:05:34.44,Signs,,0,0,0,***,{\an8\pos(1479.19,913.75)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.44,0:05:34.48,Signs,,0,0,0,***,{\an8\pos(1479.19,912.52)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.48,0:05:34.52,Signs,,0,0,0,***,{\an8\pos(1479.19,911.26)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.52,0:05:34.56,Signs,,0,0,0,***,{\an8\pos(1479.19,910.01)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.56,0:05:34.61,Signs,,0,0,0,***,{\an8\pos(1479.19,908.85)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.61,0:05:34.65,Signs,,0,0,0,***,{\an8\pos(1479.19,907.62)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.65,0:05:34.69,Signs,,0,0,0,***,{\an8\pos(1479.19,906.36)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.69,0:05:34.73,Signs,,0,0,0,***,{\an8\pos(1479.19,905.1)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.73,0:05:34.77,Signs,,0,0,0,***,{\an8\pos(1479.19,903.93)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.77,0:05:34.81,Signs,,0,0,0,***,{\an8\pos(1479.19,902.72)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.81,0:05:34.86,Signs,,0,0,0,***,{\an8\pos(1479.19,901.44)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.86,0:05:34.90,Signs,,0,0,0,***,{\an8\pos(1479.19,900.19)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.90,0:05:34.94,Signs,,0,0,0,***,{\an8\pos(1479.19,899.02)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.94,0:05:34.98,Signs,,0,0,0,***,{\an8\pos(1479.19,897.81)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:34.98,0:05:35.02,Signs,,0,0,0,***,{\an8\pos(1479.19,896.55)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.02,0:05:35.06,Signs,,0,0,0,***,{\an8\pos(1479.19,895.31)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.06,0:05:35.11,Signs,,0,0,0,***,{\an8\pos(1479.2,894.08)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.11,0:05:35.15,Signs,,0,0,0,***,{\an8\pos(1479.19,892.89)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.15,0:05:35.19,Signs,,0,0,0,***,{\an8\pos(1479.19,891.64)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.19,0:05:35.23,Signs,,0,0,0,***,{\an8\pos(1479.19,890.4)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.23,0:05:35.27,Signs,,0,0,0,***,{\an8\pos(1479.2,889.18)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.27,0:05:35.31,Signs,,0,0,0,***,{\an8\pos(1479.19,887.94)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.31,0:05:35.36,Signs,,0,0,0,***,{\an8\pos(1479.19,886.76)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.36,0:05:35.40,Signs,,0,0,0,***,{\an8\pos(1479.19,885.53)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.40,0:05:35.44,Signs,,0,0,0,***,{\an8\pos(1479.19,884.3)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.44,0:05:35.48,Signs,,0,0,0,***,{\an8\pos(1479.19,883.04)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.48,0:05:35.52,Signs,,0,0,0,***,{\an8\pos(1479.19,881.86)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.52,0:05:35.57,Signs,,0,0,0,***,{\an8\pos(1479.19,880.63)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.57,0:05:35.61,Signs,,0,0,0,***,{\an8\pos(1479.19,879.39)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.61,0:05:35.65,Signs,,0,0,0,***,{\an8\pos(1479.19,878.14)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.65,0:05:35.69,Signs,,0,0,0,***,{\an8\pos(1479.19,876.96)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.69,0:05:35.73,Signs,,0,0,0,***,{\an8\pos(1479.19,875.74)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.73,0:05:35.77,Signs,,0,0,0,***,{\an8\pos(1479.19,874.48)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.77,0:05:35.82,Signs,,0,0,0,***,{\an8\pos(1479.19,873.23)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.82,0:05:35.86,Signs,,0,0,0,***,{\an8\pos(1479.19,872.03)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.86,0:05:35.90,Signs,,0,0,0,***,{\an8\pos(1479.19,870.83)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.90,0:05:35.94,Signs,,0,0,0,***,{\an8\pos(1479.19,869.57)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.94,0:05:35.98,Signs,,0,0,0,***,{\an8\pos(1479.19,868.33)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:35.98,0:05:36.02,Signs,,0,0,0,***,{\an8\pos(1479.19,867.11)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.02,0:05:36.07,Signs,,0,0,0,***,{\an8\pos(1479.19,865.9)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.07,0:05:36.11,Signs,,0,0,0,***,{\an8\pos(1479.19,864.66)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.11,0:05:36.15,Signs,,0,0,0,***,{\an8\pos(1479.19,863.43)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.15,0:05:36.19,Signs,,0,0,0,***,{\an8\pos(1479.19,862.21)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.19,0:05:36.23,Signs,,0,0,0,***,{\an8\pos(1479.19,860.97)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.23,0:05:36.27,Signs,,0,0,0,***,{\an8\pos(1479.19,859.76)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.27,0:05:36.32,Signs,,0,0,0,***,{\an8\pos(1479.19,858.54)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.32,0:05:36.36,Signs,,0,0,0,***,{\an8\pos(1479.19,857.31)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.36,0:05:36.40,Signs,,0,0,0,***,{\an8\pos(1479.19,856.04)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.40,0:05:36.44,Signs,,0,0,0,***,{\an8\pos(1479.19,854.85)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.44,0:05:36.48,Signs,,0,0,0,***,{\an8\pos(1479.19,853.63)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.48,0:05:36.52,Signs,,0,0,0,***,{\an8\pos(1479.19,852.39)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.52,0:05:36.57,Signs,,0,0,0,***,{\an8\pos(1479.19,851.13)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.57,0:05:36.61,Signs,,0,0,0,***,{\an8\pos(1479.19,849.92)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.61,0:05:36.65,Signs,,0,0,0,***,{\an8\pos(1479.19,848.75)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.65,0:05:36.69,Signs,,0,0,0,***,{\an8\pos(1479.19,847.49)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.69,0:05:36.73,Signs,,0,0,0,***,{\an8\pos(1479.19,846.21)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.73,0:05:36.77,Signs,,0,0,0,***,{\an8\pos(1479.19,845.04)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.77,0:05:36.82,Signs,,0,0,0,***,{\an8\pos(1479.19,843.84)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.82,0:05:36.86,Signs,,0,0,0,***,{\an8\pos(1479.19,842.59)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.86,0:05:36.90,Signs,,0,0,0,***,{\an8\pos(1479.19,841.34)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.90,0:05:36.94,Signs,,0,0,0,***,{\an8\pos(1479.19,840.12)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.94,0:05:36.98,Signs,,0,0,0,***,{\an8\pos(1479.19,838.93)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:36.98,0:05:37.02,Signs,,0,0,0,***,{\an8\pos(1479.19,837.66)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:37.02,0:05:37.07,Signs,,0,0,0,***,{\an8\pos(1479.19,836.42)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H676A6A&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:37.07,0:05:37.11,Signs,,0,0,0,***,{\an8\pos(1479.19,835.19)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 4,0:05:37.11,0:05:37.15,Signs,,0,0,0,***,{\an8\pos(1479.19,834.11)\frz6.774\fnKG Shadow of the Day\fs32\b1\c&H606363&\3c&HF9FDFA&\blur0.8}Assimilate With Tengen-sama\NAfter Sunset!
 Dialogue: 0,0:05:34.94,0:05:34.98,<<folder>>,,0,0,0,,
 Dialogue: 2,0:05:35.36,0:05:35.40,Signs,,0,0,0,,{\pos(1525.33,1099.97)\frz5.708\fnKG Shadow of the Day\fs30\c&H5E6161&\blur0.76}Escort Mission Complete!
 Dialogue: 2,0:05:35.40,0:05:35.44,Signs,,0,0,0,,{\pos(1525.33,1098.7)\frz5.708\fnKG Shadow of the Day\fs30\c&H5E6161&\blur0.76}Escort Mission Complete!
@@ -4000,125 +4121,245 @@ Dialogue: 2,0:05:41.99,0:05:42.03,Signs,glow-end,0,0,0,,{\pos(293.42,80.47)\c&HF
 Dialogue: 2,0:05:42.03,0:05:42.07,Signs,glow-end,0,0,0,,{\pos(293.42,79.88)\c&HFAFAFA&\blur15\p1\b1}m 648.45 398.04 l 752.63 422.41 723.29 283.21 1095.73 213.33 1120.27 331.21 1175.56 356.28 1192.63 287.48 1174.14 150.4 1109.61 121.07 655.38 183.11 605.25 238.05
 Dialogue: 2,0:05:42.07,0:05:42.11,Signs,glow-end,0,0,0,,{\pos(293.42,79.15)\c&HF6F6F6&\blur15\p1\b1}m 648.45 398.04 l 752.63 422.41 723.29 283.21 1095.73 213.33 1120.27 331.21 1175.56 356.28 1192.63 287.48 1174.14 150.4 1109.61 121.07 655.38 183.11 605.25 238.05
 Dialogue: 0,0:05:37.15,0:05:37.19,<<folder>>,,0,0,0,,
-Dialogue: 3,0:05:37.15,0:05:37.19,Signs,,0,0,0,***,{\pos(963.53,348.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.19,0:05:37.23,Signs,,0,0,0,***,{\pos(963.53,348.2)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.23,0:05:37.28,Signs,,0,0,0,***,{\pos(963.53,347.5)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.28,0:05:37.32,Signs,,0,0,0,***,{\pos(963.53,346.85)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.32,0:05:37.36,Signs,,0,0,0,***,{\pos(963.53,346.13)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.36,0:05:37.40,Signs,,0,0,0,***,{\pos(963.53,345.43)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.40,0:05:37.44,Signs,,0,0,0,***,{\pos(963.53,344.75)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.44,0:05:37.48,Signs,,0,0,0,***,{\pos(963.53,344.1)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.48,0:05:37.53,Signs,,0,0,0,***,{\pos(963.53,343.39)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.53,0:05:37.57,Signs,,0,0,0,***,{\pos(963.53,342.7)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.57,0:05:37.61,Signs,,0,0,0,***,{\pos(963.53,342.11)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.61,0:05:37.65,Signs,,0,0,0,***,{\pos(963.53,341.38)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.65,0:05:37.69,Signs,,0,0,0,***,{\pos(963.53,340.75)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.69,0:05:37.73,Signs,,0,0,0,***,{\pos(963.53,340.04)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.73,0:05:37.78,Signs,,0,0,0,***,{\pos(963.53,339.38)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.78,0:05:37.82,Signs,,0,0,0,***,{\pos(963.53,338.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.82,0:05:37.86,Signs,,0,0,0,***,{\pos(963.53,337.98)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.86,0:05:37.90,Signs,,0,0,0,***,{\pos(963.53,337.32)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.90,0:05:37.94,Signs,,0,0,0,***,{\pos(963.53,336.62)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.94,0:05:37.98,Signs,,0,0,0,***,{\pos(963.53,335.97)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:37.98,0:05:38.03,Signs,,0,0,0,***,{\pos(963.53,335.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.03,0:05:38.07,Signs,,0,0,0,***,{\pos(963.53,334.66)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.07,0:05:38.11,Signs,,0,0,0,***,{\pos(963.53,333.98)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.11,0:05:38.15,Signs,,0,0,0,***,{\pos(963.53,333.27)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.15,0:05:38.19,Signs,,0,0,0,***,{\pos(963.53,332.62)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.19,0:05:38.23,Signs,,0,0,0,***,{\pos(963.53,331.89)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.23,0:05:38.28,Signs,,0,0,0,***,{\pos(963.53,331.24)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.28,0:05:38.32,Signs,,0,0,0,***,{\pos(963.53,330.52)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.32,0:05:38.36,Signs,,0,0,0,***,{\pos(963.53,329.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.36,0:05:38.40,Signs,,0,0,0,***,{\pos(963.53,329.16)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.40,0:05:38.44,Signs,,0,0,0,***,{\pos(963.53,328.49)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.44,0:05:38.48,Signs,,0,0,0,***,{\pos(963.53,327.87)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.48,0:05:38.53,Signs,,0,0,0,***,{\pos(963.53,327.14)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.53,0:05:38.57,Signs,,0,0,0,***,{\pos(963.53,326.48)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.57,0:05:38.61,Signs,,0,0,0,***,{\pos(963.53,325.78)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.61,0:05:38.65,Signs,,0,0,0,***,{\pos(963.53,325.14)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.65,0:05:38.69,Signs,,0,0,0,***,{\pos(963.53,324.43)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.69,0:05:38.73,Signs,,0,0,0,***,{\pos(963.53,323.71)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.73,0:05:38.78,Signs,,0,0,0,***,{\pos(963.53,323.11)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.78,0:05:38.82,Signs,,0,0,0,***,{\pos(963.53,322.39)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.82,0:05:38.86,Signs,,0,0,0,***,{\pos(963.53,321.76)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.86,0:05:38.90,Signs,,0,0,0,***,{\pos(963.53,321.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.90,0:05:38.94,Signs,,0,0,0,***,{\pos(963.53,320.41)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.94,0:05:38.99,Signs,,0,0,0,***,{\pos(963.53,319.72)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:38.99,0:05:39.03,Signs,,0,0,0,***,{\pos(963.53,319.03)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.03,0:05:39.07,Signs,,0,0,0,***,{\pos(963.53,318.31)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.07,0:05:39.11,Signs,,0,0,0,***,{\pos(963.53,317.63)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.11,0:05:39.15,Signs,,0,0,0,***,{\pos(963.53,317.02)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.15,0:05:39.19,Signs,,0,0,0,***,{\pos(963.53,316.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.19,0:05:39.24,Signs,,0,0,0,***,{\pos(963.53,315.61)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.24,0:05:39.28,Signs,,0,0,0,***,{\pos(963.53,315.01)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.28,0:05:39.32,Signs,,0,0,0,***,{\pos(963.53,314.29)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.32,0:05:39.36,Signs,,0,0,0,***,{\pos(963.53,313.63)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.36,0:05:39.40,Signs,,0,0,0,***,{\pos(963.53,312.91)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.40,0:05:39.44,Signs,,0,0,0,***,{\pos(963.53,312.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.44,0:05:39.49,Signs,,0,0,0,***,{\pos(963.53,311.54)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.49,0:05:39.53,Signs,,0,0,0,***,{\pos(963.53,310.9)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.53,0:05:39.57,Signs,,0,0,0,***,{\pos(963.53,310.19)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.57,0:05:39.61,Signs,,0,0,0,***,{\pos(963.53,309.5)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.61,0:05:39.65,Signs,,0,0,0,***,{\pos(963.53,308.91)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.65,0:05:39.69,Signs,,0,0,0,***,{\pos(963.53,308.19)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.69,0:05:39.74,Signs,,0,0,0,***,{\pos(963.53,307.55)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.74,0:05:39.78,Signs,,0,0,0,***,{\pos(963.53,306.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.78,0:05:39.82,Signs,,0,0,0,***,{\pos(963.53,306.18)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.82,0:05:39.86,Signs,,0,0,0,***,{\pos(963.53,305.49)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.86,0:05:39.90,Signs,,0,0,0,***,{\pos(963.53,304.79)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.90,0:05:39.94,Signs,,0,0,0,***,{\pos(963.53,304.12)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.94,0:05:39.99,Signs,,0,0,0,***,{\pos(963.53,303.4)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:39.99,0:05:40.03,Signs,,0,0,0,***,{\pos(963.53,302.78)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.03,0:05:40.07,Signs,,0,0,0,***,{\pos(963.53,302.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.07,0:05:40.11,Signs,,0,0,0,***,{\pos(963.53,301.45)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.11,0:05:40.15,Signs,,0,0,0,***,{\pos(963.53,300.76)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.15,0:05:40.19,Signs,,0,0,0,***,{\pos(963.53,300.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.19,0:05:40.24,Signs,,0,0,0,***,{\pos(963.53,299.41)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.24,0:05:40.28,Signs,,0,0,0,***,{\pos(963.53,298.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.28,0:05:40.32,Signs,,0,0,0,***,{\pos(963.53,298.02)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.32,0:05:40.36,Signs,,0,0,0,***,{\pos(963.53,297.34)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.36,0:05:40.40,Signs,,0,0,0,***,{\pos(963.52,296.67)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.40,0:05:40.44,Signs,,0,0,0,***,{\pos(963.53,295.95)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.44,0:05:40.49,Signs,,0,0,0,***,{\pos(963.53,295.29)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.49,0:05:40.53,Signs,,0,0,0,***,{\pos(963.52,294.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.53,0:05:40.57,Signs,,0,0,0,***,{\pos(963.53,293.95)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.57,0:05:40.61,Signs,,0,0,0,***,{\pos(963.52,293.32)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.61,0:05:40.65,Signs,,0,0,0,***,{\pos(963.53,292.64)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.65,0:05:40.70,Signs,,0,0,0,***,{\pos(963.53,291.94)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.70,0:05:40.74,Signs,,0,0,0,***,{\pos(963.52,291.23)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.74,0:05:40.78,Signs,,0,0,0,***,{\pos(963.53,290.52)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.78,0:05:40.82,Signs,,0,0,0,***,{\pos(963.52,289.93)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.82,0:05:40.86,Signs,,0,0,0,***,{\pos(963.53,289.19)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.86,0:05:40.90,Signs,,0,0,0,***,{\pos(963.52,288.53)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.90,0:05:40.95,Signs,,0,0,0,***,{\pos(963.53,287.87)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.95,0:05:40.99,Signs,,0,0,0,***,{\pos(963.53,287.2)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:40.99,0:05:41.03,Signs,,0,0,0,***,{\pos(963.53,286.51)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.03,0:05:41.07,Signs,,0,0,0,***,{\pos(963.53,285.81)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.07,0:05:41.11,Signs,,0,0,0,***,{\pos(963.53,285.17)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.11,0:05:41.15,Signs,,0,0,0,***,{\pos(963.52,284.45)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.15,0:05:41.20,Signs,,0,0,0,***,{\pos(963.53,283.78)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.20,0:05:41.24,Signs,,0,0,0,***,{\pos(963.52,283.06)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.24,0:05:41.28,Signs,,0,0,0,***,{\pos(963.53,282.4)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.28,0:05:41.32,Signs,,0,0,0,***,{\pos(963.52,281.74)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.32,0:05:41.36,Signs,,0,0,0,***,{\pos(963.52,281.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.36,0:05:41.40,Signs,,0,0,0,***,{\pos(963.53,280.44)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.40,0:05:41.45,Signs,,0,0,0,***,{\pos(963.52,279.71)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.45,0:05:41.49,Signs,,0,0,0,***,{\pos(963.53,279.03)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.49,0:05:41.53,Signs,,0,0,0,***,{\pos(963.52,278.35)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.53,0:05:41.57,Signs,,0,0,0,***,{\pos(963.52,277.7)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.57,0:05:41.61,Signs,,0,0,0,***,{\pos(963.53,276.98)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.61,0:05:41.65,Signs,,0,0,0,***,{\pos(963.52,276.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.65,0:05:41.70,Signs,,0,0,0,***,{\pos(963.52,275.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.70,0:05:41.74,Signs,,0,0,0,***,{\pos(963.52,274.96)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.74,0:05:41.78,Signs,,0,0,0,***,{\pos(963.52,274.34)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.78,0:05:41.82,Signs,,0,0,0,***,{\pos(963.52,273.65)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.82,0:05:41.86,Signs,,0,0,0,***,{\pos(963.52,272.97)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.86,0:05:41.90,Signs,,0,0,0,***,{\pos(963.53,272.29)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.90,0:05:41.95,Signs,,0,0,0,***,{\pos(963.53,271.6)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.95,0:05:41.99,Signs,,0,0,0,***,{\pos(963.52,270.9)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:41.99,0:05:42.03,Signs,,0,0,0,***,{\pos(963.52,270.18)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:42.03,0:05:42.07,Signs,,0,0,0,***,{\pos(963.52,269.59)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
-Dialogue: 3,0:05:42.07,0:05:42.11,Signs,,0,0,0,***,{\pos(963.52,268.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.75}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.15,0:05:37.19,Signs,,0,0,0,***,{\pos(963.53,348.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.19,0:05:37.23,Signs,,0,0,0,***,{\pos(963.53,348.2)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.23,0:05:37.28,Signs,,0,0,0,***,{\pos(963.53,347.5)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.28,0:05:37.32,Signs,,0,0,0,***,{\pos(963.53,346.85)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.32,0:05:37.36,Signs,,0,0,0,***,{\pos(963.53,346.13)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.36,0:05:37.40,Signs,,0,0,0,***,{\pos(963.53,345.43)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.40,0:05:37.44,Signs,,0,0,0,***,{\pos(963.53,344.75)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.44,0:05:37.48,Signs,,0,0,0,***,{\pos(963.53,344.1)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.48,0:05:37.53,Signs,,0,0,0,***,{\pos(963.53,343.39)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.53,0:05:37.57,Signs,,0,0,0,***,{\pos(963.53,342.7)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.57,0:05:37.61,Signs,,0,0,0,***,{\pos(963.53,342.11)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.61,0:05:37.65,Signs,,0,0,0,***,{\pos(963.53,341.38)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.65,0:05:37.69,Signs,,0,0,0,***,{\pos(963.53,340.75)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.69,0:05:37.73,Signs,,0,0,0,***,{\pos(963.53,340.04)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.73,0:05:37.78,Signs,,0,0,0,***,{\pos(963.53,339.38)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.78,0:05:37.82,Signs,,0,0,0,***,{\pos(963.53,338.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.82,0:05:37.86,Signs,,0,0,0,***,{\pos(963.53,337.98)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.86,0:05:37.90,Signs,,0,0,0,***,{\pos(963.53,337.32)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.90,0:05:37.94,Signs,,0,0,0,***,{\pos(963.53,336.62)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.94,0:05:37.98,Signs,,0,0,0,***,{\pos(963.53,335.97)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:37.98,0:05:38.03,Signs,,0,0,0,***,{\pos(963.53,335.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.03,0:05:38.07,Signs,,0,0,0,***,{\pos(963.53,334.66)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.07,0:05:38.11,Signs,,0,0,0,***,{\pos(963.53,333.98)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.11,0:05:38.15,Signs,,0,0,0,***,{\pos(963.53,333.27)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.15,0:05:38.19,Signs,,0,0,0,***,{\pos(963.53,332.62)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.19,0:05:38.23,Signs,,0,0,0,***,{\pos(963.53,331.89)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.23,0:05:38.28,Signs,,0,0,0,***,{\pos(963.53,331.24)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.28,0:05:38.32,Signs,,0,0,0,***,{\pos(963.53,330.52)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.32,0:05:38.36,Signs,,0,0,0,***,{\pos(963.53,329.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.36,0:05:38.40,Signs,,0,0,0,***,{\pos(963.53,329.16)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.40,0:05:38.44,Signs,,0,0,0,***,{\pos(963.53,328.49)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.44,0:05:38.48,Signs,,0,0,0,***,{\pos(963.53,327.87)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.48,0:05:38.53,Signs,,0,0,0,***,{\pos(963.53,327.14)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.53,0:05:38.57,Signs,,0,0,0,***,{\pos(963.53,326.48)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.57,0:05:38.61,Signs,,0,0,0,***,{\pos(963.53,325.78)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.61,0:05:38.65,Signs,,0,0,0,***,{\pos(963.53,325.14)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.65,0:05:38.69,Signs,,0,0,0,***,{\pos(963.53,324.43)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.69,0:05:38.73,Signs,,0,0,0,***,{\pos(963.53,323.71)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.73,0:05:38.78,Signs,,0,0,0,***,{\pos(963.53,323.11)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.78,0:05:38.82,Signs,,0,0,0,***,{\pos(963.53,322.39)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.82,0:05:38.86,Signs,,0,0,0,***,{\pos(963.53,321.76)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.86,0:05:38.90,Signs,,0,0,0,***,{\pos(963.53,321.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.90,0:05:38.94,Signs,,0,0,0,***,{\pos(963.53,320.41)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.94,0:05:38.99,Signs,,0,0,0,***,{\pos(963.53,319.72)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:38.99,0:05:39.03,Signs,,0,0,0,***,{\pos(963.53,319.03)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.03,0:05:39.07,Signs,,0,0,0,***,{\pos(963.53,318.31)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.07,0:05:39.11,Signs,,0,0,0,***,{\pos(963.53,317.63)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.11,0:05:39.15,Signs,,0,0,0,***,{\pos(963.53,317.02)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.15,0:05:39.19,Signs,,0,0,0,***,{\pos(963.53,316.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.19,0:05:39.24,Signs,,0,0,0,***,{\pos(963.53,315.61)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.24,0:05:39.28,Signs,,0,0,0,***,{\pos(963.53,315.01)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.28,0:05:39.32,Signs,,0,0,0,***,{\pos(963.53,314.29)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.32,0:05:39.36,Signs,,0,0,0,***,{\pos(963.53,313.63)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.36,0:05:39.40,Signs,,0,0,0,***,{\pos(963.53,312.91)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.40,0:05:39.44,Signs,,0,0,0,***,{\pos(963.53,312.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.44,0:05:39.49,Signs,,0,0,0,***,{\pos(963.53,311.54)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.49,0:05:39.53,Signs,,0,0,0,***,{\pos(963.53,310.9)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.53,0:05:39.57,Signs,,0,0,0,***,{\pos(963.53,310.19)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.57,0:05:39.61,Signs,,0,0,0,***,{\pos(963.53,309.5)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.61,0:05:39.65,Signs,,0,0,0,***,{\pos(963.53,308.91)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.65,0:05:39.69,Signs,,0,0,0,***,{\pos(963.53,308.19)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.69,0:05:39.74,Signs,,0,0,0,***,{\pos(963.53,307.55)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.74,0:05:39.78,Signs,,0,0,0,***,{\pos(963.53,306.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.78,0:05:39.82,Signs,,0,0,0,***,{\pos(963.53,306.18)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.82,0:05:39.86,Signs,,0,0,0,***,{\pos(963.53,305.49)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.86,0:05:39.90,Signs,,0,0,0,***,{\pos(963.53,304.79)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.90,0:05:39.94,Signs,,0,0,0,***,{\pos(963.53,304.12)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.94,0:05:39.99,Signs,,0,0,0,***,{\pos(963.53,303.4)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:39.99,0:05:40.03,Signs,,0,0,0,***,{\pos(963.53,302.78)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.03,0:05:40.07,Signs,,0,0,0,***,{\pos(963.53,302.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.07,0:05:40.11,Signs,,0,0,0,***,{\pos(963.53,301.45)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.11,0:05:40.15,Signs,,0,0,0,***,{\pos(963.53,300.76)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.15,0:05:40.19,Signs,,0,0,0,***,{\pos(963.53,300.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.19,0:05:40.24,Signs,,0,0,0,***,{\pos(963.53,299.41)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.24,0:05:40.28,Signs,,0,0,0,***,{\pos(963.53,298.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.28,0:05:40.32,Signs,,0,0,0,***,{\pos(963.53,298.02)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.32,0:05:40.36,Signs,,0,0,0,***,{\pos(963.53,297.34)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.36,0:05:40.40,Signs,,0,0,0,***,{\pos(963.52,296.67)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.40,0:05:40.44,Signs,,0,0,0,***,{\pos(963.53,295.95)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.44,0:05:40.49,Signs,,0,0,0,***,{\pos(963.53,295.29)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.49,0:05:40.53,Signs,,0,0,0,***,{\pos(963.52,294.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.53,0:05:40.57,Signs,,0,0,0,***,{\pos(963.53,293.95)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.57,0:05:40.61,Signs,,0,0,0,***,{\pos(963.52,293.32)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.61,0:05:40.65,Signs,,0,0,0,***,{\pos(963.53,292.64)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.65,0:05:40.70,Signs,,0,0,0,***,{\pos(963.53,291.94)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.70,0:05:40.74,Signs,,0,0,0,***,{\pos(963.52,291.23)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.74,0:05:40.78,Signs,,0,0,0,***,{\pos(963.53,290.52)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.78,0:05:40.82,Signs,,0,0,0,***,{\pos(963.52,289.93)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.82,0:05:40.86,Signs,,0,0,0,***,{\pos(963.53,289.19)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.86,0:05:40.90,Signs,,0,0,0,***,{\pos(963.52,288.53)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.90,0:05:40.95,Signs,,0,0,0,***,{\pos(963.53,287.87)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.95,0:05:40.99,Signs,,0,0,0,***,{\pos(963.53,287.2)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:40.99,0:05:41.03,Signs,,0,0,0,***,{\pos(963.53,286.51)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.03,0:05:41.07,Signs,,0,0,0,***,{\pos(963.53,285.81)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.07,0:05:41.11,Signs,,0,0,0,***,{\pos(963.53,285.17)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.11,0:05:41.15,Signs,,0,0,0,***,{\pos(963.52,284.45)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.15,0:05:41.20,Signs,,0,0,0,***,{\pos(963.53,283.78)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.20,0:05:41.24,Signs,,0,0,0,***,{\pos(963.52,283.06)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.24,0:05:41.28,Signs,,0,0,0,***,{\pos(963.53,282.4)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.28,0:05:41.32,Signs,,0,0,0,***,{\pos(963.52,281.74)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.32,0:05:41.36,Signs,,0,0,0,***,{\pos(963.52,281.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.36,0:05:41.40,Signs,,0,0,0,***,{\pos(963.53,280.44)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.40,0:05:41.45,Signs,,0,0,0,***,{\pos(963.52,279.71)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.45,0:05:41.49,Signs,,0,0,0,***,{\pos(963.53,279.03)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.49,0:05:41.53,Signs,,0,0,0,***,{\pos(963.52,278.35)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.53,0:05:41.57,Signs,,0,0,0,***,{\pos(963.52,277.7)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.57,0:05:41.61,Signs,,0,0,0,***,{\pos(963.53,276.98)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.61,0:05:41.65,Signs,,0,0,0,***,{\pos(963.52,276.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.65,0:05:41.70,Signs,,0,0,0,***,{\pos(963.52,275.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.70,0:05:41.74,Signs,,0,0,0,***,{\pos(963.52,274.96)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.74,0:05:41.78,Signs,,0,0,0,***,{\pos(963.52,274.34)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.78,0:05:41.82,Signs,,0,0,0,***,{\pos(963.52,273.65)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.82,0:05:41.86,Signs,,0,0,0,***,{\pos(963.52,272.97)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.86,0:05:41.90,Signs,,0,0,0,***,{\pos(963.53,272.29)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.90,0:05:41.95,Signs,,0,0,0,***,{\pos(963.53,271.6)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.95,0:05:41.99,Signs,,0,0,0,***,{\pos(963.52,270.9)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:41.99,0:05:42.03,Signs,,0,0,0,***,{\pos(963.52,270.18)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:42.03,0:05:42.07,Signs,,0,0,0,***,{\pos(963.52,269.59)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 3,0:05:42.07,0:05:42.11,Signs,,0,0,0,***,{\pos(963.52,268.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Master Tengen\NAfter Sunset!
+Dialogue: 0,0:05:37.15,0:05:37.19,<<folder>>,,0,0,0,,
+Comment: 3,0:05:37.15,0:05:37.19,Signs,,0,0,0,***,{\pos(963.53,348.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.19,0:05:37.23,Signs,,0,0,0,***,{\pos(963.53,348.2)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.23,0:05:37.28,Signs,,0,0,0,***,{\pos(963.53,347.5)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.28,0:05:37.32,Signs,,0,0,0,***,{\pos(963.53,346.85)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.32,0:05:37.36,Signs,,0,0,0,***,{\pos(963.53,346.13)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.36,0:05:37.40,Signs,,0,0,0,***,{\pos(963.53,345.43)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.40,0:05:37.44,Signs,,0,0,0,***,{\pos(963.53,344.75)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.44,0:05:37.48,Signs,,0,0,0,***,{\pos(963.53,344.1)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.48,0:05:37.53,Signs,,0,0,0,***,{\pos(963.53,343.39)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.53,0:05:37.57,Signs,,0,0,0,***,{\pos(963.53,342.7)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.57,0:05:37.61,Signs,,0,0,0,***,{\pos(963.53,342.11)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.61,0:05:37.65,Signs,,0,0,0,***,{\pos(963.53,341.38)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.65,0:05:37.69,Signs,,0,0,0,***,{\pos(963.53,340.75)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.69,0:05:37.73,Signs,,0,0,0,***,{\pos(963.53,340.04)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.73,0:05:37.78,Signs,,0,0,0,***,{\pos(963.53,339.38)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.78,0:05:37.82,Signs,,0,0,0,***,{\pos(963.53,338.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.82,0:05:37.86,Signs,,0,0,0,***,{\pos(963.53,337.98)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.86,0:05:37.90,Signs,,0,0,0,***,{\pos(963.53,337.32)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.90,0:05:37.94,Signs,,0,0,0,***,{\pos(963.53,336.62)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.94,0:05:37.98,Signs,,0,0,0,***,{\pos(963.53,335.97)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:37.98,0:05:38.03,Signs,,0,0,0,***,{\pos(963.53,335.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.03,0:05:38.07,Signs,,0,0,0,***,{\pos(963.53,334.66)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.07,0:05:38.11,Signs,,0,0,0,***,{\pos(963.53,333.98)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.11,0:05:38.15,Signs,,0,0,0,***,{\pos(963.53,333.27)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.15,0:05:38.19,Signs,,0,0,0,***,{\pos(963.53,332.62)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.19,0:05:38.23,Signs,,0,0,0,***,{\pos(963.53,331.89)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.23,0:05:38.28,Signs,,0,0,0,***,{\pos(963.53,331.24)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.28,0:05:38.32,Signs,,0,0,0,***,{\pos(963.53,330.52)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.32,0:05:38.36,Signs,,0,0,0,***,{\pos(963.53,329.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.36,0:05:38.40,Signs,,0,0,0,***,{\pos(963.53,329.16)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.40,0:05:38.44,Signs,,0,0,0,***,{\pos(963.53,328.49)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.44,0:05:38.48,Signs,,0,0,0,***,{\pos(963.53,327.87)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.48,0:05:38.53,Signs,,0,0,0,***,{\pos(963.53,327.14)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.53,0:05:38.57,Signs,,0,0,0,***,{\pos(963.53,326.48)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.57,0:05:38.61,Signs,,0,0,0,***,{\pos(963.53,325.78)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.61,0:05:38.65,Signs,,0,0,0,***,{\pos(963.53,325.14)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.65,0:05:38.69,Signs,,0,0,0,***,{\pos(963.53,324.43)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.69,0:05:38.73,Signs,,0,0,0,***,{\pos(963.53,323.71)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.73,0:05:38.78,Signs,,0,0,0,***,{\pos(963.53,323.11)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.78,0:05:38.82,Signs,,0,0,0,***,{\pos(963.53,322.39)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.82,0:05:38.86,Signs,,0,0,0,***,{\pos(963.53,321.76)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.86,0:05:38.90,Signs,,0,0,0,***,{\pos(963.53,321.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.90,0:05:38.94,Signs,,0,0,0,***,{\pos(963.53,320.41)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.94,0:05:38.99,Signs,,0,0,0,***,{\pos(963.53,319.72)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:38.99,0:05:39.03,Signs,,0,0,0,***,{\pos(963.53,319.03)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.03,0:05:39.07,Signs,,0,0,0,***,{\pos(963.53,318.31)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.07,0:05:39.11,Signs,,0,0,0,***,{\pos(963.53,317.63)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.11,0:05:39.15,Signs,,0,0,0,***,{\pos(963.53,317.02)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.15,0:05:39.19,Signs,,0,0,0,***,{\pos(963.53,316.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.19,0:05:39.24,Signs,,0,0,0,***,{\pos(963.53,315.61)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.24,0:05:39.28,Signs,,0,0,0,***,{\pos(963.53,315.01)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.28,0:05:39.32,Signs,,0,0,0,***,{\pos(963.53,314.29)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.32,0:05:39.36,Signs,,0,0,0,***,{\pos(963.53,313.63)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.36,0:05:39.40,Signs,,0,0,0,***,{\pos(963.53,312.91)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.40,0:05:39.44,Signs,,0,0,0,***,{\pos(963.53,312.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.44,0:05:39.49,Signs,,0,0,0,***,{\pos(963.53,311.54)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.49,0:05:39.53,Signs,,0,0,0,***,{\pos(963.53,310.9)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.53,0:05:39.57,Signs,,0,0,0,***,{\pos(963.53,310.19)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.57,0:05:39.61,Signs,,0,0,0,***,{\pos(963.53,309.5)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.61,0:05:39.65,Signs,,0,0,0,***,{\pos(963.53,308.91)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.65,0:05:39.69,Signs,,0,0,0,***,{\pos(963.53,308.19)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.69,0:05:39.74,Signs,,0,0,0,***,{\pos(963.53,307.55)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.74,0:05:39.78,Signs,,0,0,0,***,{\pos(963.53,306.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.78,0:05:39.82,Signs,,0,0,0,***,{\pos(963.53,306.18)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.82,0:05:39.86,Signs,,0,0,0,***,{\pos(963.53,305.49)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.86,0:05:39.90,Signs,,0,0,0,***,{\pos(963.53,304.79)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.90,0:05:39.94,Signs,,0,0,0,***,{\pos(963.53,304.12)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.94,0:05:39.99,Signs,,0,0,0,***,{\pos(963.53,303.4)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:39.99,0:05:40.03,Signs,,0,0,0,***,{\pos(963.53,302.78)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.03,0:05:40.07,Signs,,0,0,0,***,{\pos(963.53,302.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.07,0:05:40.11,Signs,,0,0,0,***,{\pos(963.53,301.45)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.11,0:05:40.15,Signs,,0,0,0,***,{\pos(963.53,300.76)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.15,0:05:40.19,Signs,,0,0,0,***,{\pos(963.53,300.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.19,0:05:40.24,Signs,,0,0,0,***,{\pos(963.53,299.41)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.24,0:05:40.28,Signs,,0,0,0,***,{\pos(963.53,298.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.28,0:05:40.32,Signs,,0,0,0,***,{\pos(963.53,298.02)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.32,0:05:40.36,Signs,,0,0,0,***,{\pos(963.53,297.34)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.36,0:05:40.40,Signs,,0,0,0,***,{\pos(963.52,296.67)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.40,0:05:40.44,Signs,,0,0,0,***,{\pos(963.53,295.95)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.44,0:05:40.49,Signs,,0,0,0,***,{\pos(963.53,295.29)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.49,0:05:40.53,Signs,,0,0,0,***,{\pos(963.52,294.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.53,0:05:40.57,Signs,,0,0,0,***,{\pos(963.53,293.95)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.57,0:05:40.61,Signs,,0,0,0,***,{\pos(963.52,293.32)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.61,0:05:40.65,Signs,,0,0,0,***,{\pos(963.53,292.64)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.65,0:05:40.70,Signs,,0,0,0,***,{\pos(963.53,291.94)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.70,0:05:40.74,Signs,,0,0,0,***,{\pos(963.52,291.23)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.74,0:05:40.78,Signs,,0,0,0,***,{\pos(963.53,290.52)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.78,0:05:40.82,Signs,,0,0,0,***,{\pos(963.52,289.93)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.82,0:05:40.86,Signs,,0,0,0,***,{\pos(963.53,289.19)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.86,0:05:40.90,Signs,,0,0,0,***,{\pos(963.52,288.53)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.90,0:05:40.95,Signs,,0,0,0,***,{\pos(963.53,287.87)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.95,0:05:40.99,Signs,,0,0,0,***,{\pos(963.53,287.2)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:40.99,0:05:41.03,Signs,,0,0,0,***,{\pos(963.53,286.51)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.03,0:05:41.07,Signs,,0,0,0,***,{\pos(963.53,285.81)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.07,0:05:41.11,Signs,,0,0,0,***,{\pos(963.53,285.17)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.11,0:05:41.15,Signs,,0,0,0,***,{\pos(963.52,284.45)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.15,0:05:41.20,Signs,,0,0,0,***,{\pos(963.53,283.78)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.20,0:05:41.24,Signs,,0,0,0,***,{\pos(963.52,283.06)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.24,0:05:41.28,Signs,,0,0,0,***,{\pos(963.53,282.4)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.28,0:05:41.32,Signs,,0,0,0,***,{\pos(963.52,281.74)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.32,0:05:41.36,Signs,,0,0,0,***,{\pos(963.52,281.07)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.36,0:05:41.40,Signs,,0,0,0,***,{\pos(963.53,280.44)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.40,0:05:41.45,Signs,,0,0,0,***,{\pos(963.52,279.71)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.45,0:05:41.49,Signs,,0,0,0,***,{\pos(963.53,279.03)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.49,0:05:41.53,Signs,,0,0,0,***,{\pos(963.52,278.35)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.53,0:05:41.57,Signs,,0,0,0,***,{\pos(963.52,277.7)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.57,0:05:41.61,Signs,,0,0,0,***,{\pos(963.53,276.98)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.61,0:05:41.65,Signs,,0,0,0,***,{\pos(963.52,276.28)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.65,0:05:41.70,Signs,,0,0,0,***,{\pos(963.52,275.68)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.70,0:05:41.74,Signs,,0,0,0,***,{\pos(963.52,274.96)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.74,0:05:41.78,Signs,,0,0,0,***,{\pos(963.52,274.34)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.78,0:05:41.82,Signs,,0,0,0,***,{\pos(963.52,273.65)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.82,0:05:41.86,Signs,,0,0,0,***,{\pos(963.52,272.97)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.86,0:05:41.90,Signs,,0,0,0,***,{\pos(963.53,272.29)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.90,0:05:41.95,Signs,,0,0,0,***,{\pos(963.53,271.6)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.95,0:05:41.99,Signs,,0,0,0,***,{\pos(963.52,270.9)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:41.99,0:05:42.03,Signs,,0,0,0,***,{\pos(963.52,270.18)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:42.03,0:05:42.07,Signs,,0,0,0,***,{\pos(963.52,269.59)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
+Comment: 3,0:05:42.07,0:05:42.11,Signs,,0,0,0,***,{\pos(963.52,268.86)\frz12.31\fnKG Shadow of the Day\fs69\c&H6B6866&\blur0.88}Assimilate With Tengen-sama\NAfter Sunset!
 Dialogue: 0,0:05:37.15,0:05:37.19,<<folder>>,,0,0,0,,
 Dialogue: 1,0:05:37.15,0:05:37.19,Signs,mask-complete,0,0,0,,{\pos(328.55,131)\c&HFDFDFD&\be8\p1\b1}m 823.11 840.89 l 857.78 794.67 1192 733.33 1405.33 712.89 1434.67 760 1399.11 886.22 1312 920 1070.22 964.44 867.56 996.44
 Dialogue: 1,0:05:37.19,0:05:37.23,Signs,mask-complete,0,0,0,,{\pos(328.55,130.34)\c&HFDFDFD&\be8\p1\b1}m 823.11 840.89 l 857.78 794.67 1192 733.33 1405.33 712.89 1434.67 760 1399.11 886.22 1312 920 1070.22 964.44 867.56 996.44
@@ -4359,125 +4600,125 @@ Dialogue: 2,0:05:41.99,0:05:42.03,Signs,glow-complete,0,0,0,,{\pos(284.19,47.12)
 Dialogue: 2,0:05:42.03,0:05:42.07,Signs,glow-complete,0,0,0,,{\pos(284.19,46.53)\c&HF9F9F9&\blur44\p1\b1}m 968 765.6 l 927.2 849.6 920 942.4 1048 928.8 1372.8 860 1408 766.4 1437.6 785.6 1459.2 896 1348.8 936 1032 984.8 872 1008.8 862.4 805.6 962.4 742.4
 Dialogue: 2,0:05:42.07,0:05:42.11,Signs,glow-complete,0,0,0,,{\pos(284.19,45.8)\c&HF9F9F9&\blur44\p1\b1}m 968 765.6 l 927.2 849.6 920 942.4 1048 928.8 1372.8 860 1408 766.4 1437.6 785.6 1459.2 896 1348.8 936 1032 984.8 872 1008.8 862.4 805.6 962.4 742.4
 Dialogue: 0,0:05:37.15,0:05:37.19,<<folder>>,,0,0,0,,
-Dialogue: 3,0:05:37.15,0:05:37.19,Signs,,0,0,0,,{\pos(1101.36,860.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.19,0:05:37.23,Signs,,0,0,0,,{\pos(1101.36,859.35)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.23,0:05:37.28,Signs,,0,0,0,,{\pos(1101.36,858.65)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.28,0:05:37.32,Signs,,0,0,0,,{\pos(1101.36,858)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.32,0:05:37.36,Signs,,0,0,0,,{\pos(1101.36,857.28)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.36,0:05:37.40,Signs,,0,0,0,,{\pos(1101.36,856.58)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.40,0:05:37.44,Signs,,0,0,0,,{\pos(1101.36,855.9)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.44,0:05:37.48,Signs,,0,0,0,,{\pos(1101.36,855.25)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.48,0:05:37.53,Signs,,0,0,0,,{\pos(1101.36,854.54)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.53,0:05:37.57,Signs,,0,0,0,,{\pos(1101.36,853.85)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.57,0:05:37.61,Signs,,0,0,0,,{\pos(1101.36,853.26)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.61,0:05:37.65,Signs,,0,0,0,,{\pos(1101.36,852.53)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.65,0:05:37.69,Signs,,0,0,0,,{\pos(1101.36,851.9)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.69,0:05:37.73,Signs,,0,0,0,,{\pos(1101.36,851.19)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.73,0:05:37.78,Signs,,0,0,0,,{\pos(1101.36,850.53)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.78,0:05:37.82,Signs,,0,0,0,,{\pos(1101.36,849.83)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.82,0:05:37.86,Signs,,0,0,0,,{\pos(1101.36,849.13)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.86,0:05:37.90,Signs,,0,0,0,,{\pos(1101.36,848.47)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.90,0:05:37.94,Signs,,0,0,0,,{\pos(1101.36,847.77)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.94,0:05:37.98,Signs,,0,0,0,,{\pos(1101.36,847.12)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:37.98,0:05:38.03,Signs,,0,0,0,,{\pos(1101.36,846.43)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.03,0:05:38.07,Signs,,0,0,0,,{\pos(1101.36,845.81)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.07,0:05:38.11,Signs,,0,0,0,,{\pos(1101.36,845.13)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.11,0:05:38.15,Signs,,0,0,0,,{\pos(1101.36,844.42)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.15,0:05:38.19,Signs,,0,0,0,,{\pos(1101.36,843.77)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.19,0:05:38.23,Signs,,0,0,0,,{\pos(1101.36,843.04)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.23,0:05:38.28,Signs,,0,0,0,,{\pos(1101.36,842.39)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.28,0:05:38.32,Signs,,0,0,0,,{\pos(1101.36,841.67)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.32,0:05:38.36,Signs,,0,0,0,,{\pos(1101.36,841.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.36,0:05:38.40,Signs,,0,0,0,,{\pos(1101.36,840.31)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.40,0:05:38.44,Signs,,0,0,0,,{\pos(1101.36,839.64)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.44,0:05:38.48,Signs,,0,0,0,,{\pos(1101.36,839.02)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.48,0:05:38.53,Signs,,0,0,0,,{\pos(1101.36,838.29)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.53,0:05:38.57,Signs,,0,0,0,,{\pos(1101.36,837.63)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.57,0:05:38.61,Signs,,0,0,0,,{\pos(1101.36,836.93)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.61,0:05:38.65,Signs,,0,0,0,,{\pos(1101.36,836.29)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.65,0:05:38.69,Signs,,0,0,0,,{\pos(1101.36,835.58)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.69,0:05:38.73,Signs,,0,0,0,,{\pos(1101.36,834.86)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.73,0:05:38.78,Signs,,0,0,0,,{\pos(1101.36,834.26)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.78,0:05:38.82,Signs,,0,0,0,,{\pos(1101.36,833.54)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.82,0:05:38.86,Signs,,0,0,0,,{\pos(1101.36,832.91)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.86,0:05:38.90,Signs,,0,0,0,,{\pos(1101.36,832.22)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.90,0:05:38.94,Signs,,0,0,0,,{\pos(1101.36,831.56)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.94,0:05:38.99,Signs,,0,0,0,,{\pos(1101.36,830.87)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:38.99,0:05:39.03,Signs,,0,0,0,,{\pos(1101.36,830.18)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.03,0:05:39.07,Signs,,0,0,0,,{\pos(1101.36,829.46)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.07,0:05:39.11,Signs,,0,0,0,,{\pos(1101.36,828.78)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.11,0:05:39.15,Signs,,0,0,0,,{\pos(1101.36,828.18)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.15,0:05:39.19,Signs,,0,0,0,,{\pos(1101.36,827.43)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.19,0:05:39.24,Signs,,0,0,0,,{\pos(1101.36,826.76)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.24,0:05:39.28,Signs,,0,0,0,,{\pos(1101.36,826.16)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.28,0:05:39.32,Signs,,0,0,0,,{\pos(1101.36,825.44)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.32,0:05:39.36,Signs,,0,0,0,,{\pos(1101.36,824.78)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.36,0:05:39.40,Signs,,0,0,0,,{\pos(1101.36,824.06)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.40,0:05:39.44,Signs,,0,0,0,,{\pos(1101.36,823.43)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.44,0:05:39.49,Signs,,0,0,0,,{\pos(1101.36,822.69)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.49,0:05:39.53,Signs,,0,0,0,,{\pos(1101.36,822.05)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.53,0:05:39.57,Signs,,0,0,0,,{\pos(1101.36,821.34)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.57,0:05:39.61,Signs,,0,0,0,,{\pos(1101.36,820.65)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.61,0:05:39.65,Signs,,0,0,0,,{\pos(1101.36,820.06)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.65,0:05:39.69,Signs,,0,0,0,,{\pos(1101.36,819.34)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.69,0:05:39.74,Signs,,0,0,0,,{\pos(1101.36,818.7)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.74,0:05:39.78,Signs,,0,0,0,,{\pos(1101.36,818.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.78,0:05:39.82,Signs,,0,0,0,,{\pos(1101.36,817.33)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.82,0:05:39.86,Signs,,0,0,0,,{\pos(1101.36,816.64)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.86,0:05:39.90,Signs,,0,0,0,,{\pos(1101.36,815.94)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.90,0:05:39.94,Signs,,0,0,0,,{\pos(1101.36,815.27)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.94,0:05:39.99,Signs,,0,0,0,,{\pos(1101.36,814.55)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:39.99,0:05:40.03,Signs,,0,0,0,,{\pos(1101.36,813.93)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.03,0:05:40.07,Signs,,0,0,0,,{\pos(1101.36,813.22)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.07,0:05:40.11,Signs,,0,0,0,,{\pos(1101.36,812.6)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.11,0:05:40.15,Signs,,0,0,0,,{\pos(1101.36,811.91)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.15,0:05:40.19,Signs,,0,0,0,,{\pos(1101.36,811.22)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.19,0:05:40.24,Signs,,0,0,0,,{\pos(1101.36,810.57)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.24,0:05:40.28,Signs,,0,0,0,,{\pos(1101.36,809.83)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.28,0:05:40.32,Signs,,0,0,0,,{\pos(1101.36,809.17)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.32,0:05:40.36,Signs,,0,0,0,,{\pos(1101.36,808.49)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.36,0:05:40.40,Signs,,0,0,0,,{\pos(1101.35,807.82)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.40,0:05:40.44,Signs,,0,0,0,,{\pos(1101.36,807.1)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.44,0:05:40.49,Signs,,0,0,0,,{\pos(1101.36,806.44)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.49,0:05:40.53,Signs,,0,0,0,,{\pos(1101.35,805.83)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.53,0:05:40.57,Signs,,0,0,0,,{\pos(1101.36,805.1)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.57,0:05:40.61,Signs,,0,0,0,,{\pos(1101.35,804.47)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.61,0:05:40.65,Signs,,0,0,0,,{\pos(1101.36,803.79)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.65,0:05:40.70,Signs,,0,0,0,,{\pos(1101.36,803.09)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.70,0:05:40.74,Signs,,0,0,0,,{\pos(1101.35,802.38)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.74,0:05:40.78,Signs,,0,0,0,,{\pos(1101.36,801.67)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.78,0:05:40.82,Signs,,0,0,0,,{\pos(1101.35,801.08)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.82,0:05:40.86,Signs,,0,0,0,,{\pos(1101.36,800.34)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.86,0:05:40.90,Signs,,0,0,0,,{\pos(1101.35,799.68)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.90,0:05:40.95,Signs,,0,0,0,,{\pos(1101.36,799.02)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.95,0:05:40.99,Signs,,0,0,0,,{\pos(1101.36,798.35)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:40.99,0:05:41.03,Signs,,0,0,0,,{\pos(1101.36,797.66)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.03,0:05:41.07,Signs,,0,0,0,,{\pos(1101.36,796.96)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.07,0:05:41.11,Signs,,0,0,0,,{\pos(1101.36,796.32)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.11,0:05:41.15,Signs,,0,0,0,,{\pos(1101.35,795.6)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.15,0:05:41.20,Signs,,0,0,0,,{\pos(1101.36,794.93)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.20,0:05:41.24,Signs,,0,0,0,,{\pos(1101.35,794.21)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.24,0:05:41.28,Signs,,0,0,0,,{\pos(1101.36,793.56)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.28,0:05:41.32,Signs,,0,0,0,,{\pos(1101.35,792.89)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.32,0:05:41.36,Signs,,0,0,0,,{\pos(1101.35,792.22)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.36,0:05:41.40,Signs,,0,0,0,,{\pos(1101.36,791.59)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.40,0:05:41.45,Signs,,0,0,0,,{\pos(1101.35,790.86)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.45,0:05:41.49,Signs,,0,0,0,,{\pos(1101.36,790.18)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.49,0:05:41.53,Signs,,0,0,0,,{\pos(1101.35,789.5)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.53,0:05:41.57,Signs,,0,0,0,,{\pos(1101.35,788.85)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.57,0:05:41.61,Signs,,0,0,0,,{\pos(1101.36,788.13)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.61,0:05:41.65,Signs,,0,0,0,,{\pos(1101.35,787.43)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.65,0:05:41.70,Signs,,0,0,0,,{\pos(1101.35,786.83)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.70,0:05:41.74,Signs,,0,0,0,,{\pos(1101.35,786.11)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.74,0:05:41.78,Signs,,0,0,0,,{\pos(1101.35,785.49)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.78,0:05:41.82,Signs,,0,0,0,,{\pos(1101.35,784.8)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.82,0:05:41.86,Signs,,0,0,0,,{\pos(1101.35,784.12)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.86,0:05:41.90,Signs,,0,0,0,,{\pos(1101.36,783.44)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.90,0:05:41.95,Signs,,0,0,0,,{\pos(1101.36,782.75)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.95,0:05:41.99,Signs,,0,0,0,,{\pos(1101.35,782.05)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:41.99,0:05:42.03,Signs,,0,0,0,,{\pos(1101.35,781.33)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:42.03,0:05:42.07,Signs,,0,0,0,,{\pos(1101.35,780.74)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
-Dialogue: 3,0:05:42.07,0:05:42.11,Signs,,0,0,0,,{\pos(1101.35,780.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.76}Escort Mission Complete!
+Dialogue: 3,0:05:37.15,0:05:37.19,Signs,,0,0,0,,{\pos(1101.36,860.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.19,0:05:37.23,Signs,,0,0,0,,{\pos(1101.36,859.35)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.23,0:05:37.28,Signs,,0,0,0,,{\pos(1101.36,858.65)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.28,0:05:37.32,Signs,,0,0,0,,{\pos(1101.36,858)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.32,0:05:37.36,Signs,,0,0,0,,{\pos(1101.36,857.28)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.36,0:05:37.40,Signs,,0,0,0,,{\pos(1101.36,856.58)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.40,0:05:37.44,Signs,,0,0,0,,{\pos(1101.36,855.9)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.44,0:05:37.48,Signs,,0,0,0,,{\pos(1101.36,855.25)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.48,0:05:37.53,Signs,,0,0,0,,{\pos(1101.36,854.54)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.53,0:05:37.57,Signs,,0,0,0,,{\pos(1101.36,853.85)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.57,0:05:37.61,Signs,,0,0,0,,{\pos(1101.36,853.26)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.61,0:05:37.65,Signs,,0,0,0,,{\pos(1101.36,852.53)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.65,0:05:37.69,Signs,,0,0,0,,{\pos(1101.36,851.9)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.69,0:05:37.73,Signs,,0,0,0,,{\pos(1101.36,851.19)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.73,0:05:37.78,Signs,,0,0,0,,{\pos(1101.36,850.53)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.78,0:05:37.82,Signs,,0,0,0,,{\pos(1101.36,849.83)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.82,0:05:37.86,Signs,,0,0,0,,{\pos(1101.36,849.13)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.86,0:05:37.90,Signs,,0,0,0,,{\pos(1101.36,848.47)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.90,0:05:37.94,Signs,,0,0,0,,{\pos(1101.36,847.77)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.94,0:05:37.98,Signs,,0,0,0,,{\pos(1101.36,847.12)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:37.98,0:05:38.03,Signs,,0,0,0,,{\pos(1101.36,846.43)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.03,0:05:38.07,Signs,,0,0,0,,{\pos(1101.36,845.81)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.07,0:05:38.11,Signs,,0,0,0,,{\pos(1101.36,845.13)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.11,0:05:38.15,Signs,,0,0,0,,{\pos(1101.36,844.42)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.15,0:05:38.19,Signs,,0,0,0,,{\pos(1101.36,843.77)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.19,0:05:38.23,Signs,,0,0,0,,{\pos(1101.36,843.04)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.23,0:05:38.28,Signs,,0,0,0,,{\pos(1101.36,842.39)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.28,0:05:38.32,Signs,,0,0,0,,{\pos(1101.36,841.67)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.32,0:05:38.36,Signs,,0,0,0,,{\pos(1101.36,841.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.36,0:05:38.40,Signs,,0,0,0,,{\pos(1101.36,840.31)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.40,0:05:38.44,Signs,,0,0,0,,{\pos(1101.36,839.64)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.44,0:05:38.48,Signs,,0,0,0,,{\pos(1101.36,839.02)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.48,0:05:38.53,Signs,,0,0,0,,{\pos(1101.36,838.29)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.53,0:05:38.57,Signs,,0,0,0,,{\pos(1101.36,837.63)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.57,0:05:38.61,Signs,,0,0,0,,{\pos(1101.36,836.93)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.61,0:05:38.65,Signs,,0,0,0,,{\pos(1101.36,836.29)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.65,0:05:38.69,Signs,,0,0,0,,{\pos(1101.36,835.58)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.69,0:05:38.73,Signs,,0,0,0,,{\pos(1101.36,834.86)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.73,0:05:38.78,Signs,,0,0,0,,{\pos(1101.36,834.26)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.78,0:05:38.82,Signs,,0,0,0,,{\pos(1101.36,833.54)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.82,0:05:38.86,Signs,,0,0,0,,{\pos(1101.36,832.91)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.86,0:05:38.90,Signs,,0,0,0,,{\pos(1101.36,832.22)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.90,0:05:38.94,Signs,,0,0,0,,{\pos(1101.36,831.56)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.94,0:05:38.99,Signs,,0,0,0,,{\pos(1101.36,830.87)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:38.99,0:05:39.03,Signs,,0,0,0,,{\pos(1101.36,830.18)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.03,0:05:39.07,Signs,,0,0,0,,{\pos(1101.36,829.46)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.07,0:05:39.11,Signs,,0,0,0,,{\pos(1101.36,828.78)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.11,0:05:39.15,Signs,,0,0,0,,{\pos(1101.36,828.18)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.15,0:05:39.19,Signs,,0,0,0,,{\pos(1101.36,827.43)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.19,0:05:39.24,Signs,,0,0,0,,{\pos(1101.36,826.76)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.24,0:05:39.28,Signs,,0,0,0,,{\pos(1101.36,826.16)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.28,0:05:39.32,Signs,,0,0,0,,{\pos(1101.36,825.44)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.32,0:05:39.36,Signs,,0,0,0,,{\pos(1101.36,824.78)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.36,0:05:39.40,Signs,,0,0,0,,{\pos(1101.36,824.06)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.40,0:05:39.44,Signs,,0,0,0,,{\pos(1101.36,823.43)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.44,0:05:39.49,Signs,,0,0,0,,{\pos(1101.36,822.69)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.49,0:05:39.53,Signs,,0,0,0,,{\pos(1101.36,822.05)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.53,0:05:39.57,Signs,,0,0,0,,{\pos(1101.36,821.34)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.57,0:05:39.61,Signs,,0,0,0,,{\pos(1101.36,820.65)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.61,0:05:39.65,Signs,,0,0,0,,{\pos(1101.36,820.06)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.65,0:05:39.69,Signs,,0,0,0,,{\pos(1101.36,819.34)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.69,0:05:39.74,Signs,,0,0,0,,{\pos(1101.36,818.7)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.74,0:05:39.78,Signs,,0,0,0,,{\pos(1101.36,818.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.78,0:05:39.82,Signs,,0,0,0,,{\pos(1101.36,817.33)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.82,0:05:39.86,Signs,,0,0,0,,{\pos(1101.36,816.64)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.86,0:05:39.90,Signs,,0,0,0,,{\pos(1101.36,815.94)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.90,0:05:39.94,Signs,,0,0,0,,{\pos(1101.36,815.27)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.94,0:05:39.99,Signs,,0,0,0,,{\pos(1101.36,814.55)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:39.99,0:05:40.03,Signs,,0,0,0,,{\pos(1101.36,813.93)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.03,0:05:40.07,Signs,,0,0,0,,{\pos(1101.36,813.22)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.07,0:05:40.11,Signs,,0,0,0,,{\pos(1101.36,812.6)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.11,0:05:40.15,Signs,,0,0,0,,{\pos(1101.36,811.91)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.15,0:05:40.19,Signs,,0,0,0,,{\pos(1101.36,811.22)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.19,0:05:40.24,Signs,,0,0,0,,{\pos(1101.36,810.57)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.24,0:05:40.28,Signs,,0,0,0,,{\pos(1101.36,809.83)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.28,0:05:40.32,Signs,,0,0,0,,{\pos(1101.36,809.17)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.32,0:05:40.36,Signs,,0,0,0,,{\pos(1101.36,808.49)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.36,0:05:40.40,Signs,,0,0,0,,{\pos(1101.35,807.82)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.40,0:05:40.44,Signs,,0,0,0,,{\pos(1101.36,807.1)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.44,0:05:40.49,Signs,,0,0,0,,{\pos(1101.36,806.44)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.49,0:05:40.53,Signs,,0,0,0,,{\pos(1101.35,805.83)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.53,0:05:40.57,Signs,,0,0,0,,{\pos(1101.36,805.1)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.57,0:05:40.61,Signs,,0,0,0,,{\pos(1101.35,804.47)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.61,0:05:40.65,Signs,,0,0,0,,{\pos(1101.36,803.79)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.65,0:05:40.70,Signs,,0,0,0,,{\pos(1101.36,803.09)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.70,0:05:40.74,Signs,,0,0,0,,{\pos(1101.35,802.38)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.74,0:05:40.78,Signs,,0,0,0,,{\pos(1101.36,801.67)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.78,0:05:40.82,Signs,,0,0,0,,{\pos(1101.35,801.08)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.82,0:05:40.86,Signs,,0,0,0,,{\pos(1101.36,800.34)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.86,0:05:40.90,Signs,,0,0,0,,{\pos(1101.35,799.68)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.90,0:05:40.95,Signs,,0,0,0,,{\pos(1101.36,799.02)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.95,0:05:40.99,Signs,,0,0,0,,{\pos(1101.36,798.35)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:40.99,0:05:41.03,Signs,,0,0,0,,{\pos(1101.36,797.66)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.03,0:05:41.07,Signs,,0,0,0,,{\pos(1101.36,796.96)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.07,0:05:41.11,Signs,,0,0,0,,{\pos(1101.36,796.32)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.11,0:05:41.15,Signs,,0,0,0,,{\pos(1101.35,795.6)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.15,0:05:41.20,Signs,,0,0,0,,{\pos(1101.36,794.93)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.20,0:05:41.24,Signs,,0,0,0,,{\pos(1101.35,794.21)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.24,0:05:41.28,Signs,,0,0,0,,{\pos(1101.36,793.56)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.28,0:05:41.32,Signs,,0,0,0,,{\pos(1101.35,792.89)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.32,0:05:41.36,Signs,,0,0,0,,{\pos(1101.35,792.22)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.36,0:05:41.40,Signs,,0,0,0,,{\pos(1101.36,791.59)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.40,0:05:41.45,Signs,,0,0,0,,{\pos(1101.35,790.86)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.45,0:05:41.49,Signs,,0,0,0,,{\pos(1101.36,790.18)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.49,0:05:41.53,Signs,,0,0,0,,{\pos(1101.35,789.5)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.53,0:05:41.57,Signs,,0,0,0,,{\pos(1101.35,788.85)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.57,0:05:41.61,Signs,,0,0,0,,{\pos(1101.36,788.13)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.61,0:05:41.65,Signs,,0,0,0,,{\pos(1101.35,787.43)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.65,0:05:41.70,Signs,,0,0,0,,{\pos(1101.35,786.83)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.70,0:05:41.74,Signs,,0,0,0,,{\pos(1101.35,786.11)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.74,0:05:41.78,Signs,,0,0,0,,{\pos(1101.35,785.49)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.78,0:05:41.82,Signs,,0,0,0,,{\pos(1101.35,784.8)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.82,0:05:41.86,Signs,,0,0,0,,{\pos(1101.35,784.12)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.86,0:05:41.90,Signs,,0,0,0,,{\pos(1101.36,783.44)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.90,0:05:41.95,Signs,,0,0,0,,{\pos(1101.36,782.75)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.95,0:05:41.99,Signs,,0,0,0,,{\pos(1101.35,782.05)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:41.99,0:05:42.03,Signs,,0,0,0,,{\pos(1101.35,781.33)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:42.03,0:05:42.07,Signs,,0,0,0,,{\pos(1101.35,780.74)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
+Dialogue: 3,0:05:42.07,0:05:42.11,Signs,,0,0,0,,{\pos(1101.35,780.01)\frz12.31\fnKG Shadow of the Day\fs75\c&H6B6866&\blur0.88}Escort Mission Complete!
 Dialogue: 0,0:05:37.15,0:05:37.19,<<folder>>,,0,0,0,,{=13}
 Dialogue: 0,0:05:49.33,0:05:49.37,<<folder>>,,0,0,0,,{=14}- Airport
 Dialogue: 1,0:05:49.28,0:05:49.32,Signs,Building,0,0,0,,{\pos(817.38,1104.91)\frz349\fax0.22\fs48\xshad-3.6\yshad2\c&HD4DADB&\4c&H6A665E&\blur0.75}Naha Airport
@@ -5382,3 +5623,5 @@ Data: 62,_aegi_folddata,e0;0;3
 Data: 63,_aegi_folddata,e1;0;3
 Data: 64,_aegi_folddata,e0;0;2
 Data: 65,_aegi_folddata,e1;0;2
+Data: 66,_aegi_folddata,e0;0;1
+Data: 67,_aegi_folddata,e1;0;1
