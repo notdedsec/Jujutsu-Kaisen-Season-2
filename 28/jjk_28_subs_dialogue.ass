@@ -146,17 +146,17 @@ Dialogue: 0,0:10:56.64,0:10:58.68,Default,Sonoda,0,0,0,,And how did it all turn 
 Dialogue: 0,0:10:58.68,0:11:01.10,Default,Sonoda,0,0,0,,We thought we were going to lose everything,
 Dialogue: 0,0:11:01.10,0:11:03.10,Default,Sonoda,0,0,0,,and now we have it all!
 Dialogue: 0,0:11:03.60,0:11:06.56,Default,Sonoda,0,0,0,,Of course that would loosen our purse strings.
-Dialogue: 0,0:11:08.56,0:11:14.11,Default,Kong,0,0,0,,Human society might be what crumbles\N if {*}Master Tengen{*Tengen-sama} loses control.
+Dialogue: 0,0:11:08.56,0:11:14.11,Default,Kong,0,0,0,,Human society might be what crumbles\N if Tengen loses control.
 Dialogue: 0,0:11:16.07,0:11:19.70,Default,Sonoda,0,0,0,,If we should perish along with our star, then so be it.
 Dialogue: 0,0:11:31.42,0:11:34.92,Default,Toji,0,0,0,,Were you referring to Okinawa\N when you said they helped us?
 Dialogue: 0,0:11:34.92,0:11:35.63,Default,Kong,0,0,0,,Yeah.
 Dialogue: 0,0:11:36.05,0:11:39.18,Default,Toji,0,0,0,,Why didn't you kill the maid back then?
 Dialogue: 0,0:11:39.18,0:11:40.60,Default,Toji,0,0,0,,I thought I told you to.
 Dialogue: 0,0:11:40.60,0:11:44.60,Default,Toji,0,0,0,,Take her somewhere far away and kill her somewhere along the way. {hmmmmmmmm the line he uses here is uhh let's just call it colorful, which gets lost in translation} {now this feels almost too colorful, tho it is accurate} {Issokay!}
-Dialogue: 0,0:11:44.60,0:11:49.06,Default,Kong,0,0,0,,Because I had a rough idea of what you were planning.
+Dialogue: 0,0:11:44.60,0:11:49.06,Default,Kong,0,0,0,,Because I had a rough idea\N of what you were planning.
 Dialogue: 0,0:11:49.44,0:11:52.27,Default,Kong,0,0,0,,I decided that instead of\N heightening tensions from failure,
 Dialogue: 0,0:11:52.27,0:11:56.57,Default,Kong,0,0,0,,the relief from a successful rescue\N would be more helpful in lowering his guard.
-Dialogue: 0,0:11:56.57,0:12:02.41,Default,Kong,0,0,0,,You often keep your orders vague\N to hide your true intentions, don't you?
+Dialogue: 0,0:11:56.57,0:12:02.41,Default,Kong,0,0,0,,Keeping instructions vague to hide your\N true intentions, as always, eh? 
 Dialogue: 0,0:12:02.70,0:12:04.75,Default,Kong,0,0,0,,All's well that ends well, though.
 Dialogue: 0,0:12:04.75,0:12:08.00,Default,Kong,0,0,0,,And stop running your mediator ragged.
 Dialogue: 0,0:12:08.00,0:12:10.58,Default,Toji,0,0,0,,Yeah, but why go as far as Okinawa?
@@ -164,7 +164,7 @@ Dialogue: 0,0:12:12.71,0:12:15.01,Default,Kong,0,0,0,,I had a laugh at that myse
 Dialogue: 0,0:12:15.01,0:12:18.22,Default,Kong,0,0,0,,Normally, you'd use a car to transport a captive, right? {but there are no roads to Okinawa}
 Dialogue: 0,0:12:18.22,0:12:21.26,Default,Kong,0,0,0,,Public transportation is risky, after all. {especially by air}
 Dialogue: 0,0:12:21.76,0:12:25.85,Default,Kong,0,0,0,,But get this, the president owns a private jet.
-Dialogue: 0,0:12:26.56,0:12:28.69,Default,Toji,0,0,0,,Still, it wasn't necessary.
+Dialogue: 0,0:12:26.56,0:12:28.69,Default,Toji,0,0,0,,Talk about excessive. {overkill}
 Dialogue: 0,0:12:30.85,0:12:33.65,Default,Kong,0,0,0,,Rich people think on a different scale, man.
 Dialogue: 0,0:12:33.65,0:12:36.07,Default,Toji,0,0,0,,Let's wine and dine with their money.
 Dialogue: 0,0:12:36.07,0:12:38.61,Default,Toji,0,0,0,,Take me to one of the restaurants\N you use for clients.
