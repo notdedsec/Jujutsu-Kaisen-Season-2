@@ -544,7 +544,7 @@ Dialogue: 0,0:00:04.82,0:00:04.86,<<folder>>,,0,0,0,,{=75}
 Dialogue: 0,0:01:23.61,0:01:23.65,<<folder>>,Phone,0,0,0,,{=22}- Human Earthworm 4
 Dialogue: 0,0:01:23.60,0:01:23.64,Signs,,0,0,0,,{\pos(964.5,38.36)\fscx286.46\fscy286.46\fnCoolvetica Rg\fs76.21\fsp0.5\b1\c&H1B268E&\alpha&H10&\blur20}Human Earthworm 4
 Dialogue: 0,0:01:23.60,0:01:23.64,Signs,,0,0,0,,{\fscx286.46\fscy286.46\fnCoolvetica Rg\fs76.21\fsp0.5\b1\c&H1B268E&\alpha&H10&\blur2.29\be0\pos(964.5,38.36)}Human Earthworm 4
-Dialogue: 0,0:01:23.65,0:01:24.85,Signs,,0,0,0,,{\move(951.71,366.57,951.69,369.34,17,1185)\fnCoolvetica Rg\fs76.21\fsp0.5\b1\c&H1D2B99&\alpha&H10&\blur0.8\t(17,1185,\fscx98.28)\t(17,1185,\fscy98.28)\t(17,585,\c&H06067E&&)}Human Earthworm 4
+Dialogue: 0,0:01:23.65,0:01:24.85,Signs,,0,0,0,,{\move(951.71,366.57,951.69,369.34,17,1185)\fnCoolvetica Rg\fs76.21\fsp0.5\b1\c&H1D2B99&\alpha&H10&\blur0.6\t(17,1185,\fscx98.28)\t(17,1185,\fscy98.28)\t(17,585,\c&H06067E&&)}Human Earthworm 4
 Dialogue: 0,0:01:24.85,0:01:24.98,Signs,,0,0,0,,{\pos(922.38,486.57)\frz8.475\fnCoolvetica Rg\fs45.82\fsp0.5\b1\c&H0A0D7F&\alpha&H10&\blur0.7}Human Earthworm 4
 Dialogue: 0,0:01:24.98,0:01:25.11,Signs,,0,0,0,,{\pos(1037.71,361.57)\frz13.36\fnCoolvetica Rg\fs39.15\fsp0.5\b1\c&H0A0D7F&\alpha&H10&\blur0.66}Human Earthworm 4
 Dialogue: 0,0:01:25.11,0:01:25.23,Signs,,0,0,0,,{\pos(1133.71,214.9)\frz20.44\fnCoolvetica Rg\fs31.32\fsp0.5\b1\c&H0A0D7F&\alpha&H10&\blur0.66}Human Earthworm 4
@@ -898,10 +898,10 @@ Dialogue: 1,0:20:49.60,0:20:49.64,Signs,D,0,0,0,,{\pos(1332.5,514.82)\fscx100\fs
 Dialogue: 0,0:21:17.96,0:21:18.01,<<folder>>,,0,0,0,,{=59}
 Dialogue: 0,0:21:17.96,0:21:18.01,<<folder>>,,0,0,0,,{=60}- Counter: Background
 Dialogue: 0,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur1.7\pos(1030.87,202.5)\1a&H41&}Years
-Dialogue: 1,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur0.3\pos(1030.87,202.5)}Years
+Dialogue: 1,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur0.4\pos(1030.87,202.5)}Years
 Dialogue: 0,0:21:17.96,0:21:18.01,<<folder>>,,0,0,0,,
 Dialogue: 0,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur1.7\1a&H41&\pos(1135.27,202.5)}Months
-Dialogue: 0,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur0.3\pos(1135.27,202.5)}Months
+Dialogue: 0,0:21:17.96,0:21:19.22,Signs,Counter,0,0,0,,{\fnGentium Basic\fs7\b1\c&HC6F8F2&\blur0.4\pos(1135.27,202.5)}Months
 Dialogue: 0,0:21:19.17,0:21:19.22,<<folder>>,,0,0,0,,{=61}
 Dialogue: 0,0:21:37.36,0:21:37.40,<<folder>>,,0,0,0,,{=62}- Counter: Zoom out
 Dialogue: 0,0:21:37.35,0:21:37.40,Signs,Counter,0,0,0,,{\pos(648.67,594)\fscx100\fscy100\fnGentium Basic\fs38\b1\c&H91CBC9&\1a&H33&\blur5.5}Years
@@ -2478,3 +2478,7 @@ Data: 72,_aegi_folddata,e0;0;9
 Data: 73,_aegi_folddata,e1;0;9
 Data: 74,_aegi_folddata,e0;0;11
 Data: 75,_aegi_folddata,e1;0;11
+Data: 76,_aegi_folddata,e0;0;4
+Data: 77,_aegi_folddata,e1;0;4
+Data: 78,_aegi_folddata,e0;0;1
+Data: 79,_aegi_folddata,e1;0;1
