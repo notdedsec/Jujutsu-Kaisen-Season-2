@@ -270,7 +270,8 @@ Dialogue: 0,0:20:38.51,0:20:41.14,Default,Yuji,0,0,0,,Which means we need to str
 Dialogue: 0,0:20:41.14,0:20:46.10,Default,Yuji,0,0,0,,Hit him with a strong attack and a\N somewhat weak one at the same time!
 Dialogue: 0,0:20:46.60,0:20:47.43,Default,Fushiguro,0,0,0,,Yeah.
 Dialogue: 0,0:20:47.43,0:20:50.35,Default,Fushiguro,0,0,0,,But we can't let him realize \Nwe've figured it out.
-Dialogue: 0,0:20:50.94,0:20:55.11,Default,Fushiguro,0,0,0,,We need to keep going full throttle \Nand show him our strength.
+Dialogue: 0,0:20:50.94,0:20:53.23,Default,Fushiguro,0,0,0,,We need to keep going full throttle.
+Dialogue: 0,0:20:53.23,0:20:55.11,Default,Fushiguro,0,0,0,,Show him what we're capable of.
 Dialogue: 0,0:21:01.03,0:21:03.33,Default,Fushiguro,0,0,0,,{\i1}We'll start with a weak blow from Toad.
 Dialogue: 0,0:21:04.12,0:21:06.62,Default,Fushiguro,0,0,0,,{\i1}Then we pummel him with a rush.
 Dialogue: 0,0:21:14.17,0:21:15.42,Default,Awasaka,0,0,0,,{\i1}These bastards...
