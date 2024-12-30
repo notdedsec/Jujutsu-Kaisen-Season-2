@@ -84,12 +84,12 @@ Dialogue: 0,0:04:02.72,0:04:03.72,Default,Yuji,0,0,0,,Give him back!
 Dialogue: 0,0:04:04.56,0:04:07.69,Default,Yuji,0,0,0,,Give back {*}Mr. Gojo{*Gojo-sensei}!
 Dialogue: 0,0:04:08.44,0:04:14.65,Default,Geto,0,0,0,,The myth of catfish being connected to earthquakes\N was a prominent one until the mid-Edo era.
 Dialogue: 0,0:04:14.65,0:04:20.53,Default,Geto,0,0,0,,They believed that a giant catfish, Onamazu,\N thrashing beneath the earth is what caused earthquakes. {this implies that Onamazu is a Special-Grade Mythical Spirit TM}
-Dialogue: 0,0:04:31.21,0:04:32.84,Default,Yuji,0,0,0,,What just happened?!
+Dialogue: 0,0:04:31.21,0:04:32.84,Default,Yuji,0,0,0,,{\i1}What just happened?!
 Dialogue: 0,0:04:34.30,0:04:36.21,Default,Geto,0,0,0,,It felt like you were falling, right?
 Dialogue: 0,0:04:36.96,0:04:41.47,Default,Geto,0,0,0,,From the outside, it looked like \Nyou took a little tumble.
 Dialogue: 0,0:04:43.68,0:04:46.97,Default,Geto,0,0,0,,The strength of Curse Manipulation\N lies in its wealth of options.
-Dialogue: 0,0:04:47.60,0:04:50.81,Default,Geto,0,0,0,,I can utilize multiple cursed spirits\N semi-first grade or higher.
-Dialogue: 0,0:04:50.81,0:04:57.53,Default,Geto,0,0,0,,If you analyze and overcome their techniques,\N I can just send out new ones.
+Dialogue: 0,0:04:47.60,0:04:50.81,Default,Geto,0,0,0,,I can attack with multiple cursed spirits,\N semi-first grade or higher.
+Dialogue: 0,0:04:50.81,0:04:57.53,Default,Geto,0,0,0,,And if you analyze and overcome their techniques,\N I can just send out new ones.
 Dialogue: 0,0:04:58.90,0:05:03.16,Default,Geto,0,0,0,,Of course, I can also simply pile on attacks\N without giving you any time for that.
 Dialogue: 0,0:05:12.12,0:05:13.75,Default,Yuji,0,0,0,,This won't...
 Dialogue: 0,0:05:21.34,0:05:23.26,Default,Geto,0,0,0,,During last year's Night Parade \Nof a Hundred Demons,
@@ -209,7 +209,7 @@ Dialogue: 0,0:18:29.13,0:18:30.67,Default,Geto,0,0,0,,You're exhausted.
 Dialogue: 0,0:18:32.63,0:18:33.93,Default,Choso,0,0,0,,So what?
 Dialogue: 0,0:18:35.72,0:18:40.85,Default,Choso,0,0,0,,Is that any reason not to risk my life\N for my little brother?
 Dialogue: 0,0:18:44.52,0:18:47.69,Default,Panda,0,0,0,,Just to be clear, you two aren't related, are you?
-Dialogue: 0,0:18:48.15,0:18:51.23,Default,Yuji,0,0,0,,Absolutely not. He almost killed me.
+Dialogue: 0,0:18:48.15,0:18:51.23,Default,Yuji,0,0,0,,Related? Far from it{\fscx180}—{\fscx}he almost killed me.
 Dialogue: 0,0:18:51.82,0:18:53.32,Default,Panda,0,0,0,,First it was Todo.
 Dialogue: 0,0:18:53.32,0:18:56.41,Default,Panda,0,0,0,,You emitting some weird pheromones or something?
 Dialogue: 0,0:18:57.78,0:18:59.87,Default,Kamo,0,0,0,,Still, he has created a disturbance.
