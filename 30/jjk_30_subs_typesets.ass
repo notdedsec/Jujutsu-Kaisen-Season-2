@@ -26,521 +26,464 @@ Style: <<folder>>,Cabin,50,&HFF000000,&HFF000000,&HFFFFFFFF,&HFFFFFFFF,-1,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.32,0:00:02.36,<<folder>>,,0,0,0,,{=26}- Movies {aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa}
-Dialogue: 0,0:00:02.31,0:00:02.35,Signs,Phone,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\c&HF6F6F6&\blur2.5\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:02.35,0:00:02.44,Signs,Phone,0,0,0,,{\an7\pos(-0.03,-0.01)\fscx100\fscy100\c&HF6F6F6&\blur2.5\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:02.44,0:00:02.56,Signs,Phone,0,0,0,,{\an7\pos(-3.87,-0.37)\fscx100.05\fscy100.05\c&HF6F6F6&\blur2.5\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:02.56,0:00:02.69,Signs,Phone,0,0,0,,{\an7\pos(-14.11,0.62)\fscx100.13\fscy100.13\c&HF6F6F6&\blur2.5\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:02.69,0:00:02.81,Signs,Phone,0,0,0,,{\an7\pos(-18.99,2.68)\fscx100.25\fscy100.25\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:02.81,0:00:02.94,Signs,Phone,0,0,0,,{\an7\pos(-22.85,4.31)\fscx100.28\fscy100.28\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\an7\pos(-15.79,0.3)\fscx100.35\fscy100.35\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.02,0:00:03.06,Signs,Phone,0,0,0,,{\an7\pos(-15.83,0.29)\fscx100.35\fscy100.35\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.06,0:00:03.14,Signs,Phone,0,0,0,,{\an7\pos(-13.27,-0.73)\fscx100.46\fscy100.46\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.14,0:00:03.19,Signs,Phone,0,0,0,,{\an7\pos(-13.23,-0.72)\fscx100.45\fscy100.45\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\an7\pos(-7.48,-1.08)\fscx100.52\fscy100.52\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.23,0:00:03.27,Signs,Phone,0,0,0,,{\an7\pos(-7.51,-1.09)\fscx100.52\fscy100.52\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.27,0:00:03.31,Signs,Phone,0,0,0,,{\an7\pos(-7.52,-1.09)\fscx100.52\fscy100.52\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.31,0:00:03.35,Signs,Phone,0,0,0,,{\an7\pos(-0.48,-0.83)\fscx100.52\fscy100.52\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.35,0:00:03.39,Signs,Phone,0,0,0,,{\an7\pos(-0.47,-0.83)\fscx100.52\fscy100.52\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.39,0:00:03.44,Signs,Phone,0,0,0,,{\an7\pos(-0.48,-0.83)\fscx100.52\fscy100.52\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.44,0:00:03.56,Signs,Phone,0,0,0,,{\an7\pos(1.2,-0.45)\fscx100.63\fscy100.63\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.56,0:00:03.60,Signs,Phone,0,0,0,,{\an7\pos(5.65,0.16)\fscx100.61\fscy100.61\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.60,0:00:03.65,Signs,Phone,0,0,0,,{\an7\pos(5.64,0.16)\fscx100.61\fscy100.61\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.65,0:00:03.69,Signs,Phone,0,0,0,,{\an7\pos(5.66,0.16)\fscx100.61\fscy100.61\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.69,0:00:03.81,Signs,Phone,0,0,0,,{\an7\pos(-1.03,-0.65)\fscx100.59\fscy100.59\c&HF6F6F6&\blur2.51\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.81,0:00:03.94,Signs,Phone,0,0,0,,{\an7\pos(-5.22,-1.08)\fscx100.68\fscy100.68\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:03.94,0:00:04.06,Signs,Phone,0,0,0,,{\an7\pos(-9.1,-1.47)\fscx100.73\fscy100.73\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.06,0:00:04.15,Signs,Phone,0,0,0,,{\an7\pos(-19.34,-0.45)\fscx100.8\fscy100.8\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.15,0:00:04.19,Signs,Phone,0,0,0,,{\an7\pos(-19.35,-0.45)\fscx100.8\fscy100.8\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.19,0:00:04.27,Signs,Phone,0,0,0,,{\an7\pos(-23.83,1.67)\fscx100.88\fscy100.88\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.27,0:00:04.31,Signs,Phone,0,0,0,,{\an7\pos(-23.86,1.66)\fscx100.88\fscy100.88\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.31,0:00:04.40,Signs,Phone,0,0,0,,{\an7\pos(-28.32,3.2)\fscx100.98\fscy100.98\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,Phone,0,0,0,,{\an7\pos(-28.3,3.2)\fscx100.98\fscy100.98\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.44,0:00:04.52,Signs,Phone,0,0,0,,{\an7\pos(-19.98,-0.59)\fscx100.89\fscy100.89\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.52,0:00:04.56,Signs,Phone,0,0,0,,{\an7\pos(-19.97,-0.59)\fscx100.89\fscy100.89\c&HF6F6F6&\blur2.52\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,Phone,0,0,0,,{\an7\pos(-17.78,-1.66)\fscx101.04\fscy101.04\c&HF6F6F6&\blur2.53\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.60,0:00:04.69,Signs,Phone,0,0,0,,{\an7\pos(-17.77,-1.66)\fscx101.04\fscy101.04\c&HF6F6F6&\blur2.53\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.69,0:00:04.81,Signs,Phone,0,0,0,,{\an7\pos(-11.87,-2)\fscx101.08\fscy101.08\c&HF6F6F6&\blur2.53\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,Phone,0,0,0,,{\an7\pos(-4.64,-1.7)\fscx101.06\fscy101.06\c&HF6F6F6&\blur2.53\p1\b1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
-Dialogue: 0,0:00:02.31,0:00:02.35,Signs,Phone,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\c&HF3F3F3&\blur2.5\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:02.35,0:00:02.44,Signs,Phone,0,0,0,,{\an7\pos(-0.03,-0.01)\fscx100\fscy100\c&HF3F3F3&\blur2.5\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:02.44,0:00:02.56,Signs,Phone,0,0,0,,{\an7\pos(-3.87,-0.37)\fscx100.05\fscy100.05\c&HF3F3F3&\blur2.5\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:02.56,0:00:02.69,Signs,Phone,0,0,0,,{\an7\pos(-14.11,0.62)\fscx100.13\fscy100.13\c&HF3F3F3&\blur2.5\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:02.69,0:00:02.81,Signs,Phone,0,0,0,,{\an7\pos(-18.99,2.68)\fscx100.25\fscy100.25\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:02.81,0:00:02.94,Signs,Phone,0,0,0,,{\an7\pos(-22.85,4.31)\fscx100.28\fscy100.28\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\an7\pos(-15.79,0.3)\fscx100.35\fscy100.35\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.02,0:00:03.06,Signs,Phone,0,0,0,,{\an7\pos(-15.83,0.29)\fscx100.35\fscy100.35\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.06,0:00:03.14,Signs,Phone,0,0,0,,{\an7\pos(-13.27,-0.73)\fscx100.46\fscy100.46\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.14,0:00:03.19,Signs,Phone,0,0,0,,{\an7\pos(-13.23,-0.72)\fscx100.45\fscy100.45\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\an7\pos(-7.48,-1.08)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.23,0:00:03.27,Signs,Phone,0,0,0,,{\an7\pos(-7.51,-1.09)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.27,0:00:03.31,Signs,Phone,0,0,0,,{\an7\pos(-7.52,-1.09)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.31,0:00:03.35,Signs,Phone,0,0,0,,{\an7\pos(-0.48,-0.83)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.35,0:00:03.39,Signs,Phone,0,0,0,,{\an7\pos(-0.47,-0.83)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.39,0:00:03.44,Signs,Phone,0,0,0,,{\an7\pos(-0.48,-0.83)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.44,0:00:03.56,Signs,Phone,0,0,0,,{\an7\pos(1.2,-0.45)\fscx100.63\fscy100.63\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.56,0:00:03.60,Signs,Phone,0,0,0,,{\an7\pos(5.65,0.16)\fscx100.61\fscy100.61\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.60,0:00:03.65,Signs,Phone,0,0,0,,{\an7\pos(5.64,0.16)\fscx100.61\fscy100.61\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.65,0:00:03.69,Signs,Phone,0,0,0,,{\an7\pos(5.66,0.16)\fscx100.61\fscy100.61\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.69,0:00:03.81,Signs,Phone,0,0,0,,{\an7\pos(-1.03,-0.65)\fscx100.59\fscy100.59\c&HF3F3F3&\blur2.51\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.81,0:00:03.94,Signs,Phone,0,0,0,,{\an7\pos(-5.22,-1.08)\fscx100.68\fscy100.68\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:03.94,0:00:04.06,Signs,Phone,0,0,0,,{\an7\pos(-9.1,-1.47)\fscx100.73\fscy100.73\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.06,0:00:04.15,Signs,Phone,0,0,0,,{\an7\pos(-19.34,-0.45)\fscx100.8\fscy100.8\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.15,0:00:04.19,Signs,Phone,0,0,0,,{\an7\pos(-19.35,-0.45)\fscx100.8\fscy100.8\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.19,0:00:04.27,Signs,Phone,0,0,0,,{\an7\pos(-23.83,1.67)\fscx100.88\fscy100.88\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.27,0:00:04.31,Signs,Phone,0,0,0,,{\an7\pos(-23.86,1.66)\fscx100.88\fscy100.88\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.31,0:00:04.40,Signs,Phone,0,0,0,,{\an7\pos(-28.32,3.2)\fscx100.98\fscy100.98\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,Phone,0,0,0,,{\an7\pos(-28.3,3.2)\fscx100.98\fscy100.98\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.44,0:00:04.52,Signs,Phone,0,0,0,,{\an7\pos(-19.98,-0.59)\fscx100.89\fscy100.89\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.52,0:00:04.56,Signs,Phone,0,0,0,,{\an7\pos(-19.97,-0.59)\fscx100.89\fscy100.89\c&HF3F3F3&\blur2.52\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,Phone,0,0,0,,{\an7\pos(-17.78,-1.66)\fscx101.04\fscy101.04\c&HF3F3F3&\blur2.53\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.60,0:00:04.69,Signs,Phone,0,0,0,,{\an7\pos(-17.77,-1.66)\fscx101.04\fscy101.04\c&HF3F3F3&\blur2.53\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.69,0:00:04.81,Signs,Phone,0,0,0,,{\an7\pos(-11.87,-2)\fscx101.08\fscy101.08\c&HF3F3F3&\blur2.53\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,Phone,0,0,0,,{\an7\pos(-4.64,-1.7)\fscx101.06\fscy101.06\c&HF3F3F3&\blur2.53\p1\b1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
-Dialogue: 0,0:00:02.31,0:00:02.35,Signs,Phone,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\c&HF3F3F3&\blur2.5\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:02.35,0:00:02.44,Signs,Phone,0,0,0,,{\an7\pos(-0.03,-0.01)\fscx100\fscy100\c&HF3F3F3&\blur2.5\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:02.44,0:00:02.56,Signs,Phone,0,0,0,,{\an7\pos(-3.87,-0.37)\fscx100.05\fscy100.05\c&HF3F3F3&\blur2.5\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:02.56,0:00:02.69,Signs,Phone,0,0,0,,{\an7\pos(-14.11,0.62)\fscx100.13\fscy100.13\c&HF3F3F3&\blur2.5\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:02.69,0:00:02.81,Signs,Phone,0,0,0,,{\an7\pos(-18.99,2.68)\fscx100.25\fscy100.25\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:02.81,0:00:02.94,Signs,Phone,0,0,0,,{\an7\pos(-22.85,4.31)\fscx100.28\fscy100.28\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\an7\pos(-15.79,0.3)\fscx100.35\fscy100.35\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.02,0:00:03.06,Signs,Phone,0,0,0,,{\an7\pos(-15.83,0.29)\fscx100.35\fscy100.35\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.06,0:00:03.14,Signs,Phone,0,0,0,,{\an7\pos(-13.27,-0.73)\fscx100.46\fscy100.46\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.14,0:00:03.19,Signs,Phone,0,0,0,,{\an7\pos(-13.23,-0.72)\fscx100.45\fscy100.45\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\an7\pos(-7.48,-1.08)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.23,0:00:03.27,Signs,Phone,0,0,0,,{\an7\pos(-7.51,-1.09)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.27,0:00:03.31,Signs,Phone,0,0,0,,{\an7\pos(-7.52,-1.09)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.31,0:00:03.35,Signs,Phone,0,0,0,,{\an7\pos(-0.48,-0.83)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.35,0:00:03.39,Signs,Phone,0,0,0,,{\an7\pos(-0.47,-0.83)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.39,0:00:03.44,Signs,Phone,0,0,0,,{\an7\pos(-0.48,-0.83)\fscx100.52\fscy100.52\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.44,0:00:03.56,Signs,Phone,0,0,0,,{\an7\pos(1.2,-0.45)\fscx100.63\fscy100.63\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.56,0:00:03.60,Signs,Phone,0,0,0,,{\an7\pos(5.65,0.16)\fscx100.61\fscy100.61\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.60,0:00:03.65,Signs,Phone,0,0,0,,{\an7\pos(5.64,0.16)\fscx100.61\fscy100.61\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.65,0:00:03.69,Signs,Phone,0,0,0,,{\an7\pos(5.66,0.16)\fscx100.61\fscy100.61\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.69,0:00:03.81,Signs,Phone,0,0,0,,{\an7\pos(-1.03,-0.65)\fscx100.59\fscy100.59\c&HF3F3F3&\blur2.51\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.81,0:00:03.94,Signs,Phone,0,0,0,,{\an7\pos(-5.22,-1.08)\fscx100.68\fscy100.68\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:03.94,0:00:04.06,Signs,Phone,0,0,0,,{\an7\pos(-9.1,-1.47)\fscx100.73\fscy100.73\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.06,0:00:04.15,Signs,Phone,0,0,0,,{\an7\pos(-19.34,-0.45)\fscx100.8\fscy100.8\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.15,0:00:04.19,Signs,Phone,0,0,0,,{\an7\pos(-19.35,-0.45)\fscx100.8\fscy100.8\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.19,0:00:04.27,Signs,Phone,0,0,0,,{\an7\pos(-23.83,1.67)\fscx100.88\fscy100.88\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.27,0:00:04.31,Signs,Phone,0,0,0,,{\an7\pos(-23.86,1.66)\fscx100.88\fscy100.88\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.31,0:00:04.40,Signs,Phone,0,0,0,,{\an7\pos(-28.32,3.2)\fscx100.98\fscy100.98\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,Phone,0,0,0,,{\an7\pos(-28.3,3.2)\fscx100.98\fscy100.98\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.44,0:00:04.52,Signs,Phone,0,0,0,,{\an7\pos(-19.98,-0.59)\fscx100.89\fscy100.89\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.52,0:00:04.56,Signs,Phone,0,0,0,,{\an7\pos(-19.97,-0.59)\fscx100.89\fscy100.89\c&HF3F3F3&\blur2.52\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,Phone,0,0,0,,{\an7\pos(-17.78,-1.66)\fscx101.04\fscy101.04\c&HF3F3F3&\blur2.53\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.60,0:00:04.69,Signs,Phone,0,0,0,,{\an7\pos(-17.77,-1.66)\fscx101.04\fscy101.04\c&HF3F3F3&\blur2.53\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.69,0:00:04.81,Signs,Phone,0,0,0,,{\an7\pos(-11.87,-2)\fscx101.08\fscy101.08\c&HF3F3F3&\blur2.53\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,Phone,0,0,0,,{\an7\pos(-4.64,-1.7)\fscx101.06\fscy101.06\c&HF3F3F3&\blur2.53\p1\b1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
-Dialogue: 3,0:00:02.31,0:00:02.35,Signs,Phone,0,0,0,,{\pos(613,192)\fscx100\fscy100\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:02.35,0:00:02.44,Signs,Phone,0,0,0,,{\pos(612.99,192)\fscx100\fscy100\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:02.44,0:00:02.56,Signs,Phone,0,0,0,,{\pos(609.43,191.73)\fscx100.05\fscy100.05\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:02.56,0:00:02.69,Signs,Phone,0,0,0,,{\pos(599.67,192.87)\fscx100.13\fscy100.13\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:02.69,0:00:02.81,Signs,Phone,0,0,0,,{\pos(595.55,195.16)\fscx100.25\fscy100.25\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:02.81,0:00:02.94,Signs,Phone,0,0,0,,{\pos(591.84,196.84)\fscx100.28\fscy100.28\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\pos(599.32,192.96)\fscx100.35\fscy100.35\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.02,0:00:03.06,Signs,Phone,0,0,0,,{\pos(599.31,192.96)\fscx100.35\fscy100.35\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.06,0:00:03.10,Signs,Phone,0,0,0,,{\pos(602.53,192.15)\fscx100.46\fscy100.46\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.10,0:00:03.14,Signs,Phone,0,0,0,,{\pos(602.54,192.15)\fscx100.46\fscy100.46\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.14,0:00:03.19,Signs,Phone,0,0,0,,{\pos(602.54,192.15)\fscx100.45\fscy100.45\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\pos(608.69,191.91)\fscx100.52\fscy100.52\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.23,0:00:03.31,Signs,Phone,0,0,0,,{\pos(608.68,191.91)\fscx100.52\fscy100.52\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.31,0:00:03.35,Signs,Phone,0,0,0,,{\pos(615.72,192.17)\fscx100.52\fscy100.52\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.35,0:00:03.39,Signs,Phone,0,0,0,,{\pos(615.73,192.17)\fscx100.52\fscy100.52\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.39,0:00:03.44,Signs,Phone,0,0,0,,{\pos(615.72,192.17)\fscx100.52\fscy100.52\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.44,0:00:03.56,Signs,Phone,0,0,0,,{\pos(618.07,192.76)\fscx100.63\fscy100.63\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.56,0:00:03.69,Signs,Phone,0,0,0,,{\pos(622.38,193.33)\fscx100.61\fscy100.61\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.69,0:00:03.81,Signs,Phone,0,0,0,,{\pos(615.57,192.47)\fscx100.59\fscy100.59\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.81,0:00:03.94,Signs,Phone,0,0,0,,{\pos(611.93,192.22)\fscx100.68\fscy100.68\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:03.94,0:00:04.06,Signs,Phone,0,0,0,,{\pos(608.36,191.92)\fscx100.73\fscy100.73\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.06,0:00:04.19,Signs,Phone,0,0,0,,{\pos(598.58,193.09)\fscx100.8\fscy100.8\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.19,0:00:04.31,Signs,Phone,0,0,0,,{\pos(594.54,195.35)\fscx100.88\fscy100.88\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.31,0:00:04.35,Signs,Phone,0,0,0,,{\pos(590.68,197.08)\fscx100.98\fscy100.98\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.35,0:00:04.44,Signs,Phone,0,0,0,,{\pos(590.69,197.08)\fscx100.98\fscy100.98\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.44,0:00:04.56,Signs,Phone,0,0,0,,{\pos(598.48,193.12)\fscx100.89\fscy100.89\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.56,0:00:04.60,Signs,Phone,0,0,0,,{\pos(601.59,192.33)\fscx101.04\fscy101.04\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.60,0:00:04.65,Signs,Phone,0,0,0,,{\pos(601.59,192.34)\fscx101.04\fscy101.04\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.65,0:00:04.69,Signs,Phone,0,0,0,,{\pos(601.59,192.33)\fscx101.04\fscy101.04\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.69,0:00:04.81,Signs,Phone,0,0,0,,{\pos(607.78,192.08)\fscx101.08\fscy101.08\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:04.81,0:00:04.85,Signs,Phone,0,0,0,,{\pos(614.84,192.33)\fscx101.06\fscy101.06\frz13.23\fax0.11\fnCabin\fs26\c&H808080&\blur0.88}Now Playing
-Dialogue: 3,0:00:02.31,0:00:02.44,Signs,Phone,0,0,0,,{\pos(784,152)\fscx100\fscy100\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:02.44,0:00:02.56,Signs,Phone,0,0,0,,{\pos(780.52,151.71)\fscx100.05\fscy100.05\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:02.56,0:00:02.69,Signs,Phone,0,0,0,,{\pos(770.89,152.82)\fscx100.13\fscy100.13\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:02.69,0:00:02.81,Signs,Phone,0,0,0,,{\pos(766.98,155.06)\fscx100.25\fscy100.25\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:02.81,0:00:02.94,Signs,Phone,0,0,0,,{\pos(763.31,156.73)\fscx100.28\fscy100.28\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:02.94,0:00:03.06,Signs,Phone,0,0,0,,{\pos(770.91,152.82)\fscx100.35\fscy100.35\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:03.06,0:00:03.14,Signs,Phone,0,0,0,,{\pos(774.32,151.97)\fscx100.46\fscy100.46\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:03.14,0:00:03.19,Signs,Phone,0,0,0,,{\pos(774.32,151.97)\fscx100.45\fscy100.45\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:03.19,0:00:03.31,Signs,Phone,0,0,0,,{\pos(780.57,151.7)\fscx100.52\fscy100.52\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:03.31,0:00:03.44,Signs,Phone,0,0,0,,{\pos(787.62,151.96)\fscx100.52\fscy100.52\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:03.44,0:00:03.56,Signs,Phone,0,0,0,,{\pos(790.15,152.51)\fscx100.63\fscy100.63\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:03.56,0:00:03.69,Signs,Phone,0,0,0,,{\pos(794.42,153.08)\fscx100.61\fscy100.61\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:03.69,0:00:03.81,Signs,Phone,0,0,0,,{\pos(787.57,152.24)\fscx100.59\fscy100.59\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:03.81,0:00:03.94,Signs,Phone,0,0,0,,{\pos(784.08,151.95)\fscx100.68\fscy100.68\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:03.94,0:00:04.06,Signs,Phone,0,0,0,,{\pos(780.6,151.63)\fscx100.73\fscy100.73\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:04.06,0:00:04.19,Signs,Phone,0,0,0,,{\pos(770.95,152.77)\fscx100.8\fscy100.8\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:04.19,0:00:04.31,Signs,Phone,0,0,0,,{\pos(767.04,155)\fscx100.88\fscy100.88\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:04.31,0:00:04.44,Signs,Phone,0,0,0,,{\pos(763.36,156.69)\fscx100.98\fscy100.98\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:04.44,0:00:04.56,Signs,Phone,0,0,0,,{\pos(771,152.76)\fscx100.89\fscy100.89\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:04.56,0:00:04.69,Signs,Phone,0,0,0,,{\pos(774.37,151.92)\fscx101.04\fscy101.04\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:04.69,0:00:04.81,Signs,Phone,0,0,0,,{\pos(780.63,151.65)\fscx101.08\fscy101.08\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:04.81,0:00:04.85,Signs,Phone,0,0,0,,{\pos(787.65,151.91)\fscx101.06\fscy101.06\frz13.48\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Coming Soon
-Dialogue: 3,0:00:02.31,0:00:02.35,Signs,Phone,0,0,0,,{\pos(947,112)\fscx105\fscy100\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:02.35,0:00:02.44,Signs,Phone,0,0,0,,{\pos(947.01,112)\fscx105\fscy100\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:02.44,0:00:02.56,Signs,Phone,0,0,0,,{\pos(943.6,111.69)\fscx105.05\fscy100.05\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:02.56,0:00:02.69,Signs,Phone,0,0,0,,{\pos(934.1,112.77)\fscx105.13\fscy100.13\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:02.69,0:00:02.81,Signs,Phone,0,0,0,,{\pos(930.39,114.96)\fscx105.26\fscy100.25\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:02.81,0:00:02.94,Signs,Phone,0,0,0,,{\pos(926.76,116.61)\fscx105.29\fscy100.28\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\pos(934.47,112.69)\fscx105.36\fscy100.35\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.02,0:00:03.06,Signs,Phone,0,0,0,,{\pos(934.48,112.69)\fscx105.37\fscy100.35\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.06,0:00:03.14,Signs,Phone,0,0,0,,{\pos(938.06,111.78)\fscx105.48\fscy100.46\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.14,0:00:03.19,Signs,Phone,0,0,0,,{\pos(938.06,111.79)\fscx105.48\fscy100.45\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\pos(944.41,111.5)\fscx105.54\fscy100.52\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.23,0:00:03.27,Signs,Phone,0,0,0,,{\pos(944.41,111.49)\fscx105.55\fscy100.52\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.27,0:00:03.31,Signs,Phone,0,0,0,,{\pos(944.42,111.49)\fscx105.55\fscy100.52\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.31,0:00:03.44,Signs,Phone,0,0,0,,{\pos(951.47,111.75)\fscx105.55\fscy100.52\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.44,0:00:03.48,Signs,Phone,0,0,0,,{\pos(954.18,112.26)\fscx105.66\fscy100.63\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.48,0:00:03.56,Signs,Phone,0,0,0,,{\pos(954.18,112.25)\fscx105.66\fscy100.63\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.56,0:00:03.69,Signs,Phone,0,0,0,,{\pos(958.41,112.84)\fscx105.64\fscy100.61\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.69,0:00:03.81,Signs,Phone,0,0,0,,{\pos(951.53,112.01)\fscx105.62\fscy100.59\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.81,0:00:03.90,Signs,Phone,0,0,0,,{\pos(948.18,111.68)\fscx105.71\fscy100.68\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.90,0:00:03.94,Signs,Phone,0,0,0,,{\pos(948.19,111.68)\fscx105.71\fscy100.68\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:03.94,0:00:04.06,Signs,Phone,0,0,0,,{\pos(944.78,111.34)\fscx105.76\fscy100.73\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.06,0:00:04.19,Signs,Phone,0,0,0,,{\pos(935.26,112.45)\fscx105.84\fscy100.8\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.19,0:00:04.27,Signs,Phone,0,0,0,,{\pos(931.47,114.65)\fscx105.92\fscy100.88\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.27,0:00:04.31,Signs,Phone,0,0,0,,{\pos(931.48,114.65)\fscx105.92\fscy100.88\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.31,0:00:04.35,Signs,Phone,0,0,0,,{\pos(927.95,116.3)\fscx106.03\fscy100.98\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.35,0:00:04.40,Signs,Phone,0,0,0,,{\pos(927.96,116.3)\fscx106.03\fscy100.98\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.40,0:00:04.44,Signs,Phone,0,0,0,,{\pos(927.95,116.3)\fscx106.03\fscy100.98\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.44,0:00:04.56,Signs,Phone,0,0,0,,{\pos(935.45,112.4)\fscx105.93\fscy100.89\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.56,0:00:04.69,Signs,Phone,0,0,0,,{\pos(939.06,111.5)\fscx106.09\fscy101.04\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.69,0:00:04.73,Signs,Phone,0,0,0,,{\pos(945.4,111.22)\fscx106.14\fscy101.08\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.73,0:00:04.81,Signs,Phone,0,0,0,,{\pos(945.4,111.21)\fscx106.14\fscy101.08\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
-Dialogue: 3,0:00:04.81,0:00:04.85,Signs,Phone,0,0,0,,{\pos(952.38,111.49)\fscx106.11\fscy101.06\frz13.8\fax0.11\fnCabin\fs26\c&H646464&\blur0.88}Access
+Dialogue: 0,0:00:02.32,0:00:02.36,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HF6F6F6&\pos(0,0)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:02.36,0:00:02.44,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HF6F6F6&\pos(-0.03,-0.01)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:02.44,0:00:02.57,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100.05\fscy100.05\c&HF6F6F6&\pos(-3.87,-0.37)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:02.57,0:00:02.69,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100.13\fscy100.13\c&HF6F6F6&\pos(-14.11,0.62)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:02.69,0:00:02.82,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.25\fscy100.25\c&HF6F6F6&\pos(-18.99,2.68)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:02.82,0:00:02.94,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.28\fscy100.28\c&HF6F6F6&\pos(-22.85,4.31)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.35\fscy100.35\c&HF6F6F6&\pos(-15.79,0.3)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.02,0:00:03.07,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.35\fscy100.35\c&HF6F6F6&\pos(-15.83,0.29)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.07,0:00:03.15,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.46\fscy100.46\c&HF6F6F6&\pos(-13.27,-0.73)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.15,0:00:03.19,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.45\fscy100.45\c&HF6F6F6&\pos(-13.23,-0.72)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF6F6F6&\pos(-7.48,-1.08)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.23,0:00:03.27,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF6F6F6&\pos(-7.51,-1.09)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.27,0:00:03.32,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF6F6F6&\pos(-7.52,-1.09)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.32,0:00:03.36,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF6F6F6&\pos(-0.48,-0.83)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.36,0:00:03.40,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF6F6F6&\pos(-0.47,-0.83)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.40,0:00:03.44,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF6F6F6&\pos(-0.48,-0.83)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.44,0:00:03.57,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.63\fscy100.63\c&HF6F6F6&\pos(1.2,-0.45)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.57,0:00:03.61,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.61\fscy100.61\c&HF6F6F6&\pos(5.65,0.16)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.61,0:00:03.65,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.61\fscy100.61\c&HF6F6F6&\pos(5.64,0.16)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.65,0:00:03.69,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.61\fscy100.61\c&HF6F6F6&\pos(5.66,0.16)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.69,0:00:03.82,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.59\fscy100.59\c&HF6F6F6&\pos(-1.03,-0.65)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.82,0:00:03.94,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.68\fscy100.68\c&HF6F6F6&\pos(-5.22,-1.08)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:03.94,0:00:04.07,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.73\fscy100.73\c&HF6F6F6&\pos(-9.1,-1.47)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.07,0:00:04.15,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.8\fscy100.8\c&HF6F6F6&\pos(-19.34,-0.45)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.15,0:00:04.19,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.8\fscy100.8\c&HF6F6F6&\pos(-19.35,-0.45)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.19,0:00:04.28,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.88\fscy100.88\c&HF6F6F6&\pos(-23.83,1.67)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.28,0:00:04.32,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.88\fscy100.88\c&HF6F6F6&\pos(-23.86,1.66)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.32,0:00:04.40,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.98\fscy100.98\c&HF6F6F6&\pos(-28.32,3.2)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.98\fscy100.98\c&HF6F6F6&\pos(-28.3,3.2)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.44,0:00:04.53,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.89\fscy100.89\c&HF6F6F6&\pos(-19.98,-0.59)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.53,0:00:04.57,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.89\fscy100.89\c&HF6F6F6&\pos(-19.97,-0.59)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.04\fscy101.04\c&HF6F6F6&\pos(-17.78,-1.66)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.61,0:00:04.69,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.04\fscy101.04\c&HF6F6F6&\pos(-17.77,-1.66)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.69,0:00:04.82,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.08\fscy101.08\c&HF6F6F6&\pos(-11.87,-2)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.06\fscy101.06\c&HF6F6F6&\pos(-4.64,-1.7)\b1\p1}m 525.33 181.87 l 677.33 145.6 698.13 196.8 543.47 235.2
+Dialogue: 0,0:00:02.32,0:00:02.36,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HF3F3F3&\pos(0,0)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:02.36,0:00:02.44,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HF3F3F3&\pos(-0.03,-0.01)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:02.44,0:00:02.57,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100.05\fscy100.05\c&HF3F3F3&\pos(-3.87,-0.37)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:02.57,0:00:02.69,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100.13\fscy100.13\c&HF3F3F3&\pos(-14.11,0.62)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:02.69,0:00:02.82,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.25\fscy100.25\c&HF3F3F3&\pos(-18.99,2.68)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:02.82,0:00:02.94,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.28\fscy100.28\c&HF3F3F3&\pos(-22.85,4.31)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.35\fscy100.35\c&HF3F3F3&\pos(-15.79,0.3)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.02,0:00:03.07,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.35\fscy100.35\c&HF3F3F3&\pos(-15.83,0.29)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.07,0:00:03.15,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.46\fscy100.46\c&HF3F3F3&\pos(-13.27,-0.73)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.15,0:00:03.19,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.45\fscy100.45\c&HF3F3F3&\pos(-13.23,-0.72)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-7.48,-1.08)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.23,0:00:03.27,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-7.51,-1.09)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.27,0:00:03.32,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-7.52,-1.09)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.32,0:00:03.36,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-0.48,-0.83)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.36,0:00:03.40,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-0.47,-0.83)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.40,0:00:03.44,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-0.48,-0.83)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.44,0:00:03.57,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.63\fscy100.63\c&HF3F3F3&\pos(1.2,-0.45)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.57,0:00:03.61,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.61\fscy100.61\c&HF3F3F3&\pos(5.65,0.16)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.61,0:00:03.65,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.61\fscy100.61\c&HF3F3F3&\pos(5.64,0.16)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.65,0:00:03.69,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.61\fscy100.61\c&HF3F3F3&\pos(5.66,0.16)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.69,0:00:03.82,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.59\fscy100.59\c&HF3F3F3&\pos(-1.03,-0.65)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.82,0:00:03.94,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.68\fscy100.68\c&HF3F3F3&\pos(-5.22,-1.08)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:03.94,0:00:04.07,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.73\fscy100.73\c&HF3F3F3&\pos(-9.1,-1.47)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.07,0:00:04.15,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.8\fscy100.8\c&HF3F3F3&\pos(-19.34,-0.45)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.15,0:00:04.19,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.8\fscy100.8\c&HF3F3F3&\pos(-19.35,-0.45)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.19,0:00:04.28,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.88\fscy100.88\c&HF3F3F3&\pos(-23.83,1.67)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.28,0:00:04.32,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.88\fscy100.88\c&HF3F3F3&\pos(-23.86,1.66)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.32,0:00:04.40,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.98\fscy100.98\c&HF3F3F3&\pos(-28.32,3.2)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.98\fscy100.98\c&HF3F3F3&\pos(-28.3,3.2)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.44,0:00:04.53,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.89\fscy100.89\c&HF3F3F3&\pos(-19.98,-0.59)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.53,0:00:04.57,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.89\fscy100.89\c&HF3F3F3&\pos(-19.97,-0.59)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.04\fscy101.04\c&HF3F3F3&\pos(-17.78,-1.66)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.61,0:00:04.69,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.04\fscy101.04\c&HF3F3F3&\pos(-17.77,-1.66)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.69,0:00:04.82,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.08\fscy101.08\c&HF3F3F3&\pos(-11.87,-2)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.06\fscy101.06\c&HF3F3F3&\pos(-4.64,-1.7)\b1\p1}m 698.19 141.6 l 850.19 105.33 870.99 156.53 716.33 194.93
+Dialogue: 0,0:00:02.32,0:00:02.36,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HF3F3F3&\pos(0,0)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:02.36,0:00:02.44,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100\fscy100\c&HF3F3F3&\pos(-0.03,-0.01)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:02.44,0:00:02.57,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100.05\fscy100.05\c&HF3F3F3&\pos(-3.87,-0.37)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:02.57,0:00:02.69,Signs,Phone,0,0,0,,{\an7\blur2.5\fscx100.13\fscy100.13\c&HF3F3F3&\pos(-14.11,0.62)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:02.69,0:00:02.82,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.25\fscy100.25\c&HF3F3F3&\pos(-18.99,2.68)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:02.82,0:00:02.94,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.28\fscy100.28\c&HF3F3F3&\pos(-22.85,4.31)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.35\fscy100.35\c&HF3F3F3&\pos(-15.79,0.3)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.02,0:00:03.07,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.35\fscy100.35\c&HF3F3F3&\pos(-15.83,0.29)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.07,0:00:03.15,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.46\fscy100.46\c&HF3F3F3&\pos(-13.27,-0.73)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.15,0:00:03.19,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.45\fscy100.45\c&HF3F3F3&\pos(-13.23,-0.72)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-7.48,-1.08)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.23,0:00:03.27,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-7.51,-1.09)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.27,0:00:03.32,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-7.52,-1.09)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.32,0:00:03.36,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-0.48,-0.83)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.36,0:00:03.40,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-0.47,-0.83)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.40,0:00:03.44,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.52\fscy100.52\c&HF3F3F3&\pos(-0.48,-0.83)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.44,0:00:03.57,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.63\fscy100.63\c&HF3F3F3&\pos(1.2,-0.45)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.57,0:00:03.61,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.61\fscy100.61\c&HF3F3F3&\pos(5.65,0.16)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.61,0:00:03.65,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.61\fscy100.61\c&HF3F3F3&\pos(5.64,0.16)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.65,0:00:03.69,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.61\fscy100.61\c&HF3F3F3&\pos(5.66,0.16)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.69,0:00:03.82,Signs,Phone,0,0,0,,{\an7\blur2.51\fscx100.59\fscy100.59\c&HF3F3F3&\pos(-1.03,-0.65)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.82,0:00:03.94,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.68\fscy100.68\c&HF3F3F3&\pos(-5.22,-1.08)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:03.94,0:00:04.07,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.73\fscy100.73\c&HF3F3F3&\pos(-9.1,-1.47)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.07,0:00:04.15,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.8\fscy100.8\c&HF3F3F3&\pos(-19.34,-0.45)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.15,0:00:04.19,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.8\fscy100.8\c&HF3F3F3&\pos(-19.35,-0.45)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.19,0:00:04.28,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.88\fscy100.88\c&HF3F3F3&\pos(-23.83,1.67)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.28,0:00:04.32,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.88\fscy100.88\c&HF3F3F3&\pos(-23.86,1.66)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.32,0:00:04.40,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.98\fscy100.98\c&HF3F3F3&\pos(-28.32,3.2)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.98\fscy100.98\c&HF3F3F3&\pos(-28.3,3.2)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.44,0:00:04.53,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.89\fscy100.89\c&HF3F3F3&\pos(-19.98,-0.59)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.53,0:00:04.57,Signs,Phone,0,0,0,,{\an7\blur2.52\fscx100.89\fscy100.89\c&HF3F3F3&\pos(-19.97,-0.59)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.04\fscy101.04\c&HF3F3F3&\pos(-17.78,-1.66)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.61,0:00:04.69,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.04\fscy101.04\c&HF3F3F3&\pos(-17.77,-1.66)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.69,0:00:04.82,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.08\fscy101.08\c&HF3F3F3&\pos(-11.87,-2)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,Phone,0,0,0,,{\an7\blur2.53\fscx101.06\fscy101.06\c&HF3F3F3&\pos(-4.64,-1.7)\b1\p1}m 867.43 99.98 l 1019.43 63.71 1040.23 114.91 885.57 153.31
+Dialogue: 3,0:00:02.32,0:00:02.36,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100\fscy100\frz13.23\fax0.11\c&H808080&\pos(613,192)}Now Playing
+Dialogue: 3,0:00:02.36,0:00:02.44,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100\fscy100\frz13.23\fax0.11\c&H808080&\pos(612.99,192)}Now Playing
+Dialogue: 3,0:00:02.44,0:00:02.57,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.05\fscy100.05\frz13.23\fax0.11\c&H808080&\pos(609.43,191.73)}Now Playing
+Dialogue: 3,0:00:02.57,0:00:02.69,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.13\fscy100.13\frz13.23\fax0.11\c&H808080&\pos(599.67,192.87)}Now Playing
+Dialogue: 3,0:00:02.69,0:00:02.82,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.25\fscy100.25\frz13.23\fax0.11\c&H808080&\pos(595.55,195.16)}Now Playing
+Dialogue: 3,0:00:02.82,0:00:02.94,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.28\fscy100.28\frz13.23\fax0.11\c&H808080&\pos(591.84,196.84)}Now Playing
+Dialogue: 3,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.35\fscy100.35\frz13.23\fax0.11\c&H808080&\pos(599.32,192.96)}Now Playing
+Dialogue: 3,0:00:03.02,0:00:03.07,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.35\fscy100.35\frz13.23\fax0.11\c&H808080&\pos(599.31,192.96)}Now Playing
+Dialogue: 3,0:00:03.07,0:00:03.11,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.46\fscy100.46\frz13.23\fax0.11\c&H808080&\pos(602.53,192.15)}Now Playing
+Dialogue: 3,0:00:03.11,0:00:03.15,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.46\fscy100.46\frz13.23\fax0.11\c&H808080&\pos(602.54,192.15)}Now Playing
+Dialogue: 3,0:00:03.15,0:00:03.19,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.45\fscy100.45\frz13.23\fax0.11\c&H808080&\pos(602.54,192.15)}Now Playing
+Dialogue: 3,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.52\fscy100.52\frz13.23\fax0.11\c&H808080&\pos(608.69,191.91)}Now Playing
+Dialogue: 3,0:00:03.23,0:00:03.32,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.52\fscy100.52\frz13.23\fax0.11\c&H808080&\pos(608.68,191.91)}Now Playing
+Dialogue: 3,0:00:03.32,0:00:03.36,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.52\fscy100.52\frz13.23\fax0.11\c&H808080&\pos(615.72,192.17)}Now Playing
+Dialogue: 3,0:00:03.36,0:00:03.40,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.52\fscy100.52\frz13.23\fax0.11\c&H808080&\pos(615.73,192.17)}Now Playing
+Dialogue: 3,0:00:03.40,0:00:03.44,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.52\fscy100.52\frz13.23\fax0.11\c&H808080&\pos(615.72,192.17)}Now Playing
+Dialogue: 3,0:00:03.44,0:00:03.57,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.63\fscy100.63\frz13.23\fax0.11\c&H808080&\pos(618.07,192.76)}Now Playing
+Dialogue: 3,0:00:03.57,0:00:03.69,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.61\fscy100.61\frz13.23\fax0.11\c&H808080&\pos(622.38,193.33)}Now Playing
+Dialogue: 3,0:00:03.69,0:00:03.82,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.59\fscy100.59\frz13.23\fax0.11\c&H808080&\pos(615.57,192.47)}Now Playing
+Dialogue: 3,0:00:03.82,0:00:03.94,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.68\fscy100.68\frz13.23\fax0.11\c&H808080&\pos(611.93,192.22)}Now Playing
+Dialogue: 3,0:00:03.94,0:00:04.07,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.73\fscy100.73\frz13.23\fax0.11\c&H808080&\pos(608.36,191.92)}Now Playing
+Dialogue: 3,0:00:04.07,0:00:04.19,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.8\fscy100.8\frz13.23\fax0.11\c&H808080&\pos(598.58,193.09)}Now Playing
+Dialogue: 3,0:00:04.19,0:00:04.32,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.88\fscy100.88\frz13.23\fax0.11\c&H808080&\pos(594.54,195.35)}Now Playing
+Dialogue: 3,0:00:04.32,0:00:04.36,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.98\fscy100.98\frz13.23\fax0.11\c&H808080&\pos(590.68,197.08)}Now Playing
+Dialogue: 3,0:00:04.36,0:00:04.44,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.98\fscy100.98\frz13.23\fax0.11\c&H808080&\pos(590.69,197.08)}Now Playing
+Dialogue: 3,0:00:04.44,0:00:04.57,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.89\fscy100.89\frz13.23\fax0.11\c&H808080&\pos(598.48,193.12)}Now Playing
+Dialogue: 3,0:00:04.57,0:00:04.61,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx101.04\fscy101.04\frz13.23\fax0.11\c&H808080&\pos(601.59,192.33)}Now Playing
+Dialogue: 3,0:00:04.61,0:00:04.65,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx101.04\fscy101.04\frz13.23\fax0.11\c&H808080&\pos(601.59,192.34)}Now Playing
+Dialogue: 3,0:00:04.65,0:00:04.69,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx101.04\fscy101.04\frz13.23\fax0.11\c&H808080&\pos(601.59,192.33)}Now Playing
+Dialogue: 3,0:00:04.69,0:00:04.82,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx101.08\fscy101.08\frz13.23\fax0.11\c&H808080&\pos(607.78,192.08)}Now Playing
+Dialogue: 3,0:00:04.82,0:00:04.86,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx101.06\fscy101.06\frz13.23\fax0.11\c&H808080&\pos(614.84,192.33)}Now Playing
+Dialogue: 3,0:00:02.32,0:00:02.44,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100\fscy100\frz13.48\fax0.11\c&H646464&\pos(784,152)}Coming Soon
+Dialogue: 3,0:00:02.44,0:00:02.57,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.05\fscy100.05\frz13.48\fax0.11\c&H646464&\pos(780.52,151.71)}Coming Soon
+Dialogue: 3,0:00:02.57,0:00:02.69,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.13\fscy100.13\frz13.48\fax0.11\c&H646464&\pos(770.89,152.82)}Coming Soon
+Dialogue: 3,0:00:02.69,0:00:02.82,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.25\fscy100.25\frz13.48\fax0.11\c&H646464&\pos(766.98,155.06)}Coming Soon
+Dialogue: 3,0:00:02.82,0:00:02.94,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.28\fscy100.28\frz13.48\fax0.11\c&H646464&\pos(763.31,156.73)}Coming Soon
+Dialogue: 3,0:00:02.94,0:00:03.07,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.35\fscy100.35\frz13.48\fax0.11\c&H646464&\pos(770.91,152.82)}Coming Soon
+Dialogue: 3,0:00:03.07,0:00:03.15,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.46\fscy100.46\frz13.48\fax0.11\c&H646464&\pos(774.32,151.97)}Coming Soon
+Dialogue: 3,0:00:03.15,0:00:03.19,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.45\fscy100.45\frz13.48\fax0.11\c&H646464&\pos(774.32,151.97)}Coming Soon
+Dialogue: 3,0:00:03.19,0:00:03.32,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.52\fscy100.52\frz13.48\fax0.11\c&H646464&\pos(780.57,151.7)}Coming Soon
+Dialogue: 3,0:00:03.32,0:00:03.44,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.52\fscy100.52\frz13.48\fax0.11\c&H646464&\pos(787.62,151.96)}Coming Soon
+Dialogue: 3,0:00:03.44,0:00:03.57,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.63\fscy100.63\frz13.48\fax0.11\c&H646464&\pos(790.15,152.51)}Coming Soon
+Dialogue: 3,0:00:03.57,0:00:03.69,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.61\fscy100.61\frz13.48\fax0.11\c&H646464&\pos(794.42,153.08)}Coming Soon
+Dialogue: 3,0:00:03.69,0:00:03.82,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.59\fscy100.59\frz13.48\fax0.11\c&H646464&\pos(787.57,152.24)}Coming Soon
+Dialogue: 3,0:00:03.82,0:00:03.94,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.68\fscy100.68\frz13.48\fax0.11\c&H646464&\pos(784.08,151.95)}Coming Soon
+Dialogue: 3,0:00:03.94,0:00:04.07,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.73\fscy100.73\frz13.48\fax0.11\c&H646464&\pos(780.6,151.63)}Coming Soon
+Dialogue: 3,0:00:04.07,0:00:04.19,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.8\fscy100.8\frz13.48\fax0.11\c&H646464&\pos(770.95,152.77)}Coming Soon
+Dialogue: 3,0:00:04.19,0:00:04.32,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.88\fscy100.88\frz13.48\fax0.11\c&H646464&\pos(767.04,155)}Coming Soon
+Dialogue: 3,0:00:04.32,0:00:04.44,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.98\fscy100.98\frz13.48\fax0.11\c&H646464&\pos(763.36,156.69)}Coming Soon
+Dialogue: 3,0:00:04.44,0:00:04.57,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx100.89\fscy100.89\frz13.48\fax0.11\c&H646464&\pos(771,152.76)}Coming Soon
+Dialogue: 3,0:00:04.57,0:00:04.69,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx101.04\fscy101.04\frz13.48\fax0.11\c&H646464&\pos(774.37,151.92)}Coming Soon
+Dialogue: 3,0:00:04.69,0:00:04.82,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx101.08\fscy101.08\frz13.48\fax0.11\c&H646464&\pos(780.63,151.65)}Coming Soon
+Dialogue: 3,0:00:04.82,0:00:04.86,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx101.06\fscy101.06\frz13.48\fax0.11\c&H646464&\pos(787.65,151.91)}Coming Soon
+Dialogue: 3,0:00:02.32,0:00:02.36,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105\fscy100\frz13.8\fax0.11\c&H646464&\pos(947,112)}Access
+Dialogue: 3,0:00:02.36,0:00:02.44,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105\fscy100\frz13.8\fax0.11\c&H646464&\pos(947.01,112)}Access
+Dialogue: 3,0:00:02.44,0:00:02.57,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.05\fscy100.05\frz13.8\fax0.11\c&H646464&\pos(943.6,111.69)}Access
+Dialogue: 3,0:00:02.57,0:00:02.69,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.13\fscy100.13\frz13.8\fax0.11\c&H646464&\pos(934.1,112.77)}Access
+Dialogue: 3,0:00:02.69,0:00:02.82,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.26\fscy100.25\frz13.8\fax0.11\c&H646464&\pos(930.39,114.96)}Access
+Dialogue: 3,0:00:02.82,0:00:02.94,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.29\fscy100.28\frz13.8\fax0.11\c&H646464&\pos(926.76,116.61)}Access
+Dialogue: 3,0:00:02.94,0:00:03.02,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.36\fscy100.35\frz13.8\fax0.11\c&H646464&\pos(934.47,112.69)}Access
+Dialogue: 3,0:00:03.02,0:00:03.07,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.37\fscy100.35\frz13.8\fax0.11\c&H646464&\pos(934.48,112.69)}Access
+Dialogue: 3,0:00:03.07,0:00:03.15,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.48\fscy100.46\frz13.8\fax0.11\c&H646464&\pos(938.06,111.78)}Access
+Dialogue: 3,0:00:03.15,0:00:03.19,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.48\fscy100.45\frz13.8\fax0.11\c&H646464&\pos(938.06,111.79)}Access
+Dialogue: 3,0:00:03.19,0:00:03.23,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.54\fscy100.52\frz13.8\fax0.11\c&H646464&\pos(944.41,111.5)}Access
+Dialogue: 3,0:00:03.23,0:00:03.27,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.55\fscy100.52\frz13.8\fax0.11\c&H646464&\pos(944.41,111.49)}Access
+Dialogue: 3,0:00:03.27,0:00:03.32,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.55\fscy100.52\frz13.8\fax0.11\c&H646464&\pos(944.42,111.49)}Access
+Dialogue: 3,0:00:03.32,0:00:03.44,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.55\fscy100.52\frz13.8\fax0.11\c&H646464&\pos(951.47,111.75)}Access
+Dialogue: 3,0:00:03.44,0:00:03.48,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.66\fscy100.63\frz13.8\fax0.11\c&H646464&\pos(954.18,112.26)}Access
+Dialogue: 3,0:00:03.48,0:00:03.57,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.66\fscy100.63\frz13.8\fax0.11\c&H646464&\pos(954.18,112.25)}Access
+Dialogue: 3,0:00:03.57,0:00:03.69,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.64\fscy100.61\frz13.8\fax0.11\c&H646464&\pos(958.41,112.84)}Access
+Dialogue: 3,0:00:03.69,0:00:03.82,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.62\fscy100.59\frz13.8\fax0.11\c&H646464&\pos(951.53,112.01)}Access
+Dialogue: 3,0:00:03.82,0:00:03.90,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.71\fscy100.68\frz13.8\fax0.11\c&H646464&\pos(948.18,111.68)}Access
+Dialogue: 3,0:00:03.90,0:00:03.94,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.71\fscy100.68\frz13.8\fax0.11\c&H646464&\pos(948.19,111.68)}Access
+Dialogue: 3,0:00:03.94,0:00:04.07,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.76\fscy100.73\frz13.8\fax0.11\c&H646464&\pos(944.78,111.34)}Access
+Dialogue: 3,0:00:04.07,0:00:04.19,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.84\fscy100.8\frz13.8\fax0.11\c&H646464&\pos(935.26,112.45)}Access
+Dialogue: 3,0:00:04.19,0:00:04.28,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.92\fscy100.88\frz13.8\fax0.11\c&H646464&\pos(931.47,114.65)}Access
+Dialogue: 3,0:00:04.28,0:00:04.32,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.92\fscy100.88\frz13.8\fax0.11\c&H646464&\pos(931.48,114.65)}Access
+Dialogue: 3,0:00:04.32,0:00:04.36,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx106.03\fscy100.98\frz13.8\fax0.11\c&H646464&\pos(927.95,116.3)}Access
+Dialogue: 3,0:00:04.36,0:00:04.40,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx106.03\fscy100.98\frz13.8\fax0.11\c&H646464&\pos(927.96,116.3)}Access
+Dialogue: 3,0:00:04.40,0:00:04.44,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx106.03\fscy100.98\frz13.8\fax0.11\c&H646464&\pos(927.95,116.3)}Access
+Dialogue: 3,0:00:04.44,0:00:04.57,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx105.93\fscy100.89\frz13.8\fax0.11\c&H646464&\pos(935.45,112.4)}Access
+Dialogue: 3,0:00:04.57,0:00:04.69,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx106.09\fscy101.04\frz13.8\fax0.11\c&H646464&\pos(939.06,111.5)}Access
+Dialogue: 3,0:00:04.69,0:00:04.73,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx106.14\fscy101.08\frz13.8\fax0.11\c&H646464&\pos(945.4,111.22)}Access
+Dialogue: 3,0:00:04.73,0:00:04.82,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx106.14\fscy101.08\frz13.8\fax0.11\c&H646464&\pos(945.4,111.21)}Access
+Dialogue: 3,0:00:04.82,0:00:04.86,Signs,Phone,0,0,0,,{\blur0.88\fnCabin\fs26\fscx106.11\fscy101.06\frz13.8\fax0.11\c&H646464&\pos(952.38,111.49)}Access
 Dialogue: 0,0:00:04.82,0:00:04.86,<<folder>>,,0,0,0,,{=27}
-Dialogue: 0,0:00:02.32,0:00:04.86,<<folder>>,,0,0,0,,{=74}- Blockbuster
-Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\pos(620.42,245.13)\frz12.8\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Last Night Boys {Screening time: minutes}
-Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\pos(616.95,244.83)\frz12.8\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Last Night Boys
-Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\pos(610.04,245.3)\frz12.8\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Last Night Boys
-Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\pos(605.94,247.6)\frz12.8\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Last Night Boys
-Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\pos(602.2,249.26)\frz12.8\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Last Night Boys
+Dialogue: 0,0:00:02.32,0:00:04.86,<<folder>>,,0,0,0,,{=84}- Blockbuster
+Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz12.8\fax0.11\c&HEEEFEC&\pos(620.42,245.13)}Last Night Boys {Screening time: minutes}
+Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz12.8\fax0.11\c&HEEEFEC&\pos(616.95,244.83)}Last Night Boys
+Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz12.8\fax0.11\c&HEEEFEC&\pos(609.04,245.3)}Last Night Boys
+Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz12.8\fax0.11\c&HEEEFEC&\pos(604.94,247.6)}Last Night Boys
+Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz12.8\fax0.11\c&HEEEFEC&\pos(601.2,249.26)}Last Night Boys
 Dialogue: 0,0:00:02.32,0:00:02.36,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\pos(649.91,360.79)\frz13.9\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Happy World
-Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\pos(646.44,360.49)\frz13.9\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Happy World
-Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\pos(639.52,360.96)\frz13.9\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Happy World
-Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\pos(635.43,363.26)\frz13.9\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Happy World
-Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\pos(631.69,364.92)\frz13.9\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Happy World
-Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\pos(629.19,332.59)\frz13.9\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Happy World
+Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.11\c&HEEEFEC&\pos(647.91,360.79)}Happy World
+Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.11\c&HEEEFEC&\pos(644.44,360.49)}Happy World
+Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.11\c&HEEEFEC&\pos(637.52,360.96)}Happy World
+Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.11\c&HEEEFEC&\pos(633.43,363.26)}Happy World
+Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.11\c&HEEEFEC&\pos(629.69,364.92)}Happy World
+Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.11\c&HEEEFEC&\pos(626.19,332.59)}Happy World
 Dialogue: 0,0:00:02.32,0:00:02.36,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\pos(712.99,467.01)\frz13.9\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Monty Hall Paradox
-Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\pos(709.52,466.71)\frz13.9\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Monty Hall Paradox
-Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\pos(702.61,467.18)\frz13.9\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Monty Hall Paradox
-Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\pos(698.51,469.48)\frz13.9\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Monty Hall Paradox
-Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\pos(694.77,471.14)\frz13.9\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Monty Hall Paradox
-Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\pos(692.27,438.81)\frz13.9\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Monty Hall Paradox
-Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(649.35,317.93)\frz13.9\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Monty Hall Paradox
+Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.1\c&HEEEFEC&\pos(713.99,467.01)}Monty Hall Paradox
+Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.1\c&HEEEFEC&\pos(710.52,466.71)}Monty Hall Paradox
+Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.1\c&HEEEFEC&\pos(701.61,467.18)}Monty Hall Paradox
+Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.1\c&HEEEFEC&\pos(697.51,469.48)}Monty Hall Paradox
+Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.1\c&HEEEFEC&\pos(693.77,471.14)}Monty Hall Paradox
+Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.1\c&HEEEFEC&\pos(691.27,438.81)}Monty Hall Paradox
+Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.1\c&HEEEFEC&\pos(648.35,317.93)}Monty Hall Paradox
 Dialogue: 0,0:00:02.32,0:00:02.36,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\pos(789.24,570.97)\frz14.3\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Breakfast in Malta (Subtitled)
-Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\pos(785.77,570.66)\frz14.3\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Breakfast in Malta (Subtitled)
-Dialogue: 0,0:00:02.56,0:00:02.69,Signs,movies,0,0,0,,{\pos(776.12,571.79)\frz14.3\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Breakfast in Malta (Subtitled)
-Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\pos(772.18,574.09)\frz14.3\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Breakfast in Malta (Subtitled)
-Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\pos(768.47,575.74)\frz14.3\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Breakfast in Malta (Subtitled)
-Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\pos(765.97,543.41)\frz14.3\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Breakfast in Malta (Subtitled)
-Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(723.05,422.53)\frz14.3\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Breakfast in Malta (Subtitled)
-Dialogue: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(681.3,300.77)\frz14.3\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Breakfast in Malta (Subtitled)
+Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.3\fax0.11\c&HEEEFEC&\pos(789.24,570.97)}Breakfast in Malta (Subtitled)
+Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.3\fax0.11\c&HEEEFEC&\pos(785.77,570.66)}Breakfast in Malta (Subtitled)
+Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.3\fax0.11\c&HEEEFEC&\pos(776.12,571.79)}Breakfast in Malta (Subtitled)
+Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.3\fax0.11\c&HEEEFEC&\pos(772.18,574.09)}Breakfast in Malta (Subtitled)
+Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.3\fax0.11\c&HEEEFEC&\pos(768.47,575.74)}Breakfast in Malta (Subtitled)
+Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.3\fax0.11\c&HEEEFEC&\pos(765.97,543.41)}Breakfast in Malta (Subtitled)
+Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.3\fax0.11\c&HEEEFEC&\pos(723.05,422.53)}Breakfast in Malta (Subtitled)
+Dialogue: 0,0:00:03.02,0:00:03.07,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.3\fax0.11\c&HEEEFEC&\pos(681.3,300.77)}Breakfast in Malta (Subtitled)
 Dialogue: 0,0:00:02.32,0:00:02.36,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:02.31,0:00:02.44,Signs,movies,0,0,0,,{\pos(872.75,674.32)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}{\b1}100{\b0}{\b0} years {just like my life}
-Dialogue: 0,0:00:02.44,0:00:02.56,Signs,movies,0,0,0,,{\pos(869.27,674.02)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}100{\b0} years
-Dialogue: 0,0:00:02.56,0:00:02.69,Signs,movies,0,0,0,,{\pos(859.63,675.15)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}100{\b0} years
-Dialogue: 0,0:00:02.69,0:00:02.81,Signs,movies,0,0,0,,{\pos(855.73,677.42)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}100{\b0} years
-Dialogue: 0,0:00:02.81,0:00:02.94,Signs,movies,0,0,0,,{\pos(852.04,679.06)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}100{\b0} years
-Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\pos(849.22,645.61)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}100{\b0} years
-Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(804.99,522.28)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}100{\b0} years
-Dialogue: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(761.77,398.97)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}100{\b0} years
-Dialogue: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(735.39,313.9)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}100{\b0} years
-Dialogue: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(713.42,252.17)\frz14.4\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Knocking on a Turtle Shell for {\b1}100{\b0} years
-Dialogue: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(696.72,204.63)\frz13.89\fax0.08\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\clip(m 540.84 246.62 l 699.49 208.63 700.88 208.76 840.1 176.06 918.6 157.01 919.99 181.11 541.91 259.04)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(872.75,674.32)}Knocking on a Turtle Shell for {\b1}{\b1}100{\b0}{\b0} years {just like my life}
+Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(869.27,674.02)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(859.63,675.15)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(855.73,677.42)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(852.04,679.06)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(849.22,645.61)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(804.99,522.28)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:03.02,0:00:03.07,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(761.77,398.97)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:03.07,0:00:03.11,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(735.39,313.9)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:03.11,0:00:03.15,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.08\c&HEEEFEC&\pos(713.42,252.17)}Knocking on a Turtle Shell for {\b1}100{\b0} years
+Dialogue: 0,0:00:03.15,0:00:03.19,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.89\fax0.08\c&HEEEFEC&\pos(696.72,204.63)\clip(m 540.84 246.62 l 699.49 208.63 700.88 208.76 840.1 176.06 918.6 157.01 919.99 181.11 541.91 259.04)}Knocking on a Turtle Shell for {\b1}100{\b0} years
 Dialogue: 0,0:00:02.32,0:00:02.36,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\pos(805.46,817.81)\frz14.4\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\pos(801.99,817.51)\frz14.4\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\pos(795.08,817.98)\frz14.4\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\pos(790.98,820.28)\frz14.4\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\pos(787.24,821.94)\frz14.4\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\pos(784.19,788.87)\frz14.4\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(740.23,664.9)\frz14.4\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(696.08,540.94)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.92}Destiny Sea
-Dialogue: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(669.84,455.14)\frz13.92\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(647.96,393.12)\frz13.92\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(631.08,345.81)\frz13.92\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(623.35,307.03)\frz13.92\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(611.96,275.04)\frz13.92\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(602.9,249.15)\frz13.92\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Destiny Sea
-Dialogue: 0,0:00:02.98,0:00:03.02,<<folder>>,,0,0,0,,
-Comment: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(972.97,781.11)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(927.74,657.07)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(902.04,570.17)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(879.01,508.67)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(861.76,460.6)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(853.55,421.72)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(842.06,389.95)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(832.47,363.42)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.31,0:00:03.35,Signs,movies,0,0,0,,{\pos(831.46,341.28)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(824.82,322.15)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(818.92,306.08)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(816.6,292.96)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(812.42,281.41)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(808.9,271.66)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(810.24,264.12)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(807.91,257.63)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(806.17,252.69)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(798,248.36)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(797.13,245.86)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(796.55,244.26)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(792.75,242.98)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(792.58,242.55)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(792.52,242.34)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.94,0:00:03.98,Signs,movies,0,0,0,,{\pos(789.05,242.04)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:03.98,0:00:04.02,Signs,movies,0,0,0,,{\pos(789.05,242.03)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:04.02,0:00:04.06,Signs,movies,0,0,0,,{\pos(789.04,242.02)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:04.06,0:00:04.15,Signs,movies,0,0,0,,{\pos(779.78,243.12)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Comment: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(773.68,225.2)\frz13.58\fax0.1\fnFranklin Gothic Book\fs22\fsp0.1\c&HDDDFDA&\blur0.9}(Subtitled)
-Dialogue: 0,0:00:02.98,0:00:03.02,<<folder>>,,0,0,0,,
-Comment: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\pos(1036.09,891.52)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\clip(m 990.35 910.59 l 1100.1 881.21 1092.95 860.78 982.59 893.89)}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(990.8,765.65)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(963.58,678.44)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(941.14,615.16)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(924.06,565.82)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(916.46,525.6)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(904.74,493.59)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(895.34,466.59)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.31,0:00:03.35,Signs,movies,0,0,0,,{\pos(894.31,444.56)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(887.62,425.45)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(881.83,409.31)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(879.28,395.86)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(875.12,384.16)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(871.76,374.64)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(873.05,366.96)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(870.71,360.43)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(868.92,355.43)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(860.73,351.05)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(859.85,348.54)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(859.28,346.96)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(855.45,345.69)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(855.27,345.2)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(855.24,345.01)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:03.94,0:00:04.07,Signs,movies,0,0,0,,{\pos(851.75,344.73)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:04.06,0:00:04.15,Signs,movies,0,0,0,,{\pos(841.99,345.72)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(836,328.19)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
-Comment: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\pos(808.28,265.39)\frz13.97\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}({\b1}3D{\b0}, Dubbed)
+Dialogue: 0,0:00:02.32,0:00:02.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.09\c&HEEEFEC&\pos(803.46,817.81)}Destiny Sea
+Dialogue: 0,0:00:02.44,0:00:02.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.09\c&HEEEFEC&\pos(799.99,817.51)}Destiny Sea
+Dialogue: 0,0:00:02.57,0:00:02.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.09\c&HEEEFEC&\pos(792.08,817.98)}Destiny Sea
+Dialogue: 0,0:00:02.69,0:00:02.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.09\c&HEEEFEC&\pos(788.98,820.28)}Destiny Sea
+Dialogue: 0,0:00:02.82,0:00:02.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.09\c&HEEEFEC&\pos(785.24,821.94)}Destiny Sea
+Dialogue: 0,0:00:02.94,0:00:02.98,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.09\c&HEEEFEC&\pos(782.19,788.87)}Destiny Sea
+Dialogue: 0,0:00:02.98,0:00:03.02,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.09\c&HEEEFEC&\pos(738.23,664.9)}Destiny Sea
+Dialogue: 0,0:00:03.02,0:00:03.07,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.92\fax0.09\c&HEEEFEC&\pos(694.08,540.94)}Destiny Sea
+Dialogue: 0,0:00:03.07,0:00:03.11,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.92\fax0.09\c&HEEEFEC&\pos(667.84,455.14)}Destiny Sea
+Dialogue: 0,0:00:03.11,0:00:03.15,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.92\fax0.09\c&HEEEFEC&\pos(645.96,393.12)}Destiny Sea
+Dialogue: 0,0:00:03.15,0:00:03.19,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.92\fax0.09\c&HEEEFEC&\pos(629.08,345.81)}Destiny Sea
+Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.92\fax0.09\c&HEEEFEC&\pos(622.35,307.03)}Destiny Sea
+Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.92\fax0.09\c&HEEEFEC&\pos(609.96,275.04)}Destiny Sea
+Dialogue: 0,0:00:03.27,0:00:03.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.92\fax0.09\c&HEEEFEC&\pos(601.9,249.15)}Destiny Sea
 Dialogue: 0,0:00:03.02,0:00:03.07,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:03.02,0:00:03.06,Signs,movies,0,0,0,,{\pos(927.33,856.5)\frz14.86\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(900.16,769.95)\frz14.86\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(877.45,706.5)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.55}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(860.02,657.26)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.57}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(852.37,617.18)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.59}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(840.78,584.45)\frz14.59\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(830.94,557.42)\frz14.59\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.31,0:00:03.35,Signs,movies,0,0,0,,{\pos(829.82,534.66)\frz14.59\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(822.8,515.19)\frz14.59\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(816.75,498.64)\frz14.59\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(814.27,485.11)\frz14.59\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(810.01,473.21)\frz14.59\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(806.46,463.18)\frz14.59\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(807.74,455.4)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.544}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(805.4,448.74)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.498}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(803.6,443.68)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.452}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(795.43,439.23)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.406}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(794.53,436.68)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.36}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(793.94,435.02)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.314}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(790.13,433.75)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.268}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(789.94,433.27)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.222}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(789.92,433.09)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.176}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:03.94,0:00:04.02,Signs,movies,0,0,0,,{\pos(786.42,432.79)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.13}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:04.02,0:00:04.06,Signs,movies,0,0,0,,{\pos(786.43,432.8)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.084}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:04.06,0:00:04.10,Signs,movies,0,0,0,,{\pos(776.76,433.95)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.038}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:04.10,0:00:04.15,Signs,movies,0,0,0,,{\pos(776.76,433.93)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.992}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(770.65,415.95)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.946}Camp of the Dead: First Camp (Subtitled)
-Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\pos(743.54,352.03)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.9}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.02,0:00:03.07,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.04\fax0.09\c&HEEEFEC&\pos(926.33,856.5)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.07,0:00:03.11,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.58\fax0.09\c&HEEEFEC&\pos(900.16,768.95)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.11,0:00:03.15,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.57\fax0.09\c&HEEEFEC&\pos(877.45,705.5)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.15,0:00:03.19,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.25\fax0.09\c&HEEEFEC&\pos(861.02,656.26)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(853.37,617.18)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(841.78,584.45)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.27,0:00:03.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(831.94,557.42)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.32,0:00:03.36,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(830.82,534.66)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.36,0:00:03.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(823.8,515.19)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.40,0:00:03.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(817.75,498.64)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(815.27,485.11)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(811.01,473.21)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.52,0:00:03.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(807.46,463.18)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.57,0:00:03.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(808.74,455.4)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.61,0:00:03.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(806.4,448.74)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(804.6,443.68)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(796.43,439.23)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.73,0:00:03.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(795.53,436.68)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.78,0:00:03.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(794.94,435.02)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.82,0:00:03.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(791.13,433.75)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.86,0:00:03.90,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(790.94,433.27)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(790.92,433.09)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:03.94,0:00:04.03,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(787.42,432.79)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:04.03,0:00:04.07,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(787.43,432.8)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:04.07,0:00:04.11,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(777.76,433.95)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:04.11,0:00:04.15,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(777.76,433.93)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.09\c&HEEEFEC&\pos(771.65,415.95)}Camp of the Dead: First Camp (Subtitled)
+Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.62\fax0.09\c&HEEEFEC&\pos(744.54,352.03)}Camp of the Dead: First Camp (Subtitled)
 Dialogue: 0,0:00:03.07,0:00:03.11,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:03.06,0:00:03.10,Signs,movies,0,0,0,,{\pos(943.28,909.45)\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.99}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.10,0:00:03.14,Signs,movies,0,0,0,,{\pos(920.72,845.75)\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.695}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.14,0:00:03.19,Signs,movies,0,0,0,,{\pos(903.2,796.48)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(895.22,756.03)\frz14.6\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(883.53,723.04)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(873.76,695.46)\frz14.2\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.31,0:00:03.35,Signs,movies,0,0,0,,{\pos(872.56,672.5)\frz14.1\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(865.58,652.85)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(859.65,636.1)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(857.16,622.45)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(852.9,610.42)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(849.32,600.31)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(850.61,592.46)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(848.23,585.74)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(846.43,580.63)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(838.23,576.14)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(837.32,573.57)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(836.73,571.9)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(832.94,570.61)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(832.73,570.12)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(832.69,569.92)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:03.94,0:00:04.02,Signs,movies,0,0,0,,{\pos(829.19,569.62)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:04.02,0:00:04.06,Signs,movies,0,0,0,,{\pos(829.18,569.62)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:04.06,0:00:04.10,Signs,movies,0,0,0,,{\pos(819.52,570.76)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:04.10,0:00:04.15,Signs,movies,0,0,0,,{\pos(819.52,570.77)\frz14.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(813.07,552.56)\frz14.1\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\pos(786.12,488.3)\frz14.1\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Camp of the Dead: First Camp (Dubbed)
-Dialogue: 0,0:00:04.23,0:00:04.27,Signs,movies,0,0,0,,{\pos(689.69,216.29)\frz13.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\clip(m 545.64 247.01 l 678.58 214.54 682.42 214.8 689.06 213.27 734.57 202.02 812.55 183.1 853.96 173.39 861.12 195.37 533.11 270.78 530.7 250.29)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.07,0:00:03.11,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.11\c&HEEEFEC&\pos(944.28,909.45)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.11,0:00:03.15,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.11\c&HEEEFEC&\pos(921.72,845.75)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.15,0:00:03.19,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.11\c&HEEEFEC&\pos(904.2,796.48)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(897.22,756.03)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(885.53,723.04)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.27,0:00:03.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(875.76,695.46)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.32,0:00:03.36,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(874.56,672.5)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.36,0:00:03.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(867.58,652.85)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.40,0:00:03.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(861.65,636.1)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(859.16,622.45)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(854.9,610.42)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.52,0:00:03.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(851.32,600.31)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.57,0:00:03.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(852.61,592.46)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.61,0:00:03.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(850.23,585.74)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(848.43,580.63)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(840.23,576.14)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.73,0:00:03.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(839.32,573.57)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.78,0:00:03.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(838.73,571.9)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.82,0:00:03.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(834.94,570.61)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.86,0:00:03.90,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(834.73,570.12)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(834.69,569.92)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:03.94,0:00:04.03,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(831.19,569.62)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:04.03,0:00:04.07,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(831.18,569.62)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:04.07,0:00:04.11,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(821.52,570.76)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:04.11,0:00:04.15,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(821.52,570.77)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(815.07,552.56)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.11\fax0.11\c&HEEEFEC&\pos(788.12,488.3)}Camp of the Dead: First Camp (Dubbed)
+Dialogue: 0,0:00:04.23,0:00:04.28,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.4\fax0.11\c&HEEEFEC&\pos(692.69,216.29)\clip(m 545.64 247.01 l 678.58 214.54 682.42 214.8 689.06 213.27 734.57 202.02 812.55 183.1 853.96 173.39 861.12 195.37 533.11 270.78 530.7 250.29)}Camp of the Dead: First Camp (Dubbed)
 Dialogue: 0,0:00:03.19,0:00:03.23,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\pos(937.77,898.92)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz15.13}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\pos(925.59,863.94)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.97}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.27,0:00:03.31,Signs,movies,0,0,0,,{\pos(915.74,835.74)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.81}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.31,0:00:03.35,Signs,movies,0,0,0,,{\pos(914.86,812.83)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(907.81,792.95)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(901.82,776.06)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(899.26,762.27)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(894.96,750.14)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(891.36,739.92)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(892.6,732.03)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(890.17,725.25)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(888.35,720.08)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(880.14,715.57)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(879.21,712.97)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(878.63,711.29)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(874.81,710)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(874.61,709.54)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(874.56,709.33)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:03.94,0:00:04.06,Signs,movies,0,0,0,,{\pos(871.08,709.02)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:04.06,0:00:04.15,Signs,movies,0,0,0,,{\pos(861.41,710.15)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(855.09,692.15)\frz14.81\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\pos(827.46,626.42)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.51}Sri Jayawardenepura Kotte (Subtitled)
-Dialogue: 0,0:00:04.23,0:00:04.27,Signs,movies,0,0,0,,{\pos(732.08,352.04)\fax0.09\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.51}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.19,0:00:03.23,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.13\fax0.09\c&HEEEFEC&\pos(937.77,898.92)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.23,0:00:03.27,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.97\fax0.09\c&HEEEFEC&\pos(925.59,863.94)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.27,0:00:03.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(915.74,835.74)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.32,0:00:03.36,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(914.86,812.83)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.36,0:00:03.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(907.81,792.95)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.40,0:00:03.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(901.82,776.06)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(899.26,762.27)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(894.96,750.14)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.52,0:00:03.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(891.36,739.92)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.57,0:00:03.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(892.6,732.03)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.61,0:00:03.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(890.17,725.25)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(888.35,720.08)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(880.14,715.57)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.73,0:00:03.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(879.21,712.97)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.78,0:00:03.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(878.63,711.29)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.82,0:00:03.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(874.81,710)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.86,0:00:03.90,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(874.61,709.54)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(874.56,709.33)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:03.94,0:00:04.07,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(871.08,709.02)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:04.07,0:00:04.15,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(861.41,710.15)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.81\fax0.09\c&HEEEFEC&\pos(855.09,692.15)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.51\fax0.09\c&HEEEFEC&\pos(827.46,626.42)}Sri Jayawardenepura Kotte (Subtitled)
+Dialogue: 0,0:00:04.23,0:00:04.28,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.51\fax0.09\c&HEEEFEC&\pos(732.08,352.04)}Sri Jayawardenepura Kotte (Subtitled)
 Dialogue: 0,0:00:03.36,0:00:03.40,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:03.35,0:00:03.39,Signs,movies,0,0,0,,{\pos(993.1,896.8)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.39,0:00:03.44,Signs,movies,0,0,0,,{\pos(987.09,879.93)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\pos(984.53,866.17)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\pos(980.2,854.05)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.52,0:00:03.56,Signs,movies,0,0,0,,{\pos(976.59,843.85)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.56,0:00:03.60,Signs,movies,0,0,0,,{\pos(977.84,835.95)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.60,0:00:03.65,Signs,movies,0,0,0,,{\pos(975.42,829.16)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\pos(973.6,824)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\pos(965.39,819.48)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.73,0:00:03.77,Signs,movies,0,0,0,,{\pos(964.47,816.9)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.77,0:00:03.81,Signs,movies,0,0,0,,{\pos(963.88,815.22)\frz15\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.81,0:00:03.85,Signs,movies,0,0,0,,{\pos(960.07,813.92)\frz14.8\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.85,0:00:03.90,Signs,movies,0,0,0,,{\pos(959.85,813.43)\frz14.8\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\pos(959.82,813.22)\frz14.8\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:03.94,0:00:04.06,Signs,movies,0,0,0,,{\pos(956.32,812.9)\frz14.8\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:04.06,0:00:04.15,Signs,movies,0,0,0,,{\pos(946.59,814.17)\frz14.8\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\pos(939.91,796.05)\frz14.8\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\pos(911.86,729.98)\frz14.8\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
-Dialogue: 0,0:00:04.23,0:00:04.27,Signs,movies,0,0,0,,{\pos(815.68,453.47)\frz13.9\fax0.1\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Great Phantom Thief Shagaaru: Virgin of Steel
+Dialogue: 0,0:00:03.36,0:00:03.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(996.1,896.8)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.40,0:00:03.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(990.09,879.93)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.44,0:00:03.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(987.53,866.17)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.48,0:00:03.52,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(983.2,854.05)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.52,0:00:03.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(979.59,843.85)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.57,0:00:03.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(980.84,835.95)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.61,0:00:03.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(978.42,829.16)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.65,0:00:03.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(976.6,824)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.69,0:00:03.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(968.39,819.48)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.73,0:00:03.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(967.47,816.9)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.78,0:00:03.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.08\c&HEEEFEC&\pos(966.88,815.22)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.82,0:00:03.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.8\fax0.08\c&HEEEFEC&\pos(963.07,813.92)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.86,0:00:03.90,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.8\fax0.08\c&HEEEFEC&\pos(962.85,813.43)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.90,0:00:03.94,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.8\fax0.08\c&HEEEFEC&\pos(962.82,813.22)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:03.94,0:00:04.07,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.8\fax0.08\c&HEEEFEC&\pos(959.32,812.9)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:04.07,0:00:04.15,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.8\fax0.08\c&HEEEFEC&\pos(949.59,814.17)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:04.15,0:00:04.19,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.8\fax0.08\c&HEEEFEC&\pos(942.91,796.05)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.8\fax0.08\c&HEEEFEC&\pos(914.86,729.98)}The Great Phantom Thief Chagall: The Iron Maiden
+Dialogue: 0,0:00:04.23,0:00:04.28,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.9\fax0.08\c&HEEEFEC&\pos(818.68,453.47)}The Great Phantom Thief Chagall: The Iron Maiden
 Dialogue: 0,0:00:04.19,0:00:04.23,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\pos(832.66,877.78)\frz15.4\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Moon is Close
-Dialogue: 0,0:00:04.23,0:00:04.27,Signs,movies,0,0,0,,{\pos(734.05,596.93)\frz14.2\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Moon is Close
-Dialogue: 0,0:00:04.27,0:00:04.31,Signs,movies,0,0,0,,{\pos(640.05,326)\frz14\fax0.11\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Moon is Close
+Dialogue: 0,0:00:04.19,0:00:04.23,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.06\fax0.07\c&HEEEFEC&\pos(830.66,877.78)}The Moon is Near
+Dialogue: 0,0:00:04.23,0:00:04.28,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.45\fax0.07\c&HEEEFEC&\pos(733.05,596.93)}The Moon is Near
+Dialogue: 0,0:00:04.28,0:00:04.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.45\fax0.07\c&HEEEFEC&\pos(639.05,326)}The Moon is Near
 Dialogue: 0,0:00:04.23,0:00:04.28,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.23,0:00:04.27,Signs,movies,0,0,0,,{\pos(767.24,713.43)\frz14.5\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Nobunaga Duty{Department} {the last kanji (課 maybe?) is barely reasable to this tl may not be correct}
-Dialogue: 0,0:00:04.27,0:00:04.31,Signs,movies,0,0,0,,{\pos(671.25,438.54)\frz14.5\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Nobunaga Duty{Department} {the last kanji (課 maybe?) is barely reasable to this tl may not be correct}
-Dialogue: 0,0:00:04.31,0:00:04.35,Signs,movies,0,0,0,,{\pos(604.52,260.59)\frz14.5\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Nobunaga Duty{Department} {the last kanji (課 maybe?) is barely reasable to this tl may not be correct}
+Dialogue: 0,0:00:04.23,0:00:04.28,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.59\fax0.06\c&HEEEFEC&\pos(778.24,711.43)}Nobunaga's Vision
+Dialogue: 0,0:00:04.28,0:00:04.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.13\fax0.06\c&HEEEFEC&\pos(682.25,436.54)}Nobunaga's Vision
+Dialogue: 0,0:00:04.32,0:00:04.36,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.66\fax0.06\c&HEEEFEC&\pos(615.52,258.59)}Nobunaga's Vision
 Dialogue: 0,0:00:04.23,0:00:04.28,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.23,0:00:04.27,Signs,movies,0,0,0,,{\pos(807.79,828.81)\frz14.27\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Last Night Boys
-Dialogue: 0,0:00:04.27,0:00:04.31,Signs,movies,0,0,0,,{\pos(710.22,552.47)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.97}Last Night Boys
-Dialogue: 0,0:00:04.31,0:00:04.35,Signs,movies,0,0,0,,{\pos(642.24,372.24)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.89}Last Night Boys
-Dialogue: 0,0:00:04.35,0:00:04.40,Signs,movies,0,0,0,,{\pos(596.77,242.07)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\clip(m 528.51 251.21 l 672.45 216.96 676.96 238.01 535.41 274.15)\frz14.12}Last Night Boys
+Dialogue: 0,0:00:04.23,0:00:04.28,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.27\fax0.06\c&HEEEFEC&\pos(807.79,828.81)}Last Night Boys
+Dialogue: 0,0:00:04.28,0:00:04.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.97\fax0.06\c&HEEEFEC&\pos(710.22,552.47)}Last Night Boys
+Dialogue: 0,0:00:04.32,0:00:04.36,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.89\fax0.06\c&HEEEFEC&\pos(642.24,372.24)}Last Night Boys
+Dialogue: 0,0:00:04.36,0:00:04.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.12\fax0.06\c&HEEEFEC&\pos(596.77,242.07)\clip(m 528.51 251.21 l 672.45 216.96 676.96 238.01 535.41 274.15)}Last Night Boys
 Dialogue: 0,0:00:04.28,0:00:04.32,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.27,0:00:04.31,Signs,movies,0,0,0,,{\pos(773.25,661.84)\frz14.5\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Sound of Thunder
-Dialogue: 0,0:00:04.31,0:00:04.35,Signs,movies,0,0,0,,{\pos(705.2,479.92)\frz14.5\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Sound of Thunder
-Dialogue: 0,0:00:04.35,0:00:04.40,Signs,movies,0,0,0,,{\pos(659.26,348.91)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.14}The Sound of Thunder
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\pos(624.73,250.45)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.01}The Sound of Thunder
+Dialogue: 0,0:00:04.28,0:00:04.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.5\fax0.06\c&HEEEFEC&\pos(773.25,661.84)}The Sound of Thunder
+Dialogue: 0,0:00:04.32,0:00:04.36,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.5\fax0.06\c&HEEEFEC&\pos(705.2,479.92)}The Sound of Thunder
+Dialogue: 0,0:00:04.36,0:00:04.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.14\fax0.06\c&HEEEFEC&\pos(659.26,348.91)}The Sound of Thunder
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.01\fax0.06\c&HEEEFEC&\pos(624.73,250.45)}The Sound of Thunder
 Dialogue: 0,0:00:04.28,0:00:04.32,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.27,0:00:04.31,Signs,movies,0,0,0,,{\pos(833.99,773.06)\frz14.5\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Sound of Thunder ({\b1}3D{\b0})
-Dialogue: 0,0:00:04.31,0:00:04.35,Signs,movies,0,0,0,,{\pos(764.98,587.77)\frz14.2\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Sound of Thunder ({\b1}3D{\b0})
-Dialogue: 0,0:00:04.35,0:00:04.40,Signs,movies,0,0,0,,{\pos(718.91,455.45)\frz14.2\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Sound of Thunder ({\b1}3D{\b0})
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\pos(683.92,355.39)\frz14.2\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}The Sound of Thunder ({\b1}3D{\b0})
-Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\pos(664.17,273.44)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.05}The Sound of Thunder ({\b1}3D{\b0})
+Dialogue: 0,0:00:04.28,0:00:04.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.5\fax0.06\c&HEEEFEC&\pos(833.99,773.06)}The Sound of Thunder ({\b1}3D{\b0})
+Dialogue: 0,0:00:04.32,0:00:04.36,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.2\fax0.06\c&HEEEFEC&\pos(764.98,587.77)}The Sound of Thunder ({\b1}3D{\b0})
+Dialogue: 0,0:00:04.36,0:00:04.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.2\fax0.06\c&HEEEFEC&\pos(718.91,455.45)}The Sound of Thunder ({\b1}3D{\b0})
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.2\fax0.06\c&HEEEFEC&\pos(683.92,355.39)}The Sound of Thunder ({\b1}3D{\b0})
+Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.05\fax0.06\c&HEEEFEC&\pos(664.17,273.44)}The Sound of Thunder ({\b1}3D{\b0})
 Dialogue: 0,0:00:04.28,0:00:04.32,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.27,0:00:04.31,Signs,movies,0,0,0,,{\pos(919.21,877.75)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.74}The Yoshida Household's Older Brother
-Dialogue: 0,0:00:04.31,0:00:04.35,Signs,movies,0,0,0,,{\pos(850.26,690.78)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.554}The Yoshida Household's Older Brother
-Dialogue: 0,0:00:04.35,0:00:04.40,Signs,movies,0,0,0,,{\pos(803.26,557.75)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.369}The Yoshida Household's Older Brother
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\pos(768.25,458.25)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz14.183}The Yoshida Household's Older Brother
-Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\pos(748.3,375.97)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.997}The Yoshida Household's Older Brother
-Dialogue: 0,0:00:04.48,0:00:04.52,Signs,movies,0,0,0,,{\pos(726.41,312.91)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.811}The Yoshida Household's Older Brother
-Dialogue: 0,0:00:04.52,0:00:04.56,Signs,movies,0,0,0,,{\pos(708.5,262.36)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.626}The Yoshida Household's Older Brother
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,movies,0,0,0,,{\pos(697.41,220.84)\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\frz13.44}The Yoshida Household's Older Brother
+Dialogue: 0,0:00:04.28,0:00:04.32,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.74\fax0.06\c&HEEEFEC&\pos(919.21,877.75)}The Yoshida Household's Older Brother
+Dialogue: 0,0:00:04.32,0:00:04.36,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.554\fax0.06\c&HEEEFEC&\pos(850.26,690.78)}The Yoshida Household's Older Brother
+Dialogue: 0,0:00:04.36,0:00:04.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.369\fax0.06\c&HEEEFEC&\pos(803.26,557.75)}The Yoshida Household's Older Brother
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.183\fax0.06\c&HEEEFEC&\pos(768.25,458.25)}The Yoshida Household's Older Brother
+Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.997\fax0.06\c&HEEEFEC&\pos(748.3,375.97)}The Yoshida Household's Older Brother
+Dialogue: 0,0:00:04.48,0:00:04.53,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.811\fax0.06\c&HEEEFEC&\pos(726.41,312.91)}The Yoshida Household's Older Brother
+Dialogue: 0,0:00:04.53,0:00:04.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.626\fax0.06\c&HEEEFEC&\pos(708.5,262.36)}The Yoshida Household's Older Brother
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.44\fax0.06\c&HEEEFEC&\pos(697.41,220.84)}The Yoshida Household's Older Brother
 Dialogue: 0,0:00:04.32,0:00:04.36,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.31,0:00:04.35,Signs,movies,0,0,0,,{\pos(830.63,823.68)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.35,0:00:04.40,Signs,movies,0,0,0,,{\pos(783.31,688.97)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\pos(747.34,588)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\pos(727.22,504.82)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.48,0:00:04.52,Signs,movies,0,0,0,,{\pos(704.82,441.08)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.52,0:00:04.56,Signs,movies,0,0,0,,{\pos(686.57,389.4)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,movies,0,0,0,,{\pos(675.26,346.6)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.60,0:00:04.65,Signs,movies,0,0,0,,{\pos(663.38,312.86)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\pos(653.75,285.67)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\pos(652.35,263.69)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.73,0:00:04.77,Signs,movies,0,0,0,,{\pos(646.36,246.76)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.77,0:00:04.81,Signs,movies,0,0,0,,{\pos(641.86,233.98)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Laser Girl 2 (Subtitled)
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,movies,0,0,0,,{\pos(646.04,224.75)\frz14.4\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\clip(m 555.48 246.07 l 712.68 208.81 714.07 208.14 758.65 198.46 765.31 214.67 561.58 263.28)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.32,0:00:04.36,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(830.63,823.68)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.36,0:00:04.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(783.31,688.97)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(747.34,588)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(727.22,504.82)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.48,0:00:04.53,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(704.82,441.08)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.53,0:00:04.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(686.57,389.4)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(675.26,346.6)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.61,0:00:04.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(663.38,312.86)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(653.75,285.67)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(652.35,263.69)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.73,0:00:04.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(646.36,246.76)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.78,0:00:04.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(641.86,233.98)}Laser Girl 2 (Subtitled)
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.4\fax0.06\c&HEEEFEC&\pos(646.04,224.75)\clip(m 555.48 246.07 l 712.68 208.81 714.07 208.14 758.65 198.46 765.31 214.67 561.58 263.28)}Laser Girl 2 (Subtitled)
 Dialogue: 0,0:00:04.36,0:00:04.40,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.35,0:00:04.40,Signs,movies,0,0,0,,{\pos(878.59,789.93)\frz14.6\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\pos(842.66,688.02)\frz14.6\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\pos(822.21,604.89)\frz14.6\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.48,0:00:04.52,Signs,movies,0,0,0,,{\pos(800.79,541.64)\frz14.2\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.52,0:00:04.56,Signs,movies,0,0,0,,{\pos(783.68,490.49)\frz14\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,movies,0,0,0,,{\pos(772.33,448.03)\frz14\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.60,0:00:04.65,Signs,movies,0,0,0,,{\pos(760.39,414.2)\frz14\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\pos(752.75,385.91)\frz13.8\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\pos(749.32,363.86)\frz14\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.73,0:00:04.77,Signs,movies,0,0,0,,{\pos(743.31,346.87)\frz14\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.77,0:00:04.81,Signs,movies,0,0,0,,{\pos(738.79,334.13)\frz14\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,movies,0,0,0,,{\pos(742.6,325.32)\frz14\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Kobe Line Semi-Express Murder Case
+Dialogue: 0,0:00:04.36,0:00:04.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.6\fax0.06\c&HEEEFEC&\pos(844.59,796.93)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.6\fax0.06\c&HEEEFEC&\pos(808.66,695.02)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.6\fax0.06\c&HEEEFEC&\pos(788.21,611.89)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.48,0:00:04.53,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.2\fax0.06\c&HEEEFEC&\pos(766.79,548.64)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.53,0:00:04.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.06\c&HEEEFEC&\pos(749.68,497.49)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.06\c&HEEEFEC&\pos(738.33,455.03)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.61,0:00:04.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.06\c&HEEEFEC&\pos(726.39,421.2)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz13.8\fax0.06\c&HEEEFEC&\pos(718.75,392.91)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.06\c&HEEEFEC&\pos(715.32,370.86)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.73,0:00:04.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.06\c&HEEEFEC&\pos(709.31,353.87)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.78,0:00:04.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.06\c&HEEEFEC&\pos(704.79,341.13)}Murder on the Kobe Express
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14\fax0.06\c&HEEEFEC&\pos(708.6,332.32)}Murder on the Kobe Express
 Dialogue: 0,0:00:04.36,0:00:04.40,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.35,0:00:04.40,Signs,movies,0,0,0,,{\pos(899.24,910.38)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\pos(863.31,808.47)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\pos(842.86,725.34)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.48,0:00:04.52,Signs,movies,0,0,0,,{\pos(820.06,660.76)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.52,0:00:04.56,Signs,movies,0,0,0,,{\pos(801.64,608.55)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,movies,0,0,0,,{\pos(790.07,565.25)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.60,0:00:04.65,Signs,movies,0,0,0,,{\pos(777.89,530.76)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\pos(768.11,502.94)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\pos(766.51,480.52)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.73,0:00:04.77,Signs,movies,0,0,0,,{\pos(760.4,463.23)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.77,0:00:04.81,Signs,movies,0,0,0,,{\pos(755.8,450.21)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,movies,0,0,0,,{\pos(759.55,441.22)\frz14.74\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.36,0:00:04.40,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.74\fax0.06\c&HEEEFEC&\pos(899.24,910.38)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.74\fax0.06\c&HEEEFEC&\pos(863.31,808.47)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.07\fax0.06\c&HEEEFEC&\pos(842.86,725.34)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.48,0:00:04.53,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.34\fax0.06\c&HEEEFEC&\pos(820.06,660.76)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.53,0:00:04.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.37\fax0.06\c&HEEEFEC&\pos(801.64,608.55)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.37\fax0.06\c&HEEEFEC&\pos(790.07,565.25)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.61,0:00:04.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.37\fax0.06\c&HEEEFEC&\pos(777.89,530.76)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.37\fax0.06\c&HEEEFEC&\pos(768.11,502.94)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.37\fax0.06\c&HEEEFEC&\pos(766.51,480.52)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.73,0:00:04.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.01\fax0.06\c&HEEEFEC&\pos(760.4,463.23)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.78,0:00:04.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.01\fax0.06\c&HEEEFEC&\pos(755.8,450.21)}Human Earthworm 4 (Subtitled)
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.01\fax0.06\c&HEEEFEC&\pos(759.55,441.22)}Human Earthworm 4 (Subtitled)
 Dialogue: 0,0:00:04.40,0:00:04.44,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\pos(900.75,925.11)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\pos(880.3,841.98)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.48,0:00:04.52,Signs,movies,0,0,0,,{\pos(857.27,776.74)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.52,0:00:04.56,Signs,movies,0,0,0,,{\pos(838.65,723.96)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,movies,0,0,0,,{\pos(826.91,680.24)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.60,0:00:04.65,Signs,movies,0,0,0,,{\pos(814.61,645.41)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\pos(804.7,617.28)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\pos(803.05,594.64)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.73,0:00:04.77,Signs,movies,0,0,0,,{\pos(796.85,577.19)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.77,0:00:04.81,Signs,movies,0,0,0,,{\pos(792.21,564.05)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,movies,0,0,0,,{\pos(795.92,554.96)\frz14.15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.40,0:00:04.44,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(900.75,925.11)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.44,0:00:04.48,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(880.3,841.98)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.48,0:00:04.53,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(857.27,776.74)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.53,0:00:04.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(838.65,723.96)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(826.91,680.24)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.61,0:00:04.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(814.61,645.41)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(804.7,617.28)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(803.05,594.64)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.73,0:00:04.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(796.85,577.19)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.78,0:00:04.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(792.21,564.05)}Human Earthworm 4 (Dubbed)
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.15\fax0.06\c&HEEEFEC&\pos(795.92,554.96)}Human Earthworm 4 (Dubbed)
 Dialogue: 0,0:00:04.48,0:00:04.53,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.48,0:00:04.52,Signs,movies,0,0,0,,{\pos(863.08,902.36)\frz15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Van Gogh's Stationery
-Dialogue: 0,0:00:04.52,0:00:04.56,Signs,movies,0,0,0,,{\pos(844.11,849.39)\frz15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Van Gogh's Stationery
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,movies,0,0,0,,{\pos(832.31,805.27)\frz15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Van Gogh's Stationery
-Dialogue: 0,0:00:04.60,0:00:04.65,Signs,movies,0,0,0,,{\pos(819.93,770.09)\frz15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Van Gogh's Stationery
-Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\pos(809.95,741.73)\frz15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Van Gogh's Stationery
-Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\pos(808.26,718.83)\frz15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Van Gogh's Stationery
-Dialogue: 0,0:00:04.73,0:00:04.77,Signs,movies,0,0,0,,{\pos(802.03,701.21)\frz15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Van Gogh's Stationery
-Dialogue: 0,0:00:04.77,0:00:04.81,Signs,movies,0,0,0,,{\pos(797.37,687.91)\frz15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Van Gogh's Stationery
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,movies,0,0,0,,{\pos(801.07,678.7)\frz15\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Van Gogh's Stationery
+Dialogue: 0,0:00:04.48,0:00:04.53,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.06\c&HEEEFEC&\pos(851.08,902.36)}Van Gogh's Canvas
+Dialogue: 0,0:00:04.53,0:00:04.57,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.06\c&HEEEFEC&\pos(832.11,849.39)}Van Gogh's Canvas
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.06\c&HEEEFEC&\pos(821.31,805.27)}Van Gogh's Canvas
+Dialogue: 0,0:00:04.61,0:00:04.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.06\c&HEEEFEC&\pos(808.93,770.09)}Van Gogh's Canvas
+Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.06\c&HEEEFEC&\pos(798.95,741.73)}Van Gogh's Canvas
+Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.06\c&HEEEFEC&\pos(797.26,718.83)}Van Gogh's Canvas
+Dialogue: 0,0:00:04.73,0:00:04.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.06\c&HEEEFEC&\pos(791.03,701.21)}Van Gogh's Canvas
+Dialogue: 0,0:00:04.78,0:00:04.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.06\c&HEEEFEC&\pos(786.37,687.91)}Van Gogh's Canvas
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15\fax0.06\c&HEEEFEC&\pos(790.07,678.7)}Van Gogh's Canvas
 Dialogue: 0,0:00:04.57,0:00:04.61,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.56,0:00:04.60,Signs,movies,0,0,0,,{\pos(853.94,925.86)\frz15.27\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Shiori and Kaori
-Dialogue: 0,0:00:04.60,0:00:04.65,Signs,movies,0,0,0,,{\pos(841.58,890.72)\frz15.27\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Shiori and Kaori
-Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\pos(831.59,862.35)\frz15.27\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Shiori and Kaori
-Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\pos(829.9,839.44)\frz15.27\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Shiori and Kaori
-Dialogue: 0,0:00:04.73,0:00:04.77,Signs,movies,0,0,0,,{\pos(823.71,821.8)\frz15.27\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Shiori and Kaori
-Dialogue: 0,0:00:04.77,0:00:04.81,Signs,movies,0,0,0,,{\pos(819.04,808.49)\frz15.27\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Shiori and Kaori
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,movies,0,0,0,,{\pos(822.72,799.28)\frz15.27\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Shiori and Kaori
+Dialogue: 0,0:00:04.57,0:00:04.61,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.66\fax0.06\c&HEEEFEC&\pos(851.94,926.86)}Shiori and Kaori
+Dialogue: 0,0:00:04.61,0:00:04.65,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.66\fax0.06\c&HEEEFEC&\pos(839.58,891.72)}Shiori and Kaori
+Dialogue: 0,0:00:04.65,0:00:04.69,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.66\fax0.06\c&HEEEFEC&\pos(829.59,863.35)}Shiori and Kaori
+Dialogue: 0,0:00:04.69,0:00:04.73,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.66\fax0.06\c&HEEEFEC&\pos(827.9,840.44)}Shiori and Kaori
+Dialogue: 0,0:00:04.73,0:00:04.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.66\fax0.06\c&HEEEFEC&\pos(821.71,822.8)}Shiori and Kaori
+Dialogue: 0,0:00:04.78,0:00:04.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.66\fax0.06\c&HEEEFEC&\pos(817.04,809.49)}Shiori and Kaori
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.66\fax0.06\c&HEEEFEC&\pos(820.72,800.28)}Shiori and Kaori
 Dialogue: 0,0:00:04.73,0:00:04.78,<<folder>>,,0,0,0,,
-Dialogue: 0,0:00:04.73,0:00:04.77,Signs,movies,0,0,0,,{\pos(917.63,923.75)\frz14.7\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9\clip(m 798 963.41 l 1058.61 893.28 1045.27 862.26 784.81 933.29)}Sword of the Dragon (Subtitled)
-Dialogue: 0,0:00:04.77,0:00:04.81,Signs,movies,0,0,0,,{\pos(912.96,910.45)\frz14.7\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sword of the Dragon (Subtitled)
-Dialogue: 0,0:00:04.81,0:00:04.85,Signs,movies,0,0,0,,{\pos(916.67,901.24)\frz14.7\fax0.06\fnFranklin Gothic Book\fs21\fsp0.1\c&HEEEFEC&\blur0.9}Sword of the Dragon (Subtitled)
-Dialogue: 0,0:00:04.82,0:00:04.86,<<folder>>,,0,0,0,,{=75}
+Dialogue: 0,0:00:04.73,0:00:04.78,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz14.84\fax0.06\c&HEEEFEC&\pos(917.63,924.75)\clip(m 798 963.41 l 1058.61 893.28 1045.27 862.26 784.81 933.29)}Sword of the Dragon (Subtitled)
+Dialogue: 0,0:00:04.78,0:00:04.82,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.19\fax0.06\c&HEEEFEC&\pos(912.99,911.45)}Sword of the Dragon (Subtitled)
+Dialogue: 0,0:00:04.82,0:00:04.86,Signs,movies,0,0,0,,{\blur0.9\fnFranklin Gothic Book\fs21\fsp0.1\frz15.23\fax0.06\c&HEEEFEC&\pos(917.27,902.24)}Sword of the Dragon (Subtitled)
+Dialogue: 0,0:00:04.82,0:00:04.86,<<folder>>,,0,0,0,,{=85}
 Dialogue: 0,0:01:23.61,0:01:23.65,<<folder>>,Phone,0,0,0,,{=22}- Human Earthworm 4
 Dialogue: 0,0:01:23.60,0:01:23.64,Signs,,0,0,0,,{\pos(964.5,38.36)\fscx286.46\fscy286.46\fnCoolvetica Rg\fs76.21\fsp0.5\b1\c&H1B268E&\alpha&H10&\blur20}Human Earthworm 4
 Dialogue: 0,0:01:23.60,0:01:23.64,Signs,,0,0,0,,{\fscx286.46\fscy286.46\fnCoolvetica Rg\fs76.21\fsp0.5\b1\c&H1B268E&\alpha&H10&\blur2.29\be0\pos(964.5,38.36)}Human Earthworm 4
@@ -2448,14 +2391,8 @@ Data: 20,_aegi_folddata,e0;1;9
 Data: 21,_aegi_folddata,e1;1;9
 Data: 22,_aegi_folddata,e0;1;10
 Data: 23,_aegi_folddata,e1;1;10
-Data: 24,_aegi_folddata,e0;1;11
-Data: 25,_aegi_folddata,e1;1;11
 Data: 26,_aegi_folddata,e0;1;12
 Data: 27,_aegi_folddata,e1;1;12
-Data: 36,_aegi_folddata,e0;0;8
-Data: 37,_aegi_folddata,e1;0;8
-Data: 48,_aegi_folddata,e0;0;2
-Data: 49,_aegi_folddata,e1;0;2
 Data: 52,_aegi_folddata,e0;1;8
 Data: 53,_aegi_folddata,e1;1;8
 Data: 54,_aegi_folddata,e0;1;7
@@ -2472,13 +2409,11 @@ Data: 64,_aegi_folddata,e0;1;2
 Data: 65,_aegi_folddata,e1;1;2
 Data: 66,_aegi_folddata,e0;1;1
 Data: 67,_aegi_folddata,e1;1;1
-Data: 70,_aegi_folddata,e0;0;10
-Data: 71,_aegi_folddata,e1;0;10
-Data: 72,_aegi_folddata,e0;0;9
-Data: 73,_aegi_folddata,e1;0;9
 Data: 74,_aegi_folddata,e0;0;11
 Data: 75,_aegi_folddata,e1;0;11
-Data: 76,_aegi_folddata,e0;0;4
-Data: 77,_aegi_folddata,e1;0;4
-Data: 78,_aegi_folddata,e0;0;1
-Data: 79,_aegi_folddata,e1;0;1
+Data: 84,_aegi_folddata,e0;1;11
+Data: 85,_aegi_folddata,e1;1;11
+Data: 86,_aegi_folddata,e0;0;1
+Data: 87,_aegi_folddata,e1;0;1
+Data: 88,_aegi_folddata,e0;0;12
+Data: 89,_aegi_folddata,e1;0;12
