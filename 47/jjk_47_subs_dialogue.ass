@@ -66,7 +66,7 @@ Dialogue: 0,0:04:10.61,0:04:15.19,Default,Geto,0,0,0,,{\pos(955.8,1020)}What I c
 Dialogue: 0,0:04:15.90,0:04:21.57,Default,Geto,0,0,0,,What I wanted was always \h\Nglimmering in the darkness of chaos.
 Dialogue: 0,0:04:21.91,0:04:23.33,Default,Geto,0,0,0,,Do you understand?
 Dialogue: 0,0:04:23.33,0:04:28.41,Default,Geto,0,0,0,,{\pos(959.4,1020)}What I should have created\N was chaos that went beyond my own control.
-Dialogue: 0,0:04:29.08,0:04:32.42,Default,Geto,0,0,0,,I just finished extracting the technique for it. {so he was also stalling this whole time? just like yuki? just like me? that's genius!}
+Dialogue: 0,0:04:29.08,0:04:32.42,Default,Geto,0,0,0,,And I just finished extracting the technique for it. {so he was also stalling this whole time? just like yuki? just like me? that's genius!}
 Dialogue: 0,0:04:34.75,0:04:36.76,Default,Tsukumo,0,0,0,,There was a cursed spirit called Mahito, right?!
 Dialogue: 0,0:04:36.76,0:04:39.30,Default,Tsukumo,0,0,0,,The one whose technique could manipulate souls!
 Dialogue: 0,0:04:39.30,0:04:41.05,Default,Yuji,0,0,0,,That guy just absorbed him.
@@ -104,7 +104,8 @@ Dialogue: 0,0:07:42.44,0:07:44.61,Default,Geto,0,0,0,,What's the matter, Uraume?
 Dialogue: 0,0:07:44.94,0:07:48.36,Default,Uraume,0,0,0,,{\i1}I regenerated my body with reverse cursed technique.
 Dialogue: 0,0:07:48.36,0:07:49.24,Default,Uraume,0,0,0,,{\i1}Is this...
 Dialogue: 0,0:07:49.62,0:07:50.49,Default,Uraume,0,0,0,,Poison?!
-Dialogue: 0,0:07:51.41,0:07:55.25,Default,Choso,0,0,0,,My blood got mixed with yours \Nthrough Piercing Blood. Of course it's poison.
+Dialogue: 0,0:07:51.41,0:07:54.16,Default,Choso,0,0,0,,My blood mixed with yours through Piercing Blood.
+Dialogue: 0,0:07:54.16,0:07:55.25,Default,Choso,0,0,0,,Of course it's poison.
 Dialogue: 0,0:07:55.87,0:07:58.75,Default,Momo,0,0,0,,Wait, we're not getting cover from Mai{**-chan}.
 Dialogue: 0,0:07:58.75,0:08:01.25,Default,Momo,0,0,0,,There may still be more of them.
 Dialogue: 0,0:08:02.67,0:08:08.09,Default,Tsukumo,0,0,0,,My ally is protecting Aoi,\N the girl with the gun, and the suit.
@@ -128,7 +129,7 @@ Dialogue: 0,0:09:54.32,0:09:57.99,Default,Geto,0,0,0,,Are you listening, Sukuna?
 Dialogue: 0,0:09:59.29,0:10:01.75,Default,Geto,0,0,0,,The world of Heian.
 Dialogue: 0,0:10:02.37,0:10:06.17,Default,Geto,0,0,0,,The Golden Age of Sorcery!
 Comment: 0,0:10:15.01,0:10:15.05,Default,chptr,0,0,0,,{Part B}
-Dialogue: 0,0:10:25.02,0:10:28.69,Default,Announcer,0,0,0,,{\an8}The following was recorded by our crew,\N who happened to be on-site
+Dialogue: 0,0:10:25.02,0:10:28.69,Default,Announcer,0,0,0,,{\an8}The following was recorded by our crew,\N who happened to be on-site,
 Dialogue: 0,0:10:28.69,0:10:33.36,Default,Announcer,0,0,0,,{\an8}reporting on another matter \Nat the time of the incident in Tokyo.
 Dialogue: 0,0:10:33.36,0:10:35.03,Default,Announcer,0,0,0,,{\an8}Please have a look.
 Dialogue: 0,0:10:36.45,0:10:40.70,Default,Reporter,0,0,0,,{\an8}So it's been about ten minutes since the blackout.
@@ -152,7 +153,7 @@ Dialogue: 0,0:11:26.54,0:11:30.38,Default,Reporter,0,0,0,,{\an8}Furthermore, the
 Dialogue: 0,0:11:30.38,0:11:32.88,Default,Reporter,0,0,0,,{\an8}Is it simply a substation malfunction?
 Dialogue: 0,0:11:32.88,0:11:34.55,Default,Reporter,0,0,0,,{\an8}Is it a terrorist attack?
 Dialogue: 0,0:11:34.55,0:11:38.84,Default,Reporter,0,0,0,,{\an8}Or perhaps it's due to a natural disaster,\N like an earthquake? {if it was an earthquake you would FEEL it maybe?}
-Dialogue: 0,0:11:38.84,0:11:41.64,Default,Reporter,0,0,0,,{\an8}Either way, the cause remains unclear.
+Dialogue: 0,0:11:38.84,0:11:41.64,Default,Reporter,0,0,0,,{\an8}Either way, it's unclear what caused this.
 Dialogue: 0,0:11:41.64,0:11:43.81,Default,Reporter,0,0,0,,{\an8}All we can do is wait while they uncover it.
 Dialogue: 0,0:11:37.13,0:11:39.30,Default,Man,0,0,0,,All the conspiracy theorists are crawling out.
 Dialogue: 0,0:11:39.30,0:11:41.64,Default,Woman,0,0,0,,Can you put your phone down \Nand give me a hand?
@@ -196,7 +197,7 @@ Dialogue: 0,0:13:27.91,0:13:30.21,Default,Official(Male),0,0,0,,Maybe it's bette
 Dialogue: 0,0:13:30.21,0:13:33.83,Default,Official(Male),0,0,0,,It wouldn't have come to this\N if the bureaucracy was functioning.
 Dialogue: 0,0:13:36.59,0:13:39.84,Default,Reporter,0,0,0,,{\an8}So we are once again sharing the latest. {this scene is in fact the latest and shows live footage}
 Dialogue: 0,0:13:39.84,0:13:44.39,Default,Reporter,0,0,0,,{\an8}The blackout still continues,\N and we're unable to contact anyone. {so they can't contact anyone but live broadcast works huh?}
-Dialogue: 0,0:13:44.39,0:13:48.60,Default,Reporter,0,0,0,,{\an8}There's been no official announcement either, \Nso the cause remains unknown.
+Dialogue: 0,0:13:44.39,0:13:48.60,Default,Reporter,0,0,0,,{\an8}There's been no official announcement either, \Nso the reason is still unclear.
 Dialogue: 0,0:13:48.60,0:13:50.85,Default,Reporter,0,0,0,,{\an8}The question is, how long will this{\fscx180}—{\fscx}
 Dialogue: 0,0:13:58.11,0:13:59.32,Default,Cameraman,0,0,0,,{\an8}What the...
 Dialogue: 0,0:13:59.32,0:14:01.07,Default,Cameraman,0,0,0,,{\an8}What's going on?
