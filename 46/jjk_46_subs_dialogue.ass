@@ -123,7 +123,6 @@ Dialogue: 0,0:09:48.15,0:09:49.65,Default,Geto,0,0,0,,How foolish.
 Dialogue: 0,0:09:50.65,0:09:55.66,Default,Geto,0,0,0,,Did you think I wouldn't notice what you're up to? {Did you think I wouldn't\N notice something that you could?} {Did you think you could send a signal without me noticing?}
 Dialogue: 0,0:10:00.50,0:10:01.58,Default,Kamo,0,0,0,,{\i1}It's the signal!
 Dialogue: 0,0:10:01.58,0:10:04.88,Default,Kamo,0,0,0,,{\i1}Our target is directly below Nishimiya!
-Dialogue: 0,0:10:24.19,0:10:24.90,Default,Mai,0,0,0,,Tch.
 Dialogue: 0,0:10:26.44,0:10:29.32,Default,Geto,0,0,0,,A sniper rifle? Nice.
 Dialogue: 0,0:10:30.15,0:10:36.53,Default,Geto,0,0,0,,I'm also of the mindset that it is wise to use\N conventional weapons against sorcerers. {actively?}
 Dialogue: 0,0:10:37.41,0:10:40.54,Default,Miwa,0,0,0,,{\i1}Back when I was captain of the\N youth basketball team,
@@ -203,7 +202,6 @@ Dialogue: 0,0:16:07.70,0:16:09.53,Default,Kamo,0,0,0,,Blood Manipulation?!
 Dialogue: 0,0:16:13.29,0:16:14.91,Default,Kamo,0,0,0,,So much pressure!
 Dialogue: 0,0:16:20.25,0:16:21.17,Default,Uraume,0,0,0,,{\i1}It's fast!
 Dialogue: 0,0:16:21.67,0:16:23.59,Default,Uraume,0,0,0,,{\i1}So this is Piercing Blood?! {hate this line}
-Dialogue: 0,0:16:59.29,0:17:00.12,Default,Choso,0,0,0,,Tch!
 Dialogue: 0,0:18:27.17,0:18:28.84,Default,Geto,0,0,0,,Don't push yourself.
 Dialogue: 0,0:18:29.13,0:18:30.67,Default,Geto,0,0,0,,You're exhausted.
 Dialogue: 0,0:18:32.63,0:18:33.93,Default,Choso,0,0,0,,So what?
@@ -223,10 +221,9 @@ Dialogue: 0,0:19:24.60,0:19:28.48,Default,Uraume,0,0,0,,Ice Formation: Frost Cal
 Dialogue: 0,0:19:35.28,0:19:36.86,Default,Kamo,0,0,0,,{\i1}An ice-based technique?!
 Dialogue: 0,0:19:36.86,0:19:38.91,Default,Kamo,0,0,0,,{\i1}And one this high-level?!\h
 Dialogue: 0,0:19:38.91,0:19:42.04,Default,Panda,0,0,0,,{\i1}One wrong move and we're shattered!
-Dialogue: 0,0:19:45.04,0:19:46.04,Default,Choso,0,0,0,,Tch!
 Dialogue: 0,0:19:47.17,0:19:48.63,Default,Geto,0,0,0,,Don't kill them.
 Dialogue: 0,0:19:48.63,0:19:50.75,Default,Geto,0,0,0,,I need messengers.
-Dialogue: 0,0:19:50.75,0:19:53.42,Default,Uraume,0,0,0,,Is that any reason to leave them all alive?
+Dialogue: 0,0:19:50.75,0:19:53.51,Default,Uraume,0,0,0,,Is that reason enough to leave them all alive?
 Dialogue: 0,0:19:57.01,0:19:58.93,Default,Kusakabe,0,0,0,,{\i1}Reverse cursed technique!
 Dialogue: 0,0:19:58.93,0:20:02.01,Default,Kusakabe,0,0,0,,{\i1}Their sorcery is on an entirely different scale.
 Dialogue: 0,0:20:02.01,0:20:04.06,Default,Kusakabe,0,0,0,,{\i1}I wanna go home!
