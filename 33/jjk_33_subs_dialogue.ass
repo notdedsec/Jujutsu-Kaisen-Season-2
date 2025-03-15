@@ -73,7 +73,6 @@ Dialogue: 0,0:04:47.14,0:04:50.35,Default,Gojo,0,0,0,,Domain Extension and innat
 Dialogue: 0,0:04:50.35,0:04:54.94,Default,Jogo,0,0,0,,{\i1}The only reason I'm still alive is because \NI was protecting myself with Domain Extension.
 Dialogue: 0,0:04:54.94,0:04:58.49,Default,Jogo,0,0,0,,{\i1}He's this strong with just physical attacks and\N basic cursed energy manipulation!
 Dialogue: 0,0:05:00.95,0:05:06.24,Default,Jogo,0,0,0,,{\i1}Gojo Satoru, is there anything you're {\i0}not{\i1} capable of?!
-Dialogue: 0,0:05:09.16,0:05:10.16,Default,Choso,0,0,0,,Tch.
 Dialogue: 0,0:05:10.16,0:05:12.42,Default,Gojo,0,0,0,,{\i1}He's not a cursed spirit.
 Dialogue: 0,0:05:12.42,0:05:15.04,Default,Gojo,0,0,0,,{\i1}Must be one of the Death Painting Womb incarnations.
 Dialogue: 0,0:05:15.04,0:05:16.75,Default,Gojo,0,0,0,,{\i1}Annoying, but he'll have to wait.
@@ -180,8 +179,8 @@ Dialogue: 0,0:14:31.73,0:14:33.89,Default,Jogo,0,0,0,,{\pos(969,1020)\i1}Until y
 Dialogue: 0,0:14:38.57,0:14:40.07,Default,Mahito,0,0,0,,{\pos(969,1020)}No way! {Ain't}
 Dialogue: 0,0:14:40.44,0:14:42.24,Default,Gojo,0,0,0,,{\pos(969,1020)}Domain Expansion:
 Dialogue: 0,0:14:43.32,0:14:45.49,Default,Gojo,0,0,0,,{\pos(969,1020)}Infinite Void.
-Dialogue: 0,0:15:16.31,0:15:20.73,Default,Narrator,0,0,0,,It was an all-or-nothing Domain Expansion of only 0.2 seconds.
-Dialogue: 0,0:15:25.57,0:15:29.74,Default,Narrator,0,0,0,,The duration was decided by Gojo Satoru purely on instinct.
+Dialogue: 0,0:15:16.19,0:15:20.82,Default,Narrator,0,0,0,,{\q2}It was an all-or-nothing Domain Expansion of only 0.2 seconds.
+Dialogue: 0,0:15:25.24,0:15:29.74,Default,Narrator,0,0,0,,The duration was decided by Gojo Satoru purely on instinct.
 Dialogue: 0,0:15:29.74,0:15:35.75,Default,Narrator,0,0,0,,It was the amount of time he believed non-sorcerers could withstand Infinite Void
 Dialogue: 0,0:15:35.75,0:15:37.67,Default,Narrator,0,0,0,,without suffering lasting effects.
 Dialogue: 0,0:15:47.26,0:15:52.14,Default,Narrator,0,0,0,,During those 0.2 seconds,\N roughly half a year's worth of information
