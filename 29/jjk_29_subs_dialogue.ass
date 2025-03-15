@@ -228,11 +228,11 @@ Dialogue: 0,0:13:13.69,0:13:15.65,Default,Woman,0,0,0,,{\1a&H20&}Shut up, you mo
 Dialogue: 0,0:13:15.65,0:13:17.74,Default,Woman,0,0,0,,{\1a&H20&}You're just like your parents!
 Dialogue: 0,0:13:17.74,0:13:21.11,Default,Woman,0,0,0,,{\1a&H20&}I knew we should've killed you at birth!
 Dialogue: 0,0:13:17.74,0:13:21.11,Cursed,Curse,0,0,0,,{\an8}It... It's okay.
-Dialogue: 0,0:13:23.57,0:13:25.91,Default,Tsukumo,0,0,0,,{\an8}The part of you that despises non-sorcerers,
-Dialogue: 0,0:13:25.91,0:13:27.95,Default,Tsukumo,0,0,0,,{\an8}and the part of you that rejects it.
-Dialogue: 0,0:13:27.95,0:13:30.16,Default,Tsukumo,0,0,0,,{\an8}Whatever your true feeling is...
+Dialogue: 0,0:13:23.57,0:13:25.91,Default,Tsukumo,0,0,0,,{\an8\i1}The part of you that despises non-sorcerers,
+Dialogue: 0,0:13:25.91,0:13:27.95,Default,Tsukumo,0,0,0,,{\an8\i1}and the part of you that rejects it.
+Dialogue: 0,0:13:27.95,0:13:30.16,Default,Tsukumo,0,0,0,,{\an8\i1}Whatever your true feeling is...
 Dialogue: 0,0:13:30.83,0:13:34.63,Default,Geto,0,0,0,,Let's step outside for a moment, shall we?
-Dialogue: 0,0:13:34.88,0:13:37.42,Default,Tsukumo,0,0,0,,{\an8}...it's something you have yet to decide. {If internal thoughts are italicized, why not this?} {this is treated as a flashback}
+Dialogue: 0,0:13:34.88,0:13:37.42,Default,Tsukumo,0,0,0,,{\an8\i1}...it's something you have yet to decide. {If internal thoughts are italicized, why not this?} {this is treated as a flashback} {no, you're right}
 Dialogue: 0,0:13:42.59,0:13:43.80,Default,Woman,0,0,0,,{\1a&H20&}What is happening?!
 Dialogue: 0,0:13:44.55,0:13:45.05,Default,Man,0,0,0,,{\1a&H20&}Why?!
 Dialogue: 0,0:13:47.56,0:13:48.56,Default,Woman,0,0,0,,{\1a&H20&}No!
