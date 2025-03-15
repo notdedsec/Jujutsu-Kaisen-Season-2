@@ -66,7 +66,6 @@ Dialogue: 0,0:05:34.48,0:05:36.57,Default,Mahito,0,0,0,,Guess you haven't seen e
 Dialogue: 0,0:05:39.57,0:05:40.07,Default,Mahito,0,0,0,,Wait{\fscx180}—{\fscx}
 Dialogue: 0,0:06:01.76,0:06:03.22,Default,Mahito,0,0,0,,{\i1}What's going on here?
 Dialogue: 0,0:06:03.80,0:06:05.93,Default,Mahito,0,0,0,,{\i1}Even my soul was destroyed?
-Dialogue: 0,0:06:19.36,0:06:20.11,Default,Muta,0,0,0,,Tch!
 Dialogue: 0,0:06:20.11,0:06:22.49,Default,Muta,0,0,0,,Bird again? You've got zero creativity!
 Dialogue: 0,0:06:24.45,0:06:27.33,Default,Muta,0,0,0,,{\i1}The left arm I blew away has regenerated already?
 Dialogue: 0,0:06:28.24,0:06:33.62,Default,Muta,0,0,0,,{\i1}No, he's just manipulating the shape of his soul\N to make it look like it regenerated.
@@ -80,7 +79,6 @@ Dialogue: 0,0:06:55.35,0:06:57.52,Default,Geto,0,0,0,,He came prepared to deal w
 Dialogue: 0,0:06:58.11,0:07:01.28,Default,Geto,0,0,0,,At this rate, he might just... {Depending on how this goes, this could be the moment...} {what the absolute fuck did cr mean by this?}
 Dialogue: 0,0:07:07.62,0:07:08.91,Default,Muta,0,0,0,,Five-Year Charge!
 Dialogue: 0,0:07:15.50,0:07:18.04,Default,Muta,0,0,0,,Pigeon Viola!
-Comment: 0,0:07:49.91,0:07:50.78,Default,Mahito,0,0,0,,Tch!
 Dialogue: 0,0:08:03.88,0:08:07.22,Default,Mahito,0,0,0,,{\i1}I can't tell which of his attacks affect my soul.
 Dialogue: 0,0:08:07.22,0:08:10.01,Default,Mahito,0,0,0,,{\i1}Let's start with figuring that out.
 Dialogue: 0,0:08:29.32,0:08:30.45,Default,Muta,0,0,0,,I can do this!
@@ -174,7 +172,7 @@ Dialogue: 0,0:17:15.64,0:17:17.81,Default,Youth,0,0,0,,Are you blind?
 Dialogue: 0,0:17:30.74,0:17:32.20,Default,Youth,0,0,0,,What're you doing?
 Dialogue: 0,0:17:32.20,0:17:33.20,Default,Youth,0,0,0,,What a clown!
 Dialogue: 0,0:17:33.20,0:17:34.91,Default,Youth,0,0,0,,You drunk already?
-Dialogue: 0,0:17:34.91,0:17:36.24,Default,Youth,0,0,0,,It's too early for that!
+Dialogue: 0,0:17:34.91,0:17:36.24,Default,Youth,0,0,0,,Too early for that!
 Dialogue: 0,0:17:36.24,0:17:38.95,Default,Youth,0,0,0,,No, there's an invisible wall here! I swear!
 Dialogue: 0,0:18:07.27,0:18:10.40,Default,Ijichi,0,0,0,,{\an8}It's a Veil that traps only civilians inside.
 Dialogue: 0,0:18:10.40,0:18:12.28,Default,Ijichi,0,0,0,,{\an8}They can enter it but not leave.

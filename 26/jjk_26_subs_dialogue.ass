@@ -80,11 +80,10 @@ Dialogue: 0,0:02:36.84,0:02:39.22,Default,Announcer,0,0,0,,{\an8}Number 6, Haten
 Dialogue: 0,0:02:39.22,0:02:41.31,Default,Announcer,0,0,0,,{\an8}Number 1, Toguchi, finishes next!
 Dialogue: 0,0:02:41.31,0:02:43.48,Default,Announcer,0,0,0,,{\an8}Following them in third is Number 2, Matsuda.
 Dialogue: 0,0:02:43.48,0:02:45.27,Default,Announcer,0,0,0,,{\an8}In fourth is Number 4, Hanaoka.
-Dialogue: 0,0:02:45.27,0:02:47.11,Default,Announcer,0,0,0,,{\an8}In fifth is Number 3, Tanaka.
+Dialogue: 0,0:02:45.27,0:02:47.11,Default,Announcer,0,0,0,,{\an8}Fifth is Number 3, Tanaka.
 Dialogue: 0,0:02:47.11,0:02:49.32,Default,Announcer,0,0,0,,{\an8}In sixth is Number 5, Okazaki, finishing last!
 Dialogue: 0,0:02:49.32,0:02:53.74,Default,Announcer,0,0,0,,{\an8}Number 6, Hateno, has given us an\N amazing comeback in his very first race!
 Dialogue: 0,0:02:53.74,0:02:55.24,Default,Announcer,0,0,0,,{\an8}That was our third race of the day.
-Dialogue: 0,0:02:44.19,0:02:45.27,Default,Toji,0,0,0,,Tch!
 Dialogue: 0,0:02:45.27,0:02:48.52,Default,Kong,0,0,0,,You're not cut out for making easy money.
 Dialogue: 0,0:02:49.65,0:02:52.74,Default,Kong,0,0,0,,I'm counting on you, Sorcerer Killer.
 Dialogue: 0,0:02:54.15,0:02:55.24,Default,Kong,0,0,0,,Oh, right.
@@ -146,7 +145,6 @@ Dialogue: 0,0:07:10.49,0:07:11.62,Default,Gojo,0,0,0,,What?!
 Dialogue: 0,0:07:12.54,0:07:15.50,Default,Gojo,0,0,0,,Surely it'd be safer to head back \Nto Jujutsu Tech at once!
 Dialogue: 0,0:07:16.00,0:07:20.59,Default,Yaga,0,0,0,,As much as I want to do that,\N this is an order from {*}Master Tengen{*Tengen-sama}.
 Dialogue: 0,0:07:21.05,0:07:24.42,Default,Yaga,0,0,0,,He wants us to fulfill all of Amanai Riko's demands.
-Dialogue: 0,0:07:26.01,0:07:26.97,Default,Gojo,0,0,0,,Tch.
 Dialogue: 0,0:07:30.55,0:07:32.97,Default,Gojo,0,0,0,,They're spoiling her too much.
 Dialogue: 0,0:07:32.97,0:07:34.89,Default,Geto,0,0,0,,Don't be like that, Satoru.
 Dialogue: 0,0:07:34.89,0:07:38.48,Default,Geto,0,0,0,,Despite what she said,\N after assimilating with {*}Master Tengen{*Tengen-sama},
