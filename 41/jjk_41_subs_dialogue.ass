@@ -62,13 +62,13 @@ Dialogue: 0,0:02:14.20,0:02:16.70,Default,Fushiguro,0,0,140,,They're on bad term
 Dialogue: 0,0:02:16.70,0:02:19.37,Default,Gojo,0,0,140,,Sparks are {\i1}constantly{\i0} flying!
 Dialogue: 0,0:02:19.37,0:02:22.25,Default,Gojo,0,0,140,,Since the Edo Era? Or maybe Keicho?
 Dialogue: 0,0:02:22.25,0:02:23.87,Default,Gojo,0,0,140,,I forget when.
-Dialogue: 0,0:02:23.87,0:02:29.21,Default,Gojo,0,0,140,,The heads of the clans back then got serious\N during a duel before the aristocracy, {had a duel before the aristocracy} {spectated match}
+Dialogue: 0,0:02:23.87,0:02:29.21,Default,Gojo,0,0,140,,The heads of the clans back then \Ngot serious during a formal duel, {had a duel before the aristocracy} {spectated match}
 Dialogue: 0,0:02:29.21,0:02:30.88,Default,Gojo,0,0,140,,and they both died.
-Dialogue: 0,0:02:31.51,0:02:33.38,Default,Fushiguro,0,0,140,,Were the heads of those clans...
+Dialogue: 0,0:02:31.51,0:02:33.42,Default,Fushiguro,0,0,140,,What were those clan heads like?
 Dialogue: 0,0:02:34.05,0:02:39.14,Default,Gojo,0,0,140,,Just like me, one of them possessed \Nboth the Six Eyes and the Limitless technique.
-Dialogue: 0,0:02:39.14,0:02:43.14,Default,Gojo,0,0,140,,And coincidentally, the other had the same technique as you.
+Dialogue: 0,0:02:39.14,0:02:43.14,Default,Gojo,0,0,140,,And coincidentally,\N the other had the same technique as you.
 Dialogue: 0,0:02:45.06,0:02:46.94,Default,Fushiguro,0,0,140,,The Ten Shadows Technique.
-Dialogue: 0,0:02:49.57,0:02:52.61,Default,Gojo,0,0,140,,You see what I'm getting at?
+Dialogue: 0,0:02:49.57,0:02:52.61,Default,Gojo,0,0,140,,See what I'm getting at?
 Dialogue: 0,0:02:53.36,0:02:58.28,Default,Fushiguro,0,0,140,,{\i1}That doesn't mean I can become strong enough to beat you.
 Dialogue: 0,0:02:59.49,0:03:03.87,Default,Fushiguro,0,0,140,,{\i1}I bet the head of the clan back then\N used it in much the same way.
 Dialogue: 0,0:03:06.21,0:03:09.38,Default,Fushiguro,0,0,140,,With this sacred treasure, I summon...
@@ -85,8 +85,8 @@ Dialogue: 0,0:03:52.75,0:03:54.01,Default,Shigemo,0,0,140,,{\i1}He's starting th
 Dialogue: 0,0:03:54.01,0:03:58.18,Default,Shigemo,0,0,140,,{\i1}Forcing me to participate in the damn thing with him!
 Dialogue: 0,0:03:58.89,0:04:03.18,Default,Fushiguro,0,0,140,,Eight-Handled Sword\N Divergent Sila Divine General
 Dialogue: 0,0:04:04.06,0:04:05.22,Default,Fushiguro,0,0,140,,Mahoraga. {its insane how that's his whole name, no commas no colon in bw}
-Dialogue: 0,0:04:17.61,0:04:18.61,Default,Fushiguro,0,0,140,,{\an8\1a&H20&}See you later.
-Dialogue: 0,0:04:19.07,0:04:19.95,Default,Yuji,0,0,140,,{\an8\1a&H20&}Right!
+Dialogue: 0,0:04:17.61,0:04:18.61,Default,Fushiguro,0,0,140,,{\an8\i1\1a&H20&}See you later.
+Dialogue: 0,0:04:19.07,0:04:19.95,Default,Yuji,0,0,140,,{\an8\i1\1a&H20&}Right!
 Dialogue: 0,0:04:21.07,0:04:22.99,Default,Fushiguro,0,0,140,,{\i1}Sorry, Itadori.
 Dialogue: 0,0:04:23.95,0:04:25.95,Default,Fushiguro,0,0,140,,Hey, asshole! {let's call him what he is}
 Dialogue: 0,0:04:26.70,0:04:28.46,Default,Fushiguro,0,0,140,,Good luck dealing with this shit.
