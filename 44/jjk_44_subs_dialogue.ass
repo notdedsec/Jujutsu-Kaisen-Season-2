@@ -43,7 +43,7 @@ Dialogue: 0,0:00:34.76,0:00:35.60,Default,Both,0,0,0,,{\pos(300,1024)}You.
 Dialogue: 0,0:00:34.76,0:00:35.60,Default,Both,0,0,0,,{\pos(920,1024)}You.
 Dialogue: 0,0:00:37.31,0:00:39.14,Default,Yuji,0,0,0,,{\pos(960,1024)}You gotta dab it like this. Dab. Dab.
 Dialogue: 0,0:00:39.14,0:00:40.27,Default,Kugisaki,0,0,0,,{\pos(960,1024)}That's what I'm doing!
-Dialogue: 0,0:00:48.49,0:00:51.28,Default,Kugisaki,0,0,0,,You think it could pass for a Marimekko design?
+Dialogue: 0,0:00:48.49,0:00:51.28,Default,Kugisaki,0,0,0,,You think it could pass for a Marimekko?
 Dialogue: 0,0:00:51.28,0:00:52.95,Default,Fushiguro,0,0,0,,That would be an insult to fashion.
 Dialogue: 0,0:00:53.24,0:00:55.70,Default,Kugisaki,0,0,0,,C'mon, I'm sure it's cheap, anyway.
 Dialogue: 0,0:00:55.70,0:00:58.16,Default,Kugisaki,0,0,0,,Fushiguro, look up the brand on the label.
@@ -100,7 +100,7 @@ Dialogue: 0,0:06:59.82,0:07:05.11,Default,Todo,0,0,0,,we will fight to save our 
 Dialogue: 0,0:07:05.11,0:07:08.62,Default,Todo,0,0,0,,That is our goal now!
 Dialogue: 0,0:07:10.41,0:07:14.46,Default,Todo,0,0,0,,Let's hurry. Brother must be nearby.
 Dialogue: 0,0:07:15.67,0:07:17.63,Default,Arata,0,0,0,,{\i1}He's got a brother? {he got the accent}
-Dialogue: 0,0:07:17.63,0:07:20.50,Default,Arata,0,0,0,,{\i1}I could've sworn he was an only child.
+Dialogue: 0,0:07:17.63,0:07:20.50,Default,Arata,0,0,0,,{\i1}Could've sworn he was an only child.
 Dialogue: 0,0:07:24.13,0:07:25.88,Default,Mahito,0,0,0,,{\i1}What just happened?
 Dialogue: 0,0:07:26.80,0:07:28.26,Default,Mahito,0,0,0,,{\i1}That scar on his face!
 Dialogue: 0,0:07:28.59,0:07:30.76,Default,Mahito,0,0,0,,{\i1}We just switched places!
@@ -142,18 +142,18 @@ Dialogue: 0,0:09:44.40,0:09:47.07,Default,Todo,0,0,0,,This is not a matter of si
 Dialogue: 0,0:09:47.61,0:09:56.20,Default,Todo,0,0,0,,The moment we chose to become jujutsu sorcerers,\N our lives were no longer bound by such karma.
 Dialogue: 0,0:09:56.70,0:10:04.71,Default,Todo,0,0,0,,Attempting to find meaning in deaths of the fallen can,\N at times, defile the memories of those we've lost!
 Dialogue: 0,0:10:04.71,0:10:05.96,Default,Todo,0,0,0,,But ask yourself this:
-Dialogue: 0,0:10:08.13,0:10:10.71,Default,Todo,0,0,0,,What have you been entrusted with?
+Dialogue: 0,0:10:08.13,0:10:10.71,Default,Todo,0,0,0,,What have you been entrusted with? {What have they entrusted you with?}
 Dialogue: 0,0:10:14.64,0:10:17.60,Default,Todo,0,0,0,,There's no need to find your answer right now.
 Dialogue: 0,0:10:17.97,0:10:22.48,Default,Todo,0,0,0,,But until you do, you cannot stop moving. {we have a strict no-meme policy}
 Dialogue: 0,0:10:23.23,0:10:28.48,Default,Todo,0,0,0,,{\an8}That is the one punishment \Nimposed on those who live as jujutsu sorcerers.
-Dialogue: 0,0:10:30.57,0:10:34.86,Default,Todo,0,0,0,,{\i1}Now is not the time to tell Brother about {\i0}that{\i1}. {about what?} {no really what's he talking about?}
+Dialogue: 0,0:10:30.57,0:10:34.86,Default,Todo,0,0,0,,{\i1}Now is not the time to tell Brother about {\i0}that{\i1}. {about what?} {no really what's he talking about?} {oh he's talking about geto escaping with the prison realm}
 Dialogue: 0,0:10:43.16,0:10:45.21,Default,Arata,0,0,0,,I've applied my technique to you.
 Dialogue: 0,0:10:45.62,0:10:47.42,Default,Arata,0,0,0,,Now, listen up, Itadori{**-kun}.
 Dialogue: 0,0:10:48.09,0:10:51.80,Default,Arata,0,0,0,,The injuries you've sustained so far\N won't get any worse.
 Dialogue: 0,0:10:52.38,0:10:56.72,Default,Arata,0,0,0,,They aren't healed, but the bleeding has stopped\N and it should take the edge off the pain.
 Dialogue: 0,0:10:56.72,0:10:59.43,Default,Arata,0,0,0,,But that only applies to your {\i1}current{\i0} injuries.
 Dialogue: 0,0:10:59.81,0:11:05.98,Default,Arata,0,0,0,,If you get hit again, you'll be further wounded,\N and my technique won't apply to those.
-Dialogue: 0,0:11:06.35,0:11:09.06,Default,Arata,0,0,0,,{\i1}Todo{**-san}'s little brother doesn't look like him at all.
+Dialogue: 0,0:11:06.35,0:11:09.06,Default,Arata,0,0,0,,{\i1}Todo{**-san}'s little brother looks nothing like him.
 Dialogue: 0,0:11:09.86,0:11:12.65,Default,Arata,0,0,0,,I gave the same treatment to the girl over there.
 Dialogue: 0,0:11:14.45,0:11:18.45,Default,Arata,0,0,0,,She has no pulse and isn't breathing,\N but it hasn't been very long.
 Dialogue: 0,0:11:18.45,0:11:20.91,Default,Arata,0,0,0,,Her chances of survival aren't zero.
@@ -205,7 +205,7 @@ Dialogue: 0,0:15:31.74,0:15:34.62,Default,Mechamaru,0,0,0,,I went about it the w
 Dialogue: 0,0:15:34.62,0:15:39.13,Default,Mechamaru,0,0,0,,I couldn't even see that mistake through\N because I was weak.
 Dialogue: 0,0:15:45.63,0:15:48.01,Default,Mechamaru,0,0,0,,There was this girl I loved.
 Dialogue: 0,0:15:48.51,0:15:53.64,Default,Mechamaru,0,0,0,,I didn't care if the world was upended\N as long as I could be at her side and protect her. {SO THAT'S WHERE THE IDC LINE IN E34 CAME FROM}
-Dialogue: 0,0:15:59.19,0:16:05.07,Default,Mechamaru,0,0,0,,Even if she didn't want me to be\N the one protecting her.
+Dialogue: 0,0:15:59.19,0:16:05.07,Default,Mechamaru,0,0,0,,I never found out if she even wanted me \Nto be the one protecting her.
 Dialogue: 0,0:16:21.54,0:16:23.30,Default,Mechamaru,0,0,0,,Time's up, Miwa.
 Dialogue: 0,0:16:23.30,0:16:24.80,Default,Miwa,0,0,0,,No!
 Dialogue: 0,0:16:24.80,0:16:26.63,Default,Mechamaru,0,0,0,,Goodbye.
