@@ -338,7 +338,7 @@ Dialogue: 0,0:20:34.09,0:20:35.46,Default,Mahito,0,0,0,,{\i1}The cockpit...
 Dialogue: 0,0:20:36.13,0:20:39.05,Default,Mahito,0,0,0,,{\i1\fad(0,180)}The seat of his soul... is the head!
 Dialogue: 0,0:20:39.72,0:20:41.18,Default,SystemVoice,0,0,0,,Amplification functions normal.
 Dialogue: 0,0:20:41.18,0:20:43.01,Default,SystemVoice,0,0,0,,Sensory feedback blocked.
-Dialogue: 0,0:20:43.01,0:20:45.56,Default,Muta,0,0,0,,Tch. They deployed a Veil.
+Dialogue: 0,0:20:43.93,0:20:45.56,Default,Muta,0,0,0,,They deployed a Veil.
 Dialogue: 0,0:20:45.56,0:20:46.89,Default,Muta,0,0,0,,Must be Geto.
 Dialogue: 0,0:20:47.85,0:20:52.02,Default,Muta,0,0,0,,It's not just trapping me inside. It's cutting off signal, too.
 Dialogue: 0,0:20:53.27,0:20:56.03,Default,Muta,0,0,0,,This won't go as smoothly\N as it would have with Gojo Satoru.
@@ -349,7 +349,7 @@ Dialogue: 0,0:21:06.87,0:21:08.50,Default,Muta,0,0,0,,{\i1}and have him rescue m
 Dialogue: 0,0:21:09.04,0:21:12.67,Default,Muta,0,0,0,,{\i1}As much as I would like to focus on Geto,\N the one who deployed this Veil,
 Dialogue: 0,0:21:12.67,0:21:14.75,Default,Muta,0,0,0,,{\i1}Mahito is too dangerous to ignore.
 Dialogue: 0,0:21:15.30,0:21:17.26,Default,Muta,0,0,0,,{\i1}I'll have to exorcise him first.
-Dialogue: 0,0:21:19.97,0:21:22.22,Default,Geto,0,0,0,,{\i1}Go ahead, don't mind me.
+Dialogue: 0,0:21:19.97,0:21:22.22,Default,Geto,0,0,0,,Go ahead, don't mind me.
 Dialogue: 0,0:21:23.80,0:21:25.47,Default,Muta,0,0,0,,{\i1}I'm still at a disadvantage,
 Dialogue: 0,0:21:25.85,0:21:28.35,Default,Muta,0,0,0,,{\i1}but I have a shot.
 Dialogue: 0,0:21:34.81,0:21:36.57,Default,Muta,0,0,0,,{\i1}I have seen it all.
