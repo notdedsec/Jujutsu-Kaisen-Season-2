@@ -34,10 +34,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:24.31,0:01:27.82,<<folder>>,,0,0,0,,{=0}- Q
 Dialogue: 0,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an7\pos(424,751)\fscy105\fnCivane Norm Regular\fs60\c&H000000&\alpha&HFE&\blur6\t(0,984,0.8,\alpha&H00&)}With the strongest combatant Bayer defeated,
 Dialogue: 0,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an4\pos(424,861)\fscy105\fnCivane Norm Regular\fs60\c&H000000&\alpha&HFE&\blur6\t(0,984,0.8,\alpha&H00&)}the organization falls apart.
-Dialogue: 1,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an7\pos(424,751)\fscy105\fnCivane Norm Regular\fs60\alpha&HFE&\t(0,984,0.8,\alpha&H00&)}With the strongest combatant Bayer defeated,
-Dialogue: 1,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an4\pos(424,861)\fscy105\fnCivane Norm Regular\fs60\alpha&HFE&\t(0,984,0.8,\alpha&H00&)}the organization falls apart.
-Dialogue: 1,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an7\pos(424,751)\fscy105\fnCivane Norm Regular\fs60\alpha&HFE&\t(0,984,0.8,\alpha&H7F&)}With the strongest combatant Bayer defeated,
-Dialogue: 1,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an4\pos(424,861)\fscy105\fnCivane Norm Regular\fs60\alpha&HFE&\t(0,984,0.8,\alpha&H7F&)}the organization falls apart.
+Dialogue: 1,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an7\pos(424,751)\fscy105\fnCivane Norm Regular\fs60\alpha&HFE&\t(0,984,0.8,\alpha&H00&)\blur0.4}With the strongest combatant Bayer defeated,
+Dialogue: 1,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an4\pos(424,861)\fscy105\fnCivane Norm Regular\fs60\alpha&HFE&\t(0,984,0.8,\alpha&H00&)\blur0.4}the organization falls apart.
+Dialogue: 1,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an7\pos(424,751)\fscy105\fnCivane Norm Regular\fs60\alpha&HFE&\t(0,984,0.8,\alpha&H7F&)\blur0.4}With the strongest combatant Bayer defeated,
+Dialogue: 1,0:01:24.31,0:01:27.82,Signs,Screen,0,0,0,,{\an4\pos(424,861)\fscy105\fnCivane Norm Regular\fs60\alpha&HFE&\t(0,984,0.8,\alpha&H7F&)\blur0.4}the organization falls apart.
 Dialogue: 0,0:01:27.78,0:01:27.82,<<folder>>,,0,0,0,,{=1}
 Dialogue: 0,0:05:41.20,0:05:41.24,<<folder>>,,0,0,0,,{=2}- Grind
 Dialogue: 0,0:05:41.28,0:05:41.32,Signs,Screen,0,0,0,,{\pos(1060.07,10.19)\fscx174.49\fscy164.79\frz0.19\fnBarthowheel\fs86\fsp-2\b1\c&H7A63DB&\blur6.5}Grind
@@ -1173,7 +1173,7 @@ Dialogue: 3,0:10:54.34,0:10:55.84,Signs,,0,0,0,,{\an5\blur0.5\fnTnS-FOT-DNP Shue
 Dialogue: 3,0:10:54.34,0:10:55.84,Signs,box,0,0,0,,{\an7\blur0.5\c&H3B3E3C&\pos(327.15,55.44)\p1}m 35 9.5 l -35 9.5 -35 -9.5 35 -9.5 m -33.3 -7.85 l -33.3 7.85 33.3 7.85 33.3 -7.85
 Dialogue: 4,0:10:54.34,0:10:55.84,Signs,,0,0,0,,{\an4\blur0.5\fnTnS-FOT-DNP ShueiMGoStd\fs26\fscy110\c&HBCC0C2&\3c&H3B3E3C&\pos(296.88,123.5)\i1}1\N2\N3
 Dialogue: 3,0:10:54.34,0:10:55.84,Signs,,0,0,0,,{\an4\blur0.5\bord1\fnTnS-FOT-DNP ShueiMGoStd\fs26\fscy110\c&H3B3E3C&\3c&H3B3E3C&\pos(296.88,124.84)\i1}1\N2\N3
-Dialogue: 3,0:10:54.34,0:10:55.84,Signs,,0,0,0,,{\an7\blur0.4\fnTnS-FOT-DNP ShueiMGoStd\fs22\fsp0.1\c&H3B3E3C&\pos(325,84.7)}Kouno Minoru{\fs14}\N\N{\fs22}Nomiya Yuuichi{\fs14}\N\N{\fs22}Funaki Osamu
+Dialogue: 3,0:10:54.34,0:10:55.84,Signs,,0,0,0,,{\an7\blur0.4\fnTnS-FOT-DNP ShueiMGoStd\fs22\fsp0.1\c&H3B3E3C&\pos(325,84.7)}Kawano Minoru{\fs14}\N\N{\fs22}Nomiya Yuuichi{\fs14}\N\N{\fs22}Funaki Osamu
 Dialogue: 3,0:10:54.34,0:10:55.84,Signs,,0,0,0,,{\an4\blur0.4\fnTnS-FOT-DNP ShueiMGoStd\fs21\c&H3B3E3C&\pos(315,185.42)}Combinations{\fsp25}\h{\shad0.01\fnAtlantix SSi\fsp\4c&H3B3E3C&\b1}6
 Dialogue: 3,0:10:54.34,0:10:55.84,Signs,,0,0,0,,{\an6\blur0.4\fnTnS-FOT-DNP ShueiMGoStd\fs21\c&H3B3E3C&\pos(483,208.64)}Each Bet{\fsp25}\h{\shad0.01\fnAtlantix SSi\fsp\4c&H3B3E3C&\b1}50{\fscx40\fscy40},{\fscx\fscy}000{\shad0\fnTnS-FOT-DNP ShueiMGoStd\fscx\fscy\b0} Yen
 Dialogue: 3,0:10:54.34,0:10:55.84,Signs,,0,0,0,,{\an6\blur0.4\fnTnS-FOT-DNP ShueiMGoStd\fs21\c&H3B3E3C&\pos(483,231.86)}Total{\fsp25}\h{\shad0.01\fnAtlantix SSi\fsp\4c&H3B3E3C&\b1}500{\shad0\fnTnS-FOT-DNP ShueiMGoStd\fscx\fscy\b0} Units\h{\fsp21.5}\h{\shad0.01\fnAtlantix SSi\fsp\4c&H3B3E3C&\b1}500{\fscx40\fscy40},{\fscx\fscy}000{\shad0\fnTnS-FOT-DNP ShueiMGoStd\fscx\fscy\b0} Yen
@@ -1304,3 +1304,5 @@ Data: 52,_aegi_folddata,e0;1;10
 Data: 53,_aegi_folddata,e1;1;10
 Data: 54,_aegi_folddata,e0;1;11
 Data: 55,_aegi_folddata,e1;1;11
+Data: 56,_aegi_folddata,e0;0;1
+Data: 57,_aegi_folddata,e1;0;1
