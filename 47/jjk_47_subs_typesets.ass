@@ -281,8 +281,8 @@ Dialogue: 0,0:20:08.44,0:20:08.48,<<folder>>,,0,0,0,,
 Dialogue: 0,0:20:08.44,0:20:17.95,Signs,,0,0,0,,{\an8\blur0.5\fnRagnar\fs88\c&HE4E4E4&\pos(390,380)\fscy96}3.
 Dialogue: 0,0:20:08.44,0:20:17.95,Signs,,0,0,0,,{\an7\blur0.5\fnRagnar\fs88\c&HE4E4E4&\pos(460,380)\fscy96}Yaga Masamichi is sentenced to death{\fs44}\N\N{\fs88}for instigating Gojo Satoru and Geto Suguru,{\fs44}\N\N{\fs88}which led to the Shibuya Incident.
 Dialogue: 0,0:20:17.95,0:20:17.99,<<folder>>,,0,0,0,,
-Dialogue: 0,0:20:17.95,0:20:25.45,Signs,,0,0,0,,{\an8\blur0.5\fnRagnar\fs88\c&HE4E4E4&\pos(185,425)\fscy96}4.
-Dialogue: 0,0:20:17.95,0:20:25.45,Signs,,0,0,0,,{\an7\blur0.5\fnRagnar\fs88\c&HE4E4E4&\pos(255,425)\fscy96}The suspension on Itadori Yuji's death sentence{\fs44}\N\N{\fs88} is hereby revoked and his execution{\fs44}\N\N{\fs88} shall be carried out promptly.
+Dialogue: 0,0:20:17.95,0:20:25.45,Signs,,0,0,0,,{\an8\blur0.5\fnRagnar\fs88\c&HE4E4E4&\pos(185,408)\fscy96}4.
+Dialogue: 0,0:20:17.95,0:20:25.45,Signs,,0,0,0,,{\an7\blur0.5\fnRagnar\fs88\c&HE4E4E4&\pos(255,408)\fscy96}The suspension on Itadori Yuji's death sentence{\fs44}\N\N{\fs88} is hereby revoked and his execution{\fs44}\N\N{\fs88} shall be carried out promptly.
 Dialogue: 0,0:20:25.45,0:20:25.50,<<folder>>,,0,0,0,,
 Dialogue: 0,0:20:25.45,0:20:32.96,Signs,,0,0,0,,{\c&H000000&\p1\b1}m 0 0 l 1920 0 l 1920 1080 l 0 1080
 Dialogue: 1,0:20:25.45,0:20:32.96,Signs,,0,0,0,,{\an8\fnRagnar\fs88\c&HE4E4E4&\pos(277.5,448)\fscy96}5.
