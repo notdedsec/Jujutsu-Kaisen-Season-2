@@ -85,7 +85,7 @@ Dialogue: 0,0:15:36.04,0:15:36.08,<<folder>>,,0,0,0,,
 Dialogue: 0,0:15:49.85,0:15:49.89,<<folder>>,,0,0,0,,- Meiji-jingumae B4F
 Dialogue: 0,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\blur0.6\c&HF2F6F7&\pos(279.5,978.5)\b1\p1}m 0 0 l 270 0 270 95 0 95
 Dialogue: 1,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\blur0.6\c&HF2F6F7&\pos(1171.5,978.5)\b1\p1}m 0 0 l 1305 0 1305 95 0 95
-Dialogue: 3,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(279.5,978.5)}20:15
+Dialogue: 3,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs77\c&H000000&\pos(279.5,978.5)}21:15
 Dialogue: 3,0:15:49.85,0:15:52.35,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs77\fscx101\c&H000000&\pos(1172.5,978.5)}Tokyo Metro, Meiji-jingumae Station, B4F
 Dialogue: 0,0:15:52.31,0:15:52.35,<<folder>>,,0,0,0,,{=33}
 Dialogue: 0,0:01:24.94,0:01:24.98,<<folder>>,,0,0,0,,{=38}- Some Ordinary Guy
