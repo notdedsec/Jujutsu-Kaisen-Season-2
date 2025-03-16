@@ -177,10 +177,10 @@ Dialogue: 0,0:11:34.92,0:11:36.01,Default,Kugisaki,0,0,0,,{\i1}How did it get he
 Dialogue: 0,0:11:42.77,0:11:44.22,Default,Shigemo,0,0,0,,Whoops! You missed!
 Dialogue: 0,0:11:44.98,0:11:45.98,Default,Kugisaki,0,0,0,,Hairpin!
 Dialogue: 0,0:12:02.24,0:12:03.20,Default,Kugisaki,0,0,0,,Nitta{**-chan}!
-Dialogue: 0,0:12:22.72,0:12:27.23,Default,Shigemo,0,0,0,,{\blur1\c&H000000&\1a&H20&\bord4}Oh boy, you really are a dangerous one!
-Dialogue: 1,0:12:22.72,0:12:27.23,Default,Shigemo,0,0,0,,{\blur1\bord0\shad0\c&HE457FF&\pos(959,1020)\1a&H40&}Oh boy, you really are a dangerous one!
-Dialogue: 2,0:12:22.72,0:12:27.23,Default,Shigemo,0,0,0,,{\blur1\bord0\shad0\c&H69FF91&\pos(961,1020)\1a&H40&}Oh boy, you really are a dangerous one!
-Dialogue: 3,0:12:22.72,0:12:27.23,Default,Shigemo,0,0,0,,{\blur1\bord0\shad0\c&HF0F0F0&}Oh boy, you really are a dangerous one!
+Dialogue: 0,0:12:22.72,0:12:27.23,Default,Shigemo,0,0,0,,{\blur1\c&H000000&\1a&H20&\bord4.4}Oh boy, you're a real dangerous one!
+Dialogue: 1,0:12:22.72,0:12:27.23,Default,Shigemo,0,0,0,,{\blur1\bord0\shad0\c&HE457FF&\pos(959,1020)\1a&H40&}Oh boy, you're a real dangerous one!
+Dialogue: 2,0:12:22.72,0:12:27.23,Default,Shigemo,0,0,0,,{\blur1\bord0\shad0\c&H69FF91&\pos(961,1020)\1a&H40&}Oh boy, you're a real dangerous one!
+Dialogue: 3,0:12:22.72,0:12:27.23,Default,Shigemo,0,0,0,,{\blur1\bord0\shad0\c&HF0F0F0&}Oh boy, you're a real dangerous one!
 Dialogue: 0,0:12:27.64,0:12:30.23,Default,Shigemo,0,0,0,,Oh, did it hit your chin?
 Dialogue: 0,0:12:30.23,0:12:31.73,Default,Shigemo,0,0,0,,Can't stand?
 Dialogue: 0,0:12:31.73,0:12:33.98,Default,Shigemo,0,0,0,,Hey, can you stand?
@@ -222,7 +222,6 @@ Dialogue: 0,0:15:36.42,0:15:38.00,Default,Kugisaki,0,0,0,,{\i1}{*}Mr. Nanami{*Na
 Dialogue: 0,0:15:46.13,0:15:48.64,Default,Shigemo,0,0,0,,Come on now, read the room! {look around you}
 Dialogue: 0,0:15:48.64,0:15:50.76,Default,Shigemo,0,0,0,,Why are you strutting this way?
 Dialogue: 0,0:15:50.76,0:15:53.85,Default,Shigemo,0,0,0,,Can't you see I've got this girl hostage?!
-Comment: 0,0:15:56.44,0:15:57.44,Default,Shigemo,0,0,0,,Huh?
 Dialogue: 0,0:15:57.90,0:15:58.94,Default,Shigemo,0,0,0,,No!
 Dialogue: 0,0:15:58.94,0:16:00.44,Default,Shigemo,0,0,0,,She ran away.
 Dialogue: 0,0:16:04.23,0:16:07.95,Default,Nanami,0,0,0,,How many allies do you have and where?
@@ -249,7 +248,7 @@ Dialogue: 0,0:18:41.56,0:18:44.73,Default,Geto,0,0,0,,It's been a while, {*}Miss
 Dialogue: 0,0:18:45.69,0:18:50.36,Default,Mei,0,0,0,,Quite the thing to say after sending \Nassassins after me, Geto{**-kun}. {was there just one assassin?}
 Dialogue: 0,0:18:50.86,0:18:52.69,Default,Mei,0,0,0,,{\i1}How is he still alive?
 Dialogue: 0,0:18:52.69,0:18:54.86,Default,Mei,0,0,0,,{\i1}Did Gojo{**-kun} mess up last year?
-Dialogue: 0,0:18:55.66,0:19:00.29,Default,Mei,0,0,0,,{\i1}Were Gojo{-kun} and Geto{**-kun} in on \Nthis whole commotion together?
+Dialogue: 0,0:18:55.66,0:19:00.29,Default,Mei,0,0,0,,{\i1}Were Gojo{**-kun} and Geto{**-kun} in on \Nthis whole commotion together?
 Dialogue: 0,0:19:01.16,0:19:02.70,Default,Mei,0,0,0,,{\i1}No, definitely not.
 Dialogue: 0,0:19:02.70,0:19:07.38,Default,Mei,0,0,0,,{\i1}Gojo{**-kun} could kill every human in this country all by himself.
 Dialogue: 0,0:19:07.38,0:19:11.84,Default,Mei,0,0,0,,{\i1}He doesn't need anyone's help or any petty tricks.
