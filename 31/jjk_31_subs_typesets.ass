@@ -1146,7 +1146,7 @@ Dialogue: 1,0:15:46.38,0:15:49.26,Signs,TVTop,0,0,0,,{\pos(1263.63,458.85)\frz34
 Dialogue: 0,0:15:46.38,0:15:46.43,<<folder>>,,0,0,0,,
 Dialogue: 0,0:15:46.38,0:15:49.26,Signs,ScrollingText,0,0,0,,{\pos(960,960)\p1\c&HF0F0F0&\blur2\clip(m 300 912 l 1620 912 1620 1008 300 1008)\b1}m 0 0 l 1300 0 1300 100 0 100
 Dialogue: 1,0:15:46.38,0:15:49.26,Signs,ScrollingText,0,0,0,,{\pos(960,960)\p1\c&H1C0D0B&\blur2\b1}m 0 0 l 1300 0 1300 100 0 100
-Dialogue: 3,0:15:46.38,0:15:49.26,Signs,ScrollingText,0,0,0,,{\fnFOT-NewRodin ProN B\b1\fscy110\c&HF0F0F0&\blur0.8\clip(310,910,1610,1010)\move(1204,960,740,960,24,2860)}November {\fsp-6}1{\fsp}, Heisei 30:  [Hokkaido] Sunny, Partly Cloudy, [Aomori] Rain, [Miyagi]
+Dialogue: 3,0:15:46.38,0:15:49.26,Signs,ScrollingText,0,0,0,,{\fnFOT-NewRodin ProN B\b1\fscy110\c&HF0F0F0&\blur0.8\clip(310,910,1610,1010)\move(1204,960,740,960,24,2860)}November {\fsp-6}1{\fsp}, 2018   Hokkaido: Sunny with some clouds, Aomori: Rainy, Miyagi:
 Dialogue: 0,0:15:49.22,0:15:49.26,<<folder>>,,0,0,0,,{nah i give up} {i never give up... except for when i eventually do}
 Dialogue: 0,0:15:55.02,0:15:55.06,<<folder>>,,0,0,0,,- sibuyasutation
 Dialogue: 1,0:15:55.02,0:15:57.90,Signs,,0,0,0,,{\an7\blur0.8\fscx100\fscy100\c&HB7AB93&\pos(0,1)\p1\b1}m 525.94 399.78 l 524.77 397.63 523.8 393.33 524.97 383.76 544.3 385.71 543.33 391.18 543.91 394.11 544.69 398.8 545.47 401.92 541.37 402.31 534.93 401.92 533.95 399.97 529.85 401.53 524.77 400.36
@@ -1235,10 +1235,10 @@ Dialogue: 3,0:20:06.81,0:20:12.69,Signs,Screen,0,0,0,,{\an6\blur0.6\fnAribau Gro
 Dialogue: 3,0:20:06.81,0:20:12.69,Signs,Screen,0,0,0,,{\an6\blur0.6\fnAribau Grotesk\fs70\fsp-0.4\fscx96\c&H000000&\pos(1790,977.75)}Tokyo Jujutsu Tech, Second-Year Supervisor
 Dialogue: 0,0:20:12.65,0:20:12.69,<<folder>>,,0,0,0,,
 Dialogue: 0,0:20:20.66,0:20:20.70,<<folder>>,,0,0,0,,- Team Kusakabe
-Dialogue: 0,0:20:20.66,0:20:26.66,Signs,Screen,0,0,0,,{\blur0.6\c&HF0F9F9&\pos(307.5,899.7)\b1\p1}m 0 0 l 345 0 345 77 0 77
+Dialogue: 0,0:20:20.66,0:20:26.66,Signs,Screen,0,0,0,,{\blur0.6\c&HF0F9F9&\pos(307.5,897.7)\b1\p1}m 0 0 l 345 0 345 77 0 77
 Dialogue: 0,0:20:20.66,0:20:26.66,Signs,Screen,0,0,0,,{\an7\blur0.6\c&HF0F9F9&\pos(542,859.2)\b1\p1}m 0 0 l 800 0 800 77 0 77
 Dialogue: 0,0:20:20.66,0:20:26.66,Signs,Screen,0,0,0,,{\an7\blur0.6\c&HF0F9F9&\pos(542,949.1)\b1\p1}m 0 0 l 1285 0 1285 77 0 77
-Dialogue: 3,0:20:20.66,0:20:26.66,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs58\fsp-0.75\fscx96\c&H000000&\pos(307.5,898.7)}Team Kusakabe
+Dialogue: 3,0:20:20.66,0:20:26.66,Signs,Screen,0,0,0,,{\blur0.6\fnAribau Grotesk\fs58\fsp-0.75\fscx96\c&H000000&\pos(307.5,896.7)}Team Kusakabe
 Dialogue: 3,0:20:20.66,0:20:26.66,Signs,Screen,0,0,0,,{\an4\blur0.6\fnAribau Grotesk\fs58\fsp-0.8\fscx95\c&H000000&\pos(563.5,898.7)}Kusakabe Atsuya, First-Grade Sorcerer
 Dialogue: 3,0:20:20.66,0:20:26.66,Signs,Screen,0,0,0,,{\an4\blur0.6\fnAribau Grotesk\fs58\fsp-0.75\fscx95\c&H000000&\pos(563.1,988.6)}Panda, Second-Grade Sorcerer (Promotion Evaluation On Hold)
 Dialogue: 0,0:20:26.62,0:20:26.66,<<folder>>,,0,0,0,,
