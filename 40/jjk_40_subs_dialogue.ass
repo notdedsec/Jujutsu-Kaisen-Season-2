@@ -177,8 +177,8 @@ Dialogue: 0,0:13:23.12,0:13:27.54,Default,Sukuna,0,0,140,,For starters, how abou
 Dialogue: 0,0:13:28.04,0:13:30.12,Default,Sukuna,0,0,0,,All except for one, that is. {this one remains higher since it's part of the same convo} {too distracting}
 Dialogue: 0,0:13:30.12,0:13:33.50,Default,Sukuna,0,0,0,,Is that all you've got, cursed spirit?!
 Dialogue: 0,0:13:32.12,0:13:33.50,Alt,Jogo,0,0,0,,I'm only getting started! {better than not yet and well he is in fact just getting started}
-Dialogue: 0,0:14:12.21,0:14:17.09,Default,Jogo,0,0,0,,Geto, how strong am I in terms of Sukuna's fingers?
-Dialogue: 0,0:14:17.09,0:14:20.59,Default,Geto,0,0,0,,Being generous, I'd say about eight or nine?
+Dialogue: 0,0:14:12.21,0:14:17.09,Default,Jogo,0,0,0,,{\i1}Geto, how strong am I in terms of Sukuna's fingers?
+Dialogue: 0,0:14:17.09,0:14:20.59,Default,Geto,0,0,0,,{\i1}Being generous, I'd say about eight or nine?
 Dialogue: 0,0:14:28.39,0:14:29.81,Default,Jogo,0,0,0,,{\i1}I knew it.
 Dialogue: 0,0:14:30.52,0:14:32.89,Default,Jogo,0,0,0,,{\i1}I knew it from the beginning.
 Dialogue: 0,0:15:17.77,0:15:21.15,Default,Jogo,0,0,0,,{\i1}I knew there would be a difference in strength.
@@ -249,7 +249,7 @@ Dialogue: 0,0:20:43.68,0:20:49.19,Default,Sukuna,0,0,0,,That hunger to seize you
 Dialogue: 0,0:20:50.60,0:20:54.19,Default,Jogo,0,0,0,,Perhaps you're right.
 Dialogue: 0,0:20:55.36,0:20:59.20,Default,Sukuna,0,0,0,,Still, you managed to entertain me a bit.
 Dialogue: 0,0:21:01.07,0:21:04.33,Default,Sukuna,0,0,0,,Among all the humans, sorcerers, and cursed spirits,
-Dialogue: 0,0:21:04.33,0:21:08.21,Default,Sukuna,0,0,0,,you were still one of the better ones \NI fought a thousand years ago.
+Dialogue: 0,0:21:04.33,0:21:08.21,Default,Sukuna,0,0,0,,you were one of the better ones I fought a thousand years ago.
 Dialogue: 0,0:21:09.37,0:21:10.83,Default,Sukuna,0,0,0,,Stand proud.
 Dialogue: 0,0:21:11.92,0:21:14.34,Default,Sukuna,0,0,0,,You are strong.
 Dialogue: 0,0:21:18.84,0:21:21.72,Default,Jogo,0,0,0,,What is this?
@@ -266,7 +266,7 @@ Comment: 0,0:22:10.02,0:22:10.06,Default,chptr,0,0,0,,{Ending}
 Comment: 0,0:23:40.02,0:23:40.07,Default,chptr,0,0,0,,{Preview}
 Dialogue: 0,0:23:40.65,0:23:43.82,Default,Yuji,0,0,0,,{\an8}I saw a bunch of Mentos and cola \Nvideos online, but is it legit? {Mentos and cola is all over the Internet\N these days, but is it legit?} {Mentos and cola videos have been \Nall over the Internet lately, but is it legit?} {Lately I see the Internet talking about Mentos and soda, but is it really true?}
 Dialogue: 0,0:23:43.82,0:23:44.40,Default,Kugisaki,0,0,0,,{\an8}Why do you ask?
-Dialogue: 0,0:23:44.40,0:23:48.03,Default,Yuji,0,0,0,,{\an8}Pretty sure I happened to eat a Mentos \Nwhile drinking cola at least once when I was a kid.
+Dialogue: 0,0:23:44.40,0:23:48.03,Default,Yuji,0,0,0,,{\an8}Pretty sure I happened to eat a Mentos \Nwith cola at least once as a kid.
 Dialogue: 0,0:23:48.03,0:23:50.41,Default,Yuji,0,0,0,,{\an8}The fact that I don't even remember it \Nmeans those videos must be fake!
 Dialogue: 0,0:23:50.41,0:23:51.24,Default,Kugisaki,0,0,0,,{\an8}Alright! Eat this!
 Dialogue: 0,0:23:51.24,0:23:52.41,Default,Yuji,0,0,0,,{\an8}Next time, Thunderclap, Part 2.
